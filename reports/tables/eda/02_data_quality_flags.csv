@@ -1,0 +1,4 @@
+issue_type,company,listing_date,detail
+first_day_open_return_near_-1,Udayshivakumar Infra Ltd.,2023-04-03,"first_day_open_return=-1.0000, listing_open=0.0, issue_price=35.0"
+listing_open_outside_high_low,Udayshivakumar Infra Ltd.,2023-04-03,"open=0.0, high=31.5, low=29.15"
+nonpositive_listing_open,Udayshivakumar Infra Ltd.,2023-04-03,"listing_open=0.0, listing_close=31.5, issue_price=35.0"
