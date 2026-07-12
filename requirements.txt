@@ -1,0 +1,35 @@
+# ============================================================
+# Hritik Thesis - Dependencies
+# ============================================================
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# --- Core ---
+pandas
+numpy
+openpyxl                # reading Ghosh .xlsx file
+
+# --- Data Collection (already done, but keeping for reproducibility) ---
+playwright
+requests
+yfinance
+certifi                 # SSL fix for macOS
+
+# --- PDF Reading & LLM Extraction ---
+pymupdf                 # PDF text extraction (import as fitz)
+pydantic                # schema validation for LLM outputs
+instructor              # structured LLM output enforcement
+anthropic               # Anthropic API (or use openai if using GPT)
+
+# --- Modeling ---
+scikit-learn
+xgboost
+shap                    # model interpretation
+
+# --- Visualization ---
+matplotlib
+seaborn
+
+# --- Utilities ---
+tqdm     
+scipy               # progress bars

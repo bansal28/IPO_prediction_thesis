@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.log
+*.zip
+data/prospectus_pdfs/
+data/raw/ghosh_mainboard_v18.xlsx
+data/raw/checkpoint.json
+*.checkpoint.json
