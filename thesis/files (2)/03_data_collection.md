@@ -21,10 +21,11 @@ dataset used in this dissertation.
 | SEBI DRHP/RHP prospectuses | sebi.gov.in | 416 verified PDF files | Risk-factor text for LLM extraction (Chapter 7) |
 | Ghosh et al. cross-validation set | supplementary to arXiv:2412.16174 | 418 IPO rows × 217 columns | Third-party cross-check of issue price and other numeric fields |
 
-The final cleaned dataset contains 419 mainboard equity IPOs after removal of
-Real Estate Investment Trusts (REITs), Infrastructure Investment Trusts
-(InvITs), and similar non-equity vehicles; the derivation of this figure is
-described in Chapter 4.
+The final cleaned dataset contains 416 mainboard equity IPOs after removal
+of Real Estate Investment Trusts (REITs), Infrastructure Investment Trusts
+(InvITs), and similar non-equity vehicles, plus a further exclusion of three
+Follow-on Public Offers (FPOs) mis-categorised in the Chittorgarh tracker as
+IPOs; the derivation of this figure is described in Chapter 4.
 
 ## 3.2 Chittorgarh yearly IPO trackers
 
@@ -84,7 +85,10 @@ OHLC on the primary exchange.
 **Coverage of critical fields.** Of the 434 IPO detail rows, 434 have a valid
 `listing_close`; 419 have a valid `issue_price`. The 15 IPOs missing an
 `issue_price` are the REITs, InvITs, and similar non-equity vehicles that are
-excluded during data cleaning (Chapter 4).
+excluded during data cleaning (Chapter 4). A further three of the 419
+IPO-typed rows are Follow-on Public Offers rather than initial offerings and
+are also excluded downstream (Chapter 4 §4.3.1), leaving 416 mainboard
+equity IPOs in the final cleaned dataset.
 
 ## 3.4 Grey-market premium from InvestorGain
 
@@ -227,13 +231,17 @@ Stage 3 completed the collection at 416 verified PDFs.
 All 416 PDFs pass the four verification checks including the presence of a
 "Risk Factors" section. A `_validation_log.csv` file inside
 `data/prospectus_pdfs/` records per-PDF metadata: file size, page count,
-verification status, and any warnings.
+verification status, and any warnings. Three of the 416 PDFs correspond to
+FPOs (Yes Bank, Ruchi Soya, Vodafone Idea); these documents are technically
+valid RHPs but the associated companies are excluded downstream by the
+FPO exclusion rule (Chapter 4 §4.3.1), so their extracted risk-factor text
+does not participate in modelling.
 
-The three IPOs for which no valid prospectus was obtained are
-[TODO: HRITIK — check the final validation log for the exact list; expected
-to be a small handful of very recent 2026 listings whose prospectuses had not
-yet been published on the SEBI portal at the collection cut-off date, or old
-2019 listings whose PDFs are no longer hosted].
+One of the retained PDFs (Manoj Vaibhav Gems N Jewellers Ltd.) is a scanned
+document with no embedded text layer. Its risk-factor text was recovered by
+OCR using pymupdf pixmap rendering at 350 DPI and Tesseract PSM 6, producing
+approximately 24,000 words across 71 numbered risk items. The OCR provenance
+is recorded in the `_extraction_log.csv` header for that IPO.
 
 ## 3.7 Cross-validation dataset from Ghosh et al.
 

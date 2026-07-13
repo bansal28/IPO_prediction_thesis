@@ -1,0 +1,6 @@
+,chars,chars,chars,chars,words,words,words,words
+,count,mean,median,std,count,mean,median,std
+extraction_family,,,,,,,,
+ocr,1,151383.0,151383.0,,1,23582.0,23582.0,
+ok,401,188265.9,185781.0,43172.5,401,29196.9,28927.0,6620.6
+ok_patched,14,142084.1,162600.0,81490.4,14,22038.6,25494.5,12458.3

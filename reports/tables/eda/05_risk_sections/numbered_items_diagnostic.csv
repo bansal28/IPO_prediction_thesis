@@ -1,0 +1,94 @@
+company,year,file_stem,extraction_status,n_numbered_items,max_item_number,n_sequence_gaps,sequence_gaps
+Apeejay Surrendra Park Hotels Ltd.,2024,Apeejay_Surrendra_Park_Hotels_Ltd_,ok,13,91,78,"1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
+SAMHI Hotels Ltd.,2023,SAMHI_Hotels_Ltd_,ok,5,75,70,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21"
+Globe Civil Projects Ltd.,2025,Globe_Civil_Projects_Ltd_,ok,10,78,68,"6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26"
+RBZ Jewellers Ltd.,2023,RBZ_Jewellers_Ltd_,ok,12,79,67,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21"
+Vraj Iron & Steel Ltd.,2024,Vraj_Iron___Steel_Ltd_,ok,7,65,58,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21"
+Sula Vineyards Ltd.,2022,Sula_Vineyards_Ltd_,ok,21,78,57,"1,2,3,5,6,7,8,9,10,11,12,13,14,15,17,18,19,22,24,25"
+Om Power Transmission Ltd.,2026,Om_Power_Transmission_Ltd_,ok,34,90,56,"1,2,3,5,6,9,10,11,12,13,14,15,17,18,20,21,23,27,28,29"
+Travel Food Services Ltd.,2025,Travel_Food_Services_Ltd_,ok,33,88,55,"1,2,3,4,5,6,7,8,9,10,12,13,14,17,19,20,21,22,23,24"
+Vikran Engineering Ltd.,2025,Vikran_Engineering_Ltd_,ok,40,93,53,"1,2,4,6,8,9,11,12,13,14,16,17,18,20,23,25,30,32,33,51"
+DAM Capital Advisors Ltd.,2024,DAM_Capital_Advisors_Ltd_,ok,7,55,48,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21"
+Go Fashion (India) Ltd.,2021,Go_Fashion__India__Ltd_,ok,22,70,48,"1,2,3,4,6,7,8,9,10,12,13,14,18,19,20,21,22,23,24,28"
+Shringar House of Mangalsutra Ltd.,2025,Shringar_House_of_Mangalsutra_Ltd_,ok,39,84,45,"1,2,3,5,6,7,9,11,16,17,19,20,22,23,24,25,26,27,31,32"
+Cello World Ltd.,2023,Cello_World_Ltd_,ok,19,61,42,"10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,27,28,29,30,33"
+Omnitech Engineering Ltd.,2026,Omnitech_Engineering_Ltd_,ok,42,84,42,"1,2,3,4,5,9,10,11,12,13,15,16,18,20,21,22,23,24,25,27"
+Mrs.Bectors Food Specialities Ltd.,2020,Mrs_Bectors_Food_Specialities_Ltd_,ok,31,71,40,"1,2,4,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,30,35"
+CSM Technologies Ltd.,2026,CSM_Technologies_Ltd_,ok,51,87,36,"1,2,3,4,6,9,10,12,14,16,17,19,20,21,22,26,27,29,30,31"
+Aye Finance Ltd.,2026,Aye_Finance_Ltd_,ok,48,83,35,"1,3,4,5,6,9,11,12,14,15,16,17,18,19,23,24,25,29,30,32"
+Global Health Ltd.,2022,Global_Health_Ltd_,ok,30,63,33,"10,11,12,13,14,15,17,18,19,20,23,24,27,28,31,32,33,34,37,38"
+Craftsman Automation Ltd.,2021,Craftsman_Automation_Ltd_,ok,49,77,28,"1,2,3,13,14,15,16,19,23,25,26,27,29,30,31,32,33,35,40,41"
+Akme Fintrade (India) Ltd.,2024,Akme_Fintrade__India__Ltd_,ok,38,63,25,"3,4,7,9,13,15,18,19,21,23,27,28,40,41,42,43,44,45,46,47"
+Krishna Institute of Medical Sciences Ltd.,2021,Krishna_Institute_of_Medical_Sciences_Ltd_,ok,51,73,22,"6,12,17,21,22,25,26,27,30,32,33,35,38,39,49,50,52,57,60,61"
+Sanathan Textiles Ltd.,2024,Sanathan_Textiles_Ltd_,ok,4,26,22,"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23"
+Enviro Infra Engineers Ltd.,2024,Enviro_Infra_Engineers_Ltd_,ok,62,84,22,"1,5,6,8,12,13,14,15,16,17,18,20,21,22,27,28,29,32,40,47"
+Fusion Micro Finance Ltd.,2022,Fusion_Micro_Finance_Ltd_,ok,69,90,21,"69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88"
+Bansal Wire Industries Ltd.,2024,Bansal_Wire_Industries_Ltd_,ok,45,65,20,"1,2,3,9,15,18,20,21,23,24,26,27,29,30,33,36,37,38,39,40"
+Protean eGov Technologies Ltd.,2023,Protean_eGov_Technologies_Ltd_,ok,61,79,18,"1,2,3,4,5,6,8,9,10,11,12,14,21,22,23,24,26,31"
+Advit Jewels Ltd.,2026,Advit_Jewels_Ltd_,ok,69,85,16,"5,11,13,14,15,17,18,26,27,32,47,59,60,72,73,76"
+Latent View Analytics Ltd.,2021,Latent_View_Analytics_Ltd_,ok,58,73,15,"1,6,7,8,9,13,17,18,19,31,34,36,37,41,42"
+Kross Ltd.,2024,Kross_Ltd_,ok,67,82,15,"9,11,15,69,70,71,73,74,75,76,77,78,79,80,81"
+Motisons Jewellers Ltd.,2023,Motisons_Jewellers_Ltd_,ok,50,65,15,"4,5,7,8,14,15,16,18,19,20,24,28,42,43,44"
+Canara Robeco Asset Management Co.Ltd.,2025,Canara_Robeco_Asset_Management_Co_Ltd_,ok,68,83,15,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
+EPACK Durable Ltd.,2024,EPACK_Durable_Ltd_,ok,70,84,14,"21,70,71,72,74,75,76,77,78,79,80,81,82,83"
+Tolins Tyres Ltd.,2024,Tolins_Tyres_Ltd_,ok_B_endash_pre,93,100,7,"93,94,95,96,97,98,99"
+Bajaj Housing Finance Ltd.,2024,Bajaj_Housing_Finance_Ltd_,ok,68,75,7,"1,2,6,7,18,44,73"
+Neogen Chemicals Ltd.,2019,Neogen_Chemicals_Ltd_,ok,73,80,7,"24,30,34,43,53,62,77"
+CarTrade Tech Ltd.,2021,CarTrade_Tech_Ltd_,ok,50,57,7,"2,3,5,9,15,16,47"
+Sah Polymers Ltd.,2023,Sah_Polymers_Ltd_,ok,73,79,6,"38,39,40,41,42,70"
+Unicommerce eSolutions Ltd.,2024,Unicommerce_eSolutions_Ltd_,ok,72,77,5,"18,19,20,28,29"
+Indiqube Spaces Ltd.,2025,Indiqube_Spaces_Ltd_,ok,77,82,5,"25,26,29,31,40"
+R R Kabel Ltd.,2023,R_R_Kabel_Ltd_,ok,74,78,4,"1,48,50,64"
+Fino Payments Bank Ltd.,2021,Fino_Payments_Bank_Ltd_,ok,62,66,4,"1,42,58,59"
+Bharti Hexacom Ltd.,2024,Bharti_Hexacom_Ltd_,ok,69,73,4,"5,6,23,24"
+Ather Energy Ltd.,2025,Ather_Energy_Ltd_,ok,96,99,3,"79,80,81"
+Sambhv Steel Tubes Ltd.,2025,Sambhv_Steel_Tubes_Ltd_,ok,76,79,3,"69,70,73"
+Crizac Ltd.,2025,Crizac_Ltd_,ok,74,77,3,"9,10,11"
+TBO Tek Ltd.,2024,TBO_Tek_Ltd_,ok,79,82,3,"9,16,20"
+KRN Heat Exchanger & Refrigeration Ltd.,2024,KRN_Heat_Exchanger___Refrigeration_Ltd_,ok,89,92,3,"8,19,32"
+Vishwaraj Sugar Industries Ltd.,2019,Vishwaraj_Sugar_Industries_Ltd_,ok,67,70,3,"18,19,43"
+Pyramid Technoplast Ltd.,2023,Pyramid_Technoplast_Ltd_,ok,70,73,3,"8,18,19"
+Plaza Wires Ltd.,2023,Plaza_Wires_Ltd_,ok,70,73,3,"10,12,18"
+HP Adhesives Ltd.,2021,HP_Adhesives_Ltd_,ok,76,78,2,"25,26"
+Equitas Small Finance Bank Ltd.,2020,Equitas_Small_Finance_Bank_Ltd_,ok,81,83,2,"21,22"
+Shree Ram Twistex Ltd.,2026,Shree_Ram_Twistex_Ltd_,ok,76,78,2,"10,11"
+Rajputana Stainless Ltd.,2026,Rajputana_Stainless_Ltd_,ok,95,97,2,"21,22"
+S.J.S.Enterprises Ltd.,2021,S_J_S_Enterprises_Ltd_,ok,64,66,2,"5,6"
+Spandana Sphoorty Financial Ltd.,2019,Spandana_Sphoorty_Financial_Ltd_,ok,36,38,2,"13,37"
+Rategain Travel Technologies Ltd.,2021,Rategain_Travel_Technologies_Ltd_,ok,78,80,2,"1,2"
+Ami Organics Ltd.,2021,Ami_Organics_Ltd_,ok,80,82,2,"15,61"
+Tega Industries Ltd.,2021,Tega_Industries_Ltd_,ok,77,79,2,"5,26"
+Hariom Pipe Industries Ltd.,2022,Hariom_Pipe_Industries_Ltd_,ok,70,72,2,"7,33"
+Landmark Cars Ltd.,2022,Landmark_Cars_Ltd_,ok,73,75,2,"3,29"
+Netweb Technologies India Ltd.,2023,Netweb_Technologies_India_Ltd_,ok,85,87,2,"31,32"
+Capital Small Finance Bank Ltd.,2024,Capital_Small_Finance_Bank_Ltd_,ok,85,87,2,"54,55"
+IndiaMART InterMESH Ltd.,2019,IndiaMART_InterMESH_Ltd_,ok,60,62,2,"1,7"
+R K SWAMY Ltd.,2024,R_K_SWAMY_Ltd_,ok,66,68,2,"18,19"
+SRM Contractors Ltd.,2024,SRM_Contractors_Ltd_,ok,78,80,2,"24,25"
+Entero Healthcare Solutions Ltd.,2024,Entero_Healthcare_Solutions_Ltd_,ok,63,65,2,"9,44"
+Scoda Tubes Ltd.,2025,Scoda_Tubes_Ltd_,ok,91,92,1,50
+Kronox Lab Sciences Ltd.,2024,Kronox_Lab_Sciences_Ltd_,ok,60,61,1,12
+Blue Jet Healthcare Ltd.,2023,Blue_Jet_Healthcare_Ltd_,ok,65,66,1,16
+SBFC Finance Ltd.,2023,SBFC_Finance_Ltd_,ok,77,78,1,31
+Godavari Biorefineries Ltd.,2024,Godavari_Biorefineries_Ltd_,ok,76,77,1,35
+Precision Pipes & Profiles Co.Ltd.,2019,Precision_Pipes___Profiles_Co_Ltd_,ok_A_strict,26,27,1,24
+Global Surfaces Ltd.,2023,Global_Surfaces_Ltd_,ok,80,81,1,11
+KFin Technologies Ltd.,2022,KFin_Technologies_Ltd_,ok,75,76,1,18
+Bharat Coking Coal Ltd.,2026,Bharat_Coking_Coal_Ltd_,ok,83,84,1,50
+Meesho Ltd.,2025,Meesho_Ltd_,ok,73,74,1,1
+Sudeep Pharma Ltd.,2025,Sudeep_Pharma_Ltd_,ok,79,80,1,15
+Capillary Technologies India Ltd.,2025,Capillary_Technologies_India_Ltd_,ok,96,97,1,47
+Data Patterns (India) Ltd.,2021,Data_Patterns__India__Ltd_,ok,65,66,1,55
+Glottis Ltd.,2025,Glottis_Ltd_,ok,79,80,1,38
+Jaro Institute of Technology Management & Research Ltd.,2025,Jaro_Institute_of_Technology_Management___Research_Ltd_,ok,71,72,1,52
+Manoj Vaibhav Gems 'N' Jewellers Ltd.,2023,Manoj_Vaibhav_Gems__N__Jewellers_Ltd_,manual_review_ocr_needed,68,69,1,44
+Campus Activewear Ltd.,2022,Campus_Activewear_Ltd_,ok,75,76,1,44
+Shreeji Shipping Global Ltd.,2025,Shreeji_Shipping_Global_Ltd_,ok,73,74,1,18
+Gem Aromatics Ltd.,2025,Gem_Aromatics_Ltd_,ok,84,85,1,21
+Patel Retail Ltd.,2025,Patel_Retail_Ltd_,ok,96,97,1,9
+Aditya Infotech Ltd.,2025,Aditya_Infotech_Ltd_,ok,101,102,1,100
+Archean Chemical Industries Ltd.,2022,Archean_Chemical_Industries_Ltd_,ok,77,78,1,31
+PB Fintech Ltd.,2021,PB_Fintech_Ltd_,ok,69,70,1,3
+Go Digit General Insurance Ltd.,2024,Go_Digit_General_Insurance_Ltd_,ok,94,95,1,7
+Vikram Solar Ltd.,2025,Vikram_Solar_Ltd_,ok,95,96,1,5
+Syrma SGS Technology Ltd.,2022,Syrma_SGS_Technology_Ltd_,ok,0,0,0,

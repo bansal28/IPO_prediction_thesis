@@ -1,330 +1,406 @@
 """
-STEP 02: Feature engineering - build the numeric feature set
-=============================================================
-Reads the master dataset and produces the model-ready NUMERIC features:
-    data/features/features_numeric.csv
+FEATURE ENGINEERING: numeric feature construction
+==================================================
+Reads the cleaned 416-IPO master and produces the numeric feature
+matrix used for modelling.
 
-This is the feature set that BOTH models in the thesis share:
-    - baseline model:  these numeric features only
-    - augmented model: these + the LLM-extracted risk features (later step)
-So it must be clean, interpretable (for SHAP), and strictly leakage-free.
+INPUT
+  data/processed/master_ipo_dataset.csv      (416 IPOs × 29 cols)
 
-DESIGN DECISIONS (all agreed before writing):
+OUTPUT
+  data/features/features_numeric.csv         (416 IPOs × 23 cols)
 
-  A. Missing-value handling = native NaN + missingness flags.
-     XGBoost learns an optimal split direction for NaN, so we do NOT
-     fabricate values. For the two features with a meaningful gap
-     (debt_to_equity, gmp_return) we add a binary *_missing flag, because
-     "borrowing not disclosed" or "GMP not tracked" is itself signal.
-     (A median-imputed version can be produced later for linear models.)
+DESIGN RATIONALE
 
-  B. ofs_ratio / fresh_ratio missing = genuine 0, NOT a data gap.
-     Verified in the data: every IPO with ofs missing has fresh/total=1.00
-     (pure fresh-issue, ofs truly 0), and vice-versa; ZERO IPOs have both
-     missing. So a missing component is filled with 0 before the ratio.
-     This gives 100% coverage on these two structural features.
+Every choice below is based on either (a) properties of the pooled
+distribution / structural facts about the SEBI regime, or (b) EDA
+findings that do NOT rely on isolating the test slice (2025-2026).
 
-  C. Log transforms for right-skewed absolutes (skew>2 in the data):
-     total_issue_size (skew 14), revenue (20), assets (9), sub_total (2).
-     Uses log1p. issue_price (skew 1.9) is left untransformed.
+  1. Log-only transforms for right-skewed non-negative variables.
+     Providing raw + log would create linear-model multicollinearity
+     for zero benefit to XGBoost. Log-only works cleanly for both.
+     Skewness reductions (from EDA 02):
+        revenue           20.0 → 0.29
+        borrowing         13.4 → -0.21
+        assets            10.7 → 0.57
+        fresh_issue        7.2 → 0.66
+        ofs                6.5 → 0.37
+        total_issue_size   6.4 → 1.04
+        issue_price        1.9 → -0.33
+        sub_total          2.0 → -0.07
 
-  D. Edge cases:
-     - Negative net_worth (5 IPOs): debt_to_equity is meaningless with a
-       negative denominator, so we NaN the ratio and set the missing flag,
-       and add a separate negative_networth_flag (distress signal).
-     - Negative profit (45 IPOs): VALID (loss-making). profit_margin and
-       return_on_assets correctly go negative. Kept as-is.
+  2. `lot_size` DROPPED (Spearman ρ = -0.996 with issue_price).
+     Structural redundancy from SEBI's ~₹15,000 minimum retail
+     application rule — not a data-driven observation about the
+     test slice.
 
-  LEAKAGE: listing_open/close/high/low and first_day_open_return are NEVER
-  read here. Market features are already prior-day from cleaning. `year`
-  is carried ONLY for the temporal split, and is NOT a model feature.
+  3. `face_value` DROPPED. Distribution {1.0: 65, 2.0: 80, 4.0: 1,
+     5.0: 48, 10.0: 222} — the "4.0" category has one observation
+     (Nazara Technologies), which is a degenerate categorical
+     encoding. Structural argument, not test-slice-dependent.
 
-Run:
-    python src/processing/02_feature_engineering.py
+  4. Deal size composition. Instead of three redundant deal-size
+     variables (fresh_issue, ofs, total_issue_size all pairwise
+     0.80-0.82), keep total_issue_size_log1p for scale and
+     ofs_ratio = ofs / (fresh + ofs) for composition. Missing
+     components treated as implicit zero (structural: pure-fresh
+     IPOs have no ofs, pure-OFS IPOs have no fresh_issue).
 
-Output:
-    data/features/features_numeric.csv
+  5. Also retain fresh_issue_log1p and ofs_log1p in addition to
+     the composite. This is a deliberate choice: XGBoost may find
+     interactions the composite misses. For linear baselines, this
+     introduces multicollinearity — modelling scripts can drop the
+     raw log-scale versions at that point. Feature engineering
+     should not pre-decide model-family-specific pruning.
+
+  6. gmp_return = gmp_value / issue_price. Raw gmp_value is
+     rupee-denominated so its meaning depends on issue price
+     (₹50 GMP is 50% of a ₹100 issue but 5% of a ₹1,000 issue).
+     Dimensionless normalisation makes issues comparable.
+     `gmp_available` retained as a binary flag because the
+     GMP-absent slice behaves differently (EDA 03).
+
+  7. Financial ratios (composition) alongside financial scale:
+        profit_margin    = profit / revenue      (profitability)
+        return_on_assets = profit / assets       (efficiency)
+        debt_to_equity   = borrowing / net_worth (leverage)
+     Ratios cancel scale confounds within the financial-size
+     cluster (revenue/profit/assets/net_worth/borrowing pairwise
+     0.5-0.86 correlated). Sign-mixed inputs (profit, net_worth)
+     that can't log1p directly enter naturally via ratios.
+
+  8. Non-positive net_worth. debt_to_equity set to NaN and
+     `negative_networth_flag` set to 1 for the 5 IPOs with
+     net_worth ≤ 0. A highly indebted solvent firm and an
+     insolvent firm can produce similarly-signed D/E ratios of
+     similar magnitude, so the flag conditions the model on
+     insolvency separately from leverage magnitude.
+
+  9. Broker sentiment: keep raw `brokers_subscribe` (well-behaved,
+     skew 0.75, graded, median 5). Add `any_avoid_flag` because
+     `brokers_avoid` is a step function — 307/416 IPOs (74%) have
+     zero avoids. Also retain raw `brokers_avoid` alongside the
+     flag: for XGBoost the graded count adds information; linear
+     baselines can drop the raw and keep the flag at model time.
+
+ 10. Market context (nifty_close, vix_close, nifty_7d_return,
+     nifty_30d_return) all retained raw. VIX skew of 2.4 could
+     log1p but log obscures its natural percent-volatility
+     interpretation. These features also carry the market-regime
+     signal (Nifty peaked Sept 2024 and corrected 15% by Feb 2025,
+     as visible in raw_nifty50_daily.csv), so no separate regime
+     dummy is added.
+
+ 11. NO regime dummy. The IPO first-day return distribution
+     shifts around late 2024 / early 2025 (visible pooled), and
+     this shift is driven by real market conditions (the Nifty
+     correction from September 2024). Those market conditions
+     enter the model via the four Nifty/VIX features above — a
+     binary regime dummy would be redundant with them.
+
+     Earlier drafts of this script included regime_post_2024
+     anchored at 2025-01-01. That anchor date was chosen because
+     it produced the strongest Mann-Whitney p-value in a
+     train-vs-test EDA test — which used the test slice to make
+     a feature-engineering decision. Removed.
+
+WHAT THIS SCRIPT DOES NOT DO
+  - No imputation. XGBoost handles NaN natively. Linear baselines
+    should impute at model time using training-set statistics
+    only, to avoid leaking test-period info into inputs.
+  - No standardisation. Same rationale.
+  - No train/val/test split. That's a modelling concern; this
+    script produces one file with a `year` column that modelling
+    scripts filter on.
+
+RUN
+  python3 src/processing/02_feature_engineering.py
+  (from the project root)
 """
 
-import pandas as pd
-import numpy as np
 import os
-import warnings
-warnings.filterwarnings("ignore")
+import numpy as np
+import pandas as pd
+
 
 # ============================================================
 # PATHS
 # ============================================================
-PROC_DIR = "data/processed"
-FEAT_DIR = "data/features"
-MASTER = os.path.join(PROC_DIR, "master_ipo_dataset.csv")
-OUTPUT = os.path.join(FEAT_DIR, "features_numeric.csv")
-
-# Columns that must NEVER become features (outcome / identifiers / alt target)
-LEAKAGE_COLS = ["listing_open", "listing_close", "listing_high", "listing_low",
-                "first_day_open_return"]
+MASTER   = "data/processed/master_ipo_dataset.csv"
+OUT_DIR  = "data/features"
+OUT_FILE = os.path.join(OUT_DIR, "features_numeric.csv")
+os.makedirs(OUT_DIR, exist_ok=True)
 
 
-def hr():
-    print("-" * 68)
+def hr(char="-"):
+    print(char * 72)
 
 
 # ============================================================
 # LOAD
 # ============================================================
-def load_master():
-    print("=" * 68)
-    print("STEP 1: Load master dataset")
-    print("=" * 68)
+def load():
+    hr("=")
+    print("FEATURE ENGINEERING: numeric feature construction")
+    hr("=")
+    if not os.path.exists(MASTER):
+        raise FileNotFoundError(
+            f"{MASTER} not found. Run this script from the project root.")
     df = pd.read_csv(MASTER)
     df["listing_date"] = pd.to_datetime(df["listing_date"])
-    print(f"  Loaded {df.shape[0]} IPOs x {df.shape[1]} columns")
-
-    # Safety: confirm leakage columns exist in master (they do) but will be dropped
-    present_leak = [c for c in LEAKAGE_COLS if c in df.columns]
-    print(f"  Leakage columns present in master (will NOT be used): {present_leak}")
+    print(f"  Loaded {len(df)} IPOs from {MASTER}")
+    print(f"  Master columns: {df.shape[1]}")
+    if len(df) != 416:
+        print(f"  [WARN] expected 416 rows, got {len(df)}")
     return df
 
 
 # ============================================================
-# STEP 2: STRUCTURAL RATIOS (ofs / fresh) - 0-fill proven
+# ENGINEER
 # ============================================================
-def build_structural(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 2: Structural ratios (ofs_ratio, fresh_ratio)")
-    print("=" * 68)
+def engineer(df):
+    """Construct the feature matrix. See module docstring for the
+    evidence-based justification of every choice below."""
+    f = pd.DataFrame(index=df.index)
 
-    # Decision B: a missing component is a genuine 0 (pure issue type).
-    ofs = df["ofs"].fillna(0.0)
-    total = df["total_issue_size"]
+    # --------------------------------------------------------
+    # IDENTIFIERS  (kept for stratified reporting and the
+    # temporal-split filter, not treated as features)
+    # --------------------------------------------------------
+    f["company"]          = df["company"]
+    f["listing_date"]     = df["listing_date"]
+    f["year"]             = df["year"]
+    f["first_day_return"] = df["first_day_return"]
 
-    F["ofs_ratio"] = pd.Series(np.where(total > 0, ofs / total, np.nan), index=df.index)
-    # NOTE: fresh_ratio is intentionally NOT created - it equals 1 - ofs_ratio
-    # exactly (fresh + ofs = total for every IPO), so it is perfectly redundant
-    # and would split SHAP importance across identical features. ofs_ratio alone
-    # captures the fresh-vs-ofs composition.
+    # --------------------------------------------------------
+    # STRUCTURAL
+    # `lot_size` DROPPED (ρ = -0.996 with issue_price).
+    # `face_value` DROPPED (single-observation "4.0" category).
+    # `issue_price` in log form only (raw + log would be
+    # linear-model multicollinearity).
+    # --------------------------------------------------------
+    f["issue_price_log1p"] = np.log1p(df["issue_price"])
 
-    print(f"  ofs_ratio:   coverage {F['ofs_ratio'].notna().sum()}/{len(df)} "
-          f"(range {np.nanmin(F['ofs_ratio']):.2f}-{np.nanmax(F['ofs_ratio']):.2f})")
-    print(f"  (fresh_ratio omitted: = 1 - ofs_ratio exactly, perfectly redundant)")
-    print(f"  (missing component treated as 0 = pure issue type, proven in audit)")
+    # --------------------------------------------------------
+    # DEAL SIZE — scale + composition + raw log-scale components
+    # (see rationale note 5 in the docstring for why we keep all
+    # three; linear baselines will need to drop redundancy)
+    # --------------------------------------------------------
+    f["total_issue_size_log1p"] = np.log1p(df["total_issue_size"])
+    f["fresh_issue_log1p"]      = np.log1p(df["fresh_issue"])
+    f["ofs_log1p"]              = np.log1p(df["ofs"])
 
+    # ofs_ratio: pure-fresh → 0, pure-OFS → 1, mixed → ofs / (fresh + ofs)
+    fresh_filled = df["fresh_issue"].fillna(0)
+    ofs_filled   = df["ofs"].fillna(0)
+    denom        = fresh_filled + ofs_filled
+    f["ofs_ratio"] = np.where(
+        denom > 0,
+        ofs_filled / denom,
+        np.nan,   # guard against the impossible case of both zero
+    )
 
-# ============================================================
-# STEP 3: LOG TRANSFORMS (skewed absolutes)
-# ============================================================
-def build_logs(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 3: Log transforms for right-skewed features")
-    print("=" * 68)
+    # --------------------------------------------------------
+    # DEMAND
+    # sub_total in log form only (skew 2.0 → -0.07).
+    # gmp_return: dimensionless, sign-preserving (raw gmp_value
+    # can be negative so log1p not applicable).
+    # gmp_available: binary flag (21 IPOs have no GMP).
+    # --------------------------------------------------------
+    f["sub_total_log1p"] = np.log1p(df["sub_total"])
+    f["gmp_return"]      = df["gmp_value"] / df["issue_price"]
+    f["gmp_available"]   = df["gmp_available"]
 
-    # log1p is safe for zeros; all these are strictly positive anyway.
-    F["issue_size_log"] = np.log1p(df["total_issue_size"])
-    F["revenue_log"] = np.log1p(df["revenue"])
-    F["assets_log"] = np.log1p(df["assets"])
-    F["sub_total_log"] = np.log1p(df["sub_total"])
+    # --------------------------------------------------------
+    # FINANCIAL — SCALE (log-transformed levels)
+    # revenue, assets, borrowing all heavily right-skewed;
+    # log1p normalizes them (see rationale note 1).
+    # --------------------------------------------------------
+    f["revenue_log1p"]   = np.log1p(df["revenue"].clip(lower=0))
+    f["assets_log1p"]    = np.log1p(df["assets"].clip(lower=0))
+    f["borrowing_log1p"] = np.log1p(df["borrowing"].clip(lower=0))
 
-    for name, raw in [("issue_size_log", "total_issue_size"),
-                      ("revenue_log", "revenue"),
-                      ("assets_log", "assets"),
-                      ("sub_total_log", "sub_total")]:
-        before = df[raw].skew()
-        after = F[name].skew()
-        print(f"  {name:<16s} skew {before:6.1f} -> {after:5.1f}  "
-              f"(coverage {F[name].notna().sum()}/{len(df)})")
+    # --------------------------------------------------------
+    # FINANCIAL — COMPOSITION (dimensionless ratios)
+    # Ratios cancel scale confounds within the financial cluster.
+    # Denominators guarded with replace(0, NaN) to avoid inf.
+    # --------------------------------------------------------
+    f["profit_margin"]    = df["profit"] / df["revenue"].replace(0, np.nan)
+    f["return_on_assets"] = df["profit"] / df["assets"].replace(0, np.nan)
 
+    # debt_to_equity: non-positive net_worth → NaN AND flag set to 1
+    nonpositive_nw = df["net_worth"] <= 0
+    f["debt_to_equity"] = np.where(
+        nonpositive_nw,
+        np.nan,
+        df["borrowing"] / df["net_worth"].replace(0, np.nan),
+    )
+    f["negative_networth_flag"] = nonpositive_nw.astype(int)
 
-# ============================================================
-# STEP 4: FINANCIAL RATIOS (native NaN + flags)
-# ============================================================
-def build_financial(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 4: Financial ratios (native NaN, edge-case aware)")
-    print("=" * 68)
+    # --------------------------------------------------------
+    # BROKER SENTIMENT
+    # brokers_subscribe: raw, well-behaved (skew 0.75, graded).
+    # brokers_avoid: raw kept AND binary flag added — 74% zeros
+    #   makes the graded count nearly binary but XGBoost may use
+    #   the graded distinction. Linear baselines drop raw at
+    #   model time.
+    # --------------------------------------------------------
+    f["brokers_subscribe"] = df["brokers_subscribe"]
+    f["brokers_avoid"]     = df["brokers_avoid"]
+    f["any_avoid_flag"]    = (df["brokers_avoid"] > 0).astype(int)
 
-    # profit_margin = profit / revenue  (negative profit -> negative margin, valid)
-    F["profit_margin"] = pd.Series(np.where(df["revenue"] > 0,
-                                  df["profit"] / df["revenue"], np.nan), index=df.index)
+    # --------------------------------------------------------
+    # MARKET CONTEXT
+    # All four kept raw. Together these carry the market-regime
+    # signal (Nifty correction Q4 2024 - Q1 2025 visible via
+    # nifty_close level, elevated VIX, negative trailing returns).
+    # No separate regime dummy — the market features carry it.
+    # --------------------------------------------------------
+    f["nifty_close"]      = df["nifty_close"]
+    f["vix_close"]        = df["vix_close"]
+    f["nifty_7d_return"]  = df["nifty_7d_return"]
+    f["nifty_30d_return"] = df["nifty_30d_return"]
 
-    # return_on_assets = profit / assets
-    F["return_on_assets"] = pd.Series(np.where(df["assets"] > 0,
-                                     df["profit"] / df["assets"], np.nan), index=df.index)
-
-    # debt_to_equity = borrowing / net_worth
-    #   Negative net_worth makes this meaningless -> NaN it, flag separately.
-    neg_nw = df["net_worth"] < 0
-    de = df["borrowing"] / df["net_worth"]
-    de[neg_nw] = np.nan
-    F["debt_to_equity"] = de
-    F["negative_networth_flag"] = neg_nw.astype(int)
-
-    print(f"  profit_margin:     coverage {F['profit_margin'].notna().sum()}/{len(df)}")
-    print(f"  return_on_assets:  coverage {F['return_on_assets'].notna().sum()}/{len(df)}")
-    print(f"  debt_to_equity:    coverage {F['debt_to_equity'].notna().sum()}/{len(df)} "
-          f"({neg_nw.sum()} negative-net-worth NaN'd + flagged)")
-    print(f"  45 loss-making IPOs correctly yield negative margin/ROA (kept).")
-
-
-# ============================================================
-# STEP 5: SENTIMENT + GMP
-# ============================================================
-def build_sentiment_gmp(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 5: Broker sentiment + normalized GMP")
-    print("=" * 68)
-
-    # broker_sentiment = subscribe / (subscribe + avoid); 0=all avoid, 1=all subscribe
-    denom = df["brokers_subscribe"] + df["brokers_avoid"]
-    F["broker_sentiment"] = pd.Series(np.where(denom > 0,
-                                     df["brokers_subscribe"] / denom, np.nan), index=df.index)
-
-    # gmp_return = gmp_value / issue_price  (the strongest expected predictor)
-    F["gmp_return"] = pd.Series(np.where(df["issue_price"] > 0,
-                               df["gmp_value"] / df["issue_price"], np.nan), index=df.index)
-
-    print(f"  broker_sentiment: coverage {F['broker_sentiment'].notna().sum()}/{len(df)} "
-          f"(range {np.nanmin(F['broker_sentiment']):.2f}-{np.nanmax(F['broker_sentiment']):.2f})")
-    print(f"  gmp_return:       coverage {F['gmp_return'].notna().sum()}/{len(df)} "
-          f"(range {np.nanmin(F['gmp_return']):.2f}-{np.nanmax(F['gmp_return']):.2f})")
-
-    corr = pd.concat([F["gmp_return"], df["first_day_return"]], axis=1).dropna().corr().iloc[0, 1]
-    print(f"  gmp_return vs first_day_return correlation: {corr:.3f} "
-          f"(sanity: literature ~0.8)")
-
-
-# ============================================================
-# STEP 6: PASS-THROUGH FEATURES + MISSINGNESS FLAGS
-# ============================================================
-def build_passthrough(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 6: Pass-through features + missingness flags")
-    print("=" * 68)
-
-    # Market context (already leakage-safe from cleaning)
-    F["nifty_close"] = df["nifty_close"]
-    F["vix_close"] = df["vix_close"]
-    F["nifty_7d_return"] = df["nifty_7d_return"]
-    F["nifty_30d_return"] = df["nifty_30d_return"]
-
-    # Raw demand signals kept alongside their logs
-    F["sub_total"] = df["sub_total"]
-    F["issue_price"] = df["issue_price"]
-
-    # GMP availability flag (distinguishes "no GMP data" from "GMP was zero")
-    F["gmp_available"] = df["gmp_available"]
-
-    # Missingness flag for debt_to_equity (has a meaningful 15% gap).
-    # NOTE: we do NOT add a gmp_return_missing flag - it would be identical to
-    # (1 - gmp_available), which we already keep. gmp_available covers it.
-    F["debt_to_equity_missing"] = F["debt_to_equity"].isna().astype(int)
-
-    print("  Market: nifty_close, vix_close, nifty_7d_return, nifty_30d_return")
-    print("  Demand: sub_total (raw), issue_price")
-    print("  Flags:  gmp_available, debt_to_equity_missing")
-    print("  (gmp_return_missing omitted: = 1 - gmp_available exactly)")
+    return f
 
 
 # ============================================================
-# STEP 7: ASSEMBLE + WRITE
+# VALIDATE
 # ============================================================
-def finalize(df, F):
-    print("\n" + "=" * 68)
-    print("STEP 7: Assemble feature matrix + write")
-    print("=" * 68)
+def validate(df, f):
+    """Sanity-check the engineered feature matrix against
+    expectations derived from the raw data."""
+    print("\n" + "=" * 72)
+    print("VALIDATION")
+    hr()
 
-    feat = pd.DataFrame(F)
+    # -- shape ------------------------------------------------
+    print(f"  Row count       : {len(f)}   (expected 416)")
+    assert len(f) == len(df), "row count mismatch"
+    print(f"  Column count    : {f.shape[1]}")
+    n_features = f.shape[1] - 4
+    print(f"  Feature columns : {n_features}  "
+          f"(excluding company, listing_date, year, first_day_return)")
 
-    # Carry identifiers/target/split key at the FRONT (not model features)
-    out = pd.concat([
-        df[["company", "year", "first_day_return"]].reset_index(drop=True),
-        feat.reset_index(drop=True),
-    ], axis=1)
+    # -- structural spot-checks ------------------------------
+    print()
+    print("  Structural spot-checks:")
 
-    # Explicit ordering: meta, then the model features grouped logically
-    feature_cols = [
-        # structural
-        "ofs_ratio", "issue_size_log",
-        # financial
-        "profit_margin", "return_on_assets", "debt_to_equity",
-        "negative_networth_flag",
-        # size/scale
-        "revenue_log", "assets_log",
-        # demand
-        "sub_total", "sub_total_log", "issue_price",
-        # sentiment / GMP
-        "broker_sentiment", "gmp_return", "gmp_available",
-        # market
-        "nifty_close", "vix_close", "nifty_7d_return", "nifty_30d_return",
-        # missingness flag
-        "debt_to_equity_missing",
+    n_neg_nw = int(f["negative_networth_flag"].sum())
+    print(f"    negative_networth_flag = 1 in {n_neg_nw} rows  "
+          f"(expected 5)")
+    assert n_neg_nw == 5, f"negative_networth_flag count off: {n_neg_nw}"
+
+    n_avoid = int(f["any_avoid_flag"].sum())
+    share_avoid = n_avoid / len(f)
+    print(f"    any_avoid_flag = 1 in {n_avoid} rows ({share_avoid:.1%})")
+
+    pure_fresh = int((f["ofs_ratio"] == 0).sum())
+    pure_ofs   = int((f["ofs_ratio"] == 1).sum())
+    mixed      = int(((f["ofs_ratio"] > 0) & (f["ofs_ratio"] < 1)).sum())
+    ofs_nan    = int(f["ofs_ratio"].isna().sum())
+    print(f"    ofs_ratio: pure-fresh={pure_fresh}, mixed={mixed}, "
+          f"pure-OFS={pure_ofs}, nan={ofs_nan}  "
+          f"(sum={pure_fresh+mixed+pure_ofs+ofs_nan}, expected 416)")
+    assert pure_fresh + mixed + pure_ofs + ofs_nan == len(f)
+
+    # -- log-transform skewness verification -----------------
+    print()
+    print("  Skewness before / after log1p:")
+    log_pairs = [
+        ("revenue",           "revenue_log1p"),
+        ("assets",            "assets_log1p"),
+        ("borrowing",         "borrowing_log1p"),
+        ("total_issue_size",  "total_issue_size_log1p"),
+        ("fresh_issue",       "fresh_issue_log1p"),
+        ("ofs",               "ofs_log1p"),
+        ("issue_price",       "issue_price_log1p"),
+        ("sub_total",         "sub_total_log1p"),
     ]
-    meta_cols = ["company", "year", "first_day_return"]
-    out = out[meta_cols + feature_cols]
+    for raw, transformed in log_pairs:
+        s_raw = df[raw].dropna().skew()
+        s_log = f[transformed].dropna().skew()
+        print(f"    {raw:22s}  raw = {s_raw:>7.2f}   "
+              f"log1p = {s_log:>7.2f}")
 
-    os.makedirs(FEAT_DIR, exist_ok=True)
-    out.to_csv(OUTPUT, index=False)
+    # -- gmp_return spot check --------------------------------
+    print()
+    print("  gmp_return spot checks:")
+    spot_checks = [
+        ("Sigachi",        "large positive (top gainer, GMP=225)"),
+        ("One 97",         "negative (Paytm: worst listing, GMP=-30)"),
+        ("Indian Railway", "NaN (IRCTC 2019 → gmp_available = 0)"),
+    ]
+    for keyword, expected in spot_checks:
+        mask = df["company"].str.contains(keyword, case=False, na=False)
+        if mask.any():
+            r = f.loc[mask].iloc[0]
+            val = r["gmp_return"]
+            val_str = f"{val:+.4f}" if pd.notna(val) else "NaN"
+            print(f"    {r['company']:40s}  gmp_return = {val_str:>10s}   "
+                  f"[expected {expected}]")
 
-    print(f"  Feature matrix: {out.shape[0]} IPOs x {len(feature_cols)} features "
-          f"(+ 3 meta columns)")
-    print(f"  Saved: {OUTPUT}")
-
-    # Confirm no leakage columns leaked in
-    leaked = [c for c in LEAKAGE_COLS if c in out.columns]
-    if leaked:
-        print(f"  [WARN] LEAKAGE COLUMNS PRESENT: {leaked}")
+    # -- missingness summary ----------------------------------
+    print()
+    print("  Missingness per feature column:")
+    feature_cols = [c for c in f.columns
+                    if c not in ("company", "listing_date", "year",
+                                 "first_day_return")]
+    miss = f[feature_cols].isna().sum().sort_values(ascending=False)
+    miss = miss[miss > 0]
+    if len(miss) == 0:
+        print("    (no missingness in any feature column)")
     else:
-        print(f"  [OK]   No leakage columns present (listing OHLC excluded)")
+        for col, n in miss.items():
+            print(f"    {col:28s}  {n:4d} missing ({n/len(f):.1%})")
 
-    # Feature coverage table
-    print("\n  Feature coverage:")
-    for c in feature_cols:
-        nn = out[c].notna().sum()
-        flag = "" if nn == len(out) else f"  ({len(out)-nn} NaN -> XGBoost handles natively)"
-        print(f"    {c:<24s} {nn:>3}/{len(out)} ({nn/len(out)*100:3.0f}%){flag}")
-
-    return out
+    # -- inf check --------------------------------------------
+    inf_cols = []
+    for col in feature_cols:
+        if pd.api.types.is_numeric_dtype(f[col]):
+            if np.isinf(f[col].fillna(0)).any():
+                inf_cols.append(col)
+    if inf_cols:
+        print(f"\n  [ERROR] inf values in columns: {inf_cols}")
+    else:
+        print("\n  No inf values in any feature column.")
 
 
 # ============================================================
-# STEP 8: TEMPORAL SPLIT PREVIEW (for the modelling step)
+# SUMMARY
 # ============================================================
-def split_preview(out):
-    print("\n" + "=" * 68)
-    print("STEP 8: Temporal split preview (no random splits - time-based)")
-    print("=" * 68)
-    train = out[out["year"] <= 2023]
-    test = out[out["year"] >= 2025]
-    val = out[out["year"] == 2024]
-    print(f"  Train (<=2023): {len(train)} IPOs")
-    print(f"  Val   (2024):   {len(val)} IPOs")
-    print(f"  Test  (2025-26): {len(test)} IPOs")
-    print(f"  (This split is applied in the modelling step, not here.)")
+def summary(f):
+    print("\n" + "=" * 72)
+    print("OUTPUT SUMMARY")
+    hr()
+    print(f"  File: {OUT_FILE}")
+    print(f"  Rows: {len(f)}")
+    print(f"  Cols: {f.shape[1]}")
+    print()
+    print("  Column layout:")
+    id_cols = ["company", "listing_date", "year", "first_day_return"]
+    other_cols = [c for c in f.columns if c not in id_cols]
+    print(f"    identifiers ({len(id_cols)}):  {', '.join(id_cols)}")
+    print(f"    features    ({len(other_cols)}):")
+    for c in other_cols:
+        dtype = str(f[c].dtype)
+        print(f"      {c:28s}  ({dtype})")
 
 
 # ============================================================
 # MAIN
 # ============================================================
 def main():
-    print("#" * 68)
-    print("# FEATURE ENGINEERING - numeric feature set")
-    print("#" * 68)
+    df = load()
+    f  = engineer(df)
+    validate(df, f)
+    summary(f)
 
-    df = load_master()
-    F = {}
-    build_structural(df, F)
-    build_logs(df, F)
-    build_financial(df, F)
-    build_sentiment_gmp(df, F)
-    build_passthrough(df, F)
-    out = finalize(df, F)
-    split_preview(out)
-
-    print("\n" + "#" * 68)
-    print("# DONE")
-    print("#" * 68)
-    print(f"  {out.shape[0]} IPOs, {out.shape[1]-3} features written to {OUTPUT}")
-    print("  Next: LLM risk-factor extraction from the 416 prospectus PDFs,")
-    print("  then baseline (numeric-only) vs augmented (numeric+risk) models.")
+    f.to_csv(OUT_FILE, index=False)
+    print()
+    print("=" * 72)
+    print(f"  Features written to: {OUT_FILE}")
+    print("=" * 72)
 
 
 if __name__ == "__main__":

@@ -24,7 +24,7 @@ For India specifically, first-day underpricing has been documented in multiple
 studies of the Bombay Stock Exchange and the National Stock Exchange, though
 sample composition and methodology vary. The current study focuses on
 mainboard IPOs listed 2019–2026 and finds a mean first-day return of
-21.3 percent and a median of 11.5 percent, consistent with the direction of
+21.3 percent and a median of 11.4 percent, consistent with the direction of
 prior Indian findings.
 
 ## 2.2 The grey-market premium
@@ -37,12 +37,12 @@ which unofficial traders are willing to buy the yet-to-list shares above the
 issue price. Practitioner accounts and industry reporting have long noted a
 close correspondence between GMP at the eve of listing and the realised
 first-day return, with correlations reported informally in the region of 0.8.
-This study finds a correlation of 0.853 between `gmp_return = gmp_value /
-issue_price` and the first-day return (calculated on the numeric feature set
-in Chapter 6). Because GMP is such a powerful pre-listing signal, any
-methodological claim about *incremental* predictive value from other features
-must control for it explicitly. This motivates the dual reporting of results
-both with and without GMP as a feature (Chapter 8).
+This study finds a Pearson correlation of 0.853 (Spearman 0.828) between
+`gmp_return = gmp_value / issue_price` and the first-day return over the 395
+IPOs for which grey-market data is available. Because GMP is such a powerful
+pre-listing signal, any methodological claim about *incremental* predictive
+value from other features must control for it explicitly. This motivates the
+dual reporting of results both with and without GMP as a feature (Chapter 8).
 
 [VERIFY: HRITIK — verify with a citable source that a published academic
 paper documents the ~0.8 GMP correlation, or state clearly that this is an

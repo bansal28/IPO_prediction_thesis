@@ -549,14 +549,16 @@
 STEP 01: Data cleaning - build the master IPO dataset
 ======================================================
 Merges all raw collected files into ONE clean, analysis-ready table:
-    data/processed/master_ipo_dataset.csv   (419 equity IPOs)
+    data/processed/master_ipo_dataset.csv   (416 equity IPOs)
 
 This is the single source of truth for feature engineering and modelling.
 
-PIPELINE (9 steps):
+PIPELINE (10 steps):
   1. Load raw_ipo_details.csv (434 rows - the spine)
   2. Parse all raw strings -> numbers ("Rs 178 per share"->178.0, "111.91x"->111.91)
   3. Drop 15 REITs/InvITs -> 419 equity IPOs
+  3b. Drop 3 FPOs (D-26: Yes Bank 2020, Ruchi Soya 2022, Vodafone Idea 2024)
+     -> 416 equity IPOs
   4. Compute first_day_return from the DETAIL-PAGE listing_close
   5. Parse listing dates, add listing_date + year
   6. Merge Nifty + VIX at DAY-BEFORE-LISTING (leakage-safe) + trailing returns
@@ -570,6 +572,11 @@ LOCKED DECISIONS baked in here (from the collection/audit phase):
     (verified: detail page had Mankind Pharma's true BSE close Rs 1424.05,
      the tracker wrongly showed Rs 1080)
   - REIT rule: name matches REIT|Trust|InvIT OR Embassy Office/Mindspace
+  - FPO rule (D-26): exact-name match on Yes Bank Ltd., Ruchi Soya
+    Industries Ltd., Vodafone Idea Ltd. These are Follow-on Public
+    Offers by already-listed companies, not IPOs. Chapter 1 §1.4 excludes
+    FPOs on economic-scope grounds: FPO first-day returns are driven by a
+    different mechanism from IPO underpricing (Rock 1986).
   - GMP=Rs 0: 2019 all->NaN; 2020 ->NaN if listing gain>15%; 2021+ keep real
   - Leakage: Nifty/VIX use the day BEFORE listing; listing OHLC columns are
     used only to build the target, then EXCLUDED from the feature set
@@ -604,6 +611,21 @@ GHOSH = os.path.join(RAW_DIR, "ghosh_mainboard_v18.xlsx")
 OUTPUT = os.path.join(PROC_DIR, "master_ipo_dataset.csv")
 
 REIT_REGEX = r"REIT|Trust|InvIT|Embassy Office|Mindspace Business"
+
+# D-26: Three FPO events appeared in the Chittorgarh IPO tracker because they
+# went through book-building and produced a first-day listing return, but
+# they are Follow-on Public Offers by already-listed companies (not IPOs).
+# Chapter 1 §1.4 excludes FPOs from scope on theoretical grounds — FPO
+# first-day returns reflect a different mechanism from IPO underpricing
+# (Rock 1986). Exact-name match — never regex, because "Yes Bank" or
+# "Ruchi Soya" as substrings could false-match if a similar name appeared
+# later. All three DO have Red Herring Prospectuses on SEBI, but the
+# exclusion is on economic scope, not document availability.
+FPO_EXCLUSIONS = [
+    "Yes Bank Ltd.",
+    "Ruchi Soya Industries Ltd.",
+    "Vodafone Idea Ltd.",
+]
 
 # GMP brand-name -> detail-page legal-name overrides (for the ~15 that don't
 # match by price+date). These are the documented cases.
@@ -751,6 +773,28 @@ def drop_reits(df):
     for c in df[reit]["company"].tolist():
         print(f"      - {c}")
     df = df[~reit].reset_index(drop=True)
+    print(f"  Remaining equity IPOs: {len(df)}")
+    return df
+
+
+# ============================================================
+# STEP 3b: DROP FPOs  (D-26)
+# ============================================================
+def drop_fpos(df):
+    print("\n" + "=" * 68)
+    print("STEP 3b: Drop Follow-on Public Offers (D-26, not IPOs)")
+    print("=" * 68)
+    fpo_mask = df["company"].isin(FPO_EXCLUSIONS)
+    n_matched = int(fpo_mask.sum())
+    print(f"  Dropping {n_matched} FPOs (of {len(FPO_EXCLUSIONS)} expected):")
+    for c in df[fpo_mask]["company"].tolist():
+        print(f"      - {c}")
+    # Sanity: warn loudly if any expected name was NOT found in the input
+    missing = [c for c in FPO_EXCLUSIONS if c not in df["company"].values]
+    if missing:
+        print(f"  [WARN] expected but not found in data: {missing}")
+        print(f"         Check spelling / master-tracker naming convention.")
+    df = df[~fpo_mask].reset_index(drop=True)
     print(f"  Remaining equity IPOs: {len(df)}")
     return df
 
@@ -1122,6 +1166,7 @@ def main():
     det = load_details()
     df = parse_numeric(det)
     df = drop_reits(df)
+    df = drop_fpos(df)              # D-26: remove Yes Bank / Ruchi Soya / Vodafone Idea FPOs
     df = compute_target(df)
     df = parse_dates(df)
     df = merge_market(df)

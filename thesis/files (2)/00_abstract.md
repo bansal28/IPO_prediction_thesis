@@ -25,7 +25,7 @@ return over and above a strong baseline of numeric pre-listing features
 context). The evaluation is strictly time-based: training data ends in 2023,
 validation is 2024, and testing is 2025–2026.
 
-A dataset of 419 mainboard IPOs listed between February 2019 and July 2026 was
+A dataset of 416 mainboard IPOs listed between February 2019 and July 2026 was
 assembled from Chittorgarh IPO detail pages, SEBI DRHP/RHP filings
 (416 verified prospectus PDFs), InvestorGain grey-market data, Yahoo Finance
 market context, and Ghosh et al.'s public dataset for cross-validation. A

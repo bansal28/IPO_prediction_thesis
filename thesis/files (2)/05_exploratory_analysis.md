@@ -1,7 +1,7 @@
 # 5. Exploratory Data Analysis
 
 Exploratory analysis was carried out on the cleaned master dataset
-produced in Chapter 4 (419 IPOs × 29 columns) *before* any feature
+produced in Chapter 4 (416 IPOs × 29 columns) *before* any feature
 engineering. The purpose was threefold: (a) to characterise the
 distribution and temporal behaviour of the target variable;
 (b) to describe the distribution, coverage and outlier structure of
@@ -32,36 +32,36 @@ characterises its distribution and its temporal structure.
 
 ### 5.1.1 Distribution and shape
 
-Across the 419 mainboard IPOs, `first_day_return` has mean 21.3 percent,
-median 11.5 percent, and standard deviation 36.3 percent. The
+Across the 416 mainboard IPOs, `first_day_return` has mean 21.3 percent,
+median 11.4 percent, and standard deviation 36.4 percent. The
 distribution is strongly right-skewed (skewness = 2.36, excess
-kurtosis = 8.69), with a minimum of −35.9 percent (Om Freight
+kurtosis = 8.64), with a minimum of −35.9 percent (Om Freight
 Forwarders, October 2025) and a maximum of +270.4 percent (Sigachi
 Industries, November 2021). Roughly 71 percent of IPOs closed above
 their issue price.
 
-Both a Shapiro-Wilk test (W = 0.803, p ≈ 3 × 10⁻²²) and a
-Kolmogorov-Smirnov test against a standard normal (D = 0.142,
-p ≈ 7 × 10⁻⁸) reject normality decisively. Figure 5.1 shows the
+Both a Shapiro-Wilk test (W = 0.802, p ≈ 3 × 10⁻²²) and a
+Kolmogorov-Smirnov test against a standard normal (D = 0.145,
+p ≈ 5 × 10⁻⁸) reject normality decisively. Figure 5.1 shows the
 distribution as a histogram with kernel density estimate, a boxplot,
 a Q-Q plot against the normal, and a signed-log-transformed version.
 The heavy right tail and thin left tail are visible in every panel.
-A signed-log transformation sign(r) · log(1+|r|) reduces skewness from
-2.36 to 1.24, an improvement but not full symmetrisation — reflecting
+A signed-log transformation sign(r) · log(1+|r|) substantially
+reduces the raw skewness, but does not fully symmetrise — reflecting
 the natural asymmetry that losses are bounded below by −100 percent
 while gains have no upper limit.
 
-![Distribution of `first_day_return` across the 419 IPOs: histogram
+![Distribution of `first_day_return` across the 416 IPOs: histogram
 with kernel density estimate (a), boxplot (b), Q-Q plot against a
 normal distribution (c), and signed-log transformation (d). Vertical
 dashed and dotted lines mark the median and mean
 respectively.](../reports/figures/eda/01_target_distribution.png){#fig:target-distribution width=100%}
 
-The gap between mean (21.3 percent) and median (11.5 percent) is a
+The gap between mean (21.3 percent) and median (11.4 percent) is a
 substantive finding rather than a numerical curiosity: it reflects
 the disproportionate influence of a small number of extreme winners
 in the right tail. Consistent with this asymmetry, the interquartile
-range [−1.3 percent, +32.0 percent] is markedly wider than a
+range [−1.4 percent, +31.9 percent] is markedly wider than a
 Gaussian approximation would predict. **Because the target is
 heavily skewed and heavy-tailed, this dissertation reports the median
 as its primary statistic of central tendency, with the mean shown
@@ -88,7 +88,7 @@ with positive first-day return
 
 Two features of Figure 5.2 are noteworthy. First, from 2019 through
 2024, the median first-day return oscillates in a comparatively
-narrow range of roughly 8 percent to 21 percent, with 64 to 83
+narrow range of roughly 5 percent to 21 percent, with 63 to 83
 percent of IPOs closing above their issue price. Second, in 2025 and
 2026, the median drops sharply — to 5.2 percent in 2025 and to
 −0.7 percent in 2026 — and the positive-return share falls to 67
@@ -141,8 +141,8 @@ An open-based alternative target, `first_day_open_return =
 (listing_open − issue_price) / issue_price`, was computed for
 diagnostic purposes and never used as a predictor (leakage column,
 per D-07). Its correlation with the close-based target is 0.946
-(n = 419), and the mean of the intraday move (close minus open) is
-+1.1 percent with a standard deviation of 11.8 percent. The two
+(n = 416), and the mean of the intraday move (close minus open) is
++1.0 percent with a standard deviation of 11.8 percent. The two
 targets carry essentially the same information for prediction
 purposes; the close-based definition is retained as the primary
 target because it is the convention used by Ritter (1991) and by
@@ -172,8 +172,8 @@ categorical predictors (face value, GMP availability flag).
 
 Table 5.1 (`reports/tables/eda/02_coverage_and_stats.csv`) reports
 per-variable coverage. Most predictors have coverage above 95
-percent. Three fall below 90 percent — `fresh_issue` (80.7 percent),
-`ofs` (80.2 percent), and `borrowing` (88.3 percent). The
+percent. Three fall below 90 percent — `fresh_issue` (80.5 percent),
+`ofs` (80.8 percent), and `borrowing` (88.2 percent). The
 `fresh_issue` and `ofs` gaps are *structural rather than
 data-quality* gaps: an IPO with no offer-for-sale component has
 `ofs` reported as missing rather than as zero (and *vice versa* for
@@ -190,25 +190,26 @@ as a small-multiples grid of histograms. Two visual patterns
 dominate. First, several financial and structural variables
 (`revenue`, `assets`, `borrowing`, `total_issue_size`, `fresh_issue`,
 `ofs`) present as a near-spike at zero with a small number of
-extreme outliers, reflected in skewness values above 8. Second, two
-variables (`profit` and `net_worth`) display *negatively* skewed
-distributions caused by a small number of heavily loss-making or
-negative-equity issuers, most notably Vodafone Idea (2024).
+extreme outliers, reflected in skewness values above 6. Second, two
+variables (`profit` and `net_worth`) display distributions with a
+mix of positive and negative values driven by a small number of
+loss-making or negative-equity issuers, notably Chemplast Sanmar
+(net_worth −₹1,866 crore) and SAMHI Hotels (net_worth −₹871 crore).
 Distributions of market-context and broker-sentiment variables are
 much closer to symmetric.
 
 ![Distributions of the 18 continuous predictors, as a
 small-multiples grid. Dashed vertical lines mark medians. Log-scaled
-y-axes are used for the most extremely skewed variables to preserve
-readability.](../reports/figures/eda/02_continuous_distributions.png){#fig:continuous-distributions width=100%}
+y-axes are used for the most extremely skewed
+variables.](../reports/figures/eda/02_continuous_distributions.png){#fig:continuous-distributions width=100%}
 
 Table 5.2 (`reports/tables/eda/02_skewness_table.csv`) summarises
 skewness before and after a `log1p` transformation. Where a variable
 is strictly non-negative, `log1p` typically reduces skewness by an
-order of magnitude — `revenue` moves from 19.85 to 0.37,
-`total_issue_size` from 14.30 to 1.50, `borrowing` from 11.07 to
-−0.14. Figure 5.4 visualises the before-and-after comparison for the
-eleven non-negative variables with raw |skew| > 1.
+order of magnitude — `revenue` moves from 20.04 to 0.29,
+`borrowing` from 13.41 to −0.21, `assets` from 10.69 to 0.57.
+Figure 5.4 visualises the before-and-after comparison for the
+non-negative variables with raw |skew| > 1.
 
 ![Skewness before and after `log1p` transformation for non-negative
 continuous predictors with raw |skewness| > 1. Coral bars: raw
@@ -252,8 +253,8 @@ represent.
 
 Two predictors are meaningfully categorical: `face_value`, which
 takes five distinct values {₹1, ₹2, ₹4, ₹5, ₹10} with strongly
-uneven frequencies (65, 82, 1, 48, 223 respectively), and
-`gmp_available`, which is binary (21 zeros, 398 ones). The single
+uneven frequencies (65, 80, 1, 48, 222 respectively), and
+`gmp_available`, which is binary (21 zeros, 395 ones). The single
 IPO at `face_value = 4` is Nazara Technologies (2021); the
 single-observation category will be pooled with `face_value = 5` in
 Chapter 6, or the feature dropped entirely, subject to the
@@ -284,7 +285,7 @@ target `first_day_return`, shown as a lower-triangular heatmap.
 Variables are grouped by category with thin lines marking group
 boundaries.](../reports/figures/eda/03_correlation_matrix.png){#fig:corr-matrix width=100%}
 
-First, `lot_size` and `issue_price` correlate at ρ = −0.968. This is
+First, `lot_size` and `issue_price` correlate at ρ = −0.996. This is
 a mechanical rather than economic relationship: the Securities and
 Exchange Board of India (SEBI) requires the minimum retail
 application amount to be approximately ₹15,000, so `issue_price
@@ -300,7 +301,7 @@ total`) rather than three raw levels.
 
 Third, the five financial variables (`revenue`, `assets`,
 `net_worth`, `borrowing`, `profit`) form a "company size" cluster
-with pairwise correlations of 0.5 to 0.84. This is the standard
+with pairwise correlations of 0.5 to 0.86. This is the standard
 scale confound in firm-level financial data: larger companies are
 large on every dimension. Chapter 6 addresses this by converting the
 raw levels into dimensionless ratios (`profit_margin`,
@@ -318,17 +319,17 @@ Dashed vertical lines mark reference thresholds at ±0.1 and ±0.3.
 Bars are coloured green for positive correlation and coral for
 negative.](../reports/figures/eda/03_target_correlation_ranking.png){#fig:target-corr-ranking width=90%}
 
-Two predictors dominate: `gmp_value` (ρ = 0.711, p ≈ 0) and
-`sub_total` (ρ = 0.702, p ≈ 0). The next-strongest predictor,
-`brokers_avoid`, has magnitude 0.269 — a substantial drop. A small
+Two predictors dominate: `gmp_value` (ρ = 0.712, p ≈ 0) and
+`sub_total` (ρ = 0.708, p ≈ 0). The next-strongest predictor,
+`brokers_avoid`, has magnitude 0.270 — a substantial drop. A small
 middle tier (`brokers_subscribe`, `nifty_30d_return`,
 `nifty_7d_return`, `borrowing`, `assets`) sits between magnitudes of
 0.10 and 0.27. The remaining twelve predictors have |ρ| below 0.10,
 essentially indistinguishable from noise at this sample size.
 
 The Pearson-versus-Spearman gap for the two dominant predictors is
-informative: `gmp_value` has Pearson 0.529 versus Spearman 0.711,
-and `sub_total` has Pearson 0.633 versus Spearman 0.702. The
+informative: `gmp_value` has Pearson 0.529 versus Spearman 0.712,
+and `sub_total` has Pearson 0.635 versus Spearman 0.708. The
 consistently larger Spearman value signals a monotonic but
 non-linear relationship with the target — visualised directly in
 Figure 5.8.
@@ -347,27 +348,27 @@ tree-based primary model (which is invariant to monotonic feature
 transformation). The LOWESS for `brokers_avoid` is essentially a
 step function: the difference between zero and one
 avoid-recommendation is large, but additional avoid-recommendations
-add little. This suggests that a binary "any avoid" flag may capture
-nearly all of the predictive content of the raw count.
+add little. This suggests that a binary "any avoid" flag captures
+a substantial share of the predictive content of the raw count.
 
 ### 5.3.3 GMP-stratified feature-target relationships
 
 Because grey-market premium is the strongest single predictor, and
 because the LLM risk-feature agenda of this dissertation aims to add
-predictive value beyond a strong numeric baseline, the 419 IPOs were
-split into two subsets — those with GMP available (n = 398) and
+predictive value beyond a strong numeric baseline, the 416 IPOs were
+split into two subsets — those with GMP available (n = 395) and
 those without (n = 21) — and per-predictor Spearman correlations
 were re-computed within each.
 
 ![Spearman correlation with `first_day_return` computed separately
-in the GMP-available subset (n = 398, blue) and the GMP-absent
+in the GMP-available subset (n = 395, blue) and the GMP-absent
 subset (n = 21,
 coral).](../reports/figures/eda/03_gmp_stratified_correlations.png){#fig:gmp-stratified width=95%}
 
 In the GMP-absent subset the correlation of `sub_total` with the
-target rises to ρ = 0.836 (from 0.693 in the GMP-available subset),
-`brokers_subscribe` rises to 0.490 (from 0.244), and the negative
-correlation of `borrowing` deepens to −0.383 (from −0.134).
+target rises to ρ = 0.836 (from 0.699 in the GMP-available subset),
+`brokers_subscribe` rises to 0.490 (from 0.247), and the negative
+correlation of `borrowing` deepens to −0.383 (from −0.142).
 Interpretation: when the dominant GMP signal is missing, other
 demand-side and risk-side signals compensate to carry a greater
 share of the pre-listing information. The small size of the
@@ -402,15 +403,14 @@ used for the most heavily skewed
 variables.](../reports/figures/eda/04_feature_drift.png){#fig:feature-drift width=100%}
 
 Several patterns emerge. The median value of `gmp_value` compresses
-sharply in the test period, from ₹43 in 2024 to ₹20 in 2025 to
-₹0 in 2026. The median `sub_total` collapses from 29× in 2024 to
+sharply in the test period, from ₹47 in 2024 to ₹20 in 2025 to
+₹0 in 2026. The median `sub_total` collapses from 32× in 2024 to
 19× in 2025 to 2.1× in 2026. Median `issue_price` declines from
-₹536 in 2021 to ₹174 in 2026. Median `borrowing` remains
-substantially below 2019 levels throughout. `nifty_close` rises
-secularly from approximately 11,500 in 2019 to approximately 25,000
-in 2025-26, as expected from broad-market appreciation. `vix_close`
-was elevated during 2020-2022 (COVID and post-COVID period) and has
-drifted lower since.
+₹536 in 2021 to ₹174 in 2026. `nifty_close` rises secularly from
+approximately 11,500 in 2019 to approximately 25,000 in 2025-26, as
+expected from broad-market appreciation. `vix_close` was elevated
+during 2020-2022 (COVID and post-COVID period) and has drifted
+lower since.
 
 The consequence is that the covariate distribution in the test set
 (2025-26) is materially different from the covariate distribution
@@ -418,7 +418,7 @@ in the training set (≤ 2023) on several key variables. This
 constitutes covariate shift and must be accounted for in the
 interpretation of Chapter 9 test-set metrics.
 
-### 5.4.2 Year-conditional feature-target correlations
+### 5.4.2 Year-conditional stability of top predictors
 
 For each of the six most-correlated predictors, the Spearman
 correlation with the target was recomputed within each individual
@@ -434,7 +434,7 @@ regime.](../reports/figures/eda/04_year_conditional_correlations.png){#fig:year-
 
 Only one predictor exhibits temporal stability: `gmp_value`, whose
 year-conditional correlation with the target remains within a
-[0.60, 0.77] band in every year of the study and whose 95 percent
+[0.60, 0.73] band in every year of the study and whose 95 percent
 bootstrap confidence intervals never cross zero. This is the sole
 numeric predictor that can be relied upon to provide comparable
 predictive signal in training and in test.
@@ -442,7 +442,7 @@ predictive signal in training and in test.
 The remaining five top predictors are each regime-dependent to some
 degree. `sub_total` weakens from ρ ≈ 0.75 in most training-period
 years to ρ = 0.46 in 2026 (with a wide CI reflecting small sample
-size). `brokers_avoid` oscillates between −0.53 (2020) and +0.14
+size). `brokers_avoid` oscillates between −0.52 (2020) and +0.14
 (2019) and is essentially null in 2023 and 2025. `nifty_30d_return`
 collapses from ρ = 0.21 in the full sample to ρ = −0.045 in 2025.
 
@@ -471,18 +471,21 @@ validation.
 
 Panel (b) shows per-predictor Spearman correlations within each
 split for a selection of the top-correlated variables. `gmp_value`
-remains at ρ ≈ 0.69-0.72 across all three splits. `sub_total`
-decays modestly from 0.75 (train) to 0.65 (test).
+remains at ρ ≈ 0.69-0.73 across all three splits. `sub_total`
+decays modestly from 0.76 (train) to 0.65 (test).
 `nifty_30d_return` drops from 0.21 (train) to 0.06 (test). Most
-strikingly, `assets` changes sign, moving from ρ = −0.232 in
+strikingly, `assets` changes sign, moving from ρ = −0.236 in
 training to ρ = +0.113 in test — a feature whose training-period
-signal actively misleads a model on the test set.
+signal actively misleads a model on the test set. This has
+implications for Chapter 8 modelling that are discussed in
+Section 5.5 and revisited under the interpretation caveats in
+Chapter 9 (D-24).
 
 Summary statistics of the target in each split confirm the regime
 picture: the training-set target has mean 26.2 percent and median
 15.5 percent; the test-set target has mean 8.0 percent and median
 4.2 percent. Target standard deviation in test (20.1 percent) is
-approximately half that of train (40.4 percent).
+approximately half that of train (40.6 percent).
 
 The methodological consequence is that absolute error metrics (mean
 absolute error, root mean squared error) will be smaller on the
@@ -504,35 +507,44 @@ split (consistent with the locked train / validation split) and the
 pre-2025 versus 2025+ split (consistent with the visually apparent
 break).
 
-For the pre-2024 versus 2024+ split (n = 196 versus 223), the
-Mann-Whitney U statistic is 24,564 with p = 2.85 × 10⁻². For the
-pre-2025 versus 2025+ split (n = 287 versus 132), the Mann-Whitney
-U statistic is 24,728 with p = 5.05 × 10⁻⁷. Mood's median test
+For the pre-2024 versus 2024+ split (n = 194 versus 222), the
+Mann-Whitney U statistic is 24,222 with p = 2.81 × 10⁻². For the
+pre-2025 versus 2025+ split (n = 284 versus 132), the Mann-Whitney
+U statistic is 24,434 with p = 6.20 × 10⁻⁷. Mood's median test
 corroborates: at the 2024/2025 boundary, the median test statistic
-is 22.08 with p = 2.61 × 10⁻⁶.
+is 22.47 with p = 2.13 × 10⁻⁶.
 
-The corrected split point yields a p-value roughly 56,000 times
+The corrected split point yields a p-value roughly 45,000 times
 smaller than the initial split point. **The regime break is
 definitively located between the 2024 and 2025 listing years and is
 established at a level of statistical significance far exceeding
-conventional thresholds.** Any regime-conditional analysis or dummy
-variable used in subsequent modelling activates at the 2025-01-01
-listing-date boundary.
+conventional thresholds.**
+
+The market backdrop for this break is externally observable in the
+Nifty 50 and India VIX series (Chapter 3, §3.5). The Nifty peaked
+at 26,216 on 27 September 2024 and then corrected roughly 15 percent
+by the February–March 2025 trough; India VIX rose from a 13–14 range
+in late 2024 to a 16–18 range through the first half of 2025. The
+IPO regime shift is therefore not a phantom of the return data but
+reflects an actual change in market conditions during the study
+period.
 
 ## 5.5 Empirical commitments carried into feature engineering
 
 The findings of Sections 5.1 through 5.4 justify a set of specific,
 evidence-grounded decisions that shape feature engineering
 (Chapter 6) and modelling (Chapters 8 and 9). These decisions are
-recorded formally as D-15 through D-24 in Appendix A; the summary
-here is intended to make the connection between EDA finding and
-design choice transparent to the reader.
+recorded formally in Appendix A; the summary here is intended to make
+the connection between EDA finding and design choice transparent to
+the reader.
 
-**Transformations.** Six positive-only variables with |skew| > 5
-(`total_issue_size`, `fresh_issue`, `ofs`, `revenue`, `assets`,
-`borrowing`) are `log1p`-transformed in the feature set (D-15).
-`sub_total` and `issue_price` are additionally provided in
-log-transformed form for linear-model baselines.
+**Transformations.** Non-negative variables with meaningful raw skew
+and clear log-transform benefit are transformed with `log1p` in the
+feature set (D-15). This includes `revenue`, `assets`, `borrowing`,
+`total_issue_size`, `fresh_issue`, `ofs`, `issue_price`, and
+`sub_total`. Skewness reductions range from an order of magnitude
+(revenue, 20.04 → 0.29) to modest (sub_total, 1.99 → −0.07); Table
+5.2 records the full before-and-after picture.
 
 **Normalisation.** `gmp_value` is normalised by `issue_price` to
 form `gmp_return`, a dimensionless quantity comparable across IPOs
@@ -542,33 +554,54 @@ interpretability concern that raw ₹ premium is not directly
 comparable across issues.
 
 **Redundancy elimination.** The mechanical `lot_size × issue_price
-≈ 15,000` relationship (Spearman −0.968) is resolved by retaining
-`issue_price` and dropping `lot_size` (D-17). The `fresh_issue`,
-`ofs`, `total_issue_size` triple is resolved by retaining a single
-size measure and a single composition ratio `ofs_ratio = ofs /
-total` (D-18).
+≈ 15,000` relationship (Spearman −0.996) is resolved by retaining
+`issue_price` in log form only and dropping `lot_size` (D-17). The
+`fresh_issue`, `ofs`, `total_issue_size` triple is resolved by
+adding a single composition ratio `ofs_ratio = ofs / (fresh + ofs)`
+alongside the log-transformed levels (D-18). `face_value` is
+dropped entirely on the strength of its near-zero correlation with
+the target (|ρ| = 0.02) and its degenerate single-observation
+category (D-25).
 
-**Financial ratios.** The five raw financial levels are converted
-into three dimensionless ratios: `profit_margin = profit / revenue`,
-`return_on_assets = profit / assets`, `debt_to_equity = borrowing /
-net_worth` (D-19). The six IPOs with non-positive `net_worth`
-receive a NaN in the ratio and a companion `negative_networth_flag`
-(D-20).
+**Financial ratios and scale.** Alongside the log-transformed levels
+(`revenue_log1p`, `assets_log1p`, `borrowing_log1p`) the pipeline
+constructs three dimensionless ratios: `profit_margin = profit /
+revenue`, `return_on_assets = profit / assets`, `debt_to_equity =
+borrowing / net_worth` (D-19). The five IPOs with non-positive
+`net_worth` (Stove Kraft, Chemplast Sanmar, DCX Systems, SAMHI
+Hotels, Indiqube Spaces) receive a NaN in `debt_to_equity` and a
+companion `negative_networth_flag` (D-20).
 
 **Broker signals.** Given the sparse and step-shaped relationship
-of `brokers_avoid` with the target, the count is binarised into a
-composite `broker_sentiment` alongside `brokers_subscribe` (D-21).
-The precise form of the sentiment feature is settled in Chapter 6.
-
-**Regime handling.** The corrected regime boundary is 2024/2025.
-Any regime dummy or interaction term is anchored to a listing date
-on or after 2025-01-01 (D-22).
+of `brokers_avoid` with the target, a binary `any_avoid_flag` is
+constructed as `brokers_avoid > 0`. Both raw counts
+(`brokers_subscribe`, `brokers_avoid`) are also retained in the
+feature file so that XGBoost can use their graded distinctions
+where useful (D-21).
 
 **Reporting.** Model performance in Chapter 9 is reported
 separately for the GMP-available and GMP-absent slices of the test
 set (D-23), and features flagged as year-conditionally unstable in
-Section 5.4.2 (`brokers_avoid`, `nifty_30d_return`, `assets`) are
-noted as such when their SHAP importance is presented (D-24).
+Section 5.4.2 (`brokers_avoid`, `nifty_30d_return`, `nifty_7d_return`,
+`assets`) are noted as such when their SHAP importance is
+presented (D-24). The `assets` sign-flip identified in Section 5.4.3
+is a particular case of this — the feature is retained in the set
+because XGBoost is robust to weak predictors and the model's actual
+use of it will be assessed in Chapter 9, but the interpretation of
+any assets-related SHAP contribution on the test set must reference
+this instability.
+
+**Regime handling.** No dedicated regime dummy is included in the
+feature set. The corrected regime boundary is 2024/2025 as
+established in Section 5.4.4, but the market-context features
+(`nifty_close`, `vix_close`, `nifty_7d_return`, `nifty_30d_return`)
+already carry the regime information — a model looking at
+`nifty_close = 26,000` (pre-correction) versus `nifty_close =
+22,500` (mid-correction) can condition its predictions on the same
+underlying signal. Adding a binary dummy anchored to a specific
+date chosen from the EDA distribution would risk using
+test-period statistics to design a feature, which the dissertation
+methodology avoids (D-22).
 
 Chapter 6 implements the feature-engineering pipeline embodied by
 these decisions.

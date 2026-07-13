@@ -1,35 +1,62 @@
-# ============================================================
-# Hritik Thesis - Dependencies
-# ============================================================
-# Install: pip install -r requirements.txt
-# ============================================================
+# ==============================================================================
+# Hritik Thesis — Dependencies
+# ==============================================================================
+# Install:
+#     pip install -r requirements.txt
+#     playwright install chromium        # one-time, after playwright is installed
+#
+# System-level dependency (macOS: `brew install tesseract` — Linux usually
+# has it pre-installed): pymupdf4llm loads Tesseract at import time even
+# though we don't rely on OCR for our text-native prospectus PDFs.
+#
+# Tested with Python 3.14.
+# ==============================================================================
 
-# --- Core ---
+
+# --- Core scientific stack -----------------------------------------------------
 pandas
 numpy
-openpyxl                # reading Ghosh .xlsx file
+scipy
+statsmodels             # LOWESS smoother (Ch 5 EDA); Clark-West helpers (Ch 9)
 
-# --- Data Collection (already done, but keeping for reproducibility) ---
-playwright
-requests
-yfinance
-certifi                 # SSL fix for macOS
 
-# --- PDF Reading & LLM Extraction ---
-pymupdf                 # PDF text extraction (import as fitz)
-pydantic                # schema validation for LLM outputs
-instructor              # structured LLM output enforcement
-anthropic               # Anthropic API (or use openai if using GPT)
+# --- Data collection (Chapter 3, already run) ----------------------------------
+playwright              # headless-browser scrapes: Chittorgarh, InvestorGain
+requests                # SEBI PDF downloads
+yfinance                # Nifty 50 and India VIX daily
+openpyxl                # reads Ghosh cross-validation .xlsx
+rapidfuzz               # fuzzy company-name matching for the SEBI index
+pypdf                   # PDF verification in the collection scripts (05, 06, 07)
+cryptography            # AES-decrypt for the Exxaro Tiles prospectus PDF
+certifi                 # SSL cert bundle (macOS fix)
 
-# --- Modeling ---
-scikit-learn
-xgboost
-shap                    # model interpretation
 
-# --- Visualization ---
-matplotlib
-seaborn
+# --- Risk Factors extraction (script 03a) --------------------------------------
+pymupdf                 # PDF text/structure extraction (imports as `pymupdf` or `fitz`)
+pymupdf4llm             # PDF → Markdown, preserves table structure for LLM ingestion
 
-# --- Utilities ---
-tqdm     
-scipy               # progress bars
+
+# --- LLM structured extraction (script 03b, upcoming) --------------------------
+pydantic                # typed schema for LLM outputs
+instructor              # wraps Anthropic/OpenAI clients with Pydantic-schema enforcement
+# anthropic               # Claude Sonnet 4.6 — the primary extraction model
+# openai                  # GPT-4o — SQ3 model comparison on the 40-IPO validation subset
+
+
+# # --- Modelling and evaluation (Chapters 8–9, upcoming) -------------------------
+# scikit-learn            # Ridge baseline, imputers, metrics, temporal-split utilities
+# xgboost                 # primary gradient-boosted model
+
+
+# # --- Interpretability (Chapter 9, upcoming) ------------------------------------
+# shap                    # SHAP values for feature importance (SQ2)
+
+
+# # --- Visualisation -------------------------------------------------------------
+# matplotlib
+# seaborn                 # optional companion to matplotlib for EDA figures
+
+
+# # --- Utilities -----------------------------------------------------------------
+# tqdm                    # progress bars for the 416-PDF LLM extraction loop
+# pyyaml                  # config files (mentioned as part of the standard stack)

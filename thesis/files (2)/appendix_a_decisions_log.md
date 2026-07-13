@@ -21,8 +21,10 @@ excluded.
 **Justification.** SME issues follow a different listing regime with
 substantially different investor eligibility and pricing behaviour. REITs
 and InvITs are structured products whose first-day dynamics are not
-comparable to ordinary equity IPOs. Including them would introduce
-population heterogeneity that would confound any modelling claim.
+comparable to ordinary equity IPOs. FPOs are follow-on offerings by
+already-listed companies and are subject to a different underpricing
+mechanism (Rock, 1986). Including any of these would introduce population
+heterogeneity that would confound any modelling claim.
 
 ## D-02 · Target definition: close-based first-day return
 
@@ -42,7 +44,7 @@ alternative would yield essentially the same modelling problem.
 
 **Locked:** at project start.
 **Decision.** Train, validation, and test splits are always defined by
-listing date. Train ≤ 2023 (196 IPOs), validation = 2024 (91 IPOs),
+listing date. Train ≤ 2023 (194 IPOs), validation = 2024 (90 IPOs),
 test = 2025–2026 (132 IPOs). No random splitting or k-fold cross-validation
 that crosses year boundaries is used at any point.
 **Justification.** IPO pricing behaviour is time-dependent (see the
@@ -150,9 +152,9 @@ target or for skewed features, the primary summary statistics are the
 median and the interquartile range. Mean and standard deviation may be
 reported alongside, but never alone.
 **Justification.** The target `first_day_return` has skew 2.36 and excess
-kurtosis 8.69 (Section 5.1.1). Extreme values (in particular Sigachi
+kurtosis 8.64 (Section 5.1.1). Extreme values (in particular Sigachi
 Industries at +270 percent) drag the mean substantially above the median
-(21.3 percent vs 11.5 percent). Reporting mean-only would give a distorted
+(21.3 percent vs 11.4 percent). Reporting mean-only would give a distorted
 picture of the "typical" IPO experience.
 
 ## D-12 · Model-error metric family: MAE and median absolute error primary; RMSE secondary
@@ -228,20 +230,19 @@ current error count.
 ## D-15 · `log1p` transformation for right-skewed positive predictors
 
 **Locked:** 12 July 2026, during univariate EDA (Section 5.2.2).
-**Decision.** The six strictly non-negative continuous predictors with
-raw skewness above 5 — `total_issue_size`, `fresh_issue`, `ofs`,
-`revenue`, `assets`, and `borrowing` — are transformed by `log1p` in
-the feature set produced by Chapter 6. `sub_total` and `issue_price`
-are additionally provided in `log1p`-transformed form as alternative
-inputs to any linear or Ridge baseline model; the raw forms remain
-available for the tree-based primary model, which is invariant to
-monotonic transformations.
+**Decision.** Eight strictly non-negative continuous predictors are
+transformed by `log1p` in the feature set produced by Chapter 6:
+`total_issue_size`, `fresh_issue`, `ofs`, `revenue`, `assets`,
+`borrowing`, `issue_price`, and `sub_total`. For each variable the log-
+transformed form is retained in the feature file. The raw forms of
+`issue_price` and `sub_total` are **not** additionally retained (see
+D-27 for the reasoning against raw+log double-inclusion).
 **Justification.** `log1p` reduces the skewness of the affected
-variables by roughly an order of magnitude, moving them from
-extremely long-tailed to approximately symmetric (Table 5.2). The
-transformation is applied uniformly rather than by variable-specific
-tuning to preserve interpretability and to avoid overfitting the
-transformation to the training set.
+variables substantially, moving them from extremely long-tailed to
+approximately symmetric (Table 5.2 / Table 6.1). The transformation is
+applied uniformly rather than by variable-specific tuning to preserve
+interpretability and to avoid overfitting the transformation to the
+training set.
 
 ## D-16 · `gmp_return` normalisation of raw grey-market premium
 
@@ -256,65 +257,71 @@ Normalising by issue price makes the signal comparable across IPOs.
 This also side-steps the mixed-sign problem that would otherwise
 preclude direct `log1p` transformation of the raw `gmp_value`. LOWESS
 evidence in Figure 5.8 confirms the log-shape relationship between
-grey-market premium and first-day return, motivating a further
-`log1p`-of-`(1 + gmp_return)` variant for linear baselines.
+grey-market premium and first-day return.
 
 ## D-17 · Drop `lot_size` in favour of `issue_price`
 
 **Locked:** 12 July 2026, following bivariate EDA (Section 5.3.1).
-**Decision.** `lot_size` is removed from the feature set. `issue_price`
-is retained.
+**Decision.** `lot_size` is removed from the feature set.
+`issue_price_log1p` is retained.
 **Justification.** SEBI requires the minimum retail application amount
 to be approximately ₹15,000, so `issue_price × lot_size ≈ 15,000`
 holds mechanically for every mainboard IPO. This produces a Spearman
-correlation of −0.968 between the two variables (Figure 5.6), which
+correlation of −0.996 between the two variables (Figure 5.6), which
 would cause severe multicollinearity in a linear model and would
 split SHAP importance across two co-referring features in an XGBoost
 interpretation. `issue_price` is retained rather than `lot_size`
 because it is the more directly interpretable of the two.
 
-## D-18 · Deal-size composition via a single size measure and one ratio
+## D-18 · Deal-size composition: log-scale components plus one composition ratio
 
 **Locked:** 12 July 2026, following bivariate EDA (Section 5.3.1).
 **Decision.** The three deal-size components `total_issue_size`,
-`fresh_issue`, and `ofs` are not entered into the feature set as raw
-levels. Instead, a single log-transformed size (`total_issue_size_log`)
-plus a single composition ratio `ofs_ratio = ofs / total_issue_size`
-are used. IPOs with no offer-for-sale component have `ofs_ratio = 0`;
-IPOs with no fresh-issue component have `ofs_ratio = 1`.
+`fresh_issue`, and `ofs` are entered into the feature set in
+log-transformed form (`total_issue_size_log1p`, `fresh_issue_log1p`,
+`ofs_log1p`), and a single composition ratio
+`ofs_ratio = ofs / (fresh + ofs)` is additionally computed. IPOs with
+no offer-for-sale component have `ofs_ratio = 0`; IPOs with no
+fresh-issue component have `ofs_ratio = 1`.
 **Justification.** By construction `total_issue_size = fresh_issue +
-ofs`, so all three components are algebraically related. Their raw
+ofs`, so the three components are algebraically related. Their raw
 pairwise correlations of 0.80 to 0.82 (Figure 5.6) reflect this
-identity. An earlier feature-engineering attempt also introduced
+identity. Keeping the log-scale components alongside the composition
+ratio is a modelling-agnostic choice: XGBoost may find interactions
+between the size components that the composite ratio does not
+expose, while linear baselines can drop the redundant components at
+model time. An earlier feature-engineering attempt also introduced
 `fresh_ratio = 1 − ofs_ratio`, which is perfectly redundant with
 `ofs_ratio`; that error is retired under D-09.
 
-## D-19 · Financial variables enter as dimensionless ratios, not raw levels
+## D-19 · Financial variables enter both as log-scale levels and dimensionless ratios
 
 **Locked:** 12 July 2026, following bivariate EDA (Section 5.3.1).
-**Decision.** The five raw financial variables (`revenue`, `profit`,
-`assets`, `net_worth`, `borrowing`) are converted into three
-dimensionless ratios: `profit_margin = profit / revenue`,
+**Decision.** Three raw financial variables (`revenue`, `assets`,
+`borrowing`) are entered as log-transformed levels (`revenue_log1p`,
+`assets_log1p`, `borrowing_log1p`). Three dimensionless ratios are
+additionally constructed: `profit_margin = profit / revenue`,
 `return_on_assets = profit / assets`, and `debt_to_equity =
-borrowing / net_worth`. Raw `revenue` and `assets` are additionally
-retained in `log1p` form to capture company-scale information not
-carried by the ratios.
+borrowing / net_worth`. Raw `profit` and `net_worth` do not enter
+the feature set directly — they are sign-mixed and heavily skewed,
+and enter naturally via the ratios above.
 **Justification.** The five raw financials form a company-size cluster
-with pairwise Spearman correlations of 0.5 to 0.84 (Figure 5.6),
+with pairwise Spearman correlations of 0.5 to 0.86 (Figure 5.6),
 reflecting the standard confound that larger companies are large on
-every dimension. Ratios normalise for scale and are substantially
-less collinear than the levels they derive from, while retaining
-economically meaningful interpretation (profitability, asset
-efficiency, leverage).
+every dimension. Ratios normalise for scale and capture composition
+(profitability, asset efficiency, leverage). Log-scale levels are
+also retained because they carry company-scale information that the
+scale-free ratios by construction do not; a modelling-agnostic
+feature file provides both.
 
 ## D-20 · Negative net-worth handling in `debt_to_equity`
 
 **Locked:** 12 July 2026, following univariate EDA (Section 5.2.2).
-**Decision.** For IPOs with `net_worth ≤ 0` (six observations across
-the study period, most prominently Vodafone Idea 2024),
-`debt_to_equity` is set to NaN and a companion flag
-`negative_networth_flag` is set to 1. All other IPOs receive the
-computed ratio and a flag of 0.
+**Decision.** For IPOs with `net_worth ≤ 0` (five observations in the
+416-IPO study population: Stove Kraft, Chemplast Sanmar, DCX Systems,
+SAMHI Hotels, and Indiqube Spaces), `debt_to_equity` is set to NaN
+and a companion flag `negative_networth_flag` is set to 1. All other
+IPOs receive the computed ratio and a flag of 0.
 **Justification.** A negative net-worth denominator makes
 `debt_to_equity` uninterpretable as a leverage measure (a highly
 indebted, solvent company and an insolvent company can yield
@@ -322,42 +329,49 @@ similarly-signed ratios of similar magnitude). Setting NaN preserves
 missingness information for XGBoost's native handling, and the flag
 allows the model to condition on the qualitative fact of
 insolvency separately from the quantitative leverage measure.
+**Revision note (D-26).** The count of five reflects the 416-IPO
+dataset after the FPO exclusion documented in D-26. An earlier
+version of this entry recorded six non-positive-net-worth cases; the
+sixth (Vodafone Idea 2024, net_worth −₹97,932 crore) is removed by
+D-26 because it is an FPO rather than an IPO.
 
-## D-21 · Broker sentiment as a composite feature
+## D-21 · Broker sentiment: any-avoid flag alongside raw counts
 
 **Locked:** 12 July 2026, following bivariate EDA (Section 5.3.2).
-**Decision.** `brokers_avoid` and `brokers_subscribe` are combined into
-a composite `broker_sentiment` feature, computed as
+**Revised:** by D-27, 12 July 2026.
+**Original decision.** `brokers_avoid` and `brokers_subscribe` were
+combined into a composite `broker_sentiment` feature computed as
 `brokers_subscribe − brokers_avoid`. A binary companion
-`any_avoid_flag = 1 if brokers_avoid > 0 else 0` is additionally
+`any_avoid_flag = 1 if brokers_avoid > 0 else 0` was additionally
 supplied.
-**Justification.** The LOWESS smoother for `brokers_avoid` in
+**Original justification.** The LOWESS smoother for `brokers_avoid` in
 Figure 5.8 is essentially a step function: the difference between
 zero avoid-recommendations and any avoid-recommendation is large,
 but the marginal information from a second or third avoid is small.
-The raw count is also 74 percent zeros. Binarising captures the
-step, and the composite retains the graded information carried by
-`brokers_subscribe`. Both raw counts are also retained in the
-feature file so that model comparisons can be run against them.
+The raw count is also 74 percent zeros.
+**Revised decision (D-27).** The composite `broker_sentiment` is not
+included in the feature file. Both raw counts (`brokers_subscribe`,
+`brokers_avoid`) are retained in the feature file alongside
+`any_avoid_flag`, so that downstream models can combine them as they
+choose. See D-27 for the reasoning.
 
 ## D-22 · Regime boundary anchored at 2025-01-01
 
 **Locked:** 12 July 2026, following the regime-break test
 (Section 5.4.4).
-**Decision.** Any regime-conditional feature, dummy variable, or
-interaction term uses a listing date of 2025-01-01 as the boundary:
-`regime_post_2024 = 1 if listing_date >= 2025-01-01 else 0`. Earlier
-analyses that used a 2024-01-01 boundary (informed by the initial
-train / validation split) are treated as superseded.
-**Justification.** The Mann-Whitney U test at the pre-2025 versus
-2025+ boundary yields p = 5.05 × 10⁻⁷, approximately 56,000 times
-smaller than the p-value at the pre-2024 versus 2024+ boundary
-(p = 2.85 × 10⁻²). Mood's median test corroborates
-(p = 2.61 × 10⁻⁶ at the 2025-01-01 boundary). The 2025-01-01 boundary
-is the empirically correct regime split point. This decision does not
-alter the temporal train / validation / test split, which remains
-train ≤ 2023, validation = 2024, test = 2025-26 per D-03. It
-concerns only how a regime signal is encoded as a feature.
+**Revised:** by D-28, 12 July 2026.
+**Original decision.** A binary feature `regime_post_2024 = 1 if
+listing_date >= 2025-01-01 else 0` was added to the feature file to
+encode the regime boundary identified in Section 5.4.4.
+**Original justification.** The Mann-Whitney U test at the pre-2025
+versus 2025+ boundary yields p = 6.20 × 10⁻⁷, approximately 45,000
+times smaller than the p-value at the pre-2024 versus 2024+ boundary
+(p = 2.81 × 10⁻²). Mood's median test corroborates
+(p = 2.13 × 10⁻⁶ at the 2025-01-01 boundary).
+**Revised decision (D-28).** No regime dummy is included in the
+feature file. The regime signal is carried by the market-context
+features (`nifty_close`, `vix_close`, `nifty_7d_return`,
+`nifty_30d_return`) instead. See D-28 for the reasoning.
 
 ## D-23 · GMP-slice reporting in Chapter 9
 
@@ -387,7 +401,9 @@ or whose absolute correlation falls below 0.10, in any single year
 of the study period are flagged (with a marker or footnote) as
 "year-conditionally unstable." The current list is:
 `brokers_avoid`, `nifty_30d_return`, `nifty_7d_return`, `assets`.
-This list is refreshed if features are added or removed in Chapter 6.
+`assets` is included on account of the sign-flip documented in
+Section 5.4.3 (train −0.24 → test +0.11). This list is refreshed if
+features are added or removed in Chapter 6.
 **Justification.** Section 5.4.2 shows that these features carry a
 predictive signal in some years and none (or a reversed sign) in
 others. A high SHAP importance for such a feature indicates that the
@@ -396,8 +412,118 @@ feature will contribute cleanly to test-set predictions. Flagging
 these features in interpretation is intellectually honest and
 prevents over-claiming.
 
+## D-25 · Drop `face_value` from the feature set
+
+**Locked:** 12 July 2026, during feature engineering (Chapter 6).
+**Decision.** `face_value` is not included in the numeric feature
+matrix.
+**Justification.** Two factors motivate the drop. First, the
+target-correlation evidence in Section 5.3.2 shows Spearman ρ = −0.02
+between `face_value` and `first_day_return`, indistinguishable from
+noise. Second, the variable has a degenerate category structure:
+the value ₹4 is taken by exactly one IPO in the study (Nazara
+Technologies, 2021), which would either require pooling with a
+neighbouring category (a hard-to-defend one-off patch) or would
+force any one-hot encoding to include a column that is 1 for a
+single observation. Given the absence of any predictive value, the
+cleanest resolution is exclusion.
+
+## D-26 · Removal of three Follow-on Public Offers from the working dataset
+
+**Locked:** 13 July 2026, revisiting Chapter 4 §4.3.
+**Decision.** Three listings recorded by the Chittorgarh IPO tracker
+as mainboard IPOs are, on closer examination, Follow-on Public
+Offers (FPOs) by already-listed companies and are removed from the
+master by exact-name match in `src/processing/01_data_cleaning.py`:
+
+1. Yes Bank Ltd. (listed 27 July 2020; ₹15,000 crore FPO)
+2. Ruchi Soya Industries Ltd. (listed 8 April 2022; ₹4,300 crore FPO)
+3. Vodafone Idea Ltd. (listed 25 April 2024; ₹18,000 crore FPO)
+
+After the exclusion the master contains 416 mainboard equity IPOs,
+down from 419 (which was the count after the REIT/InvIT exclusion
+in the original §4.3).
+
+**Justification.** Chapter 1 §1.4 excludes FPOs from the study on
+theoretical grounds. The underpricing mechanism proposed by Rock
+(1986) — asymmetric information between issuer and investor at the
+moment of first listing — cannot apply to an offering by a company
+whose shares have been trading publicly for years. Whatever
+explains an FPO's first-day return is a fundamentally different
+mechanism from IPO underpricing and should not be pooled with the
+primary sample. The exclusion is on economic-scope grounds, not on
+data-availability grounds: all three companies have Red Herring
+Prospectuses on SEBI's Public Issues portal (Ruchi Soya
+additionally filed a Draft RHP), and their RHPs contain risk-factor
+disclosures comparable to those of the retained IPOs.
+
+The exclusion is by exact-name match rather than regex to avoid the
+risk that a substring like "Yes Bank" could accidentally match
+another company.
+
+**Downstream cascade.** The FPO exclusion required re-running the
+data-cleaning script, the feature-engineering script, and all four
+EDA scripts. The re-run confirmed that no feature-engineering
+decision needed to change on the 416-row sample versus the 419-row
+sample: skewness ordering, redundancy correlations, and the regime
+break p-value are all essentially unchanged.
+
+## D-27 · Broker sentiment: raw counts + any-avoid flag, no composite
+
+**Locked:** 13 July 2026, revising D-21.
+**Decision.** The feature file provides `brokers_subscribe`,
+`brokers_avoid`, and `any_avoid_flag`. The composite
+`broker_sentiment = brokers_subscribe − brokers_avoid` originally
+constructed under D-21 is not included.
+**Justification.** A subtraction of the avoid count from the
+subscribe count conflates two independent signals. An IPO with
+twelve subscribes and two avoids scores the same net sentiment
+(+10) as an IPO with ten subscribes and zero avoids (+10) — but
+these are meaningfully different configurations, and the composite
+does not preserve the distinction. The current design provides
+both raw counts and the binary any-avoid flag separately, and
+lets downstream models combine them as they will.
+
+Whether raw `brokers_avoid` is redundant with `any_avoid_flag`
+given the 74-percent-zero step-function structure is a
+modelling-time question rather than a feature-engineering-time
+question. Linear baselines are expected to drop one or the other;
+XGBoost is expected to use whichever gives cleaner splits at each
+node.
+
+## D-28 · No regime dummy in the feature file
+
+**Locked:** 13 July 2026, revising D-22.
+**Decision.** The feature file does not include a `regime_post_2024`
+dummy or any equivalent binary indicator of the 2024–2025 regime
+boundary. The regime signal is carried entirely by the market-
+context features (`nifty_close`, `vix_close`, `nifty_7d_return`,
+`nifty_30d_return`).
+**Justification.** The original D-22 anchored the regime dummy at
+2025-01-01 because the Mann-Whitney U test in Section 5.4.4
+yielded its smallest p-value at that boundary. That test used the
+test-period observations (2025–2026) as part of its sample when
+computing the p-value at each candidate boundary. Choosing the
+anchor date on the basis of that test therefore consulted
+test-period information at feature-design time — a form of
+information leakage that this dissertation's methodology otherwise
+avoids.
+
+Two clean resolutions are available: (a) anchor the dummy at an
+externally-verifiable market event (the Nifty peaked at 26,216 on
+27 September 2024 and corrected roughly 15 percent through
+February–March 2025), or (b) omit the dummy and rely on the
+market-context features to carry the regime signal. Option (b) is
+adopted because the market-context features are already in the
+feature set (`nifty_close`, `vix_close`, and the two trailing
+returns), a model can distinguish pre- and post-correction periods
+directly from their values (`nifty_close ≈ 26,000` versus
+`≈ 22,500`), and adding a binary dummy on top would introduce
+redundancy without adding information. Option (a) remains a
+defensible alternative and can be added as a sensitivity analysis
+in Chapter 8 if validation-set performance warrants it.
+
 ---
 
 *Additional entries will be added as further decisions are made during
-feature engineering (Chapter 6), LLM extraction (Chapter 7), and modelling
-(Chapter 8).*
+LLM extraction (Chapter 7), and modelling (Chapter 8).*

@@ -18,7 +18,7 @@ capital at a scale that makes accurate pre-listing forecasting materially
 useful. At the same time, media attention has concentrated on a small number
 of extreme first-day gains, which are unrepresentative of the typical listing
 experience: in the dataset assembled for this study, the median first-day
-return is 11.5 percent while the mean is 21.3 percent, reflecting a distinctly
+return is 11.4 percent while the mean is 21.3 percent, reflecting a distinctly
 right-skewed distribution.
 
 The pricing of an IPO is set in a book-building process during which

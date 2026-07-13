@@ -1,0 +1,2 @@
+n_train_val,spearman_rho,p_value,note
+284,-0.0025,0.966609711604201,Computed on year <= 2024 only (train + val). Test rows (2025-2026) excluded to preserve leakage discipline.

@@ -5,7 +5,7 @@ cleaned, analysis-ready master dataset used by all downstream steps in the
 dissertation. The cleaning pipeline is implemented in
 `src/processing/00_pre_cleaning_audit.py` (a read-only diagnostic pass) and
 `src/processing/01_data_cleaning.py` (the actual cleaning), and it produces
-`data/processed/master_ipo_dataset.csv` with 419 rows and 29 columns.
+`data/processed/master_ipo_dataset.csv` with 416 rows and 29 columns.
 
 ## 4.1 Design principles
 
@@ -31,7 +31,7 @@ with the decision in Appendix A.
 
 ## 4.2 Cleaning pipeline
 
-The pipeline executes nine steps.
+The pipeline executes ten steps.
 
 1. **Load.** `raw_ipo_details.csv` is read (434 rows × 30 columns).
 2. **Parse strings to numbers.** Columns delivered as human-readable strings
@@ -39,21 +39,24 @@ The pipeline executes nine steps.
    suffixes) are parsed into numeric columns.
 3. **Drop non-equity vehicles.** REITs, InvITs, and similar trusts are
    removed by name pattern (see Section 4.3).
-4. **Compute the target.** `first_day_return = (listing_close − issue_price)
+4. **Drop Follow-on Public Offers.** Three FPOs that were flagged by the
+   Chittorgarh tracker as IPOs are removed by exact name match (see
+   Section 4.3.1).
+5. **Compute the target.** `first_day_return = (listing_close − issue_price)
    / issue_price`, using the detail-page `listing_close` (locked decision,
    Section 4.4).
-5. **Parse listing dates** into pandas `Timestamp` objects.
-6. **Merge market context.** Nifty 50 and India VIX values from the trading
+6. **Parse listing dates** into pandas `Timestamp` objects.
+7. **Merge market context.** Nifty 50 and India VIX values from the trading
    day immediately preceding listing are merged in via `merge_asof`; a
    seven-day and thirty-day trailing Nifty return are computed from the same
    source.
-7. **Merge grey-market data.** GMP is merged from `raw_gmp_data.csv` using a
+8. **Merge grey-market data.** GMP is merged from `raw_gmp_data.csv` using a
    name-aware join with an eleven-item override dictionary for
    brand-to-legal-name mappings (see Section 4.6).
-8. **Cross-validation join with Ghosh et al.** 175 IPOs overlap; issue-price
+9. **Cross-validation join with Ghosh et al.** 175 IPOs overlap; issue-price
    concordance is checked (100 percent agreement observed).
-9. **Column selection and write.** The final 29 columns are selected and
-   written to `data/processed/master_ipo_dataset.csv`.
+10. **Column selection and write.** The final 29 columns are selected and
+    written to `data/processed/master_ipo_dataset.csv`.
 
 ## 4.3 Removal of non-equity vehicles
 
@@ -85,7 +88,40 @@ Fifteen listings are matched and removed:
 14. PropShare Celestia
 15. Raajmarg Infra Investment Trust
 
-Post-removal the working dataset contains 434 − 15 = 419 IPOs.
+Post-removal the working dataset contains 434 − 15 = 419 rows, further
+reduced to 416 by the Follow-on Public Offer exclusion documented in
+§4.3.1 below.
+
+### 4.3.1 Removal of Follow-on Public Offers
+
+Three listings recorded by the Chittorgarh IPO tracker as mainboard IPOs
+are, on closer examination, Follow-on Public Offers (FPOs) by already-listed
+companies rather than initial offerings:
+
+1. **Yes Bank Ltd.** — listed 27 July 2020, ₹15,000 crore rescue capital
+   raise
+2. **Ruchi Soya Industries Ltd.** — listed 8 April 2022, ₹4,300 crore FPO
+   (post-Patanjali acquisition)
+3. **Vodafone Idea Ltd.** — listed 25 April 2024, ₹18,000 crore FPO
+
+Chapter 1 §1.4 excludes FPOs from the study on theoretical grounds. The
+underpricing mechanism identified by Rock (1986) — asymmetric information
+between issuer and investor at the moment of first listing — cannot apply
+to an offering by a company whose shares have been trading publicly for
+years. Whatever explains an FPO's first-day return is a fundamentally
+different mechanism from IPO underpricing and should not be pooled with
+the primary sample.
+
+The exclusion is by exact-name match rather than regex, to avoid the risk
+that a substring like "Yes Bank" could accidentally match another company.
+Verification of the exclusion criterion is empirical: all three companies
+had listed shares trading on both BSE and NSE for years prior to their
+respective FPO listing dates, and all three filed their FPO offer documents
+under SEBI's Regulation 155 fast-track route (Ruchi Soya additionally filed
+a DRHP), which is available only to already-listed companies.
+
+After this second exclusion the working dataset contains 419 − 3 = 416
+mainboard equity IPOs.
 
 ## 4.4 Listing-close: detail page, never tracker
 
@@ -171,7 +207,7 @@ pipeline. The details are logged in Appendix A.
 
 ## 4.8 Columns and coverage of the master dataset
 
-The master dataset `data/processed/master_ipo_dataset.csv` contains 419
+The master dataset `data/processed/master_ipo_dataset.csv` contains 416
 IPOs and 29 columns. The columns are grouped as follows.
 
 | Group | Columns |
@@ -187,7 +223,7 @@ IPOs and 29 columns. The columns are grouped as follows.
 | Listing OHLC (retained for reproducibility; NOT features) | `listing_open`, `listing_close`, `listing_high`, `listing_low` |
 
 Non-listing columns achieve close to 100 percent coverage. The columns with
-material missingness are: `fresh_issue` (81 percent), `ofs` (80 percent),
+material missingness are: `fresh_issue` (81 percent), `ofs` (81 percent),
 `gmp_value` (95 percent), `borrowing` (88 percent), `net_worth` (96 percent),
 and `revenue` / `profit` / `assets` (99 percent each).
 
@@ -201,7 +237,7 @@ it is discussed in Chapter 6.
 
 Six checks were performed on the final master, all of which pass.
 
-1. **Zero leakage.** For every one of the 419 IPOs, the joined `nifty_close`
+1. **Zero leakage.** For every one of the 416 IPOs, the joined `nifty_close`
    date is strictly *before* the listing date. This is verified explicitly
    by asserting `nifty_join_date < listing_date` on every row.
 2. **Target integrity.** Recomputing `first_day_return` from `issue_price` and
@@ -211,17 +247,18 @@ Six checks were performed on the final master, all of which pass.
    Swiggy → 0. All match the source at InvestorGain.
 4. **Structural integrity.** No duplicate `company` values;
    `face_value ∈ {1, 2, 4, 5, 10}`; `issue_price ≥ face_value` for every row.
-5. **Financial sign checks.** Forty-five IPOs report a negative `profit`
+5. **Financial sign checks.** Forty-three IPOs report a negative `profit`
    (loss-making), which is retained as valid data. Five IPOs report a
-   negative `net_worth`, which is retained but flagged for special treatment
-   in feature engineering (Chapter 6).
+   non-positive `net_worth` (Stove Kraft, Chemplast Sanmar, DCX Systems,
+   SAMHI Hotels, Indiqube Spaces), which is retained but flagged for
+   special treatment in feature engineering (Chapter 6).
 6. **Sanity on market columns.** VIX range 9.7 to 51.5. Worst trailing 30-day
    Nifty return −18 percent (SBI Cards, listed 16 March 2020, coinciding with
    the COVID-19 market crash — sanity confirmed).
 
 The distributional properties of the target on this cleaned master —
-mean 21.3 percent, median 11.5 percent, minimum −35.9 percent (Om Freight),
-maximum +270.4 percent (Sigachi), positive share 71.1 percent — form the
+mean 21.3 percent, median 11.4 percent, minimum −35.9 percent (Om Freight),
+maximum +270.4 percent (Sigachi), positive share 70.9 percent — form the
 subject of Chapter 5.
 
 ## 4.10 Temporal split preview
@@ -233,9 +270,9 @@ but the counts are useful for planning.
 
 | Split | Years | IPO count |
 |---|---|---|
-| Train | 2019–2023 | 196 |
-| Validation | 2024 | 91 |
+| Train | 2019–2023 | 194 |
+| Validation | 2024 | 90 |
 | Test | 2025–2026 | 132 |
-| **Total** | 2019–2026 | **419** |
+| **Total** | 2019–2026 | **416** |
 
 No random splitting is used at any point in this dissertation.
