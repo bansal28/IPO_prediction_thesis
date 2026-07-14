@@ -93,7 +93,7 @@ C.E.Info systems Ltd.,2021,2021-12-21,0.35,C_E_Info_systems_Ltd_,148397,22952,63
 Metro Brands Ltd.,2021,2021-12-22,-0.0128999999999999,Metro_Brands_Ltd_,162816,25617,69,69,0,,False,4,4,0,0,0,1,0,0,4,0,11,10,0,0,10,ok,ok
 Medplus Health Services Ltd.,2021,2021-12-23,0.4081030150753768,Medplus_Health_Services_Ltd_,155596,24170,65,65,0,,False,1,9,0,0,0,16,0,0,6,1,2,9,1,3,0,ok,ok
 Data Patterns (India) Ltd.,2021,2021-12-24,0.2903418803418803,Data_Patterns__India__Ltd_,154958,24170,66,66,0,,False,1,4,1,0,0,7,0,1,1,0,4,3,0,0,0,ok,ok
-HP Adhesives Ltd.,2021,2021-12-27,0.2224452554744525,HP_Adhesives_Ltd_,5299,806,0,0,0,,False,0,0,0,0,0,0,0,1,5,0,4,3,0,0,0,ok,ok
+HP Adhesives Ltd.,2021,2021-12-27,0.2224452554744525,HP_Adhesives_Ltd_,163962,25442,76,78,2,"25,26",False,2,8,0,0,0,3,1,1,6,1,3,3,0,0,0,ok,ok
 Supriya Lifescience Ltd.,2021,2021-12-28,0.4246350364963504,Supriya_Lifescience_Ltd_,110678,17152,57,57,0,,False,0,5,2,0,0,0,0,0,4,0,4,6,0,0,0,ok,ok
 CMS Info Systems Ltd.,2021,2021-12-31,0.0990740740740741,CMS_Info_Systems_Ltd_,166215,26110,59,59,0,,False,2,0,3,0,0,12,0,0,7,0,1,7,0,0,0,ok,ok
 AGS Transact Technologies Ltd.,2022,2022-01-31,-0.0782857142857142,AGS_Transact_Technologies_Ltd_,169928,26693,67,67,0,,False,11,3,4,0,0,1,0,2,3,0,9,21,5,0,11,ok,ok
@@ -124,7 +124,7 @@ Bikaji Foods International Ltd.,2022,2022-11-16,0.0581666666666666,Bikaji_Foods_
 Global Health Ltd.,2022,2022-11-16,0.2370535714285713,Global_Health_Ltd_,228455,35571,66,66,0,,False,2,18,0,0,0,10,0,0,5,0,5,12,5,0,0,ok,ok
 Archean Chemical Industries Ltd.,2022,2022-11-21,0.1251842751842751,Archean_Chemical_Industries_Ltd_,168974,26108,78,78,0,,False,0,1,2,0,0,5,1,0,6,0,4,7,3,4,10,ok,ok
 Five-Star Business Finance Ltd.,2022,2022-11-21,0.0327004219409282,Five-Star_Business_Finance_Ltd_,163268,25712,65,65,0,,False,5,6,0,0,0,1,0,6,5,0,8,3,0,0,0,ok,ok
-Kaynes Technology India Ltd.,2022,2022-11-22,0.1756388415672913,Kaynes_Technology_India_Ltd_,3978,564,1,2,1,1,False,0,0,1,0,0,0,0,0,7,0,3,0,0,2,0,ok,ok
+Kaynes Technology India Ltd.,2022,2022-11-22,0.1756388415672913,Kaynes_Technology_India_Ltd_,221535,34352,89,89,0,,False,0,3,4,0,0,16,0,0,8,0,10,2,0,0,0,ok,ok
 Inox Green Energy Services Ltd.,2022,2022-11-23,-0.0907692307692307,Inox_Green_Energy_Services_Ltd_,162569,25540,72,72,0,,False,13,1,0,1,0,1,1,9,8,0,10,9,3,2,5,ok,ok
 Keystone Realtors Ltd.,2022,2022-11-24,0.0310536044362291,Keystone_Realtors_Ltd_,189939,29413,73,73,0,,False,3,3,0,0,0,1,15,15,3,1,7,10,2,0,10,ok,ok
 Dharmaj Crop Guard Ltd.,2022,2022-12-08,0.1240506329113923,Dharmaj_Crop_Guard_Ltd_,170727,26313,78,78,0,,False,1,4,2,0,0,1,0,0,7,0,5,7,0,5,1,ok,ok
@@ -137,14 +137,14 @@ Elin Electronics Ltd.,2022,2022-12-30,-0.0777327935222671,Elin_Electronics_Ltd_,
 Radiant Cash Management Services Ltd.,2023,2023-01-04,0.1138297872340425,Radiant_Cash_Management_Services_Ltd_,146787,23090,56,56,0,,False,4,1,2,0,0,1,0,0,9,0,6,5,4,13,3,ok,ok
 Sah Polymers Ltd.,2023,2023-01-12,0.3730769230769231,Sah_Polymers_Ltd_,193689,30344,73,79,6,"38,39,40,41,42,70",False,0,10,1,1,0,1,0,0,4,1,8,4,0,0,6,ok,ok
 Divgi TorqTransfer Systems Ltd.,2023,2023-03-14,0.0256779661016948,Divgi_TorqTransfer_Systems_Ltd_,149358,23314,68,68,0,,False,0,1,8,0,0,1,0,0,4,0,6,7,0,0,0,ok,ok
-Global Surfaces Ltd.,2023,2023-03-23,0.2207142857142857,Global_Surfaces_Ltd_,5685,846,0,0,0,,False,0,0,0,0,0,0,0,0,6,0,5,3,0,0,0,ok,ok
+Global Surfaces Ltd.,2023,2023-03-23,0.2207142857142857,Global_Surfaces_Ltd_,173271,27070,80,81,1,11,False,0,7,2,1,0,3,0,5,8,1,5,5,0,0,1,ok,ok
 Udayshivakumar Infra Ltd.,2023,2023-04-03,-0.1,Udayshivakumar_Infra_Ltd_,194131,30580,73,73,0,,False,2,2,1,0,0,0,1,0,7,0,6,9,0,0,3,ok,ok
-Avalon Technologies Ltd.,2023,2023-04-18,-0.0884174311926605,Avalon_Technologies_Ltd_,9005,1330,0,0,0,,False,0,0,0,0,0,0,0,0,4,0,2,7,0,0,0,ok,ok
+Avalon Technologies Ltd.,2023,2023-04-18,-0.0884174311926605,Avalon_Technologies_Ltd_,201799,31264,78,78,0,,False,1,3,3,1,0,1,0,0,4,0,4,10,4,0,1,ok,ok
 Mankind Pharma Ltd.,2023,2023-05-09,0.3185648148148147,Mankind_Pharma_Ltd_,242233,37132,78,78,0,,False,0,9,0,0,0,2,0,6,9,0,3,12,0,2,0,ok,ok
 IKIO Lighting Ltd.,2023,2023-06-16,0.4166666666666667,IKIO_Lighting_Ltd_,203640,31469,81,81,0,,False,0,2,7,1,0,0,1,0,6,1,2,6,0,0,0,ok,ok
 HMA Agro Industries Ltd.,2023,2023-07-04,-0.0004273504273504,HMA_Agro_Industries_Ltd_,170220,26809,79,79,0,,False,0,7,1,0,0,1,0,0,8,0,7,5,0,0,12,ok,ok
 ideaForge Technology Ltd.,2023,2023-07-07,0.9278273809523808,ideaForge_Technology_Ltd_,155713,24422,70,70,0,,False,1,5,0,0,0,1,0,0,8,0,7,9,0,0,0,ok,ok
-Cyient DLM Ltd.,2023,2023-07-10,0.5877358490566038,Cyient_DLM_Ltd_,884,117,0,0,0,,False,0,0,1,0,0,0,0,0,2,0,1,3,0,0,0,ok,ok
+Cyient DLM Ltd.,2023,2023-07-10,0.5877358490566038,Cyient_DLM_Ltd_,180459,28164,64,64,0,,False,0,4,8,2,0,2,0,1,0,0,9,5,4,0,4,ok,ok
 Senco Gold Ltd.,2023,2023-07-14,0.2774447949526814,Senco_Gold_Ltd_,208274,32628,73,73,0,,False,6,10,0,0,0,5,0,0,4,0,7,7,7,0,0,ok,ok
 Utkarsh Small Finance Bank Ltd.,2023,2023-07-21,0.9176,Utkarsh_Small_Finance_Bank_Ltd_,241326,37932,88,88,0,,False,2,20,0,0,0,1,1,3,8,0,8,12,11,2,0,ok,ok
 Netweb Technologies India Ltd.,2023,2023-07-27,0.821,Netweb_Technologies_India_Ltd_,168192,26241,85,87,2,"31,32",False,0,6,7,0,0,2,0,0,5,0,4,8,0,0,0,ok,ok
@@ -156,7 +156,7 @@ Pyramid Technoplast Ltd.,2023,2023-08-29,0.0587349397590361,Pyramid_Technoplast_
 Aeroflex Industries Ltd.,2023,2023-08-31,0.5106481481481482,Aeroflex_Industries_Ltd_,147472,23153,64,64,0,,False,1,11,0,2,0,0,0,0,0,0,9,4,0,0,0,ok_E_standalone,ok_patched
 Vishnu Prakash R.Punglia Ltd.,2023,2023-09-05,0.4740404040404041,Vishnu_Prakash_R_Punglia_Ltd_,189357,29511,81,81,0,,False,9,1,0,0,0,1,0,0,12,0,6,15,6,0,0,ok,ok
 Rishabh Instruments Ltd.,2023,2023-09-11,0.0039682539682539,Rishabh_Instruments_Ltd_,238597,36636,87,87,0,,False,1,5,2,0,0,1,0,0,6,0,7,7,0,0,6,ok,ok
-Ratnaveer Precision Engineering Ltd.,2023,2023-09-11,0.3714285714285715,Ratnaveer_Precision_Engineering_Ltd_,5133,782,0,0,0,,False,0,0,0,0,0,0,0,0,6,0,4,2,0,0,0,ok,ok
+Ratnaveer Precision Engineering Ltd.,2023,2023-09-11,0.3714285714285715,Ratnaveer_Precision_Engineering_Ltd_,186083,29079,85,85,0,,False,0,8,1,0,0,3,0,0,7,0,7,4,0,0,2,ok,ok
 Jupiter Life Line Hospitals Ltd.,2023,2023-09-18,0.4629251700680272,Jupiter_Life_Line_Hospitals_Ltd_,163970,25122,69,69,0,,False,2,11,0,0,0,1,0,0,6,0,6,16,8,0,9,ok,ok
 R R Kabel Ltd.,2023,2023-09-20,0.1561835748792271,R_R_Kabel_Ltd_,194155,29972,74,78,4,"1,48,50,64",False,0,0,0,0,0,1,0,1,6,0,7,3,2,0,1,ok,ok
 EMS Ltd.,2023,2023-09-21,0.3258293838862559,EMS_Ltd_,226073,35640,100,100,0,,False,0,5,0,0,0,2,0,0,5,0,5,6,0,0,0,ok_A_strict,ok_patched
@@ -168,7 +168,7 @@ Yatra Online Ltd.,2023,2023-09-28,-0.0426056338028169,Yatra_Online_Ltd_,237595,3
 Manoj Vaibhav Gems 'N' Jewellers Ltd.,2023,2023-10-03,0.0030232558139535,Manoj_Vaibhav_Gems__N__Jewellers_Ltd_,151383,23582,68,69,1,44,True,3,6,0,1,0,0,0,6,7,0,10,4,0,3,0,manual_review_ocr_needed,ocr
 JSW Infrastructure Ltd.,2023,2023-10-03,0.3218487394957984,JSW_Infrastructure_Ltd_,172557,26942,71,71,0,,False,0,4,6,0,0,13,0,0,8,0,8,15,0,0,0,ok,ok
 Updater Services Ltd.,2023,2023-10-04,-0.0538333333333332,Updater_Services_Ltd_,250791,39089,89,89,0,,False,0,2,4,0,0,1,1,10,5,0,7,13,1,0,0,ok,ok
-Valiant Laboratories Ltd.,2023,2023-10-06,0.2075,Valiant_Laboratories_Ltd_,8732,1313,0,0,0,,False,0,0,0,0,0,0,0,0,4,0,4,1,0,0,0,ok,ok
+Valiant Laboratories Ltd.,2023,2023-10-06,0.2075,Valiant_Laboratories_Ltd_,177204,27397,79,79,0,,False,0,4,2,2,0,3,0,0,1,1,7,4,0,0,0,ok,ok
 Plaza Wires Ltd.,2023,2023-10-12,0.4857407407407408,Plaza_Wires_Ltd_,159009,24696,73,73,0,,False,0,3,0,1,0,0,0,0,3,1,5,1,0,0,0,ok,ok
 IRM Energy Ltd.,2023,2023-10-26,-0.0634653465346535,IRM_Energy_Ltd_,181379,28942,78,78,0,,False,4,5,0,2,0,1,0,0,6,0,7,8,0,4,1,ok,ok
 Blue Jet Healthcare Ltd.,2023,2023-11-01,0.1440751445086706,Blue_Jet_Healthcare_Ltd_,151557,23592,65,66,1,16,False,0,9,0,0,0,2,0,0,7,0,4,4,0,3,0,ok,ok
@@ -228,7 +228,7 @@ DEE Development Engineers Ltd.,2024,2024-06-26,0.6502463054187192,DEE_Developmen
 Akme Fintrade (India) Ltd.,2024,2024-06-26,0.0995833333333332,Akme_Fintrade__India__Ltd_,146448,23012,63,63,0,,False,1,7,0,0,0,1,0,0,1,0,8,5,0,0,0,ok,ok
 Stanley Lifestyles Ltd.,2024,2024-06-28,0.2845528455284553,Stanley_Lifestyles_Ltd_,207296,32005,83,83,0,,False,0,7,3,1,0,1,0,2,12,0,9,8,2,0,1,ok,ok
 Allied Blenders & Distillers Ltd.,2024,2024-07-02,0.1311387900355872,Allied_Blenders___Distillers_Ltd_,230303,35654,92,92,0,,False,5,10,1,0,0,1,0,5,6,0,11,13,5,0,3,ok,ok
-Vraj Iron & Steel Ltd.,2024,2024-07-03,0.2171497584541062,Vraj_Iron___Steel_Ltd_,12443,1869,10,10,0,,False,0,0,0,0,0,0,0,0,3,0,3,8,0,2,0,ok,ok
+Vraj Iron & Steel Ltd.,2024,2024-07-03,0.2171497584541062,Vraj_Iron___Steel_Ltd_,167168,25777,66,67,1,1,False,1,3,0,1,0,0,1,0,5,1,5,9,0,1,0,ok,ok
 Bansal Wire Industries Ltd.,2024,2024-07-10,0.368359375,Bansal_Wire_Industries_Ltd_,157026,24234,45,65,20,"1,2,3,9,15,18,20,21,23,24,26,27,29,30,33,36,37,38,39,40",False,0,2,0,8,0,0,0,0,9,0,5,10,0,0,0,ok,ok
 Emcure Pharmaceuticals Ltd.,2024,2024-07-10,0.3480654761904761,Emcure_Pharmaceuticals_Ltd_,263137,40764,83,83,0,,False,5,19,0,0,0,2,0,6,8,0,0,15,10,0,3,ok,ok
 Sanstar Ltd.,2024,2024-07-26,0.2114736842105263,Sanstar_Ltd_,201196,31495,90,90,0,,False,0,4,2,1,0,1,2,0,1,0,8,6,3,0,0,ok_E_standalone,ok_patched
@@ -237,10 +237,10 @@ Ceigall India Ltd.,2024,2024-08-08,-0.0372817955112219,Ceigall_India_Ltd_,201419
 Ola Electric Mobility Ltd.,2024,2024-08-09,0.1997368421052632,Ola_Electric_Mobility_Ltd_,253633,39724,105,105,0,,False,1,7,0,2,0,2,0,0,8,0,8,12,0,2,0,ok,ok
 Brainbees Solutions Ltd.,2024,2024-08-13,0.4586021505376344,Brainbees_Solutions_Ltd_,234785,36232,84,84,0,,False,2,3,0,0,0,0,6,1,7,0,8,20,0,4,0,ok,ok
 Unicommerce eSolutions Ltd.,2024,2024-08-13,0.9449074074074076,Unicommerce_eSolutions_Ltd_,193816,29989,73,77,4,"18,19,28,29",False,2,4,0,0,0,1,0,0,0,0,10,6,0,0,0,ok,ok
-Saraswati Saree Depot Ltd.,2024,2024-08-20,0.3121874999999999,Saraswati_Saree_Depot_Ltd_,8729,1262,10,10,0,,False,0,0,0,0,0,0,0,0,4,0,4,2,0,1,1,ok,ok
+Saraswati Saree Depot Ltd.,2024,2024-08-20,0.3121874999999999,Saraswati_Saree_Depot_Ltd_,166683,26045,77,77,0,,False,0,7,0,0,0,1,0,0,0,0,13,6,1,0,5,ok,ok
 Interarch Building Products Ltd.,2024,2024-08-26,0.3283888888888888,Interarch_Building_Products_Ltd_,227406,35622,83,83,0,,False,9,6,0,2,0,1,0,4,6,0,13,13,2,0,10,ok,ok
 Orient Technologies Ltd.,2024,2024-08-28,0.4779126213592232,Orient_Technologies_Ltd_,140330,21990,78,78,0,,False,0,2,6,0,0,2,0,0,5,0,6,5,0,0,0,ok,ok
-Premier Energies Ltd.,2024,2024-09-03,0.8658888888888888,Premier_Energies_Ltd_,12662,1966,10,10,0,,False,0,0,0,0,0,0,0,0,6,0,2,5,0,4,0,ok,ok
+Premier Energies Ltd.,2024,2024-09-03,0.8658888888888888,Premier_Energies_Ltd_,244281,37785,94,94,0,,False,1,4,8,6,0,3,0,0,7,0,9,5,0,0,0,ok,ok
 ECOS (India) Mobility & Hospitality Ltd.,2024,2024-09-04,0.325748502994012,ECOS__India__Mobility___Hospitality_Ltd_,187306,29194,79,79,0,,False,4,4,10,0,0,0,0,0,0,0,9,11,0,0,0,ok,ok
 Baazar Style Retail Ltd.,2024,2024-09-06,0.0273778920308482,Baazar_Style_Retail_Ltd_,155927,24516,73,73,0,,False,0,13,0,7,0,1,0,3,4,0,10,6,0,0,1,ok,ok
 Gala Precision Engineering Ltd.,2024,2024-09-09,0.4878071833648392,Gala_Precision_Engineering_Ltd_,155721,24150,77,77,0,,False,1,2,1,0,0,3,0,0,4,0,6,8,9,0,0,ok,ok
@@ -248,7 +248,7 @@ Shree Tirupati Balajee Agro Trading Co.Ltd.,2024,2024-09-12,0.1751807228915663,S
 Tolins Tyres Ltd.,2024,2024-09-16,0.054424778761062,Tolins_Tyres_Ltd_,227298,34962,93,100,7,"93,94,95,96,97,98,99",False,0,5,0,3,0,1,0,0,5,0,5,5,0,0,0,ok_B_endash_pre,ok_patched
 Kross Ltd.,2024,2024-09-16,0.08125,Kross_Ltd_,188399,29271,81,82,1,74,False,0,2,5,1,0,1,0,0,8,0,8,3,0,0,2,ok,ok
 Bajaj Housing Finance Ltd.,2024,2024-09-16,1.3570000000000002,Bajaj_Housing_Finance_Ltd_,200232,31125,69,75,6,"2,6,7,18,44,73",False,6,16,5,0,0,2,0,0,7,0,6,9,13,2,0,ok,ok
-P N Gadgil Jewellers Ltd.,2024,2024-09-17,0.6516666666666666,P_N_Gadgil_Jewellers_Ltd_,30348,4617,0,0,0,,False,0,0,0,0,0,0,0,0,9,0,4,0,2,7,0,ok,ok
+P N Gadgil Jewellers Ltd.,2024,2024-09-17,0.6516666666666666,P_N_Gadgil_Jewellers_Ltd_,201624,31434,75,75,0,,False,1,1,0,0,0,1,0,0,7,0,11,3,1,6,0,ok,ok
 Northern Arc Capital Ltd.,2024,2024-09-24,0.2304182509505704,Northern_Arc_Capital_Ltd_,237388,36821,91,91,0,,False,2,8,0,0,0,1,0,4,8,0,8,13,22,0,0,ok,ok
 Arkade Developers Ltd.,2024,2024-09-24,0.2957031249999999,Arkade_Developers_Ltd_,142336,22342,74,74,0,,False,0,4,0,0,0,2,0,0,6,0,4,6,0,0,0,ok,ok
 Western Carriers (India) Ltd.,2024,2024-09-24,-0.0729651162790698,Western_Carriers__India__Ltd_,182265,28191,66,66,0,,False,1,7,12,0,0,1,1,3,7,2,14,14,0,0,0,ok,ok
@@ -264,7 +264,7 @@ Afcons Infrastructure Ltd.,2024,2024-11-04,0.0249460043196544,Afcons_Infrastruct
 Sagility India Ltd.,2024,2024-11-12,-0.0213333333333333,Sagility_India_Ltd_,152943,23572,66,66,0,,False,0,4,0,0,0,9,0,1,0,0,10,6,2,0,0,ok,ok
 ACME Solar Holdings Ltd.,2024,2024-11-13,-0.1228373702422145,ACME_Solar_Holdings_Ltd_,214060,33520,81,81,0,,False,0,2,0,6,0,19,1,5,4,1,19,13,0,0,0,ok,ok
 Swiggy Ltd.,2024,2024-11-13,0.169102564102564,Swiggy_Ltd_,204872,31922,84,84,0,,False,1,11,0,0,0,2,0,0,8,0,11,8,3,0,1,ok,ok
-Niva Bupa Health Insurance Co.Ltd.,2024,2024-11-14,0.0,Niva_Bupa_Health_Insurance_Co_Ltd_,36727,5619,10,10,0,,False,0,1,0,0,0,0,0,0,5,0,4,6,0,0,0,ok,ok
+Niva Bupa Health Insurance Co.Ltd.,2024,2024-11-14,0.0,Niva_Bupa_Health_Insurance_Co_Ltd_,251686,39309,79,79,0,,False,2,18,0,0,0,0,1,8,9,0,6,8,16,3,0,ok,ok
 Zinka Logistics Solutions Ltd.,2024,2024-11-22,-0.0468864468864469,Zinka_Logistics_Solutions_Ltd_,186680,28977,75,75,0,,False,2,6,0,3,0,0,0,2,0,0,7,6,0,0,0,ok,ok
 NTPC Green Energy Ltd.,2024,2024-11-27,0.1305555555555555,NTPC_Green_Energy_Ltd_,275186,42352,98,98,0,,False,0,7,0,7,0,1,0,4,1,1,8,7,0,0,0,ok,ok
 Enviro Infra Engineers Ltd.,2024,2024-11-29,0.3986486486486486,Enviro_Infra_Engineers_Ltd_,198855,31092,84,84,0,,False,0,0,0,0,0,1,0,0,7,0,1,5,0,0,0,ok,ok
@@ -275,7 +275,7 @@ Vishal Mega Mart Ltd.,2024,2024-12-18,0.4352564102564103,Vishal_Mega_Mart_Ltd_,1
 Inventurus Knowledge Solutions Ltd.,2024,2024-12-19,0.4749811888638073,Inventurus_Knowledge_Solutions_Ltd_,282526,43947,91,91,0,,False,2,17,0,0,0,2,0,5,10,0,10,14,6,4,0,ok,ok
 International Gemmological Institute (India) Ltd.,2024,2024-12-20,0.1274580335731414,International_Gemmological_Institute__India__Ltd_,170345,26500,66,66,0,,False,0,5,5,0,0,1,1,6,6,0,10,9,0,0,2,ok,ok
 Mamata Machinery Ltd.,2024,2024-12-27,1.5923868312757203,Mamata_Machinery_Ltd_,134637,20707,68,68,0,,False,0,3,10,2,0,1,0,0,4,0,9,2,0,0,9,ok,ok
-DAM Capital Advisors Ltd.,2024,2024-12-27,0.4666077738515901,DAM_Capital_Advisors_Ltd_,10575,1639,10,10,0,,False,0,1,0,0,0,0,0,0,4,0,3,3,0,0,0,ok,ok
+DAM Capital Advisors Ltd.,2024,2024-12-27,0.4666077738515901,DAM_Capital_Advisors_Ltd_,170655,26193,58,58,0,,False,1,19,0,0,0,2,0,0,7,0,15,7,0,0,0,ok,ok
 Sanathan Textiles Ltd.,2024,2024-12-27,0.2118380062305296,Sanathan_Textiles_Ltd_,228381,35541,55,97,42,"10,12,16,20,21,23,24,25,32,33,36,38,40,41,43,45,47,48,50,52",False,0,10,3,0,0,2,0,1,7,0,11,7,5,3,0,ok,ok
 Concord Enviro Systems Ltd.,2024,2024-12-27,0.181811697574893,Concord_Enviro_Systems_Ltd_,246033,38090,86,86,0,,False,1,3,3,1,0,0,1,0,7,2,9,12,1,6,1,ok,ok
 Transrail Lighting Ltd.,2024,2024-12-27,0.2807870370370369,Transrail_Lighting_Ltd_,173600,27107,71,71,0,,False,1,10,0,0,0,1,0,0,9,0,7,7,9,0,0,ok,ok
@@ -284,8 +284,8 @@ Carraro India Ltd.,2024,2024-12-30,-0.0961647727272728,Carraro_India_Ltd_,238725
 Ventive Hospitality Ltd.,2024,2024-12-30,0.0957231726283047,Ventive_Hospitality_Ltd_,246737,38325,84,84,0,,False,0,2,0,0,0,1,0,5,14,0,20,7,0,0,0,ok,ok
 Unimech Aerospace & Manufacturing Ltd.,2024,2024-12-31,0.7492993630573249,Unimech_Aerospace___Manufacturing_Ltd_,243054,37328,98,98,0,,False,1,3,22,3,0,2,0,3,4,0,11,5,0,0,0,ok,ok
 Indo Farm Equipment Ltd.,2025,2025-01-07,0.2683720930232557,Indo_Farm_Equipment_Ltd_,176445,27479,83,83,0,,False,3,3,2,5,0,1,0,0,4,1,7,7,2,1,13,ok,ok
-Standard Glass Lining Technology Ltd.,2025,2025-01-13,0.1662857142857143,Standard_Glass_Lining_Technology_Ltd_,11759,1679,10,10,0,,False,0,0,0,0,0,0,0,0,3,0,3,2,0,0,0,ok,ok
-Quadrant Future Tek Ltd.,2025,2025-01-14,0.5474137931034483,Quadrant_Future_Tek_Ltd_,11617,1735,10,10,0,,False,0,0,0,0,0,0,0,0,5,0,4,1,0,0,0,ok,ok
+Standard Glass Lining Technology Ltd.,2025,2025-01-13,0.1662857142857143,Standard_Glass_Lining_Technology_Ltd_,201087,31335,90,90,0,,False,0,0,5,2,0,1,0,5,6,0,13,2,0,0,0,ok,ok
+Quadrant Future Tek Ltd.,2025,2025-01-14,0.5474137931034483,Quadrant_Future_Tek_Ltd_,208061,32347,79,79,0,,False,4,6,8,5,0,1,0,2,9,0,5,4,0,0,11,ok,ok
 Laxmi Dental Ltd.,2025,2025-01-20,0.2865654205607476,Laxmi_Dental_Ltd_,221288,33828,71,71,0,,False,2,6,0,24,0,1,0,4,9,0,6,10,0,0,4,ok,ok
 Stallion India Fluorochemicals Ltd.,2025,2025-01-23,0.3998888888888888,Stallion_India_Fluorochemicals_Ltd_,124265,19187,3,3,0,,False,0,3,3,3,0,2,0,2,8,1,9,4,1,0,0,ok,ok
 Denta Water & Infra Solutions Ltd.,2025,2025-01-29,0.1784013605442176,Denta_Water___Infra_Solutions_Ltd_,181892,28370,84,84,0,,False,0,3,7,6,0,1,0,3,6,0,3,8,0,0,0,ok,ok
@@ -312,25 +312,25 @@ Crizac Ltd.,2025,2025-07-09,0.2548979591836734,Crizac_Ltd_,148881,23066,74,77,3,
 Travel Food Services Ltd.,2025,2025-07-14,-0.0225454545454545,Travel_Food_Services_Ltd_,235378,36542,88,88,0,,False,0,1,0,1,0,3,0,6,6,0,8,7,2,4,1,ok,ok
 Smartworks Coworking Spaces Ltd.,2025,2025-07-17,0.0936117936117936,Smartworks_Coworking_Spaces_Ltd_,230398,35830,72,72,0,,False,9,2,0,0,0,18,0,14,9,1,19,23,3,0,2,ok,ok
 Anthem Biosciences Ltd.,2025,2025-07-21,0.2813157894736842,Anthem_Biosciences_Ltd_,224676,34801,85,85,0,,False,1,5,19,2,0,1,0,1,6,0,3,3,0,0,3,ok,ok
-GNG Electronics Ltd.,2025,2025-07-30,0.4071729957805907,GNG_Electronics_Ltd_,6626,1030,0,0,0,,False,0,0,2,0,0,0,0,0,3,0,5,2,0,0,0,ok,ok
+GNG Electronics Ltd.,2025,2025-07-30,0.4071729957805907,GNG_Electronics_Ltd_,177471,27505,80,80,0,,False,0,1,16,7,0,1,0,0,4,0,14,5,0,0,1,ok,ok
 Indiqube Spaces Ltd.,2025,2025-07-30,-0.080590717299578,Indiqube_Spaces_Ltd_,166931,26021,79,82,3,"25,29,40",False,1,1,0,0,0,1,0,5,0,0,11,5,0,0,0,ok,ok
-Brigade Hotel Ventures Ltd.,2025,2025-07-31,-0.051111111111111,Brigade_Hotel_Ventures_Ltd_,14155,2247,10,10,0,,False,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,ok,ok
+Brigade Hotel Ventures Ltd.,2025,2025-07-31,-0.051111111111111,Brigade_Hotel_Ventures_Ltd_,218877,34248,86,86,0,,False,3,1,0,0,0,2,0,7,6,1,23,3,0,0,0,ok,ok
 Shanti Gold International Ltd.,2025,2025-08-01,0.1517587939698491,Shanti_Gold_International_Ltd_,173685,26954,71,71,0,,False,3,4,3,0,0,1,0,0,4,0,8,10,0,0,0,ok,ok
 Aditya Infotech Ltd.,2025,2025-08-05,0.606074074074074,Aditya_Infotech_Ltd_,217338,33287,102,102,0,,False,1,5,8,5,0,2,0,4,5,0,14,9,2,0,3,ok,ok
 Laxmi India Finance Ltd.,2025,2025-08-05,-0.1518987341772152,Laxmi_India_Finance_Ltd_,175967,27198,74,74,0,,False,1,8,0,0,0,1,1,6,6,0,7,5,2,0,0,ok,ok
 National Securities Depository Ltd.,2025,2025-08-06,0.17,National_Securities_Depository_Ltd_,208606,32025,78,78,0,,False,1,28,0,0,0,20,1,0,9,0,6,11,1,2,5,ok,ok
 M&B Engineering Ltd.,2025,2025-08-06,0.0627272727272726,M_B_Engineering_Ltd_,231920,36000,89,89,0,,False,0,4,5,5,0,0,0,0,8,0,11,8,2,0,0,ok,ok
-Sri Lotus Developers & Realty Ltd.,2025,2025-08-06,0.3123333333333333,Sri_Lotus_Developers___Realty_Ltd_,10706,1618,10,10,0,,False,0,1,0,0,0,0,0,0,4,0,3,2,0,0,0,ok,ok
+Sri Lotus Developers & Realty Ltd.,2025,2025-08-06,0.3123333333333333,Sri_Lotus_Developers___Realty_Ltd_,178161,27605,80,80,0,,False,1,4,0,0,0,1,1,0,5,0,8,7,0,0,0,ok,ok
 Highway Infrastructure Ltd.,2025,2025-08-12,0.7548571428571429,Highway_Infrastructure_Ltd_,167463,26042,82,82,0,,False,1,7,0,0,0,0,0,0,8,3,11,6,0,3,3,ok,ok
 JSW Cement Ltd.,2025,2025-08-14,-0.0064625850340135,JSW_Cement_Ltd_,250214,39479,59,59,0,,False,1,13,0,0,0,1,10,0,9,1,6,14,3,0,2,ok,ok
-All Time Plastics Ltd.,2025,2025-08-14,0.03,All_Time_Plastics_Ltd_,14817,2318,10,10,0,,False,0,0,0,2,0,0,0,0,3,0,3,2,0,0,2,ok,ok
+All Time Plastics Ltd.,2025,2025-08-14,0.03,All_Time_Plastics_Ltd_,204448,31822,78,78,0,,False,1,8,5,5,0,1,1,0,1,0,12,2,4,1,0,ok,ok
 BlueStone Jewellery & Lifestyle Ltd.,2025,2025-08-19,0.0560928433268858,BlueStone_Jewellery___Lifestyle_Ltd_,255249,39531,96,96,0,,False,4,8,0,5,0,13,0,5,0,0,15,24,10,0,0,ok,ok
 Regaal Resources Ltd.,2025,2025-08-20,0.290686274509804,Regaal_Resources_Ltd_,159290,24867,63,86,23,"60,61,62,64,65,66,68,69,70,71,72,73,74,75,76,77,78,79,80,81",False,0,6,7,0,0,2,0,0,5,0,5,5,0,0,0,ok,ok
 Patel Retail Ltd.,2025,2025-08-26,0.1362745098039215,Patel_Retail_Ltd_,220028,34240,96,97,1,9,False,5,5,4,3,0,2,0,0,8,0,9,3,0,0,7,ok,ok
 Gem Aromatics Ltd.,2025,2025-08-26,-0.018153846153846,Gem_Aromatics_Ltd_,196487,30534,84,85,1,21,False,0,5,11,9,0,1,1,0,7,0,6,6,1,2,0,ok,ok
 Shreeji Shipping Global Ltd.,2025,2025-08-26,0.0103174603174602,Shreeji_Shipping_Global_Ltd_,174165,26708,73,74,1,18,False,0,3,16,0,0,1,0,0,7,0,7,4,0,0,1,ok,ok
-Vikram Solar Ltd.,2025,2025-08-26,0.0736445783132529,Vikram_Solar_Ltd_,5235,798,0,0,0,,False,0,0,3,0,0,0,0,2,4,0,3,0,0,0,0,ok,ok
-Mangal Electrical Industries Ltd.,2025,2025-08-28,-0.048217468805704,Mangal_Electrical_Industries_Ltd_,9639,1474,10,10,0,,False,0,0,0,0,0,0,0,0,5,0,4,5,0,0,0,ok,ok
+Vikram Solar Ltd.,2025,2025-08-26,0.0736445783132529,Vikram_Solar_Ltd_,268372,41771,96,96,0,,False,2,5,12,8,0,13,0,8,6,0,13,13,1,0,0,ok,ok
+Mangal Electrical Industries Ltd.,2025,2025-08-28,-0.048217468805704,Mangal_Electrical_Industries_Ltd_,168376,25691,79,79,0,,False,0,5,5,1,0,1,0,0,7,1,11,2,0,0,2,ok,ok
 Anlon Healthcare Ltd.,2025,2025-09-03,0.0072527472527472,Anlon_Healthcare_Ltd_,197945,30237,91,91,0,,False,7,7,4,2,0,1,0,0,10,0,10,5,0,3,1,ok,ok
 Vikran Engineering Ltd.,2025,2025-09-03,-0.014020618556701,Vikran_Engineering_Ltd_,239992,37166,81,93,12,"12,17,20,23,51,57,58,77,78,80,82,83",False,6,5,2,2,0,0,1,4,9,0,5,18,6,0,0,ok,ok
 Amanta Healthcare Ltd.,2025,2025-09-09,0.1162698412698413,Amanta_Healthcare_Ltd_,201601,31226,67,67,0,,False,2,7,0,1,0,2,0,9,8,0,10,13,1,0,0,ok,ok
@@ -340,10 +340,10 @@ Urban Co.Ltd.,2025,2025-09-17,0.6218446601941748,Urban_Co_Ltd_,240228,37109,79,7
 Euro Pratik Sales Ltd.,2025,2025-09-23,0.0050607287449392,Euro_Pratik_Sales_Ltd_,198599,30475,69,69,0,,False,2,4,0,0,0,2,0,0,4,0,19,9,0,2,3,ok,ok
 VMS TMT Ltd.,2025,2025-09-24,0.0075757575757575,VMS_TMT_Ltd_,201178,31318,88,88,0,,False,1,13,4,0,0,1,0,0,6,0,21,7,1,0,2,ok,ok
 Ivalue Infosolutions Ltd.,2025,2025-09-25,-0.0576923076923076,Ivalue_Infosolutions_Ltd_,147293,22721,65,65,0,,False,0,2,0,0,0,2,0,2,4,0,5,6,0,0,0,ok,ok
-GK Energy Ltd.,2025,2025-09-26,0.0964052287581699,GK_Energy_Ltd_,30719,4668,10,10,0,,False,0,0,0,0,0,0,0,0,4,0,4,2,0,0,0,ok,ok
-Saatvik Green Energy Ltd.,2025,2025-09-26,-0.0544086021505376,Saatvik_Green_Energy_Ltd_,34266,5158,10,10,0,,False,0,0,1,0,0,0,0,0,3,0,3,3,0,0,0,ok,ok
+GK Energy Ltd.,2025,2025-09-26,0.0964052287581699,GK_Energy_Ltd_,159062,24822,74,74,0,,False,0,3,2,1,0,4,0,0,4,0,7,2,0,0,0,ok,ok
+Saatvik Green Energy Ltd.,2025,2025-09-26,-0.0544086021505376,Saatvik_Green_Energy_Ltd_,165378,25812,72,72,0,,False,1,2,7,6,0,1,0,1,4,0,11,4,0,0,0,ok,ok
 Ganesh Consumer Products Ltd.,2025,2025-09-29,-0.087111801242236,Ganesh_Consumer_Products_Ltd_,162741,25392,66,66,0,,False,1,5,0,4,0,1,0,0,5,0,7,6,0,0,0,ok,ok
-Atlanta Electricals Ltd.,2025,2025-09-29,0.0919761273209549,Atlanta_Electricals_Ltd_,483399,77361,24,115,91,"20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",False,3,0,0,0,0,15,1,0,6,0,6,7,0,0,0,ok_D_reversed,ok_patched
+Atlanta Electricals Ltd.,2025,2025-09-29,0.0919761273209549,Atlanta_Electricals_Ltd_,219894,34647,17,19,2,"14,15",False,0,0,0,0,0,14,1,0,3,0,3,2,0,0,0,ok_D_reversed,ok_patched
 Solarworld Energy Solutions Ltd.,2025,2025-09-30,-0.0792022792022792,Solarworld_Energy_Solutions_Ltd_,181664,28001,76,76,0,,False,0,3,5,11,0,1,0,0,4,0,14,4,0,0,1,ok,ok
 Jaro Institute of Technology Management & Research Ltd.,2025,2025-09-30,-0.1628651685393259,Jaro_Institute_of_Technology_Management___Research_Ltd_,181942,27970,72,72,0,,False,0,11,9,0,0,0,0,3,7,0,11,6,2,0,0,ok,ok
 Seshaasai Technologies Ltd.,2025,2025-09-30,-0.0271867612293144,Seshaasai_Technologies_Ltd_,170061,26442,78,78,0,,False,0,1,4,2,0,1,0,9,3,0,8,3,0,0,0,ok,ok
@@ -351,26 +351,26 @@ Anand Rathi Share & Stock Brokers Ltd.,2025,2025-09-30,0.0764492753623187,Anand_
 BMW Ventures Ltd.,2025,2025-10-01,-0.2323232323232323,BMW_Ventures_Ltd_,198204,30854,5,5,0,,False,0,5,0,1,0,0,0,0,6,0,5,5,0,2,0,ok,ok
 Epack Prefab Technologies Ltd.,2025,2025-10-01,-0.063235294117647,Epack_Prefab_Technologies_Ltd_,197942,30384,66,66,0,,False,1,3,0,0,0,1,0,0,7,0,5,10,2,0,0,ok,ok
 Jain Resource Recycling Ltd.,2025,2025-10-01,0.3717672413793103,Jain_Resource_Recycling_Ltd_,218175,33584,91,91,0,,False,0,5,14,0,0,2,1,0,12,0,12,8,0,2,0,ok,ok
-Jinkushal Industries Ltd.,2025,2025-10-03,0.0049586776859503,Jinkushal_Industries_Ltd_,9221,1385,0,0,0,,False,10,0,0,0,0,0,0,0,2,0,5,3,3,0,0,ok,ok
+Jinkushal Industries Ltd.,2025,2025-10-03,0.0049586776859503,Jinkushal_Industries_Ltd_,170078,25423,78,78,0,,False,11,4,1,2,0,1,0,0,7,0,10,1,0,4,0,ok,ok
 Trualt Bioenergy Ltd.,2025,2025-10-03,0.0702620967741936,Trualt_Bioenergy_Ltd_,241315,37417,87,87,0,,False,0,7,3,2,0,16,0,4,0,0,10,6,0,0,0,ok,ok
-Pace Digitek Ltd.,2025,2025-10-06,-0.0068493150684931,Pace_Digitek_Ltd_,29256,4481,10,10,0,,False,0,0,1,0,0,0,0,0,3,0,2,1,0,0,0,ok,ok
+Pace Digitek Ltd.,2025,2025-10-06,-0.0068493150684931,Pace_Digitek_Ltd_,174628,27081,82,82,0,,False,0,8,15,0,0,2,0,0,9,0,9,7,9,0,0,ok,ok
 Fabtech Technologies Ltd.,2025,2025-10-07,-0.0455497382198952,Fabtech_Technologies_Ltd_,267003,41644,93,93,0,,False,1,12,0,1,0,0,0,0,5,0,9,6,0,0,0,ok,ok
 Glottis Ltd.,2025,2025-10-07,-0.35,Glottis_Ltd_,226379,35261,79,80,1,38,False,0,12,5,0,0,0,0,0,7,0,10,8,10,1,0,ok,ok
 Om Freight Forwarders Ltd.,2025,2025-10-08,-0.3585185185185185,Om_Freight_Forwarders_Ltd_,185596,28275,101,101,0,,False,6,3,6,0,0,1,0,0,6,0,8,8,0,1,0,ok,ok
-Advance Agrolife Ltd.,2025,2025-10-08,0.0823,Advance_Agrolife_Ltd_,8153,1256,10,10,0,,False,6,1,0,0,0,0,0,0,2,0,3,2,0,0,1,ok,ok
+Advance Agrolife Ltd.,2025,2025-10-08,0.0823,Advance_Agrolife_Ltd_,198055,29887,91,91,0,,False,9,10,0,2,0,1,0,1,7,0,13,6,0,4,0,ok,ok
 WeWork India Management Ltd.,2025,2025-10-10,-0.0358796296296296,WeWork_India_Management_Ltd_,98414,15528,26,26,0,,False,7,6,0,0,0,31,0,2,4,0,1,11,0,0,0,ok,ok
 Tata Capital Ltd.,2025,2025-10-13,0.0134969325153373,Tata_Capital_Ltd_,249650,39225,85,85,0,,False,1,6,0,0,0,3,0,1,9,0,4,5,2,8,7,ok,ok
 LG Electronics India Ltd.,2025,2025-10-14,0.4819298245614036,LG_Electronics_India_Ltd_,301370,46243,94,94,0,,False,12,6,0,4,0,1,0,2,29,1,11,15,12,15,0,ok,ok
 Canara Robeco Asset Management Co.Ltd.,2025,2025-10-16,0.1287593984962406,Canara_Robeco_Asset_Management_Co_Ltd_,199857,31066,83,83,0,,False,0,12,0,0,0,2,0,4,10,0,10,6,1,2,0,ok,ok
-Rubicon Research Ltd.,2025,2025-10-16,0.2937113402061856,Rubicon_Research_Ltd_,7821,1195,0,0,0,,False,0,0,1,0,0,0,0,0,4,0,3,2,4,0,0,ok,ok
+Rubicon Research Ltd.,2025,2025-10-16,0.2937113402061856,Rubicon_Research_Ltd_,268739,41280,91,91,0,,False,0,3,3,2,0,1,0,1,8,0,6,4,0,0,0,ok,ok
 Canara HSBC Life Insurance Co.Ltd.,2025,2025-10-17,0.0518867924528301,Canara_HSBC_Life_Insurance_Co_Ltd_,247639,37789,87,87,0,,False,6,15,0,0,0,2,0,0,6,0,7,10,2,4,0,ok,ok
 Midwest Ltd.,2025,2025-10-24,0.0714553990610327,Midwest_Ltd_,191475,29633,76,76,0,,False,3,7,5,0,0,2,0,1,8,0,12,11,2,0,0,ok,ok
 Orkla India Ltd.,2025,2025-11-06,-0.0227397260273972,Orkla_India_Ltd_,221155,34274,84,84,0,,False,1,8,0,3,0,0,0,0,5,0,6,8,14,0,0,ok,ok
-Studds Accessories Ltd.,2025,2025-11-07,-0.0419658119658118,Studds_Accessories_Ltd_,10290,1593,10,10,0,,False,1,2,0,0,0,0,0,0,3,0,2,5,0,0,0,ok,ok
+Studds Accessories Ltd.,2025,2025-11-07,-0.0419658119658118,Studds_Accessories_Ltd_,167920,26084,78,78,0,,False,0,5,0,1,0,1,0,0,9,0,6,5,0,0,0,ok,ok
 Lenskart Solutions Ltd.,2025,2025-11-10,0.0032338308457711,Lenskart_Solutions_Ltd_,261939,39542,88,88,0,,False,2,8,0,0,0,2,0,0,10,1,6,7,1,0,0,ok,ok
 Billionbrains Garage Ventures Ltd.,2025,2025-11-12,0.3093999999999999,Billionbrains_Garage_Ventures_Ltd_,192267,29676,77,77,0,,False,3,14,0,0,0,4,1,0,9,2,4,6,1,0,0,ok,ok
 Pine Labs Ltd.,2025,2025-11-14,0.13710407239819,Pine_Labs_Ltd_,267973,41007,90,90,0,,False,3,10,5,0,0,2,0,1,16,0,6,7,4,9,0,ok,ok
-Emmvee Photovoltaic Power Ltd.,2025,2025-11-18,0.0094470046082949,Emmvee_Photovoltaic_Power_Ltd_,32469,4971,10,10,0,,False,0,0,2,0,0,4,0,0,4,0,4,0,0,0,0,ok,ok
+Emmvee Photovoltaic Power Ltd.,2025,2025-11-18,0.0094470046082949,Emmvee_Photovoltaic_Power_Ltd_,227718,35346,88,88,0,,False,0,7,4,1,0,7,0,8,6,0,7,3,0,0,0,ok,ok
 PhysicsWallah Ltd.,2025,2025-11-18,0.4238532110091742,PhysicsWallah_Ltd_,267590,41812,80,80,0,,False,1,3,0,0,0,2,2,9,11,0,6,16,15,0,3,ok,ok
 Tenneco Clean Air India Ltd.,2025,2025-11-19,0.2372795969773299,Tenneco_Clean_Air_India_Ltd_,243581,37319,77,77,0,,False,1,8,9,4,0,2,0,5,11,0,8,14,0,0,0,ok,ok
 Fujiyama Power Systems Ltd.,2025,2025-11-20,-0.0861842105263158,Fujiyama_Power_Systems_Ltd_,206666,32103,85,85,0,,False,0,8,0,3,0,1,0,1,7,1,11,4,1,2,0,ok,ok
@@ -393,17 +393,17 @@ Shadowfax Technologies Ltd.,2026,2026-01-28,-0.1137096774193548,Shadowfax_Techno
 Fractal Analytics Ltd.,2026,2026-02-16,-0.0584444444444444,Fractal_Analytics_Ltd_,236274,36839,80,80,0,,False,0,2,0,0,0,27,0,2,13,0,7,5,0,1,0,ok,ok
 Aye Finance Ltd.,2026,2026-02-16,-0.0007751937984495,Aye_Finance_Ltd_,197921,30842,48,83,35,"1,3,4,5,6,9,11,12,14,15,16,17,18,19,23,24,25,29,30,32",False,0,5,0,0,0,1,0,1,4,0,10,1,0,1,6,ok,ok
 Gaudium IVF & Women Health Ltd.,2026,2026-02-27,0.0187341772151899,Gaudium_IVF___Women_Health_Ltd_,141836,22062,59,59,0,,False,2,6,0,0,0,1,0,1,7,0,8,8,0,2,0,ok,ok
-Shree Ram Twistex Ltd.,2026,2026-03-02,-0.2937499999999999,Shree_Ram_Twistex_Ltd_,8608,1288,0,0,0,,False,2,0,1,0,0,0,0,0,3,0,3,2,0,0,0,ok,ok
+Shree Ram Twistex Ltd.,2026,2026-03-02,-0.2937499999999999,Shree_Ram_Twistex_Ltd_,153551,23233,76,78,2,"10,11",False,8,5,1,1,0,3,0,0,9,0,11,3,0,3,0,ok,ok
 Clean Max Enviro Energy Solutions Ltd.,2026,2026-03-02,-0.1757834757834758,Clean_Max_Enviro_Energy_Solutions_Ltd_,276299,42851,89,89,0,,False,1,6,9,2,0,35,0,0,8,0,11,11,2,0,0,ok,ok
 PNGS Reva Diamond Jewellery Ltd.,2026,2026-03-04,0.0724093264248704,PNGS_Reva_Diamond_Jewellery_Ltd_,157643,23630,74,74,0,,False,0,5,0,1,0,1,0,0,0,0,6,3,0,0,0,ok,ok
 Omnitech Engineering Ltd.,2026,2026-03-05,-0.0962555066079294,Omnitech_Engineering_Ltd_,190894,29699,83,85,2,"32,33",False,1,4,7,4,0,2,0,0,6,0,6,5,0,0,0,ok,ok
-SEDEMAC Mechatronics Ltd.,2026,2026-03-11,0.0740384615384614,SEDEMAC_Mechatronics_Ltd_,33016,5037,0,0,0,,False,0,0,1,2,0,0,0,0,4,0,4,0,0,0,0,ok,ok
-Rajputana Stainless Ltd.,2026,2026-03-19,-0.0745901639344261,Rajputana_Stainless_Ltd_,6960,986,10,10,0,,False,0,0,1,1,0,0,0,0,5,0,3,0,3,2,0,ok,ok
+SEDEMAC Mechatronics Ltd.,2026,2026-03-11,0.0740384615384614,SEDEMAC_Mechatronics_Ltd_,224225,33385,88,88,0,,False,0,11,28,12,0,2,0,2,8,0,7,3,0,4,0,ok,ok
+Rajputana Stainless Ltd.,2026,2026-03-19,-0.0745901639344261,Rajputana_Stainless_Ltd_,196683,30257,95,97,2,"21,22",False,7,6,8,1,0,1,0,0,8,0,20,1,3,5,11,ok,ok
 Innovision Ltd.,2026,2026-03-23,-0.2816955684007707,Innovision_Ltd_,187276,29254,83,83,0,,False,0,9,2,0,0,2,0,4,10,2,2,10,1,0,0,ok,ok
 GSP Crop Science Ltd.,2026,2026-03-24,0.1128125,GSP_Crop_Science_Ltd_,236316,36357,105,105,0,,False,5,10,3,6,0,0,0,3,9,1,11,18,0,0,3,ok,ok
 Central Mine Planning & Design Institute Ltd.,2026,2026-03-30,-0.104360465116279,Central_Mine_Planning___Design_Institute_Ltd_,180232,27637,77,77,0,,False,2,2,0,0,0,1,0,14,3,1,11,1,1,2,0,ok,ok
 Sai Parenteral's Ltd.,2026,2026-04-02,0.0367346938775509,Sai_Parenteral_s_Ltd_,213284,32172,93,93,0,,False,1,10,0,0,0,1,1,1,5,1,5,11,0,0,0,ok,ok
-Powerica Ltd.,2026,2026-04-02,-0.0126582278481012,Powerica_Ltd_,35941,5498,10,10,0,,False,0,0,0,1,0,0,0,0,5,0,4,2,0,0,0,ok,ok
+Powerica Ltd.,2026,2026-04-02,-0.0126582278481012,Powerica_Ltd_,272195,41293,100,100,0,,False,0,8,0,5,0,2,0,0,6,0,9,10,0,0,0,ok,ok
 Amir Chand Jagdish Kumar (Exports) Ltd.,2026,2026-04-02,-0.1721698113207547,Amir_Chand_Jagdish_Kumar__Exports__Ltd_,242979,37839,81,81,0,,False,1,5,10,0,0,11,0,0,7,1,7,6,0,0,1,ok_B_endash_pre,ok_patched
 Om Power Transmission Ltd.,2026,2026-04-17,0.0865714285714286,Om_Power_Transmission_Ltd_,230319,35605,75,90,15,"10,11,17,18,27,28,33,40,41,52,66,69,72,73,75",False,0,7,10,6,0,0,0,0,9,0,6,4,0,0,0,ok,ok
 OnEMI Technology Solutions Ltd.,2026,2026-05-08,0.2187134502923977,OnEMI_Technology_Solutions_Ltd_,237520,36708,81,81,0,,False,1,11,0,0,0,1,0,0,6,0,9,4,0,0,0,ok,ok
