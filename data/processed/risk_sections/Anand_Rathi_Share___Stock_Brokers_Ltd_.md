@@ -1,59 +1,5 @@
 
 
-# **SECTION II: RISK FACTORS** 
-
-# **CERTAIN CONVENTIONS; USE OF MARKET DATA** 
-
-Unless stated otherwise, the financial data in this Draft Red Herring Prospectus is derived from the financial statements prepared in accordance with Indian GAAP and included in this Draft Red Herring Prospectus. The last fiscal year commenced on April 1 and ends on March 31 of each year, so all references to a particular fiscal year are to the twelve- month period ended March 31 of that year. 
-
-In this Draft Red Herring Prospectus, any discrepancies in any table between the total and the sums of the amounts listed are due to rounding-off. 
-
-Unless stated otherwise, industry/ market data used throughout this Draft Red Herring Prospectus has been obtained from internal Company reports, and other industry publications.  Industry publications generally state that the information contained in those publications has been obtained from sources believed to be reliable, but their accuracy and completeness are not guaranteed and their reliability cannot be assured. Although we believe that industry/ market data used in this Draft Red Herring Prospectus is reliable, it has not been independently verified 
-
-For additional definitions, please see the section titled “Definitions and Abbreviations” starting on page [•] of this Draft Red Herring Prospectus. 
-
-ix 
-
-**_EMKAY SHARE AND STOCK BROKERS LIMITED_** 
-
-# **FORWARD-LOOKING STATEMENTS** 
-
-The Company has included statements in this Draft Red Herring Prospectus, that contain words or phrases such as “will”, “aim”, “will likely result”, “believe”, “expect”, “will continue”, “anticipate”, “estimate”, “intend”, “plan”, “project”, “shall”, “contemplate”, “seek to”, “future”, “objective”, “goal”, “project”, “should”, “will continue”, “will pursue” and similar expressions or variations of such expressions that are “forward-looking statements”. However, these words are not the exclusive means of identifying forward-looking statements. All statements regarding the objectives, plans or goals, expected financial condition and results of operations, business, plans and prospects are also forward-looking statements. 
-
-These forward-looking statements include statements as to business strategy, revenue and profitability, planned projects and other matters discussed in this Draft Red Herring Prospectus regarding matters that are not historical fact. These forward-looking statements and any other projections contained in this Draft Red Herring Prospectus (whether made by us or any third party) involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements or other projections. 
-
-All forward-looking statements are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from those contemplated by the relevant forward-looking statement. Important factors that could cause actual results to differ materially from our expectations include, among others: 
-
-- general economic and business conditions in India and other countries; 
-
-- ability to successfully implement our strategy, growth and expansion plans and technological initiatives; 
-
-- ability to respond to technological changes; 
-
-- The effect of wage pressures and the time required to train and productively utilize new employees; 
-
-- Increasing competition in; and the conditions of the global and Indian broking Industry; 
-
-- The ability to retain the clients and acquire new clients; 
-
-- changes in laws and regulations  to the  Industry in which company operate; 
-
-- changes in political conditions in India; and 
-
-- changes in the foreign exchange control regulations in India. 
-
-For further discussion of factors that could cause Company’s actual results to differ, see the section titled “Risk Factors” on page [•] of this Draft Red Herring Prospectus. By their nature, certain risk disclosures are only estimates and could be materially different from what actually occurs in the future. As a result, actual future gains or losses could materially differ from those that have been estimated. Our Company, the members of the Syndicate and their respective affiliates do not have any obligation to, and do not intend to, update or otherwise revise any statements reflecting circumstances arising after the date hereof or to reflect the occurrence of underlying events, even if the underlying assumptions do not come to fruition. In accordance with SEBI requirements,  Our Company and the BRLMs will ensure that investors in India are informed of material developments until such time as the grant of listing and trading permission by the Stock Exchanges. 
-
-# **Currency Of Presentation** 
-
-In this Draft Red Herring Prospectus, all references to “Rupees” and “Rs.” are to the legal currency of India; all references to “U.S. Dollars” and “US$” are to the legal currency of the United States. 
-
-Any percentage amounts, as set forth in “Risk Factors”, “Business”, “Management’s Discussion” and “Analysis of Financial Condition and Results of Operations” and elsewhere in this Draft Red Herring Prospectus, unless otherwise indicated, have been calculated on the basis of our financial statements prepared in accordance with Indian GAAP. 
-
-x 
-
-
-
 # **RISK FACTORS** 
 
 **_Prospective investors should carefully consider the risks described below, in addition to the other information contained in this Draft Red Herring Prospectus before making any investment decision relating to the Equity Shares. The occurrence of any of the following events could have a material adverse effect on the business, results of operation, financial condition and prospects and cause the market price of the Equity Shares to decline and you may lose all or part of your investment._** 

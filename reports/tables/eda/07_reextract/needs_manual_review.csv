@@ -1,0 +1,3 @@
+filename,total_pages,new_start,new_end,new_pages,new_md_words,gt_words,coverage,jaccard,start_signals,end_signal,action,reason
+Likhitha_Infrastructure_Ltd_.pdf,348,30,33,3,417,954,0.437,0.45,"carefully_consider_risks_described,header_bare_risk_factors",strict_next_section,KEPT_ORIGINAL,jaccard 0.45 < 0.5 (content mismatch)
+Sai_Silks__Kalamandir__Ltd_.pdf,216,,,0,0,0,,,,,NO_ANCHOR,no strong Risk Factors anchor found in any page; existing .md kept as-is; needs manual review

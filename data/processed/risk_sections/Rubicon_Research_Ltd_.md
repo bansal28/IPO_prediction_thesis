@@ -1,1430 +1,232 @@
-# **SECTION II - RISK FACTORS** 
-
-_An investment in Equity Shares involves a high degree of risk. You should carefully consider all the information in this Red Herring Prospectus, including the risks and uncertainties described below, before making an investment in the Equity Shares. The risks and uncertainties described in this section are not the only risks relevant to us or our Equity Shares and the industry in which we operate or propose to operate. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also have an adverse effect on our business, prospects, results of operations, financial condition and cash flows. If any or a combination of the following risks, or other risks that are not currently known or are now deemed immaterial, actually occurs, our business, financial condition, results of operations and cash flows could suffer, the price of our Equity Shares could decline, and you may lose all or part of your investment. Furthermore, some events may be material collectively rather than individually. The financial and other implications of risks, wherever quantifiable, have been disclosed in the risk factors mentioned below. However, there are risks where the effect is not quantifiable and hence have not been disclosed in the applicable risk factors. Prospective investors should read this section together with “Our Business”, “Industry Overview” and “Management’s Discussions and Analysis of Financial Condition and Results of Operations” beginning on pages 244, 186 and 422, respectively, as well as the other financial and statistical information contained in this Red Herring Prospectus. In making an investment decision, prospective investors should rely on their own examination of our Group and the terms of the Offer, including the merits and risks involved. You should consult your tax, financial and legal advisors about the particular consequences to you of an investment in our Equity Shares. Potential investors should pay particular attention to the fact that our Company is incorporated under the laws of India and is subject to legal and regulatory environment which may differ in certain respects from that of other countries._ 
-
-_This Red Herring Prospectus also contains forward-looking statements that involve risks, assumptions and uncertainties where actual results could materially differ from those anticipated in these forward-looking statements as a result of certain factors, including but not limited to the considerations described below and elsewhere in this Red Herring Prospectus. For further details, see “Forward-Looking Statements” beginning on page 19._ 
-
-_Unless the context requires otherwise, the financial information used in this section is derived from our “Restated Consolidated Financial Information” on page 348. Our fiscal year ends on March 31 of each year, and references to a particular fiscal year are to the twelve months ended March 31 of that year._ 
-
-_Unless stated otherwise, industry and market data used in this Red Herring Prospectus is derived from the report titled, “Independent Market Research On The US Pharmaceutical Market” dated August 18, 2025 (“_ **_F&S Report_** _”) prepared by Frost & Sullivan (India) Private Limited, appointed by our Company pursuant to an engagement letter dated May 15, 2024 as amended by an addendum dated July 16, 2025, and such F&S Report has been commissioned by and paid for by our Company, exclusively in connection with the Offer. The F&S Report is available on the website of our Company at https://www. rubicon.co.in/investors. Unless otherwise indicated, financial, operational, industry and other related information derived from the F&S Report and included herein with respect to any particular year refers to such information for the relevant calendar year._ 
-
-# **INTERNAL RISK FACTORS** 
-
-**_1. We derive ₹3,507.36 million and 99.50%, and ₹12,649.23 million and 98.49%, respectively, of our revenue from operations from the United States for the three month period ended June 30, 2025 and Fiscal 2025, respectively, and any adverse developments in the United States such as imposition of tariffs could have an adverse effect on our business and results of operations._** 
-
-The pharmaceutical industry in the United States may perform differently from and may be subject to market conditions that are different from, the pharmaceutical industries in other countries such as India. Consequently, any significant social, political or economic disruption, or natural calamities or civil disruptions in the United States, or changes in the policies of the state or federal governments, could disrupt our business operations, require us to incur significant expenditure and change our business strategies. The following table sets forth details of our revenue from operations from the United States: 
-
-|**Particular**|**For three mon**<br>**Ju**|**th period ended**<br>**ne 30**||**For Fiscals**||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Revenue from<br>operations<br>from<br>the|3,507.36|3,122.41|12,649.23|8,317.14|3,669.63|
+|**Name of Entity**|**Criminal**<br>**Proceedings**|**Tax**<br>**Proceedings**<br>**(direct**<br>**and**<br>**indirect tax)**|**Statutory**<br>**or**<br>**Regulatory**<br>**Proceedings**|**Disciplinary actions by**<br>**SEBI**<br>**or**<br>**Stock**<br>**Exchanges against our**<br>**Promoters**|**Material**<br>**civil**<br>**litigation**|**Aggregate**<br>**amount**<br>**involved (₹**<br>**in million)^**|
+|---|---|---|---|---|---|---|
+|Personnel and Senior<br>Management|||||||
+|Against<br>the<br>Key<br>Managerial<br>Personnel and Senior<br>Management|1|N.A.|Nil|-|N.A.|N.A|
+|**_Group Company_**|||||||
+|By<br>our<br>Group<br>Company which has<br>a material impact on<br>our Company||||Nil|||
+|Against our Group<br>Company which has<br>a material impact on<br>our Company||||Nil|||
 
 
 
-30 
+_^To the extent quantifiable._ 
 
-|**Particular**|**For three mon**<br>**Ju**|**th period ended**<br>**ne 30**||**For Fiscals**||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|from<br>the<br>United States<br>(in ₹ million)||||||
-|% of Total<br>Revenue from<br>Operations<br>(%)|99.50%|98.58%|98.49%|97.40%|93.25%|
+For further details of the outstanding litigation proceedings, see “ _Outstanding Litigation and Material Developments_ ” on page 462. 
 
+# **Risk Factors** 
 
+Following are the top 10 risk factors: 
 
-For further details of our revenue from operations by geographies, see “ _Our Business – Our Product Distribution - Export of our products_ ” on page 265. 
+- We derive ₹3,507.36 million and 99.50%, and ₹12,649.23 million and 98.49%, respectively, of our revenue from operations from the United States for the three month period ended June 30, 2025 and Fiscal 2025, respectively, and any adverse developments in the United States could have an adverse effect on our business and results of operations. 
 
-The occurrence of, or our inability to effectively respond to, any such event could have an adverse effect on our business, results of operations, financial condition and cash flows. In particular, our United States operations are subject to, among other risks and uncertainties, the following: 
+- As the manufacture of our products is technically complex and highly regulated, product recalls, regulatory inspection failures or shortcomings at our manufacturing facilities or other problems may reduce sales, adversely affect our business, financial condition and results of operations and delay the launch of new products, and in some cases may lead to closures of our facilities. 
 
-- decrease in demand for our products by our customers located in the United States; 
+- We have a history of net losses, negative earnings per share (“EPS”), return on capital employed and return on net worth. We need to generate and sustain increased revenues while managing our expenses to achieve profitability, and our inability to achieve these goals may have an adverse effect on our business, results of operations, cash flows and financial condition. 
 
-- compliance with federal, state and local laws, including product safety standards, legal constraints on ownership and corporate structure, environmental, health, safety, labor and accounting laws, may impose onerous and expensive obligations on us and our foreign subsidiaries. If we are unable to comply with such laws, our business, results of operations, financial condition and cash flows could be adversely affected; 
+- In Fiscals 2025, 2024 and 2023, and the three month period ended June 30, 2025 and 2024 we derived 71.22%, 65.14% and 62.99%, and 77.04% and 70.46%, respectively, of our revenue from sale of goods from our top five customers and the loss of one or more such customers could adversely affect our business and prospects. 
 
-- changes in laws, regulations and policies, including regulatory controls on testing, manufacture and marketing of products, restrictions on trade, import and export license requirements, and tariffs and taxes, intellectual property enforcement issues and changes in foreign trade and investment policies, may affect our ability to operate and the way in which we manage our business in the United States; 
+- Our operations are subject to high working capital and capital expenditure requirements, and our inability to maintain an optimal level of working capital or financing required may impact our operations adversely. 
 
-- fluctuations in the exchange rate between the US Dollar and the Indian Rupee, may affect our results of operations, the value of our foreign assets, such as export receivables, the relative prices at which we and our competitors sell products in the same markets and the cost of certain inventory and noninventory items required for our operations; 
+- We expect to spend a significant amount of resources on research and development efforts. Such efforts may not result in marketable products. Failure to successfully introduce products into the market could have a material adverse effect on our business, financial condition, and results of operations. 
 
-- anti-competitive behavior, money laundering, bribery and corruption by third parties as well as crime and fraud; and 
+- Any disruption, breakdown or shutdown of our research and development and manufacturing facilities may have a material adverse effect on our business, financial condition, results of operations and cash flows. 
 
-- adverse tax consequences, and differing accounting standards and interpretations. 
+- Our Company is involved in certain legal proceedings. Any adverse decision in such proceedings may render us/them liable to liabilities/penalties and may adversely affect our business, financial condition, results of operations and cash flows. 
 
-In addition, we may not perform as expected in the United States, because our competitors in this market may have a more established presence and have more experience in operating in such market, which could allow them to have better relationships with distributors, customers, pharmacies and patients, gain early access to information regarding attractive sales opportunities and, in general, be better placed to launch products with other advantages of being a first mover. Any of these risks could have a material adverse effect on our business, financial condition, results of operations, cash flows and prospects. 
+- We were and are exposed to foreign currency fluctuation risks, particularly in relation to the translation of our financial statements and our borrowings, and we had negative foreign currency exposures as at June 30, 2025 and June 30, 2024, and as at March 31, 2025, 2024 and 2023, which may adversely affect our results of operations, financial condition and cash flows. 
 
-In the past, the U.S. Congress has enacted legislations such as the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act (collectively, the “ **ACA** ”) and the Inflation Reduction Act of 2022 (the **“IRA** ”), which have increased the pressure on pricing of pharmaceutical products. While we have not experienced any material impact in the last three Fiscals and the three month period ended June 30, 2025 as a result of such legislations or any other changes in US legislation, we cannot assure you that the enactment of any future legislations will not adversely affect our business, financial condition, results of operations and cash flows. For further details, see “- _Healthcare reform and changes in pharmaceutical pricing, reimbursement and coverage, by governmental authorities and third-party payors may materially affect our business, financial position and operating results._ ” on page 63. 
+- We have had negative cash flows from operating activities in prior periods and may continue to have negative cash 
 
-We are also subject to new legislation, rules and regulations in the U.S. which regulate pharmaceutical manufacturers. For instance, the Drug Supply Chain Security Act imposes obligations on manufacturers 
+25 
 
-31 
+flows in the future. 
 
-of pharmaceutical products, among others, related to product tracking and tracing and such requirements may increase our operational expenses and impose significant administrative burdens. As a result of these and other new proposals and changes in legislation, either in the present or future, we may determine to change our current manner of operation, provide additional benefits or change our contract arrangements, any of which could have a material adverse effect on our business, financial condition, results of _-_ operations, stock price and prospects. For further details, see “ _We are subject to various laws and extensive government regulations and if we fail to obtain, maintain or renew our statutory and regulatory licenses, permits and approvals required in the ordinary course of our business, including product safety, environmental, health and safety laws and other regulations, our business, financial condition, results of operations and cash flows may be adversely affected._ ” on page 53. 
+Specific attention of the investors is invited to “ _Risk Factors_ ” beginning on page 30 to have an informed view before making an investment decision in the Offer. 
 
-Furthermore, the imposition of tariffs or trade restrictions may also adversely affect our business. For example, tariff and trade measures imposed by the United States could have a material impact on our ability to sell our products at competitive prices in the United States. In August 2025, the US implemented 50% tariffs on imports of goods in various sectors from India, excluding the pharmaceutical sector. Thereafter on September 25, 2025, the United States announced that effective October 1, 2025, 100% tariffs will be imposed on all branded / patented pharmaceutical products manufactured outside the US and imported into the US, unless the manufacturer is building a pharmaceutical manufacturing plant in the US. The imposition of these tariffs may necessitate changes in our supply chain and production strategies for three of our branded products, Raldesy®, Lopressor ® OS, and Lasix®, that are presently manufactured outside the US. In the three month period ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023, the percentage of total revenue from operations derived from these three products amounted to 1.62% and 0.53%, 0.74%, 0.09% and nil, respectively. The imposition of these tariffs will increase operational complexities and the overall costs which will consequently have an adverse impact on our business, results of operations, financial condition, cash flows and prospects. While no tariffs have yet been imposed by the US on pharmaceutical goods other than branded / patented products imported from India, this could change in the future, and we cannot assure you that our business will not be materially affected by it. While we cannot assure you of the expected impact that the imposition of tariffs on any other pharmaceutical products would have on our revenue or sales, any imposition of tariffs could significantly increase the cost of our products in the US market, potentially making them less attractive compared to domestic products or goods from countries not subject to such tariffs. The increased costs may lead to reduced demand for our products, especially for our generic products for which we may be unable to pass on the increased costs to our customers. This could therefore also erode our market share, and negatively impact our revenue and profitability. Consequently, our business, results of operations, financial condition, cash flows and prospects may be adversely impacted. In addition to the potential direct financial impact, such tariffs, if enacted, may necessitate changes in our sale, supply chain and production strategies, further increasing operational complexities and costs. Additionally, such tariff and trade measures, if imposed, by the United States or other countries, could adversely impact the global and Indian economy, and in turn have an adverse effect on our business, results of operations, financial condition and cash flows. 
+# **Summary of Contingent Liabilities of our Company** 
 
-# **_2. As the manufacture of our products is technically complex and highly regulated, product recalls, regulatory inspection failures or shortcomings at our manufacturing facilities or other problems may reduce sales, adversely affect our business, financial condition and results of operations and delay the launch of new products, and in some cases may lead to closures of our facilities._** 
+Except as stated below, there are no contingent liabilities of our Company as at June 30, 2025 derived from the Restated Consolidated Financial Information. 
 
-The manufacture of our products is technically complex and subject to regulation by various governmental authorities throughout the world. For instance, we are subject to extensive regulation in the United States, which regulates, among other things, the research, development, approval, testing, manufacture, labeling, marketing, sale, import and export of pharmaceutical products. For example, approval by the USFDA is generally required before any new drug or the generic equivalent to any previously approved drug may be marketed in the United States. In order to receive approval from the USFDA for each new drug product we may wish to market, we must demonstrate, through rigorous nonclinical testing and clinical trials, that the new drug product is safe and effective for its intended use and that our manufacturing process for that product candidate complies with current good manufacturing practices (“ **cGMP** ”). We must also comply with requirements of the FDA Maharashtra and the Central Drugs Standard Control Organization in India and other healthcare regulators (such as Medicines and Healthcare products Regulatory Agency in the UK, Therapeutic Goods Administration in Australia and Health Canada). Our top 5 products by revenue contributions have an average time to market of 45 
-
-32 
-
-months and 41 months, and had an aggregate revenue expenditure on research and development of ₹ 84.95 million and ₹57.10 million, for the three months ended June 30, 2025 and Fiscal 2025, respectively. 
-
-Failure to comply with these requirements may lead to delays in the submission or approval of potential new products for sale, financial penalties, compliance expenditures, the recall or seizure of products, total or partial suspension of production and/or distribution, closure of affected facilities, suspension of the applicable regulator’s review of our submissions, enforcement actions, injunctions and criminal prosecution, any of which could have a material adverse impact on our reputation, business, financial condition, results of operations, cash flows and prospects. In addition, any action against us for violation of the relevant laws, regulations or industry standards, even if we successfully defend against it, could cause us to incur significant legal expenses, divert our management’s attention from the operation of our business, and adversely affect our reputation and financial results. While we have made voluntary batch Class II<sup>1</sup> recalls of Metoprolol Tartrate Tablets in the past and have two ongoing Class II<sup>1</sup> voluntary recalls related to Tramadol Hydrochloride Tablets and Metoprolol Tartrate Tablets, we have not experienced any product recalls that were ordered by regulators, including the USFDA. Apart from our focus on regulated markets, in particular the U.S. market, we may expand our global footprint and such other jurisdictions may be subject to differences in regulatory regimes that make for a more complex and costly regulatory compliance burden. 
-
-We must register our facilities, whether located in India, the United States or elsewhere, with the USFDA as well as regulators outside the United States (such as Medicines and Healthcare products Regulatory Agency, UK, Therapeutic Goods Administration, Australia and Health Canada), and our products must be made in a manner consistent with cGMPs and similar standards in India. In addition, the USFDA and other agencies periodically inspect our manufacturing facilities. Following an inspection, the USFDA may issue in an FDA Form 483 one or more observations of <mark>conditions that in the inspector’s judgment may constitute violations of the Federal Food, Drug, and Cosmetic Act (“</mark> **<mark>FDCA</mark>** <mark>”) and related statutes.</mark> Upon receipt of an FDA Form 483, we work to address any inspectional observations in a timely manner. <mark>The USFDA w</mark> ill issue an inspection classification of “No Action Indicated”, “Voluntary Action Indicated” or “Official Action Indicated.” An “Official Action Indicated” classification means that <mark>regulatory and/or administrative actions are recommended and</mark> may lead to a warning letter or enforcement action. Upon formal closure of an inspection by the USFDA, an establishment inspection report (“ **EIR** ”) is issued by the USFDA. The USFDA or other regulatory authorities may identify regulatory violations in our operations at these or our other manufacturing facilities from time to time. One or more of our manufacturing facilities may be the subject of warning letters, untitled letters, inspectional observations or other adverse notices or enforcement action from regulators, who may impose restrictions on or withhold necessary authorizations for their operations. Historically, we have received Form 483 observations in connection with inspections of our manufacturing facilities. The last inspections were carried out simultaneously in our Ambernath facility and Satara facility in January 2023, in our nasal block in the Ambernath facility in November 2024 and in our recently acquired Pithampur facility in July 2022. While we received the EIRs for these and prior inspections and did not receive any “Official Action Indicated”, the receipt of any warning letters or other letters or notices which require us to cease or limit productions in the future would cause disruptions or delays to our production, which could materially and adversely affect our business. We may not succeed in mitigating the impact of such disruptions or delays if we do not remedy the violations identified, fail to do so in a timely manner, or if we are unable to reallocate our production to our other facilities. Similarly, our R&D facility in Thane, Maharashtra, India was last inspected in March 2025 by the USFDA and our R&D facility in Ontario, Canada was last inspected in October to November 2023 by the USFDA, and we are subject to adverse regulatory findings which may disrupt or delay our research and development activities. 
-
-There is no fixed frequency of inspections and we have been subjected to several routine inspections by global regulators over the last three Fiscals and the three month period ended June 30, 2025. Further, the process of obtaining regulatory approvals and maintaining compliance with appropriate laws and regulations requires the expenditure of substantial time and capital resources. Failure to comply with the applicable regulatory requirements in the jurisdictions we operate or target to operate in the future at any time during the drug development process or approval process, or after approval, may delay our product development, hinder our marketing and sales, and subject us to administrative or judicial sanctions. These sanctions could include but are not limited to a regulator’s refusal to approve pending applications, 
-
-> 1 A Class II recall is defined by the USFDA as a situation in which use of, or exposure to, a violative product may cause temporary or medically reversible adverse health consequences or where the probability of serious adverse health consequences is remote. 
-
-33 
-
-withdrawal of an approval, license revocation, a clinical hold, voluntary or mandatory product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement or civil or criminal penalties. While we have not been subject to such sanctions in the past, any occurrence of the foregoing in the future could therefore materially adversely affect our reputation and our business, financial condition, results of operations, cash flows and prospects. 
-
-# **_3._** 
-
-**_We have a history of net losses, negative earnings per share (“EPS”), return on capital employed and return on net worth. We need to generate and sustain increased revenues while managing our expenses to achieve profitability, and our inability to achieve these goals may have an adverse effect on our business, results of operations, cash flows and financial condition._** 
-
-We have a history of net losses, negative EPS and return on capital employed. The following table sets forth our restated loss, our basic and diluted EPS, return on capital employed and return on net worth as at and for Fiscal 2023 below: 
-
-|**Particular**|**For Fiscal 2023**|
+||_(₹ in million)_|
 |---|---|
-|Restated profit / (loss) for the year (in ₹ million)|(168.88)|
-|Earnings per share (basic) (₹)|(1.11)|
-|Earnings per share (diluted) (₹)|(1.11)*|
-|Return on Capital Employed (in %)<sup>(1)</sup>|1.35%|
-|Return on Net Worth (in %)<sup>(1)</sup>|(5.71)%|
+|**Particulars**|**June 30,**<br>**2025**|
+|The sales tax demands in respect of Maharashtra Value Added Tax and Central Sales Tax are in appeals and pending<br>decisions|16.04|
+|The demands received from income tax authorities for various assessment years, on account of disallowances of expenses<br>are in appeals and pending decisions|106.42|
+|**Total **|112.46|
 
 
 
-_Note:_ 
+For further details of the contingent liabilities of our Company as on June 30, 2025, see “ _Restated Consolidated Financial Information – Note 30 – Contingent liabilities_ ” on page 380. 
 
-_(1) For a reconciliation of non-GAAP measures, see "Other Financial Information - Non-GAAP Measures" on page 418. * Impact of potential equity shares is anti-dilutive in the previous years (i.e. for the year ended March 31, 2023)._ 
+# **Summary of Related Party Transactions** 
 
-We incurred losses for Fiscal 2023 as a result of, among others, higher research and development expenses incurred to expand our product portfolio and to fuel future growth, as well as a change in business model in Fiscal 2022 wherein we started our own distribution activities through our whollyowned subsidiary, AdvaGen Pharma Ltd. (“ **AdvaGen** ”), instead of relying solely on TruPharma LLC (“ **TruPharma** ”). For further details, see “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations – Significant Factors Affecting our Financial Condition and Results of Operations - Changes in distribution and marketing capabilities and relationships with customers_ ” on page 428. While we have achieved profitability and a positive EPS, return on capital employed and return on net-worth in Fiscals 2025, 2024 and the three month periods ended June 30, 2025 and 2024, we may continue to incur losses, have negative EPS, return on capital employed or return on net worth for the foreseeable future and may not achieve or maintain profitability in the future. Any failure by us to achieve or sustain profitability on a consistent basis, or at all, may have an adverse impact on the value of our Equity Shares. As a result, our cash flows, business, future financial performance and results of operations could be materially and adversely affected. 
+Summary of the related party transactions derived from Restated Consolidated Financial Information, is as follows: 
 
-**_4. In Fiscals 2025, 2024 and 2023, and the three month period ended June 30, 2025 and 2024 we derived 71.22%, 65.14% and 62.99%, and 77.04% and 70.46%, respectively, of our revenue from sale of goods from our top five customers and the loss of one or more such customers could adversely affect our business and prospects._** 
-
-We are dependent on a limited number of customers for a significant portion of our revenue. Our top five customers contributed 71.22%, 65.14% and 62.99%, and 77.04% and 70.46% of our revenue from sale of goods in Fiscals 2025, 2024 and 2023, and the three month period ended June 30, 2025 and 2024, respectively. The following table sets out our customers which amount to 10% or more of our revenue from sale of goods in the periods / years indicated below: 
-
-34 
-
-|**Customer**<br>**(1)**|**For Three**<br>**202**|**month Pe**<br>**5**|**riod ended**<br>**20**|**June 30,**<br>**24**|**202**|**5**|**For Fi**<br>**202**|**scals**<br>**4**|**20**|**23**|
-|---|---|---|---|---|---|---|---|---|---|---|
-||**(Reven**<br>**ue from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|**(Reven**<br>**ue from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|**(Reven**<br>**ue from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|**(Reven**<br>**ue from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|**(Reven**<br>**ue from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|
-|Customer<br>1<sup>(1)</sup>|643.78|18.61<br>%|481.51|15.46<br>%|1,927.88|15.28<br>%|1,303.97|15.53<br>%|462.60|12.29<br>%|
-|Cencora|430.15|12.43<br>%|384.90|12.36<br>%|1,719.22|13.62<br>%|1,169.46|13.92<br>%|278.50|7.40%|
-|Customer<br>3<sup>(1)</sup>|505.53|14.61<br>%|503.85|16.18<br>%|1,665.26|13.19<br>%|1,125.19|13.40<br>%|241.06|6.40%|
-|TruPharm<br>a|593.61|17.16<br>%|555.37|17.83<br>%|2,295.07|18.18<br>%|1,042.15|12.41<br>%|806.92|21.44<br>%|
-|Customer<br>5<sup>(1)</sup>|13.31|0.38%|44.25|1.42%|233.89|1.85%|313.15|3.73%|581.58|15.45<br>%|
-|Customer<br>6<sup>(1)</sup>|492.28|14.23<br>%|268.64|8.63%|1,381.76|10.95<br>%|829.68|9.88%|161.02|4.28%|
-|**Total**|2,678.68|77.43<br>%|2,238.52|71.89<br>%|9,223.08|73.08<br>%|5,783.60|68.87<br>%|2,531.67|67.27<br>%|
-
-
-
-_Note: (1) We have not received the necessary consents from certain of our customers to disclose the respective names._ 
-
-From Fiscal 2018 to 2021, we relied on our distribution partner, TruPharma, for the distribution of our products in the US. In Fiscal 2022, we started our own distribution activities through our wholly owned subsidiary AdvaGen, instead of relying solely on TruPharma. Whilst we currently use our wholly owned subsidiaries AdvaGen and Validus Pharmaceuticals LLC (“ **Validus** ”) for undertaking sales in the United States, we may rely on other distributors on an exclusive or a non-exclusive basis for other markets or for specified products. Any reliance on a single customer or a group of customers for a particular market or product may result in our sales in that market or of that product being reliant on our relationship with the customers. Any deterioration in our customer relationship, delays in payments, or termination of customer contracts with such customers may have a material adverse impact on our revenues from operations and profitability. 
-
-Our contracts with such customers are for a fixed term that ranges between two to seven years, unless terminated by either party. If neither party issues a prior termination notice before the expiry date, the term of the agreement may usually be automatically extended for another one to two years and our contracts permit them to terminate their arrangements with us by providing written notice (that range between 30 days to twelve months). In particular, certain contracts include clauses such as the right for our customer to terminate without assigning any cause, indemnity clauses, reimbursement for product recalls, right to return, exclusivity and the contractual right to audit and inspect our records and facilities. For further details, see “- _Our facilities are subject to client inspections and quality audits and any failure on our part to meet their expectations or to comply with the quality standards set out in our contractual arrangements, could result in the termination of our contracts and adversely affect our business, financial condition and results of operations._ ” on page 71. 
-
-Further, wholesale distributors are the largest purchasers from manufacturers and approximately 92% of prescription drugs in the US are distributed through these wholesalers. ( _Source: F&S Report_ ) The success of our business in the United States depends on maintaining good relationships with these wholesalers and ensuring that these wholesalers find our products to be commercially remunerative with continuing demand from customers. Due to the concentration of the purchasing power of these wholesalers, we are subject to their demands on pricing and product availability, and are required to offer them discounts and economic incentives that may be linked to the total value of purchases of our products within a particular period. 
-
-35 
-
-**_5._** 
-
-The loss of one or more of our significant customers or distributors or a reduction in the amount of business we obtain from them could have an adverse effect on our business and results of operations. Our reliance on a select group of customers may also constrain our ability to negotiate our arrangements, which may have an impact on our profit margins and financial performance. Our dependence on these customers also exposes us to risks associated with their internal management, financial condition and creditworthiness, and major events affecting these clients such as bankruptcy, change of management, mergers and acquisitions, reduction in growth or a slow-down in the business of our customers, could adversely affect our business. We cannot assure you that we will be able to maintain historic levels of business from our significant customers, or that we will be able to significantly reduce customer concentration in the future. The loss of business from any of these customers due to any reason could adversely affect our business, financial condition and prospects. 
-
-# **_Our operations are subject to high working capital and capital expenditure requirements, and our inability to maintain an optimal level of working capital or financing required may impact our operations adversely._** 
-
-Our operations are subject to high working capital requirements. Furthermore, given the importance of our manufacturing and research facilities, we also have capital expenditure requirements. For instance, the capital expenditure incurred by us increased to ₹1,389.14 million for the three month period ended June 30, 2025 from ₹157.01 million for the three month period ended June 30, 2024 and ₹546.58 for Fiscal 2025 due to the acquisition of a manufacturing facility in Pithampur, Madhya Pradesh in India. The following table sets forth details of our working capital and capital expenditure for the periods / years indicated: 
-
-|**Particulars**|**For three m**<br>**ended J**<br>|**onth period**<br>**une 30,**<br>||**For Fiscal**<br>||
+|**Transactions with the related parties**|**Three month**|**Three month**||**For the Year**|_(₹ in million)_<br>**For the Year**|
 |---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|WorkingCapital(in ₹ million)|3,101.39|2,092.60|2,773.37|1,906.69|1,402.72|
-|Working Capital as % of Total<br>Income(%)|86.89%|65.01%|21.40|21.86%|33.48%|
-|Capital Expenditure incurred<sup>(1)</sup><br>(in ₹ million)|1,389.14|157.01|546.58|518.91|572.23|
-|Capital Expenditure incurred as<br>% of Total Income<sup>(1)</sup> (%)|38.92%|4.88%|4.22%|5.95%|13.66%|
+|**Transactions**|**ended June 30,**<br>**2025**|**ended June 30,**<br>**2024**|**For the Year**<br>**ended**<br>**March 31, 2025**|**ended**<br>**March 31,**<br>**2024**|**ended**<br>**March 31,**<br>**2023**|
+|**Services received (expense)**||||||
+|**Others**||||||
+|Otrio Ventures Private Limited|0.52|0.65|1.98|2.15|1.49|
+|**Leave & license fees**||||||
+|**Others**||||||
+|Medone Pharma Labs|10.95|10..43|42.82|52.01|23.49|
+|**Remuneration paid**||||||
+|**Key Management Personnel (KMP)**||||||
+|P. S. Pilgaonkar|3.79|1.88|15.35|7.71|17.40|
+|Parag Sancheti|7.11|4.42|34.11|23.19|22.70|
+|Nitin Jajodia|4.30|3.75|23.17|19.10|22.70|
+|Venkat Changavali|0.62|0.14|2.01|-|-|
+|KG Ananthkrishnan|0.62|0.14|2.01|-|-|
+|Milind Patil|0.75|-|2.17|-|-|
+|**Close members of KMP**||||||
+|S. D. Pilgaonkar|0.98|0.93|3.93|3.82|4.00|
+|Surabhi Sancheti|4.54|3.57|22.78|18.77|18.44|
+|Sumant Pilgaonkar|3.03|2.00|14.73|10.54|10.39|
+|**Reimbursement of expenses**||||||
+|**Key Management Personnel (KMP)**||||||
+|P. S. Pilgaonkar|-|-|-|0.18|0.18|
+|Parag Sancheti|-|-|-|0.18|0.18|
+|Nitin Jajodia|-|-|-|0.18|0.18|
+|**Close members of KMP**||||||
+|S. D. Pilgaonkar|-|-|-|0.18|0.18|
+|Surabhi Sancheti|-|-|-|0.18|0.18|
+|Sumant Pilgaonkar|-|-|-|0.18|0.18|
+|**Dividend paid**||||||
+|**Holding Group**||||||
+|General Atlantic Singapore RR Pte. Ltd.|-|-|1.78|1.48|1.48|
 
 
 
-_Note: (1) For a reconciliation of non-GAAP measures, see "Other Financial Information - Non-GAAP Measures" on page 418._ 
+26 
 
-The actual amount and timing of our future working capital or capital expenditure requirements may differ from estimates due to, among other factors, unforeseen delays or cost overruns, unanticipated expenses, regulatory changes, economic conditions, engineering design changes, weather-related delays, technological changes, additional market developments and new opportunities in the pharmaceutical industry. These factors may result in increases in the amount of our trade receivables and/or write-offs of trade receivables, and may result in increases in any future short-term borrowings. Continued increases in our working capital requirements may have an adverse effect on our business, results of operations, cash flows and financial condition. Our sources of additional financing, in the event that we need to draw on them to meet our working capital or capital expenditure needs, may include the incurrence of debt, the issue of equity or debt securities or a combination of both. If we decide to raise additional funds through the incurrence of debt or issuance of debt securities or a combination of both, our interest and debt repayment obligations will increase, which could have a significant effect on our profitability and cash flows. We may also become subject to restrictive covenants in our financing agreements, which could limit our ability to access cash flows from operations and undertake certain types of transactions. Please see “- _Our financing agreements contain covenants that limit our flexibility in operating our business. If we are not in compliance with certain of these covenants and are unable to obtain waivers from the respective lenders, our lenders may accelerate the repayment schedules, and enforce their respective security interests, leading to a material adverse effect on our business and financial condition._ ” on page 47. Any issuance of equity to raise additional funds, on the other hand, would result in a dilution of the ownership of existing shareholders and our EPS. 
-
-Additionally, our ability to obtain additional financing on favorable commercial terms, if at all, will depend on a number of factors, including, amongst others: 
-
-36 
-
-- our results of operations and cash flows; 
-
-- the amount and terms of our existing indebtedness; 
-
-- general market conditions in the markets where we operate; and 
-
-- general condition of the debt and equity markets. 
-
-In many cases, a significant amount of our working capital is required to finance the purchase of materials before payment is received from our customers. Our trade receivables are non-interest bearing and are generally on credit terms from 0 days to 180 days. See “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations – Quantitative and Qualitative Analysis of Market Risks – Credit Risk_ ” on page 452. 
-
-Our working capital requirements may increase if the payment terms in our agreements with our customers or purchase orders include reduced advance payments or longer payment schedules, or if our customers’ access to channel financing is reduced. These factors may result in increases in the amount of our receivables and short-term borrowings. Continued increases in our working capital requirements or our inability to obtain financing at favorable terms, or at all may have a material adverse effect on our financial condition, results of operations and cash flows. 
-
-**_6. We expect to spend a significant amount of resources on research and development efforts. Such efforts may not result in marketable products. Failure to successfully introduce products into the market could have a material adverse effect on our business, financial condition, and results of operations._** 
-
-We conduct research and development primarily to enable us to develop, manufacture and market products approved in accordance with applicable regulations. Our success depends on our research and development to improve our existing products, develop commercially viable and sustainable new products or to develop process improvements that can improve time, quality and cost efficiency. The development and commercialization process for new products is both time-consuming and costly, and involves a high degree of business risk. 
-
-Our revenue expenditure on research and development expense decreased to ₹367.41 million in the three month period ended June 30, 2025 from ₹412.22 million in the three month period ended June 30, 2024 due to the Company having filed one NDA in the three month period ended June 30, 2024 and the fees for filing NDAs is higher than the fees for filing ANDAs. The following table sets forth details of our research and development expenses for the periods / years indicated: 
-
-|**Particular**|**For three mon**<br>**Jun**<br>|**th period ended**<br>**e 30,**<br>||**For Fiscals**<br>||
+|**Transactions with the related parties**||||||
 |---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Revenue<br>expenditure on<br>Research<br>and<br>Development<br>Expense (in ₹<br>million)|367.41|412.22|1,353.56|1,110.22|728.80|
-|%<br>of<br>Total<br>Expenses(%)|12.35%|14.68%|12.28%|14.43%|16.95%|
-|% of Revenue<br>from Operations<br>(%)|10.42%|13.02%|10.54%|13.00%|18.52%|
+|**Transactions**|**Three month**<br>**ended June 30,**<br>**2025**|**Three month**<br>**ended June 30,**<br>**2024**|**For the Year**<br>**ended**<br>**March 31, 2025**|**For the Year**<br>**ended**<br>**March 31,**<br>**2024**|**For the Year**<br>**ended**<br>**March 31,**<br>**2023**|
+|**Key Management Personnel (KMP)**||||||
+|P. S. Pilgaonkar|-|-|0.13|0.11|0.11|
+|Parag Sancheti|-|-|0.00|0.00|0.00|
+|**Relatives of KMP**||||||
+|S. D. Pilgaonkar|-|-|0.13|0.11|0.11|
+|Surabhi Sancheti|-|-|0.26|0.22|0.22|
+|Sumant Pilgaonkar|-|-|0.26|0.22|0.22|
+|**Others**||||||
+|Terentia Venture Partners|-|-|0.01|0.01|0.01|
+|**Compensation of Key Managerial Per**<br>|**sonnel**<br>|||||
+|Short term benefits|17.19|10.33|72.63|49.99|62.79|
+|Post employment benefits|-|-|-|-|-|
+|Share based benefits|2.90|5.10|20.41|721|675|
+|<br>**Balances due from/to the related parti**<br>|<br>**es**|||.|.|
+|**Deposit given**||||||
+|Others||||||
+|Medone Pharma Labs|10.00|10.00|10.00|10.00|10.00|
 
 
 
-As we seek to develop new products, or re-commercialize products that were previously approved, our research and development expenses will increase, potentially significantly, and we cannot be certain that we will recover our investment in a product, even if that product is commercialized. If we spend significant resources on research and development efforts and are not able to introduce new products, our business, financial condition, and results of operations may be materially adversely affected. 
+For further details of the related party transactions, see “ _Restated Consolidated Financial Information_ – _Note 43- Transactions with Related Parties_ ” at page 400. 
 
-37 
+# **Financing Arrangements** 
 
-We also face several challenges when developing and commercializing new products to introduce into the market, including but not limited to: 
+There have been no financing arrangements whereby our Promoters, members of the Promoter Group, directors of our Corporate Promoter, our Directors and their relatives have financed the purchase of any securities of our Company by any other person (other than in the normal course of the business of the relevant financing entity) during a period of six months immediately preceding the date of this Red Herring Prospectus. 
 
-- our ability to develop products in a timely and cost-efficient manner and in compliance with regulatory requirements, including delays associated with the USFDA listing and approval process and our ability to obtain required regulatory approvals in a timely manner, or at all, and maintain such approvals if obtained; 
+# **Average cost of acquisition for our Promoters and the Selling Shareholder** 
 
-- the success of our clinical studies process to ensure that new products are safe and effective or bioequivalent to the reference listed drug, including as a result of reliance on third parties to conduct such clinical studies; 
+The average cost of acquisition per Equity Share for shares held by our Promoters and the Selling Shareholder, as at the date of this Red Herring Prospectus is: 
 
-- the risk that any of our products presently under development, if and when fully developed and tested, will not perform as expected or be as commercially viable as initially conceptualized; 
-
-- our ability to scale-up manufacturing methods to successfully manufacture commercial quantities of drug product in compliance with regulatory requirements, including due to availability of raw materials on commercially reasonable terms; and 
-
-- the risk that legal action may be brought against our generic drug products by our branded drug product competitors, including patent infringement claims among others. 
-
-As a result of these and other difficulties, our ongoing investments in new product launches and R&D for future products could result in higher costs without a proportionate increase in revenues. Accordingly, we cannot assure you that the investments we have made in research and development will yield satisfactory results in terms of improved products, or will yield any results at all, or that our products currently in development will receive necessary regulatory approvals on a timely basis or at all, which may result in unsuccessful development or commercialization of new products. Our research and development efforts may not result in the discovery or successful development of new products. The following table sets forth our research and development expenses on projects which were dropped in the last three Fiscals: 
-
-|**Particular**||**For Fiscals**<br>||
-|---|---|---|---|
-||**2025**|**2024**|**2023**|
-|Research<br>and<br>Development expense on<br>dropped projects (in ₹<br>million)|53.79|34.55|80.81|
-
-
-
-In addition, if any of our products, when developed and approved or acquired, cannot be successfully or timely commercialized, our results of operations could be adversely affected. We cannot guarantee that any investment we make in developing or marketing products will be recouped, even if we are successful in commercializing those products. Due to the significant amount of capital required and the long lead time between planning and commercialization of products, our failure to successfully introduce new products could have a material adverse effect on our business, financial condition, results of operations, cash flows and prospects. 
-
-**_7. Any disruption, breakdown or shutdown of our research and development and manufacturing facilities may have a material adverse effect on our business, financial condition, results of operations and cash flows._** 
-
-We have two USFDA approved research and development facilities, and two manufacturing facilities in India with multiple accreditations from different regulatory agencies such as USFDA, WHO-GMP and Health UK. For further details, see “ _Our Business – Our Product Manufacturing_ ” on page 258. We are dependent on our manufacturing facilities for the production of 58 of our 70 commercial products as of June 30, 2025. We source the remaining commercial products from third-party manufacturers. None of our third-party manufacturers are related to our Company, Promoters, Promoter Group or Directors. 
-
-38 
-
-Our R&D facilities are located in Thane, Maharashtra, India and Ontario, Canada and our manufacturing facilities are located in Ambernath and Satara in Maharashtra, India and Pithampur in Madhya Pradesh, India and events impacting those geographical areas may disrupt our production and operations. While there has not been a material impact from these events in the last three Fiscals and in the three month period ended June 30, 2025 and 2024, we may encounter manufacturing problems or experience difficulties or delays in production as a result of any occurrence of the following events, or any other events beyond our ability to control: 
-
-- forced or voluntary closings of manufacturing plants, including as a result of regulatory inspections, see “ _— As the manufacture of our products is technically complex and highly regulated, product recalls, regulatory inspection failures or shortcomings at our manufacturing facilities or other problems may reduce sales, adversely affect our business, financial condition and results of operations and delay the launch of new products, and in some cases may lead to closures of our facilities._ ”; 
-
-- problems with supply chain continuity, including as a result of a natural or man-made disaster, at one of our facilities or at a critical supplier or vendor; 
-
-- manufacturing shutdowns, product shortages, including backorders and discards, and delays or bottlenecks in product manufacturing, including as a result of shortages of qualified personnel, labor strikes and lock-outs, or inadequate supply of utilities; 
-
-- problems with manufacturing, quality assurance/quality control or supply, or governmental approval delays, due to our consolidation and rationalization of manufacturing facilities and the sale or closure of certain sites; and 
-
-- changes in applicable local and international legislations, rules and regulations such as serialization. 
-
-Any of the above may result in reduced production, reduced sales, and adversely affect our business, financial condition and results of operations. For example, we had to close our manufacturing facilities for four days in March 2020 as a result of COVID-19 related lockdowns. Additionally, as our equipment ages, it will need to be replaced. Replacement of equipment has the potential to introduce variations in the manufacturing process that may result in lot failures or manufacturing shut-down, delay in the release of product batches, product recalls, spoilage or regulatory action. Success rates can also vary dramatically at different stages of the manufacturing process, which can reduce yields and increase costs. 
-
-Our Ambernath facility manufactures oral solid dosages, unit-dose, bi-dose, and multi-dose nasal sprays, our Satara facility manufactures oral liquid dosages and our Pithampur facility has capabilities to manufacture oral solid dosages for steroids, hormones and high-potency products, and topical ointments, and accordingly, certain of our products are produced by a single manufacturing facility. The commercialization of the products that could be manufactured at our Pithampur facility has not yet commenced. If any of the foregoing events, or any other events arise that affect the production of such products by the relevant manufacturing facility, we will be unable to reallocate production to alternative manufacturing facilities, which may affect our ability to manage our capacity utilization and product mix to the extent that our business may be materially and adversely affected. 
-
-We may also be subject to manufacturing disruptions due to delays in receiving regulatory approvals, which may require our manufacturing facilities to suspend or limit production, or transfer production to other approved facilities, until the required approvals are received or observations concerning these approvals are resolved. Our inability to effectively respond to any such shutdown or slowdown and rectify any disruption in a timely manner and at an acceptable cost, could result in us being unable to satisfy our contractual commitments, which could have an adverse effect on our business, financial condition and results of operations. 
-
-Set out below is certain information relating to our installed production capacity and the capacity utilization rate for our manufacturing facilities as of and for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023: 
-
-- (i) as of and for the three month periods ended June 30, 2025 and 2024: 
-
-39 
-
-
-
-<!-- Start of picture text -->
-Facilities  As of/for the three month period ended June 30 ,<br>2025  2024<br>Installed   Capacity  Actual  Installed   Capacity utilization as  Actual<br>capacity (2) utilization as % of  Production  capacity (2) % of installed capacity Production<br>installed capacity Volume Volume<br>Ambernath,  8,169.02 16.06% 1,311.68 8,169.02 13.97% 1,141.03<br>Maharashtra,<br>India –Solid<br>oral<br>dosages (1)<br>Ambernath,  24.83 1.83% 0.45 24.83 0.00% -<br>Maharashtra,<br>India –<br>Nasal<br>products (1)<br>3,459.08 4.43% 153.30 3,459.08 6.59% 227.81<br>Satara,<br>Maharashtra,<br>India – Oral<br>liquid (1)<br>Pithampur,  2,057.59  -  -  NA  NA  NA<br>Madhya  (solids) + 4.14<br>Pradesh- (tubes)<br>Oral solids<br>and<br><!-- End of picture text -->
-
-_Note: Capacity utilization for the three month periods ended June 30, 2025 and 2024 are not annualized; the Pithampur facility was acquired in the_ ~~Oi (1)~~ _three months period ended June 30, 2025 and manufacturing operations has not commenced._ 
-
-> _(1) Oral solid dosages: million tablets per annum; nasal products: million bottles/microvials per annum; and Oral liquid dosages: kiloliters_ 
-
-_per annum._ 
-
-> _(2) The installed capacity is calculated on 365 days working with 21 hours operations per day and further adjusted for mandatory cleaning_ 
-
-_and change over time as it is a multi-product facility._ 
-
-(ii) as of and for Fiscals ended March 31, 2025, 2024 and 2023: 
-
-
-
-<!-- Start of picture text -->
-Facilities  As of/for the year ended March 31<br>2025  2024  2023<br>Installed   Capaci Actual  Installed   Capaci Actual  Installed   Capaci Actual<br>capacity (2) ty  Production  capacity (2) ty  Production  capacity (2) ty  Production<br>utilizati Volume utilizat Volume utilizat Volume<br>on as  ion as  ion as<br>% of  % of  % of<br>installe installe installe<br>d  d  d<br>capacit capacit capacit<br>y y  y<br>Ambernat 8,169.02  64.23% 5,246.80  5,652.45  61.53% 3,478.18  5,652.45 43.40% 2,452.91<br>h,<br>Maharasht<br>ra, India –<br>Solid oral<br>dosages (1)<br>Ambernat 24.83  0.85% 0.21  24.83  -  -  24.83 -  -<br>h,<br>Maharasht<br>ra, India –<br><!-- End of picture text -->
-
-40 
-
-|**Facilities**||**2025**<br>|<br>|**As of/for the**<br>|**year ended**<br>**2024**<br>|**March 31**<br>||**2023**<br>||
-|---|---|---|---|---|---|---|---|---|---|
-||**Installed**<br>**capacity**<sup>**(2)**</sup>|**Capaci**<br>**ty**<br>**utilizati**<br>**on as**<br>**% of**<br>**installe**<br>**d**<br>**capacit**<br>**y**|**Actual**<br>**Production**<br>**Volume**|**Installed**<br>**capacity**<sup>**(2)**</sup>|**Capaci**<br>**ty**<br>**utilizat**<br>**ion as**<br>**% of**<br>**installe**<br>**d**<br>**capacit**<br>**y**|**Actual**<br>**Production**<br>**Volume**|**Installed**<br>**capacity**<sup>**(2)**</sup>|**Capaci**<br>**ty**<br>**utilizat**<br>**ion as**<br>**% of**<br>**installe**<br>**d**<br>**capacit**<br>**y**|**Actual**<br>**Production**<br>**Volume**|
-|Nasal<br>products<sup>(1)</sup>||||||||||
-|Satara,<br>Maharasht<br>ra, India –<br>Oral<br>liquid<sup>(1)</sup>|3,459.08|25.56%|883.99|<br>3,459.08|47.51%|1,643.50|<br>3,459.08|66.29%|2,293.00|
-
-
-
-> _(1) Oral solid dosages: million tablets per annum; nasal products: million bottles/microvials per annum; and Oral liquid dosages: kiloliters per annum._ 
-
-> _(2) The installed capacity is calculated on 365 days working with 21 hours operations per day and further adjusted for mandatory cleaning and change over time as it is a multi-product facility._ 
-
-The significant variations in capacity utilization of our manufacturing facilities are attributable to the high demand for solid oral dosages manufactured at our facility in Ambernath compared to demand of oral liquids manufactured at our facility in Satara and non-operationalization of our Pithampur facility. If we are unable to expand our production capacity or increase utilization as needed, our business, financial condition and results of operations will be adversely impacted. We also cannot guarantee that any investment we make in developing products will be recouped, even if we are successful in commercializing those products. In the event of excess production and expiry of outdated stock, we might also have to bear the cost of disposal of the excess products. We also may not be able to utilize our available capacity, which in turn could affect our ability to recover our product development investments. 
-
-# **_8. Our Company is involved in certain legal proceedings. Any adverse decision in such proceedings may render us/them liable to liabilities/penalties and may adversely affect our business, financial condition, results of operations and cash flows._** 
-
-Our Company is involved in certain legal proceedings. These legal proceedings are pending at different levels of adjudication before various courts and tribunals or other governmental authorities. The amounts claimed in these proceedings have been disclosed to the extent ascertainable and include amounts claimed jointly and severally from us and other parties. Should any new developments arise, such as any change in applicable Indian, U.S. or other jurisdictional laws or any rulings against us by appellate courts or tribunals, we may need to make provisions in our financial statements that could increase expenses and current liabilities. Any adverse decision in such legal proceedings may have a material adverse effect on our business, financial condition, results of operations and cash flows. 
-
-A summary of outstanding litigation proceedings involving our Company, our Promoters, our Directors, our KMP, our Senior Management and our Group Companies as on the date of this Red Herring Prospectus and as disclosed in the section titled “ _Outstanding Litigation and Other Material Developments_ ” in terms of the SEBI ICDR Regulations is provided below: 
-
-|**Name**<br>**of**<br>**Entity**<br>**_Company_**<br>|**Criminal**<br>**Proceedi**<br>**ngs**<br>|**Tax**<br>**Proceeding**<br>**s**<br>**(direct**<br>**and**<br>**indirect**<br>**tax)**<br>|**Statutory**<br>**or**<br>**Regulator**<br>**y**<br>**Proceedin**<br>**gs**<br>|**Disciplin**<br>**actions**<br>**SEBI**<br>**Stock**<br>**Exchang**<br>**against**<br>**Promote**|**ary**<br>**by**<br>**or**<br>**es**<br>**our**<br>**rs**|**Material civil**<br>**litigation**<br>|**Aggregate**<br>**amount**<br>**involved (₹ in**<br>**million)^**<br>|
-|---|---|---|---|---|---|---|---|
-|By<br>our<br>Company|Nil|Nil|Nil|-||Nil|Nil|
-
-
-
-41 
-
-|**Name**<br>**of**<br>**Entity**|**Criminal**<br>**Proceedi**<br>**ngs**|**Tax**<br>**Proceeding**<br>**s**<br>**(direct**<br>**and**<br>**indirect**<br>**tax)**|**Statutory**<br>**or**<br>**Regulator**<br>**y**<br>**Proceedin**<br>**gs**|**Disciplin**<br>**actions**<br>**SEBI**<br>**Stock**<br>**Exchange**<br>**against**<br>**Promoter**|**ary**<br>**by**<br>**or**<br>**s**<br>**our**<br>**s**|**Material civil**<br>**litigation**|**Aggregate**<br>**amount**<br>**involved (₹ in**<br>**million)^**|
-|---|---|---|---|---|---|---|---|
-|Against<br>our|Nil|16|Nil|-||3|516.71|
-|Company||||||||
-|**_Directors(othe_**|**_r than Promo_**|**_ters)_**||||||
-|By<br>our<br>Directors|Nil|Nil|Nil|-||Nil|Nil|
-|Against<br>our|Nil|1|Nil|-||Nil|5.09|
-|Directors||||||||
-|**_Promoters_**||||||||
-|By<br>our<br>Promoters|Nil|Nil|Nil|Nil||Nil|Nil|
-|Against<br>our|Nil|Nil|Nil|Nil||Nil|Nil|
-|Promoters||||||||
-|**_Subsidiaries_**||||||||
-|By<br>our<br>Subsidiaries|Nil|Nil|Nil|-||Nil|Nil|
-|Against<br>our|Nil|1|Nil|-||1|25.26|
-|Sbidii||||||||
-|usares<br>**_Key Manageria_**|**_l Personnel a_**|**_nd Senior Man_**|**_agement(excl_**|**_uding the E_**|**_xecuti_**|**_ve Directors)_**||
-|By our Key<br>Managerial<br>Personnel and<br>Senior<br>Management|1|N.A.|Nil|-||N.A.|N.A|
-|Against<br>the|1|N.A.|Nil|-||N.A.|N.A|
-|Key<br>Managerial<br>Personnel and<br>Senior||||||||
-|Management||||||||
-|<br>**_Group Compan_**|**_y_**|||||||
-|By our Group<br>impact on our C|Company wh<br>ompany|ich has a mate|rial|||Nil||
-|Against our Gro<br>impact on our C|up Company<br>ompany|which has a mate|rial|||Nil||
-
-
-
-_Note: ^To the extent quantifiable_ 
-
-There can be no assurance that these litigations will be decided in our favor and such proceedings may divert management time and attention and consume financial resources in their defense or prosecution. An adverse outcome in any of these proceedings may affect our reputation, standing and future business, and could have an adverse effect on our business, financial condition, results of operations, cash flows and prospects. We cannot assure you that any of these proceedings will be decided in our favor or that no further liability will arise out of these proceedings. 
-
-**_9. We were and are exposed to foreign currency fluctuation risks, particularly in relation to the translation of our financial statements and our borrowings, and we had negative foreign currency exposures as at June 30, 2025 and June 30, 2024, and as at March 31, 2025, 2024 and 2023, which may adversely affect our results of operations, financial condition and cash flows._** 
-
-We present our financial statements in Indian Rupees. However, given that we export our products to eight countries, in particular the U.S., as at June 30, 2025, a significant portion of our business 
-
-42 
-
-transactions and borrowings are denominated in foreign currencies. The following table sets forth information about our revenue from operations by geography for the periods / years indicated: 
-
-||**For thr**<br>**20**|**ee month**<br>**Ju**<br>**25**|**period en**<br>**ne,**<br>**20**|**ded 30**<br>**24**|**20**|**25**|_(i_<br>**For**<br>**20**|_n ₹ million, u_<br>**Fiscal**<br>**24**|_nless other_<br>**20**|_wise stated)_<br>**23**|
-|---|---|---|---|---|---|---|---|---|---|---|
-||**Revenu**<br>**e from**<br>**operati**<br>**ons**|**% of**<br>**Revenu**<br>**e from**<br>**Operati**<br>**ons**|**Revenu**<br>**e from**<br>**operati**<br>**ons**|**% of**<br>**Revenu**<br>**e from**<br>**Operati**<br>**ons**|**Revenue**<br>**from**<br>**operation**<br>**s**|**% of**<br>**Revenue**<br>**from**<br>**Operatio**<br>**ns**|**Revenue**<br>**from**<br>**operations**|**% of**<br>**Revenue**<br>**from**<br>**Operations**|**Revenue**<br>**from**<br>**operations**|<br>**% of**<br>**Revenue**<br>**from**<br>**Operation**<br>**s**|
-|India|11.41|0.32%|26.19|0.83%|99.67|0.78%|109.92|1.29%|118.31|3.01%|
-|USA|3,507.36|99.50%|3,122.41|98.59%|12,649.23|98.49%|8,317.14|97.40%|3,669.63|93.25%|
-|Others<sup>(1)</sup>|6.17|0.18%|18.59|0.59%|93.82|0.73%|111.83|1.31%|147.25|3.74%|
-|**Total**|**3,524.94**|**100.00**<br>**%**|**3,167.19**|**100.00**<br>**%**|**12,842.72**|**100.00%**|**8,538.89**|**100.00%**|**3,935.19**|**100.00%**|
-
-
-
-_Note:_ 
-
-_(1) Others include Australia, New Zealand, Switzerland, Canada, Saudi Arabia_ 
-
-The following table sets forth the details of the sale/export of our products to each of the eight countries for the periods / years indicated: 
-
-|**Export**<br>**Countri**<br>**es**|**For t**<br>**20**<br>|**hree mo**<br>**Ju**<br>**25**<br>|**nth period**<br>**ne 30**<br>**20**<br>|**ended**<br>**24**<br>|**20**<br>|**25**<br>|**For F**<br>**20**<br>|**iscal**<br>**24**<br>|**20**<br>|**23**<br>|
-|---|---|---|---|---|---|---|---|---|---|---|
-||**(Reve**<br>**nue**<br>**from**<br>**sale of**<br>**goods**<br>**in ₹**<br>**millio**<br>**n)**|**(% of**<br>**revenu**<br>**e from**<br>**sale of**<br>**goods)**|**(Revenu**<br>**e from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenue**<br>**from**<br>**sale of**<br>**goods)**|**(Revenue**<br>**from sale**<br>**of goods**<br>**in ₹**<br>**million)**|**(% of**<br>**revenue**<br>**from**<br>**sale of**<br>**goods)**|**(Revenu**<br>**e from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenue**<br>**from**<br>**sale of**<br>**goods)**|**(Revenu**<br>**e from**<br>**sale of**<br>**goods in**<br>**₹**<br>**million)**|**(% of**<br>**revenue**<br>**from**<br>**sale of**<br>**goods)**|
-|US|3,444.<br>06|99.55<br>%|3,073.00|98.68%|12,468.46|98.79%|8,202.65|97.67%|3,576.26|95.02%|
-|India|11.72|0.34%|25.01|0.80%|94.98|0.75%|107.10|1.28%|106.03|2.82%|
-|Malaysi<br>a|3.40|0.10%|-|0.00%|3.47|0.03%|-|0.00%|-|0.00%|
-|Saudi<br>Arabia|0.46|0.01%|-|0.00%|8.26|0.07%|0.47|0.01%|-|0.00%|
-|Australi<br>a|-|0.00%|1.49|0.05%|4.19|0.03%|-|0.00%|-|0.00%|
-|Canada|-|0.00%|5.22|0.17%|12.16|0.10%|4.97|0.06%|6.05|0.16%|
-|New<br>Zealand|-|0.00%|-|0.00%|-|0.00%|69.48|0.83%|64.87|1.72%|
-|Singapo<br>re|-|0.00%|-|0.00%|8.45|0.07%|-|0.00%|-|0.00%|
-|Switzerl<br>and|-|0.00%|9.32|0.30%|21.01|0.17%|13.64|0.16%|10.46|0.28%|
-|**Total**|**3,459.**<br>**64**|**100.00**<br>**%**|**3,114.03**|**100.00**<br>**%**|**12,620.99**|**100.00%**|**8,398.32**|**100.00%**|**3,763.67**|**100.00**<br>**%**|
-
-
-
-43 
-
-For details on our exchange rate exposure, see “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations – Significant Factors affecting our Financial Condition and Results of Operations – Foreign Currency Exchange Rate Exposure_ ” on page 434. 
-
-Our net foreign exchange gain decreased from ₹47.96 million in the three month period ended June 30, 2024 to ₹38.18 million in the three month period ended June 30, 2025,  it decreased from ₹156.75 million in Fiscal 2024 to ₹83.13 million in in Fiscal 2025, and it decreased from ₹237.70 million in Fiscal 2023 to ₹156.75 million in Fiscal 2024, in each case due to prevailing rates of exchange, in particular for U.S. dollars. In addition, certain of our borrowings are denominated in USD, and any such depreciation of the Indian Rupee against the USD may impact our liabilities and our financial condition. 
-
-Further, while we seek to hedge our foreign currency risk by entering into foreign exchange forward and options contracts, any steps undertaken to hedge the risks due to fluctuations in currencies may not adequately hedge against any losses we incur due to such fluctuations. We had, and may continue to have, negative foreign currency exposures that may be unhedged, which may have an adverse impact on our financial condition and results of operations. The following table sets forth our foreign currency exposure that is not hedged by derivative instruments or otherwise as at the indicated dates: 
-
-||**As at three month p**<br>**30**<br>**2025**|**eriod ended June**<br>**,**<br>**2024**|**2025**|**As at March 31,**<br>**2024**|_(in ₹ million)_<br>**2023**|
-|---|---|---|---|---|---|
-|USD|-8353.51|-5,883.32|-7,691.14|-5,839.58|-1,721.65|
-|Euro|-71.71|-44.67|-219.46|-81.67|-34.45|
-|Others|-|-0.75|-4.15|-1.12|0.04|
-
-
-
-_Note: Negative figures denote foreign currency payables whereas positive figures denote foreign currency receivables._ 
-
-# **_10. We have had negative cash flows from operating activities in prior periods and may continue to have negative cash flows in the future._** 
-
-We generated cash flows, both positive and negative, set forth in the table below from operating activities for the specified periods: 
-
-_<u>(in ₹ million)</u>_ 
-
-||**For three mon**<br>**Jun**<br>|**th period ended**<br>**e 30,**<br>||**For Fiscal**<br>||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Net<br>cash<br>generated<br>by / (used<br>in)<br>operating<br>activities|439.46|957.22|1,591.77|210.09|(747.49)|
-
-
-
-The negative cash flows from operating activities in Fiscal 2023 was mainly attributable to an increase in our inventories. Negative operating cash flows over extended periods, or significant negative cash flows in the short term, could materially impact our ability to operate our business and implement our growth plans. As a result, our cash flows, business, future financial performance and results of operations could be materially and adversely affected. For further details, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations - Cash flows and cash and cash equivalents” on page 449. 
-
-44 
-
-**_11. Our business has grown rapidly, including our revenue from operations which has increased by 11.30% to ₹3,524.94 million in the three month period ended June 30, 2025 from ₹3,167.19 million in the three month period ended June 30, 2024, by 50.40% to ₹12,842.72 million in Fiscal 2025 from ₹8,538.89 million in Fiscal 2024 and by 116.99% to ₹8,538.89 million in Fiscal 2024 from ₹3,935.19 million for Fiscal 2023, and such growth may not be sustained in the future._** 
-
-We have experienced rapid growth in our business, including in the revenue from the sale of goods and the number of commercialized products. Our revenue from operations has increased by 11.30% to ₹3,524.94 million in the three month period ended June 30, 2025 from ₹3,167.19 million in the three month period ended June 30, 2024, by 50.40% to ₹12,842.72 million in Fiscal 2025 from ₹8,538.89 million in Fiscal 2024 and by 116.99% to ₹8,538.89 million in Fiscal 2024 from ₹3,935.19 million for Fiscal 2023. Our profit for the period / year also increased by 69.38% to ₹433.01 million for the three month period ended June 30, 2025 from a profit of ₹255.65 million for the three month period ended June 30, 2024, by 47.63% to ₹1,343.61 million for Fiscal 2025 from ₹910.12 million for Fiscal 2024 and by 638.92% to ₹910.12 million for Fiscal 2024 from a loss of ₹(168.88) million for Fiscal 2023. 
-
-Our rate of growth is calculated on the basis of a relatively low base of total revenue from operations for Fiscals 2023, as compared to Fiscal 2024 or Fiscal 2025. Further, our historical growth rates may not be indicative of future growth, and we cannot assure you that we will be able to maintain our past growth rate, launch the same number of products or secure the same number of or level of sales to customers. The market for our products may not continue to grow at the rate we expect or at all, and our customer base may decline because of increased competition in the pharmaceutical sector or the maturation of our business. Additionally, as we grow, the ability of our management to develop and launch additional products may become more limited. If we are unable to sustain such growth effectively, our business, results of operations, financial condition and cash flows may be adversely affected. 
-
-**_12. Our success depends on our ability to execute our growth strategies. If we are unable to sustain or manage our growth, our business, results of operations, cash flows and financial condition may be adversely affected._** 
-
-We are embarking on a growth strategy that involves steps aimed at, among others, growing our portfolio of specialty products and drug-device combinations, continuing to develop new products and building leadership positions in regulated markets for generic products, expanding our US market presence and leveraging our intellectual property and product portfolio in other key regulated markets, and pursuing synergistic business development and external innovation opportunities (including to opportunistically pursue expansion of our manufacturing capabilities with acquisitions of facilities). For further details, see “ _Our Business – Our Strategies_ ” on page 255. Our future success will depend to a significant degree on our ability to continue to develop and commercialize new pharmaceutical products in a timely and cost-effective manner. The development and commercialization of new products is complex, timeconsuming and costly. Due to the long lead times associated with obtaining regulatory approvals for many of these products, as well as the competitive advantage that can come from gaining early approval, it is important that we maintain a sufficiently large portfolio of products and a product pipeline and manage their development and approval processes so as to bring products to market on a timely basis. 
-
-Our growth strategy will place significant demands on our management and financial resources as well as our financial, accounting and operating systems. Our ability to expand our business is subject to significant risks and uncertainties, including but not limited to the following: 
-
-- the need to raise significant additional funds to build additional manufacturing facilities or incorporate new entities, which we may be unable to obtain on reasonable terms or at all. For instance, Advagen Pharma Europe OÜ is incorporated as a private company limited by shares in Estonia but it has not issued any share capital as of the date of this Red Herring Prospectus, and future infusion of funds may be required; 
-
-- delays and cost overruns as a result of a number of factors, many of which may be beyond our control, such as unavailability of timely supplies of materials, equipment and technologies; 
-
-- inability to develop and maintain relationships with our customers or to derive benefits from product development efforts/ commercialization; 
-
-- delays or denial of required approvals by the USFDA, FDA Maharashtra and other relevant 
-
-45 
-
-government authorities; and 
-
-- the competition we face from other manufacturers in relation to our offerings. For further details, see “- _We face significant competitive pressures in our business from other pharmaceutical manufacturers. Our inability to compete effectively would be detrimental to our business and prospects for future growth._ ” on page 50. 
-
-To achieve and maintain future growth, we need to, among other things, effectively manage our expansion projects and research and development initiatives, accurately assess market demands and new markets, attract new customers, obtain sufficient financing for our expected capital expenditures, control our input costs, effectively expand, train and manage our employees, maintain sufficient operational and financial controls, acquire businesses that we believe are congruent with our expansion plans and make additional capital investments to take advantage of anticipated market conditions. 
-
-Further, our ability to sustain our rates of growth may be affected by external factors outside our control, including a decline in the demand for our products, increased price competition, heightened regulatory requirements or oversight, or a general slowdown in the economy. The prescription pharmaceutical market may be affected by, among other things, changes in government policies, government initiatives, including changing laws and regulations, economic conditions, income levels and interest rates, which may negatively affect the demand for and the valuation of our products. Any of these factors may negatively contribute to changes in the prices of, and demand for, our products, and could contribute to a failure to successfully implement our growth strategies or sustain our growth, which could have a material adverse effect on our business, results of operations, cash flows and financial condition. 
-
-**_13. We have pursued inorganic growth opportunities in the past and acquired Validus, for which the goodwill was higher than the purchase price. We may face difficulties integrating acquired businesses and brands and we may be unable to realize the anticipated benefits of such inorganic growth opportunities, which may result in significant costs and impact our brand, business, results of operations and profitability._** 
-
-We may expand our business through selective, targeted mergers or acquisitions of businesses and assets we believe to be complementary to our existing business. We may also seek to expand our business through complementary or strategic acquisitions of other businesses, products or assets, or through joint ventures, strategic agreements or other arrangements. We may also incur substantial additional indebtedness and contingent liabilities relating to the businesses we acquire. 
-
-In February 2024, we acquired Validus, to gain the capability to market branded prescription products and promote them to healthcare practitioners. Validus incurred operating losses in the past. There is no assurance that Validus will not continue to experience operating losses. While we believe that our existing cash resources are sufficient to support our operation and growth strategies, there is no assurance that our acquisition strategy will be successful and we will earn a positive return on our investment. We acquired Validus with a goodwill of USD 5.89 million (₹491.29 million) at a purchase price of USD 5.50 million and at the time of acquisition Validus had more current liabilities than current assets and had a negative Total Fair Value of net tangible assets taken over of USD (0.61) million (₹(51.25) million). As a result of deferred consideration components, the purchase price is recorded as per Ind AS at a discounted value of USD 5.28 million (₹440.04 million) in our Restated Consolidated Financial Information. For further details, see “ _Restated Consolidated Financial Information – Note 45 Business Combination_ ”. As a portion of this purchase price, and pursuant to the equity purchase agreement entered into between our Company, Validus Holding Company LLC and Advagen Holdings, INC, Advagen Holdings, INC is required to pay royalty amounts of 15% of the positive adjusted EBITDA of Validus for each of the four successive twelve months from the date of acquisition to Validus Holding Company LLC (the seller), subject to a cap of USD 2.50 million in respect of either the total royalty amount or the royalty amount and other deferred payments. If we fail to achieve the expected synergies from our acquisition of Validus, or any other acquisitions, we may experience impairment charges with respect to goodwill, intangible assets, or other items, particularly if business performance declines or expected growth is not realized. Any future impairment of our goodwill or other intangible assets could have an adverse effect on our financial condition and results of operations. 
-
-We may fail to realize the anticipated benefits of the Validus acquisition for a variety of reasons, including but not limited to the following: 
-
-46 
-
-- Failure to receive approvals and effectively commercialize our pipeline of branded specialty products; 
-
-- failure to successfully promote our branded products to prescribers; 
-
-- failure to realize expected cost synergies; and 
-
-- general risks in post-acquisition integration. 
-
-If we are unable to realize anticipated benefits of our recent acquisitions, our ability to expand our branded specialty business may be adversely impacted. In addition to our acquisition of Validus, we acquired a manufacturing facility in Satara in Maharashtra, India in July 2021, a development company in Canada in January 2020, a manufacturing facility in Pithampur in Madhya Pradesh, India in June 2025 and AimRx, a logistics service provider in the United States in June 2025. There can be no assurance that we will complete any future proposed acquisitions or investments in a timely manner, continue to successfully consolidate any acquired business with our existing operations or whether any of these efforts will achieve the results contemplated by our management. In the event that the risks and uncertainties discussed above or any other unanticipated risks, uncertainties, contingencies or other events or circumstances limit or delay our efforts to expand our business, our business, financial condition, results of operations and cash flows could be materially adversely affected. 
-
-# **_14. Our financing agreements contain covenants that limit our flexibility in operating our business. If we are not in compliance with certain of these covenants and are unable to obtain waivers from the respective lenders, our lenders may accelerate the repayment schedules, and enforce their respective security interests, leading to a material adverse effect on our business and financial condition._** 
-
-As at June 30, 2025, our borrowings, on a consolidated basis, were ₹4,957.78 million, for which we have obtained the necessary consents for this Offer from our lenders. For further details, see “ _Financial Indebtedness_ ” on page 458. A portion of these borrowings is secured by mortgage of immovable properties, hypothecation of current assets (both present and future) and fixed immovable assets. Our existing financing arrangements contain a number of financial covenants such as fixed asset coverage ratio, external debt to EBITDA ratio and current ratio as well as restrictive covenants that impose significant operating and financial restrictions on us and may limit our ability to, without prior consents from the lenders, engage in acts that may be in our long-term best interest, including restrictions on our ability to, among other matters, make loans and investments, change our capital structure, undertake any expansions, merger or amalgamation, change our ownership, make certain payments (including payment of dividends and prepayment of indebtedness), alter the business we conduct, carry out modifications or amendments to the constitutional documents of the Company, enter into borrowing arrangements with any other bank or lender, create any charges, lien or encumbrances over our assets or undertaking or any part thereof in favor of any third party, or sell, assign, mortgage or dispose of any fixed assets (whether charged to a lender or otherwise) or wind-up, liquidate or dissolve affairs or take steps for voluntary winding up or liquidation or dissolution. 
-
-If we are not in compliance with certain of these covenants and are unable to obtain waivers from the respective lenders or if any events of default occur, our lenders may accelerate the repayment schedules or terminate our credit facilities. We have in the past defaulted on certain covenants, in respect of financial ratios, with our lenders (The Hongkong and Shanghai Banking Corporation Limited, India and HDFC Bank Limited), for which we have successfully sought waivers or which have been condoned in subsequent credit appraisals. Nevertheless, we cannot assure you that we will continue to receive waivers sought in a timely manner, or at all, or that subsequent defaults will be condoned in credit appraisals. Subsequently, if we are unable to pay our debt, affected lenders could also proceed against any collateral granted to them to secure such indebtedness. Further, such covenant defaults could result in crossdefaults in our other debt financing agreements. In the event our lenders accelerate the repayment of our borrowings, there can be no assurance that we will have sufficient assets to repay our indebtedness. Additionally, our lenders may also be entitled to convert the outstanding amount under their borrowings into equity and/or appoint a nominee director on our Board on the occurrence of an event of default. 
-
-If our future cash flows from operations and other capital resources become insufficient to pay our debt obligations or our contractual obligations, or to fund our other liquidity needs, we may be forced to sell assets or attempt to restructure or refinance our existing indebtedness. Our ability to restructure or refinance our debt will depend on the condition of the capital markets, our financial condition at such 
-
-47 
-
-time and the terms of our other outstanding debt instruments. Any refinancing of our debt could be at higher interest rates and may require us to comply with more onerous covenants, which could further restrict our business operations. The terms of existing or future debt instruments may restrict us from adopting some of these alternatives. In addition, any failure to make payments of interest or principal on our outstanding indebtedness on a timely basis would likely result in a reduction of our creditworthiness or credit rating, which could harm our ability to incur additional indebtedness on acceptable terms. 
-
-As at March 31, 2023, we had an outstanding unsecured loan amounting to ₹ 3.64 million, which constituted 0.11% of our total borrowings. While we repaid this unsecured loan in Fiscal 2024, we may avail other unsecured loans in the future, which may not be repayable in accordance with any agreed repayment schedule and may be recalled by the lender at any time. In such cases, under the terms of these types of loans we may be required to repay the entirety of the unsecured loans together with accrued interest. We may not be able to generate sufficient funds at short notice to be able to repay such loans and may resort to refinancing such loans at a higher rate of interest and on terms not favorable to us. Failure to repay unsecured loans in a timely manner may have a material adverse effect on our business, results of operation, financial condition and cash flow. 
-
-# **_15. We depend on third parties for the supply of our raw materials and manufacture of certain products and such third parties could fail to meet their obligations, which may have a material adverse effect on our business, results of operations, financial condition and cash flows._** 
-
-We currently rely, and expect to continue to rely, on third parties for the manufacture of active pharmaceutical ingredients (“ **API** ”), bulk drug substances, raw materials, samples, components and other materials for our marketed products and product candidates for clinical testing. We are dependent on third-party suppliers for the supply of our raw materials, which include active pharmaceutical ingredients, excipients, packaging material, chemicals and consumables. We also source certain commercial products from third-party manufacturers. The following table sets forth our revenues from sale of goods supplied by third-party manufacturers for the periods / years indicated: 
-
-|**Particular**|**For three mon**<br>**Jun**<br>|**th period ended**<br>**e 30,**<br>||**For Fiscals**<br>||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Revenue from<br>sale of goods<br>supplied<br>by<br>third-party<br>manufacturers<br>(in ₹ million)|262.67|292.31|1,285.46|732.42|-|
-|% of revenue<br>from sale of<br>goods(%)|7.59%|9.39%|10.19%|8.72%|-|
-
-
-
-In Fiscal 2025, we were dependent on 15 third-party suppliers for more than 55% of our supply of raw materials. The following table sets forth details of the amount of and percentage contribution to value of purchase attributable to our top supplier, top five suppliers and top 10 suppliers for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023: 
-
-||**For th**<br>**20**|**ree mont**<br>**25**|**h period end**<br>**30**<br>**20**|**ed June**<br>**24**|**202**|**5**|**For Fi**<br>**20**|**scal**<br>**24**|**20**|**23**|
-|---|---|---|---|---|---|---|---|---|---|---|
-||**(Valu**<br>**e of**<br>**purch**<br>**ases**<br>**in ₹**<br>**millio**|**(% of**<br>**value**<br>**of**<br>**purch**<br>**ases)**|**(Value**<br>**of**<br>**purchas**<br>**es in ₹**<br>**million)**|**(% of**<br>**value of**<br>**purcha**<br>**ses)**|**(Value**<br>**of**<br>**purcha**<br>**ses in ₹**<br>**million**<br>**)**|**(% of**<br>**value**<br>**of**<br>**purch**<br>**ases)**|**(Value**<br>**of**<br>**purch**<br>**ases in**<br>**₹**<br>**millio**|**(% of**<br>**value**<br>**of**<br>**purcha**<br>**ses)**|**(Valu**<br>**e of**<br>**purch**<br>**ases**<br>**in ₹**<br>**millio**|**(%**<br>**of**<br>**valu**<br>**e of**<br>**purc**<br>**hase**|
-|**Supplier**|**n)**||||||**n)**||**n)**|**s)**|
-
-
-
-48 
-
-|Top 1<br>Supplier|181.83|10.01<br>%|172.66|12.99%|375.86|7.19%|283.73|5.57%|158.2<br>0|5.67<br>%|
-|---|---|---|---|---|---|---|---|---|---|---|
-|Top 5||23.75|||1,264.3|24.18|1,002.||628.8|22.5|
-|Supplier|431.69|%|461.54|34.71%|5|%|07|19.66%|1|3%|
-|Top 10||35.98|||1,974.2|37.76|1,674.||1,015.|36.3|
-|Supplier|653.90|%|621.69|46.75%|7|%|28|32.85%|51|9%|
-
-
-
-As a result of such dependence, our supply chain may be interrupted by circumstances beyond our control. Poor quality roads, congestion and shortages in sea freight and air freight transportation and other transportation-related infrastructure and logistics problems, inclement weather and road accidents may disrupt the transportation of raw materials. See “ _Our Business –Our Product Manufacturing_ ” on page 258. 
-
-We also rely, and expect to continue to rely, on third parties for the manufacture of certain of our finished drug products. Reliance on third-party manufacturers may expose us to different risks than if we were to manufacture product candidates ourselves. There can be no assurance that our commercial and nonclinical and clinical development product supplies will not be limited, interrupted, terminated or will be of satisfactory quality or be available at acceptable prices. In addition, any replacement of a manufacturer could require significant effort and time because there may be a limited number of qualified replacements. In Fiscal 2025, 10.19% of our product sales were derived from products manufactured by third party manufacturers, of which as of June 30, 2025, we were dependent on contract manufacturers for two nasal spray products, one injectable, three ophthalmic products, and six products marketed by Validus. 
-
-We also engage with third parties for co-development of products, wherein we collaborate with third parties and we either own the intellectual property associated with these products or secure licenses to exclusive use of the intellectual property and support the process of applying for and obtaining the regulatory approval. We currently have two products filed with the USFDA pursuant to such arrangements. For more details, see “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations – Significant Factors Affecting our Financial Condition and Results of Operations – Third party manufacturing, co-development and purchase of third-party products_ ” on page 432. The manufacturing process for our product candidates is subject to the USFDA review. We, and our suppliers and manufacturers, must meet applicable manufacturing requirements and undergo rigorous facility and process validation tests required by regulatory authorities in order to comply with regulatory standards, such as cGMPs. If our contract manufacturing organizations (“ **CMOs** ”) cannot successfully manufacture material that conforms to our specifications and the strict regulatory requirements of the USFDA, we may not be able to rely on their facilities for the manufacture of elements of our product candidates. Securing regulatory approval also requires the submission of information about the product manufacturing process to, and inspection of manufacturing facilities by, the USFDA, and foreign regulatory authorities. If the USFDA or any comparable foreign regulatory authority determines that our third-party manufacturers’ facilities are not in compliance with applicable laws and regulations, including those governing cGMPs, they may deny any NDA or ANDA we submit until the deficiencies are corrected or we replace the manufacturer in our application with a manufacturer that is able to demonstrate a compliance status acceptable to the USFDA or foreign regulatory authority. Moreover, we are dependent on our CMOs for manufacturing in compliance with cGMPs and other regulatory requirements. In the event that any of our manufacturers fails to comply with such requirements or to perform its obligations in relation to quality, timing or otherwise, or if our projected manufacturing capacity or supply of materials becomes limited, interrupted, or more costly than anticipated, we may be forced to enter into an agreement with another third party, which we may not be able to do timely or on reasonable terms, if at all. We will be required to verify that the new manufacturer maintains facilities and procedures that comply with applicable quality standards and regulations and guidelines and we may be required to repeat some of the development program. 
-
-Further, we have entered into supply contracts with certain foreign and domestic suppliers for the purchase of raw materials. The following table sets forth details of our raw materials sourced from domestic suppliers and raw materials imported for the periods / years indicated: 
-
-49 
-
-|**Particular**|**For three m**<br>**ended**<br>|**onth period**<br>**June 30**<br>||**For Fiscals**<br>||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|% contribution of raw<br>materials sourced from<br>domestic suppliers to<br>the total value of raw<br>materialpurchased|57.78%|74.07%|53.97%|50.95%|60.86%|
-|% contribution of raw<br>materials imported to<br>the total value of raw<br>materialpurchased|42.22%|25.93%|46.03%|49.05%|39.14%|
-
-
-
-Also, see “- _We were and are exposed to foreign currency fluctuation risks, particularly in relation to the translation of our financial statements and our borrowings, and we had negative foreign currency exposures as at June 30, 2025 and June 30, 2024, and as at March 31, 2025, 2024 and 2023, which may adversely affect our results of operations, financial condition and cash flows._ ” on page 42. 
-
-Discontinuation of production by these suppliers, failure of these suppliers to adhere to any delivery schedule, failure to maintain regulatory approvals for their products or facilities, failure to provide materials of the requisite quality and quantity or any discontinuation of these supplies as result of a breach of the supply contracts either by our Company or by the suppliers, could hamper our production schedule and therefore have a material adverse effect on our business, results of operations and cash flows. 
-
-This dependence may also adversely affect the availability of raw materials to us at reasonable prices, thus affecting our margins, and may have a material adverse effect on our business, financial condition, results of operations and cash flows. There can be no assurance that high demand, capacity limitations or other problems experienced by our suppliers such as plant shutdown or transportation strikes will not result in occasional shortages or delays in their supply of raw materials. We cannot assure you that a particular supplier will continue to supply the required components or raw materials to us in the future or at a reasonable price. Further, any change in the supply pattern of our raw materials or the delivery of our products can adversely affect our business and profits. 
-
-If we were to experience a significant or prolonged shortage of our primary raw materials from any of our suppliers, and we cannot procure such raw materials from other sources, we would be unable to meet our production schedules for some of our key products and deliver such products to our customers in timely fashion, which would adversely affect our sales, margins and customer relations. 
-
-We use third-party services for the transport of raw materials to our manufacturing plants and finished goods to our customers, as well as between production and storage facilities. If the third-party deliveries are delayed due to transportation strike, vehicle breakdown, theft or other quality maintenance issues, our business, financial condition, results of operations and cash flows could be materially and adversely affected. 
-
-# **_16. We face significant competitive pressures in our business from other pharmaceutical manufacturers. Our inability to compete effectively would be detrimental to our business and prospects for future growth._** 
-
-We face significant competition in our business from other pharmaceutical manufacturers. For details, see “ _Industry Overview_ ” and “ _Our Business - Competition_ ” on pages 186 and 271, respectively. The industry and markets for our products are characterized by factors such as, among others: 
-
-- introduction of other drug manufacturers’ products in direct or indirect competition with our drug products; 
-
-- consolidation among wholesalers and distributors through mergers and acquisitions and the formation of buying groups or consortia; 
-
-- intense competition within the generic pharmaceutical industry, including pricing pressures and market saturation, may erode margins and hinder growth prospects; 
-
-50 
-
-- the willingness of generic drug customers, including wholesale and retail customers, to switch among products of different pharmaceutical manufacturers; 
-
-- pricing pressures by customers and due to competitors’ actions; 
-
-- a company’s reputation as a manufacturer and distributor of quality products; and 
-
-- a company’s level of service (including maintaining sufficient inventory levels for timely deliveries). 
-
-Many of our competitors have longer operating histories and greater financial, R&D, marketing and other resources than us. For further details of the market share of our top commercialized products, see “ _Our Business – Our Competitive Strengths – Strong track record of compliance combined with expertise in cost effective manufacturing_ ” on page 253. Consequently, some of our competitors may be able to develop products and/or processes competitive with, more effective than or superior to, our products. Furthermore, we may not be able to (i) differentiate our products from those of our competitors, (ii) successfully develop or introduce new products—on a timely basis or at all—that are more effective than or less costly than those of our competitors, or (iii) offer customers payment and other commercial terms as favorable as those offered by our competitors. The markets in which we compete and intend to compete are undergoing, and are expected to continue undergoing, rapid and significant change. For instance, according to the F&S Report, the baclofen market faces several challenges, including potential side effects such as drowsiness, dizziness, weakness and fatigue, and there is competition from other spasticity management medications, such as tizanidine and diazepam. We expect competition to intensify as technological advances and consolidation continues. New developments by other manufacturers and distributors could render our products uncompetitive or obsolete, which would harm our business and financial condition. Increased competition may also lead to product price erosion in the future as new companies enter the market and/or novel or advanced technologies emerge. Further, according to the F&S Report, the key barriers to entry in the US pharmaceutical market and success factors for genericfocused pharma companies include price erosion, regulatory compliance, maintaining profitability amid pricing pressure, ability to commercialize approved products and R&D capability, among others. 
-
-Hence, there can be no assurance that we will maintain our competitiveness in the pharmaceutical industry with respect to any of our products, or continue to benefit from the barriers to entry and success factors characteristic of the US pharmaceutical market. In addition, as a result of the intense competition and accelerated innovation in the pharmaceutical industry, our ability to achieve and maintain profitability depends on a number of factors, including our investment in research and development, expanding manufacturing capacities at necessary levels, the public perception of our products and the pricing levels of our competitors, some of which is beyond our control. Further, some of our competitors may be willing to sell at lower prices in order to gain market share, which may put competitive pressure on the prices of our products. Additionally, some of our competitors may enjoy a lower cost base for some of our raw materials due to the availability of such raw materials at low prices. 
-
-Additionally, brand pharmaceutical companies continue to defend their products vigorously. For example, brand companies often sell or license their own generic versions of their products, either directly or through other generic pharmaceutical companies (so-called “authorized generics”). No significant regulatory approvals are required for authorized generics, and brand companies do not face any other significant barriers to entry into such markets. Brand companies may also seek to delay introductions of generic equivalents, by: 
-
-- obtaining and enforcing new patents on drugs whose original patent protection is about to expire; 
-
-- filing patent infringement suits that automatically delay the approval of generic versions by the USFDA; 
-
-- filing citizens’ petitions with the USFDA contesting generic approvals on alleged health and safety grounds; 
-
-- questioning the quality and bioequivalence of generic pharmaceuticals; 
-
-- developing controlled-release or other slightly modified versions, which often reduce demand for the generic version of the existing product for which we are seeking approval; 
-
-51 
-
-- changing product claims and product labelling; and 
-
-- developing and marketing over-the-counter versions of brand products that are about to face generic competition. 
-
-While we have not experienced any instances of competition which resulted in a material impact on our business in the last three Fiscals and the three month periods ended June 30, 2025 and 2024,  there can be no assurance that these actions will not increase the costs and risks of our efforts to introduce generic products and/or delay or prevent such introduction altogether, and materially and adversely affect our business, financial condition, results of operations and prospects. 
-
-# **_17. We may utilize a portion of the Net Proceeds to undertake inorganic growth for which the target has not been identified. In the event that our Net Proceeds to be utilized towards inorganic growth initiatives are insufficient for the cost of our proposed inorganic acquisition, we may have to seek alternative forms of funding._** 
-
-We may utilize a certain amount from the Net Proceeds towards funding inorganic growth through unidentified acquisitions and other strategic initiatives. This amount is based on our management’s current estimates and budgets, and our Company’s historical acquisitions and strategic investments and partnerships, and other relevant considerations. We have not identified any specific targets with whom we have entered into any definitive agreements. For details of the interim use of funds, schedule of deployment and other details, see “ _Objects of the Offer_ ” on page 140. We will from time to time continue to seek attractive inorganic opportunities that may be within India, outside India or both, that we believe will fit well with our strategic business objectives and growth strategies, and the amount of Net Proceeds to be used for acquisitions will be based on decisions of our management and our Board. The amounts deployed from the Net Proceeds towards such initiatives may not be the total value or cost of such acquisitions or investments, resulting in a shortfall in raising requisite capital from the Net Proceeds towards such acquisitions or investments. Consequently, we may be required to explore a range of options to raise requisite capital, including utilizing our internal accruals and/or seeking debt, including from third party lenders or institutions. 
-
-# **_18. We regularly work with hazardous materials and activities in our operation which can be dangerous and could cause injuries to people or property._** 
-
-Our business requires individuals to work under potentially dangerous circumstances or with flammable materials. For instance, our boiler operations, diesel generator, and laboratory chemicals may expose individuals to potential danger. Despite compliance with requisite safety requirements and standards, our operations are subject to significant hazards, including explosions, fires, mechanical failures and other operational problems, discharges or releases of hazardous substances and solvents, chemicals or gases, fuels and other environmental risks, which may not be covered adequately, or at all, by our insurance policies. For further details in relation to our insurance coverage, see “ _– Our insurance coverage may not be adequate to protect us against all potential losses, which may have a material adverse effect on our business, financial condition, cash flows and results of operations._ ” on page 65. 
-
-While we have not experienced any injury, loss of life or destruction of property and equipment in the past as a result of such hazards, we cannot assure you that these hazards will not cause personal injury and loss of life or destruction of property and equipment as well as environmental damage in the future. In addition, the loss or shutting down of our facilities resulting from any accident in our operations could disrupt our business operations and adversely affect our results of operations, financial condition and reputation. We could also face claims and litigation filed on behalf of persons alleging injury predominantly due to occupational exposure to hazards at our facilities. If these claims and lawsuits, individually or in the aggregate, are resolved against us, our business, financial condition, results of operations and cash flows could be adversely affected. 
-
-52 
-
-**_19. Our manufacturing facilities, research facilities, business development and regulatory office and our Registered and Corporate Office are located on leasehold lands. If we are unable to renew existing leases or relocate our operations on commercially reasonable terms, there may be a material adverse effect on our business, financial condition and operations._** 
-
-Our manufacturing facilities, research facilities, business development and regulatory office as well as our Registered and Corporate Office are located on leasehold lands. The lease for our Registered and Corporate Office and our R&D facility in Thane, Maharashtra, India have a tenure of 56 months until May 31, 2028. The lease for our R&D facility in Ontario, Canada has a tenure of three years until January 31, 2027 and the lease of our business development and regulatory office in New Jersey is until November 30, 2028. The leases for our Satara facility and Ambernath facility have a balance tenure of over 61 years and over 76 years, respectively, and the lease of our Pithampur facility is until August 2, 2116. For further details, see “ _Our Business –Properties_ ” on page 272. If we are unable to renew certain or all of these leases on commercially reasonable terms or at all and we cannot relocate our manufacturing and research facilities in a timely manner, we may suffer a disruption in our operations, and our results of operations, financial condition and cash flows may be materially and adversely affected. 
-
-**_20. We are subject to various laws and extensive government regulations, which may become more stringent over time, and if we fail to obtain, maintain or renew our statutory and regulatory licenses, permits and approvals required in the ordinary course of our business, including product safety, environmental, health and safety laws and other regulations, our business, financial condition, results of operations and cash flows may be adversely affected._** 
-
-We operate in a highly regulated industry and our operations, including our development, testing, manufacturing, marketing and sales activities, are subject to extensive laws and regulations in India and other countries. We are required to comply with US, Indian and other jurisdictional laws (including in the UK, Australia and Canada), among other things, relating to product safety and quality, occupational health and safety (including laws regulating the generation, storage, handling, use and transportation of waste materials, the emission and discharge of hazardous waste materials into soil, air or water, and the health and safety of employees) and mandatory certification requirements for our facilities and products. For instance, our manufacturing facility in Pithampur, Madhya Pradesh in India is located in a special economic zone (“ **SEZ** ”) and is therefore, required to comply with SEZ-related laws. For regulations and policies applicable to our Company, see “ _Key Regulations and Policies_ ” beginning on page 273. There can be no assurance that we will be in compliance at all times with such laws, regulations and the terms and conditions of any such consents or permits. If we violate or fail to comply adequately with these requirements, we could be fined or otherwise sanctioned by the relevant regulators. In particular, any failure to comply with regulatory requirements, including cGMPs, or discovery after approval of previously unknown problems with any of our products, manufacturers or manufacturing processes may result in actions such as: 
-
-- the issuance of safety alerts, press releases or other communications containing warnings about related products; 
-
-- the withdrawal, recall or seizure of products; 
-
-- restrictions on (i) our ability to conduct clinical trials, including full or partial clinical holds on ongoing or planned trials; (ii) product distribution; (iii) marketing of a product; and / or (iv) the processing of pending applications or supplements to approved applications that we may submit; 
-
-- suspensions or restrictions on our operations, including product manufacturing processes; and 
-
-- actions and proceedings such as, untitled or warning letters, fines, restitution, disgorgement of profits or revenue, injunctions or imposition of civil or criminal penalties. 
-
-Our business and operations are subject to a number of approvals, licenses, registrations and permissions for construction and operation of our manufacturing facilities, and offices, in addition to extensive government regulations for product safety, the protection of the environment and occupational health and safety. Further, we may also need to apply for additional approvals including the renewal of approvals which may expire from time to time, in the ordinary course of business. In the event these approvals are not granted, we will have to make alternate manufacturing arrangements including increasing production in our other existing manufacturing facilities, which may adversely impact our 
-
-53 
-
-business, financial condition, results of operations, cash flows and prospects. For further details of pending renewals and pending material approvals, see “ _Government and Other Approvals_ ” on page 468. If we fail to retain, renew or receive any of such approvals, licenses, registrations, permissions or renewals, in a timely manner or at all, our business, financial condition, results of operations, cash flows and prospects may be adversely affected. 
-
-Further, our government approvals and licenses are subject to certain conditions, such as post-marketing reporting requirements, the payment of annual facility fees and a limit on the number of workers we may employ and horsepower we may utilize at our manufacturing facilities, some of which are onerous and require us to make substantial compliance-related expenditure. See also “- _We remain subject to ongoing regulatory obligations and continued regulatory review for approved product candidates, which may result in significant additional expense and we may be subject to penalties if we fail to comply with regulatory requirements or experience unanticipated problems with our product candidates._ ” on page 73. If we fail to comply or a regulator claims that we have not complied with such conditions, our business, prospects, financial condition, results of operations and cash flows may be adversely affected. 
-
-While we have not had allegations of environmental and safety violations in the past, there can be no assurance that such allegations will not be made against us in the future. The relevant regulator may order closure of our unit where it is found to be non-compliant with the applicable norm. In some instances, such a fine or sanction could adversely affect our business, reputation, financial condition, results of operations or cash flows. In addition, these requirements may become more stringent over time and there can be no assurance that we will not incur significant environmental costs or liabilities in the future. We are also subject to laws requiring the clean-up of contaminated property. Under such laws, we could be held liable for costs and damages relating to contamination at our facilities and at third party sites to which these facilities send waste material, which could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
-
-In response to intense pressure from government healthcare authorities aiming to reduce expenditures on prescription drugs, particularly in highly regulated European and North American markets, pharmaceutical companies have faced challenges due to lower pricing. Consequently, revenues and profits have declined. See “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations—Significant Factors Affecting our Financial Condition and Results of Operations— Product Pricing_ ” on page 431. In addition, we may be subject to additional laws, regulations and rules with respect to product safety, environment protection, health and safety in the jurisdictions in which we currently operate. As we expand into new markets, we may be required to comply with various environmental, health and safety laws and regulations. In complying with these additional laws, regulations and rules, we may incur substantial costs, including those relating to maintenance and inspection, development and implementation of emergency procedures and insurance coverage or other additional costs to address environmental incidents or external threats. Our inability to control the costs involved in complying with these and other relevant laws and regulations could have an adverse effect on our business, financial condition, results of operations and cash flows. 
-
-**_21. The market in which we operate is subject to consolidation and disruption, and our inability to navigate such changes could adversely affect our business, financial condition and results of operation._** 
-
-Consolidation of market participants in our industry has occurred in recent years, which may continue to occur and may challenge our competitive position and market share. For example, five of the six largest pharmacy benefit managers (“ **PBM** ”) are vertically integrated with health insurers, illustrating the trends towards consolidation in the US value chain. _(Source: F&S Report)_ Such consolidation has provided and may continue to provide them with additional purchasing leverage, and consequently, according to the F&S Report, we may face downward pricing pressure. Additionally, the emergence of large buying groups representing independent retail pharmacies, and the prevalence and influence of managed care organizations and similar institutions, enable those groups to leverage their greater bargaining power to extract price discounts on our products. We expect that consolidation of drug wholesalers and retailers will increase pricing and other competitive pressures on generic drug manufacturers, including those in the United States. Further, we may experience further pricing pressures from our customers and price erosion in the U.S. generics market, as well as negotiation of contractual terms and arrangements which may not be favorable for us. This dual effect of increased competition and increased purchasing power has resulted in a downward trend for prices for our generic products. If these trends continue or worsen, 
-
-54 
-
-or if we experience further difficulty in this market, this may continue to adversely affect our revenues and profits from generic products. 
-
-The traditional model for distribution of pharmaceutical products is also undergoing disruption as a result of the entry or potential entry of new competitors and significant mergers among key industry participants. According to F&S, over the years, there has been notable compression in the pharmaceutical value chain, with large companies expanding their reach across multiple stages. For example, CVS Health’s acquisition of Aetna in 2018 integrated pharmacy services, health plans, and patient care under one umbrella, and UnitedHealth Group’s OptumRx operating as both a PBM and a pharmacy chain, leveraging its scale to negotiate favorable drug prices and improve patient access to medications. _(Source: F&S Report)_ These changes to the traditional supply chain could lead to our customers having increased negotiation leverage as well as additional pricing pressure which could have a material adverse effect on our business, financial condition and results of operations. 
-
-# **_22. We are highly dependent on our Key Managerial Personnel and our Senior Management for our business. The loss of or our inability to attract or retain such persons could have a material adverse effect on our business performance._** 
-
-Our business and the implementation of our strategy is dependent upon our Key Managerial Personnel and our Senior Management, who oversee our day-to-day operations, strategy and growth of our business. If one or more members of our Key Managerial Personnel and our Senior Management are unable or unwilling to continue in their present positions, such persons could be difficult to replace in a timely and cost-effective manner. There can be no assurance that we will be able to retain these personnel. The loss of our Key Managerial Personnel or our Senior Management or our inability to replace such Key Managerial Personnel or our Senior Management may restrict our ability to grow, to execute our strategy, to raise the profile of our brand, to raise funding, to make strategic decisions and to manage the overall running of our operations, which would have a material adverse impact on our business, results of operations, financial condition and cash flows. The following table sets forth details of our Key Managerial Personnel and Senior Management and the relevant attrition rates as of the dates indicated: 
-
-|**Particular**|**As of J**<br>|**une 30,**<br>||**As of March 31**<br>|**,**<br>|
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Number<br>of<br>Key|15|15|15|15|15|
-|Managerial<br>Personnel<br>and Senior Management||||||
-|Key<br>Managerial<br>Personnel<br>and<br>Senior<br>Management<br>Attrition<br>Rate(%)|Nil|Nil|6.67%*|Nil|Nil|
-
-
-
-_*The relevant employee continues to operate as an employee of our Company after their resignation as a Key Managerial Personnel / member of the Senior Management._ 
-
-During Fiscals 2025, 2024 and 2023 and the three month periods ended June 30, 2025 and 2024, we have experienced certain changes to our Key Managerial Personnel and our Senior Management. For further details, see “ _Our Management - Changes in the Key Managerial Personnel or Senior Management in last three years_ ” on page 336.We cannot assure you that we will not lose our Key Managerial Personnel or Senior Management in the future, or we will be able to replace any Key Managerial Personnel or Senior Management in a timely manner or at all, which could have a material adverse impact on our business, results of operations, financial condition and cash flows. 
-
-# **_23. Certain of our corporate records and filings are not traceable. We cannot assure you that regulatory proceedings or actions will not be initiated against us in the future, and we will not be subject to any penalty imposed by the competent regulatory authority in this regard._** 
-
-Our Company has made some inadvertent errors while filling in details in its statutory filings with the RoC in the past. Further, the Form FC-GPRs for share issuance pursuant to exercise of ESOPs to certain employees / Director of one of the Subsidiaries in March 2025, were not filed within the timeline prescribed under law. While certain Form FC-GPRs in this regard have now been filed, we cannot assure that no penalties will be imposed against us for the same. There are also certain of our Company’s corporate records and regulatory filings which are not traceable. These comprise the following untraceable /missing corporate records: 
-
-55 
-
-|**Sr.**<br>**No.**|**Particulars**|**Relevant form/document not available**|
+|**Name of the Promoter and Selling Shareholder**|**Number of Equity Shares of face**<br>**value of ₹1 each held**|**Average cost of acquisition per**<br>**Equity Share (in ₹)**<sup>***#**</sup>|
 |---|---|---|
-|1.|Approval of issue of 5,000 equity shares allotted on March<br>7, 2000|Board and Shareholders’ resolution for<br>approvingthe issue of 5,000 equityshares|
-|2.|Approval of issue of 144,800 equity shares allotted on<br>March 15, 2001|Board and Shareholders resolution for<br>approvingthe issue of 144,800 equityshares|
-|3.|Approval of issue of 40,000 equity shares allotted on April<br>30, 2007|Board and Shareholders resolutions for<br>approvingthe issue of 40,000 equityshares|
-|4.|Approval of issue of 55,000 equity shares allotted on<br>August 21, 2007|Shareholders resolution for approving the<br>issue of 55,000 equityshares|
-|5.|Approval of issue and allotment of 1,000 equity shares<br>allotted on October 8, 2007|Shareholders resolution for approving the<br>issue of 1,000 equity shares and Board<br>resolution for allotment of 1,000 equity<br>shares|
-|6.|Transfer of 100 equity shares through gift deed from<br>Sudhir Dhirendra Pilgaonkar to Sudhir Dhirendra<br>Pilgaonkar jointly with Dhirendra Pilgaonkar dated June<br>2, 2003|Share Transfer Form and Gift Deed|
-|7.|Transmission of 1300 equity shares jointly held by Sudhir<br>Dhirendra Pilgaonkar and Dhirendra Pilgaonkar|Share Transmission Deed, Board resolution<br>for noting of transmission of 1300 equity<br>shares|
+|General Atlantic Singapore RR Pte. Ltd.<sup>**</sup>|80,837,506|78.73***|
+|Pratibha Pilgaonkar|6,435,000|Nil****|
+|Sudhir Dhirendra Pilgaonkar|6,435,000|Nil****|
+|Parag Suganchand Sancheti|30,000|6.67|
+|Surabhi Parag Sancheti|13,095,000|0.02|
+|Sumant Sudhir Pilgaonkar|13,065,000|Nil****|
 
 
 
-For further details, see “ _Capital Structure” and “Our Management”_ on pages 110 and 316. 
+_* As certified by N B T and Co, Chartered Accountants by way of their certificate dated October 1, 2025. ** Also the Selling Shareholder. ***Cost of acquisition is excluding the expenses incurred while acquiring the Equity Shares. ****Nil, since the equity shares held as on date were acquired either through Bonus issue or by way of gift or through transmission. # Calculated as per FIFO method_ 
 
-Accordingly, certain disclosures in this Red Herring Prospectus in relation to such untraceable corporate/ secretarial records have been made in reliance on other supporting documents available in our records, including the resolutions passed by the Board or Shareholders in their meetings, or documents annexed to the filings sent to the relevant regulatory authorities. Further, we have relied on the search report dated July 30, 2024 prepared by Agrawal Mundra & Associates, Independent Practicing Company Secretary (having peer review certificate bearing number 4758/2023), and certified by their certificate dated July 30, 2024 (“ **RoC Search Report** ”) pursuant to their inspection and independent verification of the documents available or maintained by our Company, the Ministry of Corporate Affairs at the MCA Portal and the RoC. While no legal proceedings or regulatory action has been initiated against our Company or is pending in relation to untraceable corporate/ secretarial records as of the date of this Red Herring Prospectus, we cannot assure you that such legal proceedings or regulatory actions will not be initiated against our Company or that any fines or penalty will be imposed by regulatory authorities on our Company in this respect in the future. 
+# **Weighted average price at which specified securities were acquired by our Promoters and the Selling Shareholder in the one year preceding the date of this Red Herring Prospectus** 
 
-# **_24. Our Corporate Promoter is a financial investor and does not have adequate experience in our line of business, which may have an adverse impact on the management and operations of our Company._** 
+The weighted average price at which specified securities have been acquired by our Promoters and the Selling Shareholder, in the one year preceding the date of this Red Herring Prospectus is provided below. 
 
-Our Corporate Promoter, part of the General Atlantic group, has been the majority shareholder of the Company since 2019.  Our Corporate Promoter is a special purpose vehicle holding an investment of 52.15% of the pre-Offer Equity Share Capital of our Company on a fully diluted basis as a financial investment. General Atlantic is a leading global growth investor with more than four decades of experience providing capital and strategic support for over 500 growth companies throughout its history typically in technology, life sciences, healthcare, financial services, consumer and climate sectors. Established in 1980, the firm combines a collaborative global approach, expertise, a long-term investment horizon and a deep understanding of growth drivers to partner with great entrepreneurs and management teams to scale innovative businesses around the world. General Atlantic has approximately USD 114 billion in assets under management inclusive of all products as of June 30, 2025, and more than 400 investment professionals across all products based in New York, Amsterdam, Beijing, Hong Kong, Jakarta, London, Mexico City, Miami, Mumbai, Munich, San Francisco, São Paulo, Shanghai, Singapore, Stamford, and Tel Aviv. Our Corporate Promoter provides capital and strategic support as part of its investment but is not involved in the day-to-day business operations of the Company and accordingly does not have adequate experience in our line of business. Our Corporate Promoter was not an original promoter of the Company and entered into a share purchase agreement dated March 15, 2019 with ECP III PTE. Ltd. (erstwhile promoter of our Company) for the transfer of 2,592,959 equity shares of our Company, pursuant to which General Atlantic Singapore RR Pte. Ltd. became the Corporate 
-
-56 
-
-Promoter of our Company. For further details of our Corporate Promoter, see “ _Our Promoter and Promoter Group_ ” on page 340. We cannot assure you that this lack of adequate experience will not have any adverse impact on the management and operations of our Company. 
-
-# **_25. We derived 33.37% and 54.76% of our revenue from operations for the three months ended June 30, 2025 from our top five and top ten products, respectively. Any factors that negatively affects the sale of these products could adversely affect our business, financial condition and results of operations._** 
-
-We derive a substantial portion of our revenue from our top five and top ten products. The following table sets forth our revenue from operations from our top five and top ten products for the periods/years indicated, which are also expressed as a percentage of our revenue from continuing operations: 
-
-||For three month p<br>|eriod ended June 30<br>|For<br>|Fiscal ended Marc<br>|h 31<br>|
-|---|---|---|---|---|---|
-|Particulars|2025|2024|2025|2024|2023|
-|Contribution<br>of top five<br>products to<br>total<br>revenue<br>from<br>operations<br>(%)|33.37%|41.18%|38.31%|45.96%|55.89%|
-|Contribution<br>of top 10<br>products to<br>total<br>revenue<br>from<br>operations<br>(%)|54.76%|62.54%|59.32%|68.30%|77.10%|
-
-
-
-While the composition of our top five and top ten products may differ across the periods, any factor that affects customers’ ability to purchase these products could have an adverse impact on our business. Consumer demand for our products could be adversely affected by, among other things, delays in regulatory review or approval, the inability to demonstrate the efficacy and safety of our products, the loss of patent and other intellectual property rights protection, the emergence of competing or alternative products, and changes in private and government payment subsidies. If the products we manufacture do not gain market acceptance and we are unable to sell such products at the volumes we anticipate, our revenues and profitability may be adversely affected. If we are unable to timely identify or effectively respond to evolving demands of our customers to offer competitive products, our business, financial condition, results of operations and cash flows may be adversely impacted. In addition, we remain vulnerable to risks of manufacturing disruptions, technological advancements as well as changing laws and regulations. Even if we seek to diversify our product portfolio or pivot to other products in response to market trends, there is no guarantee that such efforts will be successful. 
-
-# **_26. If we are unable to patent new processes and protect our proprietary information or other intellectual property, our business may be adversely affected._** 
-
-We generally rely on a combination of patents, licensing arrangements, non-disclosure agreements and non-competition agreements to protect our proprietary intellectual property. See “ _Business—Intellectual Property_ ” on page 271. As of June 30, 2025, we have been granted seven patents in India, six in the US, four in Europe and one in Singapore. As of June 30, 2025, we have five pending patent applications in the US and one in India. While we did not have any patents or accreditations which were rejected in the three month period ended June 30, 2025 and 2024, and the Fiscals ended 2025, 2024 and 2023, due to the different regulatory bodies and varying requirements globally, we may be unable to obtain intellectual property protection in certain jurisdictions for our products or processes. If our patent applications are not approved, we could incur higher than anticipated costs which may have an adverse impact on our business, financial condition and results of operation. Moreover, our existing patents may expire, and we 
-
-57 
-
-cannot assure you that we will renew, or will be able to renew, them after expiry and accordingly our specialty products may be copied by other generics manufacturers. If third parties decide to terminate the licensing arrangements with us for usage of their patents or registered trademarks, we may not be able to continue to market our products under the licensed brand name or at all, which could adversely affect our competitive business position. 
-
-While we intend to defend against any threats to our intellectual property, we cannot assure you that our patents, trade secrets or other agreements will adequately protect our intellectual property. Our patent rights may not prevent our competitors from developing, using or commercializing products that are functionally equivalent or similar to our products. Further, our patent applications may fail to result in patents being issued, and our existing and future patents may be insufficient to provide us with meaningful protection or a commercial advantage. We cannot assure you that patents issued to or licensed by us in the past or in the future will not be challenged or circumvented by competitors or that such patents will be found to be valid or sufficiently broad to protect our processes or to provide us with any competitive advantage. We may be required to negotiate licenses for patents from third parties to conduct our business, which may not be available on reasonable terms or at all. See “ _- We may unintentionally infringe upon the intellectual property rights of others, any misappropriation of which could harm our competitive position._ ” on page 59. 
-
-We also rely on non-disclosure agreements and non-competition agreements with certain employees, consultants and other parties to protect trade secrets and other proprietary rights that belong to us. We cannot assure you that these agreements will not be breached, that we will have adequate remedies for any breach or that third parties will not otherwise gain access to our trade secrets or proprietary knowledge. Any inability to patent new processes and protect our proprietary information or other intellectual property, could adversely affect our business. 
-
-# **_27. We are highly dependent on our skilled personnel for our day-to-day operations. Our employee attrition rate was 24.76%, 24.84% and 28.01% in Fiscals 2025, 2024 and 2023, respectively, and the loss of, or our inability to attract or retain such persons may have a material adverse effect on our business performance._** 
-
-Our success in expanding our business will also depend, in part, on our ability to attract, retain and motivate skilled technical personnel. Competition for skilled technical personnel in our industry is intense. Our competitors may offer compensation and remuneration packages beyond what we are offering to our employees. We may also be required to increase our levels of employee compensation more rapidly than in the past to remain competitive in attracting employees that our business requires. Because of these factors, there is no assurance that we can effectively attract and retain a sufficient number of skilled technical personnel to sustain our expansion plans, which would have a material adverse impact on our business, results of operations, financial condition and cash flows. The following table sets forth details of our employees and attrition rates as of the dates indicated: 
-
-|**Particular**||**As of March 31,**||
-|---|---|---|---|
-||**2025**|**2024**|**2023**|
-|Number of Employees|1,108|903|683|
-|Employee<br>Attrition<br>Rate based on average<br>employee count (%)|24.76%|24.84%|28.01%|
-
-
-
-Our inability to attract and retain skilled technical personnel may impact our production and day-to-day operations, in turn adversely impacting our results of operations and financial results. 
-
-# **_28. If we are unable to protect our brand through intellectual property, or otherwise defend ourselves in challenges related to intellectual property rights, the sales of our products will suffer or be subject to substantial liabilities, which would have a material adverse effect on our results of operations._** 
-
-We believe that our brands play a significant role in the success of our business and sustaining customer loyalty. The ability to differentiate our brands and products from that of our competitors through our promotional, marketing and advertising initiatives is an important factor in attracting customers. As of June 30, 2025, we hold 73 registered trademarks and have 34 pending trademark applications in several classes. For details, see “ _Our Business – Intellectual Property_ ” on page 271. There can be no assurance 
-
-58 
-
-that our brand names and trademarks will not be adversely affected in the future by actions that are beyond our control including customer complaints, intellectual property infringements or adverse publicity from any other source in India and abroad. Any damage to our brand names, if not immediately and sufficiently remedied, could have an adverse effect on our reputation, competitive position in India and abroad, business, financial condition, results of operations and cash flows. 
-
-Failure to register or renew the registration of any of our registered intellectual properties may affect our right to use such intellectual properties in future or allow others to use our products and designs as available in the public domain, without our consent. Further, if we are unable to register our intellectual properties for any reason, including our inability to remove objections to any trademark application, or if any of our unregistered trademarks are registered in favor of or used by a third party in India or abroad, we may not be able to claim registered ownership of such trademark, and as a result, we may not be able to seek remedies for infringement of those trademarks by third parties, which would cause damage to our business prospects, reputation and goodwill in India and abroad. For instance, as of June 30, 2025, five trademarks in relation to our brands have been opposed in India, and we cannot assure you that these applications or our future applications for trademarks will not be opposed, which may have a material adverse effect to our business. 
-
-Historically, in addition to patents, we have relied on trade secrets, know-how and other proprietary information. To protect such information, we require our employees, vendors and suppliers to sign confidentiality agreements. However, these confidentiality agreements may be breached, and we may not have adequate remedies for any breach. If our IPRs are infringed or if our trade secrets are compromised by third parties, competitive advantages deriving from our usage or access to such rights and information may be revealed to our competitors, compromising our competitiveness and adversely affecting our business. Third parties that obtain our proprietary information may procure IPR on such information, or on substantially equivalent proprietary information that they develop based on our proprietary information, which could affect the validity of our own IPR claims on the revealed proprietary information. 
-
-# **_29. We may unintentionally infringe upon the intellectual property rights of others, any misappropriation of which could harm our competitive position._** 
-
-While we take care to ensure that we comply with the intellectual property rights of others, we cannot determine with certainty whether we are infringing any existing third-party intellectual property rights which may force us to alter our product offerings. We may also be susceptible to claims from third parties asserting infringement and other related claims. If claims or actions are adjudicated against us from third parties asserting infringement and other related claims in India and abroad, we may be required to obtain a license, modify our existing technology or cease the use of such technology and design, or use a new non-infringing technology. Our development of products may be limited to the extent that their manufacturing processes or materials used in manufacturing are considered to infringe existing third party IPRs, although the Company is not aware of there being any such infringements in the past. In addition, patent applications are currently pending for some of the technologies currently being utilized by us. While we did not have any patents or accreditations which were rejected in the three month period ended June 30, 2025 and 2024, and the Fiscals ended 2025, 2024 and 2023, if the patent application is rejected or challenged, any aspect of our business reliant on such technologies would be disrupted. Any such disruption would harm our business. 
-
-Companies in the pharmaceutical industry commonly assert patent and other IPRs claims in order to delay or prevent competition. We may be subject to such lawsuits in the future in the normal course of business. We are subject to claims in the United States District Courts for alleged infringement of patents. For further details, see “ _Outstanding Litigation and Material Developments - Other pending material litigation involving our Company_ ” on page 463. Further, in Fiscal 2024, we faced a challenge by an innovator company for one of our ANDA filings. We subsequently entered into a settlement agreement with the innovator company, pursuant to which, we were granted a non-exclusive, irrevocable, nonassignable license allowing us to sell the relevant product in exchange for a royalty from the sale of such product (the “ **Settlement and License Agreement** ”). The ultimate outcome of any such litigation could adversely affect our financial condition, results of operations and cash flow. Further, a complaint was filed by Edenbridge Pharmaceuticals LLC (“ **Edenbridge** ”) in March 2025 against our Company and AdvaGen before the Court of Chancery for the State of Delaware in the United States, for alleged violations of a confidentiality agreement and misappropriating or disclosing Edenbridge’s trade secrets, among others. 
-
-59 
-
-Regardless of regulatory approval, should anyone commence a lawsuit against us with respect to any alleged patent infringement by us, whether because of the filing of an application for governmental approval, such as an ANDA, or otherwise, the expense of any such litigation and the resulting disruption to our business, whether or not we are successful, could harm our business. The uncertainties inherent in patent litigation make it difficult for us to predict the outcome of any such litigation. If we are unsuccessful in defending ourselves against these suits, we could be prevented from selling our products, resulting in a decrease in revenues, or could be held liable to pay damages, which may be substantial. Either event could adversely affect our consolidated financial condition, results of operations or liquidity. 
-
-Further, market perceptions of our business are very important to us, especially market perceptions of the safety and quality of our products. If any of our products or similar products that other companies distribute are subject to market withdrawal or recall or are proven to be, or are claimed to be, harmful to consumers, then this could have a material adverse effect on our business, results of operations and financial condition. Also, because our business is dependent on market perceptions, negative publicity associated with product quality, illness or other adverse effects resulting from, or perceived to be resulting from, our products could have a material adverse impact on our business, results of operations and financial condition. 
-
-# **_30. We are subject to foreign, federal, and state, anti-kickback, false claims, fraud and abuse laws, which may adversely affect our business._** 
-
-We are subject to various federal, state and foreign laws pertaining to foreign corrupt practices and healthcare fraud and abuse, including anti-kickback, marketing and pricing laws (“ **anti-kickback laws** ”). In the United States, many of our products are reimbursed under federal and state healthcare programs such as Medicaid, Medicare, TriCare, and or state pharmaceutical assistance programs. Most patients are covered under a variety of private insurance carriers. These laws, and other similar foreign laws, may impact, among other things, our proposed sales and marketing programs as well as any patient support programs we may consider offering. The laws that may affect our ability to operate include: 
-
-- the federal anti-kickback statute (the “ **Anti-Kickback Statute** ”), which prohibits, among other things, knowingly and willfully soliciting, receiving, offering or paying any remuneration (including any kickback, bribe or rebate), directly or indirectly, overtly or covertly, in cash or in kind, to induce, or in return for, either the referral of an individual, or the purchase, lease, order or recommendation of any good, facility, item or service for which payment may be made, in whole or in part, under a federal healthcare program, such as the Medicare and Medicaid programs. The term remuneration has been interpreted broadly to include anything of value including, for example, gifts free items or services, etc. The ACA amended the intent requirements of the Anti-Kickback Statute, providing that a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. In addition, the ACA codified case law that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the FCA. Violations of the Anti-Kickback Statute is a felony, punishable by up to ten years in jail and $100,000 per violation; 
-
-- Violation of the Anti-Kickback Statute may also constitute a false or fraudulent claim for purposes of the federal criminal False Claims Act (“ **FCA** ”), including criminal penalties of up to 5 years in prison and penalties of $25,000 per violation, and civil penalties of $100,000 for each violation, and up to three times the amount paid by any governmental program involved; 
-
-- In addition, there is a federal civil FCA. Violations of the civil FCA may result in fines of up to three times the programs' loss plus a minimum of $14,308 per claim filed (the maximum per-claim amount is $28,619). Under the civil FCA, each instance of an item or a service billed to Medicare or Medicaid counts as a claim. Notably, under the civil FCA, no specific intent to defraud is required. The civil FCA defines "knowing" to include not only actual knowledge but also instances in which the person acted in deliberate ignorance or reckless disregard of the truth or falsity of the information, and the law can further apply to entities that provide information on coverage, coding, and reimbursement and assistance with obtaining reimbursement to persons who bill payers. Further, the civil FCA contains a whistleblower provision that allows a private individual to file a “qui tam” lawsuit on behalf of the United States and entitles that whistleblower to a percentage of any recoveries. Whistleblowers could be current or ex-business partners, hospital or office staff, patients, or competitors; 
-
-60 
-
-- Violations of the Anti-Kickback Statute or the criminal or civil FCA may also provide the basis for exclusion from participation in federally-funded health care programs. There are additional criminal and civil penalties for entities that fail to timely return overpayments received from the federal government or making a false statement to avoid, decrease or conceal an obligation to pay money to the federal government. The civil and criminal FCA laws can apply to entities that provide information on coverage, coding, and reimbursement of their products and assistance with obtaining reimbursement to persons who bill payers. Private individuals can bring FCA “qui tam” actions, on behalf of the government and such individuals, commonly known as “whistleblowers”, may share in amounts paid by the entity to the government in fines or settlement. When an entity is determined to have violated the federal civil FCA, the government may impose civil fines and penalties for each false claim, plus up to three times the amount of damages sustained by the federal government and, may provide the basis for exclusion from federally funded healthcare programs; 
-
-- provisions of the federal Health Insurance Portability and Accountability Act of 1996 (“ **HIPAA** ”), which created new federal criminal statutes, prohibit knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program or obtain, by means of false or fraudulent pretenses, representations or promises, any of the money or property owned by, or under the custody or control of, any healthcare benefit program, regardless of the payer (e.g., public or private) and knowingly and willfully falsifying, concealing or covering up by any trick or device a material fact or making any materially false statements in connection with the delivery of, or payment for, healthcare benefits, items or services relating to healthcare matters. Provisions of HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009 and their respective implementing regulations, impose requirements on certain covered healthcare providers, health plans, and healthcare clearinghouses as well as their respective business associates that perform services for them that involve the use, or disclosure of, individually identifiable health information, relating to the privacy, security and transmission of individually identifiable health information without appropriate authorization; and 
-
-- state and non-U.S. equivalents of each of the healthcare laws described above, among others, some of which may be broader in scope and may apply regardless of the payer. Many U.S. states have adopted laws similar to the Anti-Kickback Statute, some of which apply to the referral of patients for healthcare services reimbursed by any source, not just governmental payers, including private insurers, or paid directly by the patient. In addition, some states have passed laws that require pharmaceutical companies to comply with the Office of Inspector General Compliance Program Guidance for Pharmaceutical Manufacturers and/or the Pharmaceutical Research and Manufacturers of America’s Code on Interactions with Healthcare Professionals. Several states also impose other marketing restrictions or require pharmaceutical companies to make marketing or price disclosures to the state. There are ambiguities as to what is required to comply with these state requirements and if we fail to comply with an applicable state law requirement, we could be subject to penalties. 
-
-Because of the breadth of these laws and the narrowness of the statutory exceptions and safe harbors available, it is possible that some of our business activities, such as providing free samples, to physicians, including some who may prescribe, purchase or may be in a position to influence the ordering or purchasing of our products, could be subject to challenge under one or more of such laws. In addition, if any of the physicians or other providers or entities with whom we expect to do business is found to be not in compliance with applicable laws, they may be subject to criminal, civil or administrative sanctions, including exclusions from government funded healthcare programs. Efforts to ensure that our business arrangements with third parties are compliant with applicable healthcare laws and regulations involve substantial costs. While we have not received notice of any levies, fines or penalties in the three month period ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023, it is possible that governmental authorities will conclude that our business practices may not comply with current or future statutes, regulations or case law involving applicable fraud and abuse or other healthcare laws and regulations. If any such actions are instituted against us, and we are not successful in defending ourselves or asserting our rights, those actions could have a significant impact on our business, including the imposition of civil, criminal and administrative penalties, damages, disgorgement, monetary fines, possible exclusion from participation in Medicare, Medicaid and other federal healthcare programs, contractual damages, reputational harm, diminished profits and future earnings, and curtailment of our operations, any of which could adversely affect our ability to operate our business and our results of operations. 
-
-61 
-
-**_31. We are subject to laws which aim to protect patients, such as payment transparency and data privacy laws, and compliance with such laws may adversely affect our business._** 
-
-The US federal transparency requirements under the ACA, including the provision commonly referred to as the Physician Payments Sunshine Act, which requires manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program to report annually to the HHS information related to all payments or other transfers of value made to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors), physician assistants, certain advance practices nurses, and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members unless a specific exclusion applies. Applicable manufacturers are required to submit annual reports to Centers for Medicare and Medicaid Services (“ **CMS** ”). Failure to submit required information may result in civil monetary penalties for all payments, transfers of value or ownership or investment interests that are not timely, accurately, and completely reported in an annual submission, and may result in liability under other federal laws or regulations; 
-
-Further, national and state laws and regulations, in the U.S., India and other jurisdictions in which we conduct our business, including the European General Data Protection Regulations and the Digital Personal Data Protection Act, 2023 (“ **DPDP Act** ”) (which has received the assent of the President of India on August 11, 2023 however, its provisions are yet to be notified to come into force), on privacy with respect to personal data, identifiable health information, sensitive information, and other data of patients and customers are applicable to us. Many U.S. state laws govern the privacy and security of health information in certain circumstances, many of which differ from each other in significant ways and may not have the same effect, and often are not pre-empted by HIPAA. For example, the California Consumer Privacy Act of 2018 (“ **CCPA** ”), imposes obligations on businesses to which it applies, including, but not limited to, providing specific disclosures in privacy notices and affording California residents certain rights related to their personal data, although it exempts some data processed in the context of clinical trials. In addition, the California Privacy Rights Act of 2020 (“ **CPRA** ”), which went into effect on January 1, 2023, imposes additional obligations on companies covered by the legislation and significantly modifies the CCPA, including by expanding consumers’ rights with respect to certain sensitive personal information. The CPRA also creates a new state agency that is vested with authority to implement and enforce the CCPA and CPRA. There are also states that are specifically regulating health information. For example, Washington’s My Health My Data Act, which became effective on March 31, 2024, regulates the collection and sharing of health information and has a private right of action, which further increases the relevant compliance risk. Virginia’s Consumer Data Protection Act, which took effect on January 1, 2023, requires businesses subject to the legislation to conduct data protection assessments in certain circumstances and requires opt-in consent from consumers to acquire and process their sensitive personal information, which includes information revealing a consumer’s physical and mental health diagnosis and genetic and biometric information that can identify a consumer. Each of these laws may increase the complexity, variation in requirements, restrictions and potential legal risks, and could require increased compliance costs and changes in business practices and policies. Other states have also enacted, proposed, or are considering proposing, data privacy laws, which could further complicate compliance efforts, increase our potential liability and adversely affect our business. In the U.S., we may also be subject to the Controlling the Assault of Non-Solicited Pornography and Marketing Act (the “ **CAN-SPAM Act** ”), which establishes requirements for those who send unsolicited commercial emails, and the Telephone Consumer Protection Act, which restricts the making of telemarketing calls, including sending promotional text messages. 
-
-The compliance by us with such laws and any institution of investigations, proceedings or actions against us by regulatory authorities, whether resulting in the imposition of civil, criminal and administrative penalties, damages, disgorgement or monetary fines, could have a material impact on our business, results of operations, cash flows and financial condition. 
-
-# **_32. The valuation reports obtained for acquisitions or divestments of business/undertakings, mergers, amalgamations, any evaluations of assets, etc. in the last 10 years are based on various assumptions and may not be indicative of the true value of the subject matter to which they relate._** 
-
-We have entered into several acquisitions or divestments of business/undertakings, mergers and amalgamations in the last 10 years, and have obtained valuation reports in connection with certain of these transactions. For more details, see “ _History and Certain Corporate Matters_ `”` on page 293. The valuation report in respect of Validus Pharmaceuticals LLC has been made available as material 
-
-62 
-
-`“ –` documents available for inspection. See _Material Contracts and Documents for Inspection Material documents_ `”` on page 608. The valuations are subject to certain assumptions made and conclusions derived which may turn out to be inaccurate or incomplete, which may affect the valuation of the subject matters of such reports. The valuations are an estimate and not a guarantee, and they are fully dependent upon the accuracy of the assumptions contained in each report. Further, each valuer has evaluated the suitability of certain methodologies and has followed a particular methodology to arrive at the valuation. There is no assurance that other methodologies would not have resulted in a different valuation. The valuation reports do not confer rights or remedies upon investors or any other person, and do not constitute and should not be construed as any form of assurance as to our financial condition or future performance or as to any other forward-looking statements included therein, including those relating to macroeconomic factors. Additionally, the price at which we may be able to sell the subject matters of such valuation report in the future may be different from the initial acquisition value of such an entity. While there has been no material impact on our Company’s operations and financial performance based on these reports in the past, however, we cannot assure you that other valuers would arrive at the same valuations. Accordingly, investors should not rely solely on the valuation reports in making an investment decision to subscribe to or purchase Equity Shares in the Offer. 
-
-# **_33. Healthcare reform and changes in pharmaceutical pricing, reimbursement and coverage, by governmental authorities and third-party payors may materially affect our business, financial position and operating results._** 
-
-In recent years, there have been numerous initiatives at the federal and state levels for comprehensive reforms affecting the payment for, the availability of, and reimbursement for healthcare services in the U.S. generally and prescription drug coverage, reimbursement and pricing specifically, and it is likely that federal and state legislatures will continue to advocate change to the healthcare system generally and to prescription drug coverage, reimbursement and downward pressure on pricing specifically. 
-
-At the federal level, in March 2010, the U.S. Congress enacted the ACA and in 2022, it enacted the IRA. Among other things, the ACA and the IRA were intended to broaden access to health insurance, reduce or constrain the growth of healthcare spending, enhance remedies against fraud and abuse, add new transparency requirements for healthcare and health insurance industries, impose new taxes and fees on the health industry and impose additional health policy reforms. The ACA, the IRA and any such future regulatory reforms in the United States, is likely to continue the pressure on pharmaceutical pricing, especially under the Medicare program, and may also increase our regulatory burdens and operating costs. We cannot predict which additional measures may be adopted or the impact of current and additional measures on the marketing, pricing and demand for our products. We expect both federal and state governments in the United States and foreign governments to continue to propose and pass new legislation, rules and regulations designed to contain or reduce the cost of healthcare while expanding individual healthcare benefits. Existing regulations that affect the price of pharmaceutical products may also change which could impact the sales of our products. Cost control initiatives and political pressure could decrease the price that we receive for any product we develop in the future. Price escalation of pharmaceutical products may also lead to the risk of implementation of price controls in the future, which could have a material adverse effect on our business, financial condition, results from operations, particularly if such price controls affect products for which we have a high market share _._ 
-
-We continue to evaluate the potential impact of the IRA on our business. CMS has issued several guidance documents, but it remains unclear how certain provisions will be implemented. The IRA permits the Secretary of HHS to implement many of its provisions through guidance, as opposed to regulation, for the initial years. In July 2024, CMS proposed regulations for the Medicare Part D and Part B inflation rebate programs. We may see similar proposals for other IRA programs in the coming months. Any additional guidance, legislation or rulemaking that could reflect the government’s evolving views. In addition, multiple manufacturers and trade organizations have challenged the Medicare price negotiation provisions of the IRA, and additional legal challenges may be filed in the future. The outcome of these lawsuits is uncertain, and some IRA drug discount provisions have not been challenged in litigation. Thus, while it is unclear how the IRA will be implemented, it will likely have a significant impact on the pharmaceutical industry and the pricing of prescription drug products. 
-
-On May 12, 2025, President Trump issued an Executive Order that, among other things, required HHS, within 30 days, to establish and communicate to drug manufacturers most-favored-nation (“ **MFN** ”) price targets designed to bring drug prices for American patients in line with those in comparably developed nations.  If significant progress towards MFN pricing is not achieved, the Executive Order requires HHS 
-
-63 
-
-to propose a rulemaking to implement MFN pricing.  It is uncertain what HHS will consider significant progress toward MFN pricing, or when that determination will be made.  If HHS issues and finalizes a rule to implement MFN pricing, the rule is likely to mandate reduced prices of drugs in the United States, if they are also sold in comparator countries.  Even if a company does not market drugs in such countries, it would be indirectly affected if its drugs competed with drugs that were reduced by MFN pricing. 
-
-At the state level, legislatures are increasingly enacting laws and implementing regulations designed to control pharmaceutical and biological product pricing, including restrictions or prohibitions on certain marketing practices, reporting of specified categories of remuneration provided to health care practitioners, and reporting and justification of price increases greater than a specified level. In some cases, states have designed programs to encourage importation from other countries and bulk purchasing. 
-
-While the full impact of the IRA on our business and the pharmaceutical industry remains uncertain at this time, we anticipate that the IRA will increase our payment obligations under the redesigned Part D discount program, limit the prices we can charge for our products, and increase the rebates we must provide government programs for our products, thereby reducing our profitability and negatively impacting our financial results. 
-
-# **_34. Healthcare reform and changes in respect of Medicaid in the United States may materially affect our business, financial position and operating results._** 
-
-In the United States, there have been and continue to be a number of legislative and initiatives to contain healthcare costs. At the federal level, for example, the American Rescue Plan Act eliminated the cap on Medicaid Drug Rebate Program rebates that manufacturers pay to state Medicaid programs beginning January 1, 2024. As such, we could end up owing additional rebates to state Medicaid programs related to utilization of our drug products negatively impacting profitability. Several healthcare reform initiatives culminated in the enactment of the IRA in August 2022, which, among other things, allows the United States Health and Human Services (“HHS”) to directly negotiate the selling price of a statutorily specified number of drugs and biologics each year that CMS reimburses under Medicare Part B and Part D. The negotiated price may not exceed a statutory ceiling price. Only high-expenditure single-source drugs that have been approved for at least 7 years (11 years for single-source biologics) are eligible to be selected for negotiation by CMS, with the negotiated price taking effect two years after the selection year. For 2026, the first year in which negotiated prices become effective, CMS selected 10 high-cost Medicare Part D products in 2023, negotiations began in 2024, and the negotiated maximum fair price for each product has been announced. CMS has selected 15 additional Medicare Part D drugs for negotiated maximum fair pricing in 2027. For 2028, an additional 15 drugs, which may be covered under either Medicare Part B or Part D, will be selected, and for 2029 and subsequent years, 20 Part B or Part D drugs will be selected. The IRA also imposes rebates on Medicare Part D and Part B drugs whose prices have increased at a rate greater than the rate of inflation, and in November 2024, CMS finalized regulations for these inflation rebates. In addition, the law eliminates the “donut hole” under Medicare Part D beginning in 2025 by significantly lowering the beneficiary maximum out-of-pocket cost and requiring manufacturers to subsidize, through a newly established manufacturer discount program, 10% of Part D enrollees’ prescription costs for brand drugs below the out-of-pocket limit, and 20% once the out-ofpocket maximum has been reached. The IRA also extends enhanced subsidies for individuals purchasing health insurance coverage in ACA marketplaces through plan year 2025. The IRA permits the Secretary of HHS to implement many of these provisions through guidance, as opposed to regulation, for the initial years. Manufacturers that fail to comply with the IRA may be subject to various penalties, including significant civil monetary penalties. 
-
-States continue to look for ways to save on Medicaid spend specifically related to prescription drugs. As such, states are increasingly expanding or changing supplemental rebates programs to secure additional rebates from manufacturers in exchange for drug coverage and to limit coverage of certain drugs for certain Medicaid patients or to all Medicaid patients. To the extent CMS entertains waivers to federal requirements under the Medicaid program to allow states Medicaid programs such flexibility, coverage of and payment for our drugs utilized by Medicaid beneficiaries could be negatively impacted. In some states, laws have been enacted to encourage importation of lower cost drugs from other countries and bulk purchasing. For example, the USFDA released a final rule in September 2020 providing guidance for states to build and submit plans for importing drugs from Canada, and USFDA authorized the first such plan in Florida in January 2024, which has been extended until November 2025. It is unclear how this program will be implemented, including which drugs will be chosen, and whether it will be subject to legal challenges in the United States or Canada. Other states have also submitted proposals that are 
-
-64 
-
-pending review by the USFDA. Certain U.S. states have implemented statutes aimed at prescription drug price transparency and some of those laws would permit state run boards or agencies to cap reimbursement for certain prescription drugs in the states. Such laws could negatively impact our financial performance and could result in us terminating distribution of certain products in certain states or regions. 
-
-# **_35. We have significant power and fuel requirements and any disruption to power sources could increase our production costs and adversely affect our results of operations and cash flows._** 
-
-We require substantial power and fuel for our manufacturing facilities, and our energy costs represent a significant portion of the production costs for our operations. The following table sets forth details of our power and fuel expenses for the periods / years indicated: 
-
-|**Particular**|**For three mon**<br>**Jun**|**th period ended**<br>**e 30,**||**For Fiscal**||
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Power<br>and<br>fuel expenses<br>(in ₹ million)|50.27|50.99|203.83|186.17|157.13|
-|%<br>of<br>Total<br>Expenses|1.69%|1.82%|1.85%|2.42%|3.65%|
-
-
-
-If energy costs were to rise, or if electricity supplies or supply arrangements were disrupted, our profitability could decline. Energy prices can be affected by numerous factors beyond our control, including global and regional supply and demand, carbon taxes, inflation, political and economic conditions, and applicable regulatory regime. 
-
-We source most of our electricity requirements for our manufacturing facilities from state electricity boards. If our electricity suppliers increase the price for electricity, our cost of production and profitability would be materially adversely affected. Further, natural disasters or adverse conditions may occur in the geographical areas in which we operate including severe weather, tropical storms, floods, excessive rainfalls as well as other events beyond our control. If for any reason electricity is not available and we are not able to adequately rely on alternative sources such as generators _,_ we may need to shut down our plants until an adequate supply of electricity is restored. Interruptions of electricity supply can also result in production shutdowns, increased costs associated with restarting production and the loss of production in progress. 
-
-# **_36. Our insurance coverage may not be adequate to protect us against all potential losses, which may have a material adverse effect on our business, financial condition, cash flows and results of operations._** 
-
-Our operations are subject to hazards inherent in manufacturing units such as the risk of equipment failure, work accidents, fire, earthquakes, flood, and other force majeure events, acts of terrorism and explosions including hazards that may cause injury and loss of life, severe damage to and the destruction of property and equipment and environmental damage. We may also be subject to product liability claims if the products that we manufacture are not in compliance with regulatory standards and the terms of our contractual arrangements. We maintain insurance policies that we believe are customary for companies operating in our industry. Our principal types of coverage include insurance for fire, burglary, loss of profit, money, group mediclaim, group personal accident, workmen compensation, boilers, crime, cyber liability, management liability, standalone terrorism, marine insurance, comprehensive general liability, group term life and directors and officer liability. The following table sets forth details of our insurance coverage as on June 30, 2025, June 30 2024, March 31, 2025, March 31, 2024, March 31, 2023: 
-
-|**Particulars**|**June**<br>|**June 30,**<br>|**As**<br>|**of**<br>||
-|---|---|---|---|---|---|
-||**30,**<br>**2025**|**2024**|**March 31, 2025**|**March 31, 2024**|**March 31, 2023**|
-|Total<br>Insured||||||
-|Assets*_(₹_<br>_in_<br>_millions)_|9,233.8<br>3|5,912.80|7,585.67|5,124.11|3,358.36|
-
-
-
-65 
-
-|**Particulars**|**June**|**June 30,**|**As**|**of**||
-|---|---|---|---|---|---|
-||**30,**<br>**2025**|**2024**|**March 31, 2025**|**March 31, 2024**|**March 31, 2023**|
-|Insurance Coverage<br>on insured assets_(₹_<br>_in millions)_|12,812.<br>72|8,912.85|9,426.37|7,842.33|5,639.02|
-|Total<br>insurance||||||
-|coverage<br>as<br>a<br>percentage of total<br>insured assets|138.76<br>%|150.74%|124.27%|153.05%|167.91%|
-
-
-
-_* Includes net carrying amount of property plant & equipment and inventories_ 
-
-There are possible losses, which we may not have insured against or covered or wherein the insurance cover in relation to the same may not be adequate. If we were to incur a serious uninsured loss or a loss that significantly exceeds the limits of our insurance policies, it could have a material adverse effect on our business, financial condition, results of operations and cash flows. For details, see “ _Our Business – Insurance_ ” on page 270. 
-
-Our public and product liability insurance covering the products produced by us, including defective products, is generally subject to certain limitations and a maximum liability threshold indemnifying us for bodily injury and property damage arising out of our premises, operations or products, subject to certain customary exclusions, including bodily injury to an employee of the insured arising out of and in the course of employment by the insured, workmen compensation, property damage to property owned or occupied by or rented to the insured and liabilities arising out of deliberate or willful non-compliance with statutory provisions. Our public and product liability insurance may not be adequate and, at any time, insurance coverage may not be available to mirror all our contractual obligations on commercially reasonable terms or at all. If any product liability claim was sustained against us for products not covered by existing product liability insurance or where the damages awarded exceeds the limits set on the existing insurance cover, it could harm our business and financial condition. Even for the products where we carry the product liability insurance our claims may not be fully accepted by the insurance companies. This risk is likely to increase as we increase the number of products that we develop internally and sell internationally. 
-
-Our policies are subject to standard limitations that apply to the length of the interruption covered and the maximum amount that can be claimed. Therefore, insurance might not necessarily cover all losses incurred by us and we cannot provide any assurance that we will not incur losses or suffer claims beyond the limits of, or outside the relevant coverage of, insurance policies. We cannot assure you that the operation of our business will not be affected by any of the risks and hazards listed above. In addition, while we have not had material claims which exceeded our insurance cover in the past, our insurance may not provide adequate coverage in certain circumstances in the future including losses arising due to third-party claims that are either not covered by insurance or the values of which exceed insurance limits, economic or consequential damages that are outside the scope of insurance coverage and claims that are excluded from coverage. If our arrangements for insurance are not adequate to cover claims, we may be required to make substantial payments and our results of operations, financial condition and cash flows may therefore be adversely affected. 
-
-We may not have identified every risk, and further may not be insured against every risk, including operational risks that may occur, and the occurrence of an event that causes losses more than the limits specified in our policies, or losses arising from events or risks not covered by insurance policies or due to the same being inadequate. Any of the above could materially harm our financial condition and future results of operations and cash flows. There can be no assurance that any claims filed will be honored fully or in a timely fashion under our insurance policies. In addition, we may not be able to renew certain of our insurance policies upon their expiration, either on commercially acceptable terms or at all. 
-
-66 
-
-**_37. Certain of our Subsidiaries have incurred losses in the past. Sustained losses in the future by such Subsidiaries could require us to provided financial support, which could adversely affect our business, financial condition, results of operations and cash flows._** 
-
-Our Subsidiaries namely, KIA Health Tech Private Limited, Rubicon Consumer Healthcare Private Limited, Rubicon Academy LLP, Advagen Holdings Inc., Rubicon Research Private Limited (Singapore), Rubicon Research Australia Pty Limited, Advagen Pharma Europe OÜ, Advatech Bio Pharma Limited, Validus and AIM RX 3PL L.L.C. have incurred losses in past. For details of the financial information of our Subsidiaries, see section “ _Our Subsidiaries – Financial Information of our Subsidiaries for the three months ended June 30, 2025, 2024 and 2023 and as at and for the Financial Years ended March 31, 2025, March 31, 2024 and March 31, 2023_ ” on page 310 of this Red Herring Prospectus. Sustained losses by such Subsidiaries could negatively affect our reputation, and any requirement for us to provide financial support to such Subsidiaries in the future could adversely affect our business, financial condition, results of operations and cash flows. 
-
-# **_38. We have commissioned an industry report from Frost & Sullivan (India) Private Limited, which has been used for industry related data in this Red Herring Prospectus._** 
-
-We have commissioned and paid for a report titled “Independent Market Research On The US Pharmaceutical Market” (the “ **_F&S Report_** ”) dated August 18, 2025, which is prepared for the purposes of the Offer and issued by Frost & Sullivan (India) Private Limited, which has been used for industry related data that has been disclosed in this Red Herring Prospectus. Our Company, Promoters, Directors, Key Managerial Personnel, Senior Management or Book Running Lead Managers are not related to Frost & Sullivan (India) Private Limited. Frost & Sullivan (India) Private Limited uses certain methodologies for market sizing and forecasting. Accordingly, investors should read the industry related disclosure in this Red Herring Prospectus in this context. Industry sources and publications are also prepared based on information as of specific dates and may no longer be current or reflect current trends. Industry sources and publications may also base their information on estimates, projections, forecasts and assumptions that may prove to be incorrect. As such, a blanket, generic use of the derived results or the methodology is not encouraged. Further, the F&S Report is not a recommendation to invest / disinvest in any company covered in the F&S Report. Accordingly, prospective investors should not base their investment decision solely on the information in the F&S Report. 
-
-The commissioned F&S Report also highlights certain industry and market data, which may be subject to assumptions. There are no standard data gathering methodologies in the industry in which we conduct our business, and methodologies and assumptions vary widely among different industry sources. Further, such assumptions may change based on various factors. We cannot assure you that Frost & Sullivan (India) Private Limited’s assumptions are correct and will not change and, accordingly, our position in the market may differ, favorably or unfavorably, from that presented in this Red Herring Prospectus. 
-
-In view of the foregoing, you may not be able to seek legal recourse for any losses resulting from undertaking any investment in the Offer pursuant to reliance on the information in this Red Herring Prospectus based on, or derived from, the F&S Report. You should consult your own advisors and undertake an independent assessment of information in this Red Herring Prospectus based on, or derived from, the F&S Report before making any investment decision regarding the Offer. For the disclaimers associated with the F&S Report, see “ _Certain Conventions, Presentation of Financial, Industry and Market Data and Currency of Presentation - Industry and Market Data_ ” on page 17. 
-
-**_39. If we fail to introduce our generic products on a timely basis, our revenues, gross margin and results of operations may decline significantly. If we are not able to utilize the Section 505(b)(2) regulatory approval pathway, the approval pathway for product candidates will likely take significantly longer, cost significantly more and entail significantly greater complications and risks than anticipated, and in either case may not be successful._** 
-
-With respect to our generic products, our future profitability depends, to a significant extent, upon our ability to introduce, on a timely basis, new generic drug products that are either the first-to-market (or among the first-to-market) or that otherwise can gain significant market share. The timeliness of our product introductions is dependent upon, among other things, the timing of regulatory approval of our products, which to a large extent is outside of our control, as well as the timing of the approval and introduction of competing products. Accordingly, our revenues and future profitability are dependent, in large part, upon our ability to submit to and obtain approval from the USFDA of ANDAs and 505(b)(2) 
-
-67 
-
-New Drug Applications (“ **NDAs** ”) in a timely and effective manner. If we are unable to continue to timely and effectively submit and obtain approval of ANDAs, or to submit and obtain approval of NDAs in a timely and effective manner in the future, our revenues, gross margin and results of operations may decline significantly, and our prospects and business may be materially adversely affected. For more information, see “ _Risk Factor - Clinical drug development involves a lengthy and expensive process with uncertain timelines and uncertain outcomes. If clinical studies of our product candidates are prolonged or delayed, or if we are required to conduct additional clinical studies for certain of our product candidates, we or any industry partners involved in the conduct of such studies may be unable to obtain required regulatory approvals, and therefore may be unable to commercialize our product candidates on a timely basis or at all._ ” 
-
-In particular, we may develop proprietary product candidates for which we may seek USFDA approval through the Section 505(b)(2) regulatory pathway. The Drug Price Competition and Patent Term Restoration Act of 1984, also known as the Hatch-Waxman Amendments, added Section 505(b)(2) to the Federal Food, Drug and Cosmetic Act (“ **FDCA** ”). Section 505(b)(2) permits the submission of an NDA where at least some of the information required for approval comes from studies that were not conducted by or for the applicant and for which the applicant has not obtained a right of reference. Section 505(b)(2), if applicable to us under the FDCA, would allow an NDA we submit to USFDA to rely in part on data in the public domain or the USFDA’s prior conclusions regarding the safety and effectiveness of approved products, which could expedite the development program for our product candidates by potentially decreasing the amount of clinical data that we would need to generate in order to obtain USFDA approval. We take into account design, strategic planning considerations and our interactions with the USFDA to determine whether to utilize the Section 505(b)(2) regulatory approval pathway for a particular product candidate. If the USFDA does not allow us to pursue the Section 505(b)(2) regulatory pathway as anticipated, we may need to conduct additional clinical trials, provide additional data and information, and meet additional standards for regulatory approval. Even if we are allowed to pursue the Section 505(b)(2) regulatory pathway, we cannot assure you that our product candidates will receive the requisite approvals for commercialization. In addition, even if we are able to utilize the Section 505(b)(2) regulatory pathway, or the accelerated regulatory pathways of any other jurisdiction or regulatory authority, there is no guarantee this would ultimately lead to accelerated product development or earlier approval. 
-
-In addition, the pharmaceutical industry is highly competitive, and ANDAs and Section 505(b)(2) NDAs are subject to special requirements designed to protect the patent rights of sponsors of previously approved drugs that are referenced in an ANDA or Section 505(b)(2) NDA. These requirements may give rise to patent litigation and mandatory delays in approval of our ANDAs or NDAs for up to 30 months or longer depending on the outcome of any litigation. Additionally, it is not uncommon for a manufacturer of an approved product to file a citizen petition with the USFDA seeking to delay approval of, or impose additional approval requirements for, pending competing products. If successful, such petitions can significantly delay, or even prevent, the approval of the new product. However, even if the USFDA ultimately denies such a petition, the USFDA may substantially delay approval while it considers and responds to the petition. 
-
-Moreover, even if our product candidates are approved under Section 505(b)(2), the approval may be subject to limitations on the indicated uses for which the products may be marketed or to other conditions of approval, or may contain requirements for costly post-marketing testing and surveillance to monitor the safety or efficacy of the products. 
-
-**_40. Clinical drug development involves a lengthy and expensive process with uncertain timelines and uncertain outcomes. If clinical studies of our product candidates are prolonged or delayed, or if we are required to conduct additional clinical studies for certain of our product candidates, we or any industry partners involved in the conduct of such studies may be unable to obtain required regulatory approvals, and therefore may be unable to commercialize our product candidates on a timely basis or at all._** 
-
-The USFDA may require substantial additional clinical testing or find that a drug product does not satisfy the standards for approval. In order to obtain approval for our product candidates that are generic versions of innovator drugs, we must demonstrate to the USFDA using the 505(j) ANDA approval pathway that each generic product candidate is bioequivalent to a drug previously approved by the USFDA through the new drug approval process, known as an innovator reference listed drug. In addition to bioequivalence testing, the generic product must also have the same dosage form, strength, route of administration and 
-
-68 
-
-intended use as the innovator drug product. If the USFDA determines that an ANDA for a generic drug product is not adequate to support approval, it could deny our application or request additional information, including clinical trials, which could delay approval of the product and impair our ability to compete with other versions of the generic drug product. Studies for products using the 505(b)(2) NDA pathway are intended to establish the efficacy of the product candidate to the standards required by the US FDA. Failure can occur at any time during the clinical study process, even with ANDA and 505(b)(2) NDA product candidates that use active ingredients that have previously been approved by the USFDA as safe and effective. Further, the USFDA may revise the standards of efficacy or bioequivalence it requires such product candidates to meet, and any product candidates that are yet to be approved will be required to meet such revised standards. This may entail additional development work which may increase the cost of development of the product. The results of preclinical studies and early clinical studies of our product candidates may not be predictive of the results of later stage clinical studies. A number of companies in the pharmaceutical industry have suffered significant setbacks in clinical studies due to an inability to demonstrate the desired levels of efficacy, notwithstanding promising results in earlier studies. 
-
-To obtain the requisite regulatory approvals to market and sell any of our product candidates, we and/or our industry partners for such candidate typically must demonstrate through extensive preclinical and clinical studies that our product candidates are effective in humans. Regulatory approval requirements for some product candidates may also include safety studies. The process for obtaining relevant governmental approvals to test and market our products is rigorous, time-consuming and costly. It is also impossible to predict the extent to which this process may be affected by legislative and regulatory developments. Due to these and other factors, our current product candidates or any of our other future product candidates could take a significantly longer time to gain regulatory approval than expected or may never gain regulatory approval. This could delay or eliminate any potential sales that we might earn from these product candidates due to the lost time before potential commercialization and potential changes in the competitive landscape by the time such product candidates are commercialized, if they are commercialized at all. We may also suffer reputational harm from such delays or failures that could affect our business more broadly. 
-
-Clinical studies must be conducted in accordance with USFDA and other applicable regulatory authorities’ legal requirements, regulations or guidelines, and are subject to oversight by these governmental agencies and Institutional Review Boards (“ **IRBs** ”) at the clinical research organizations or medical institutions where the clinical studies are conducted. In addition, clinical studies must be conducted with supplies of our product candidates produced under cGMP and other requirements. In addition, the commencement, adequate recruitment and completion of clinical studies for our product candidates may be delayed, suspended or terminated as a result of many factors, including but not limited to: 
-
-- negative or inconclusive results, which may require us to conduct additional preclinical studies or clinical studies or to abandon projects that we expected to be promising; 
-
-- safety or tolerability concerns that could cause us to suspend or terminate a study if we find that the participants are being exposed to unacceptable health risks; 
-
-- the delay or refusal of regulators or IRBs to authorize us to commence a clinical study at a prospective study site, or requiring that we suspend or terminate research, and changes in regulatory requirements, policies and guidelines or existing study protocols requiring regulatory approval; 
-
-- delays or failure to reach agreement on acceptable clinical study contracts or clinical study protocols with prospective study sites; and 
-
-- delays in or insufficient numbers of volunteer (or if required, patients) enrollment and variability in the number and types of volunteers available for clinical studies, as well as difficulty in maintaining retention of volunteers or contact with volunteers for post-study data collection. 
-
-Identifying and qualifying volunteers (or if required, patients) to participate in clinical studies of our product candidates is critical to our success. The timing of our clinical studies depends on the speed at which we can recruit patients to participate in testing our product candidates as well as completion of required follow-up periods. We may not be able to identify, recruit and enroll a sufficient number of 
-
-69 
-
-patients, or those with required or desired characteristics or to complete our clinical studies in a timely manner. Patient enrollment and completion of the studies are affected by factors including but not limited to: 
-
-- severity of the disease under investigation; 
-
-- design of the study protocol; 
-
-- size of the patient population; 
-
-- eligibility criteria for the study in question; and 
-
-- perceived risks and benefits of the product candidate under study. 
-
-While we have not encountered any delays that have had a material impact on our financial condition and/or operations in the past, if initiation or completion of our planned clinical studies is delayed for any of the above reasons or other reasons, our development costs may increase, our regulatory approval process could be delayed and our ability to commercialize and commence sales of our product candidates could be materially harmed, which could have a material adverse effect on our business. 
-
-# **_41. We have relied and expect to continue to rely on third parties to conduct our clinical studies. If those third parties do not perform as contractually required, fail to satisfy legal or regulatory requirements, miss expected deadlines or terminate the relationship, our development programs could be delayed, more costly or unsuccessful, and we may never be able to seek or obtain regulatory approval for or commercialize our product candidates._** 
-
-We rely and intend to rely in the future on third-party clinical consultants. Our reliance on these third parties for development activities will reduce our control over these activities. Nevertheless, we are responsible for ensuring that each of our clinical studies is conducted in accordance with the applicable study protocol and legal, regulatory and scientific standards, and our reliance on the clinical research organizations (“ **CROs** ”), and other third parties does not relieve us of these responsibilities. For example, we will remain responsible for ensuring that each of our non-clinical studies are conducted in accordance with good laboratory practices, where applicable, and clinical studies are conducted in accordance with good clinical practices (“ **GCPs** ”). Moreover, the USFDA and comparable foreign regulatory authorities require us to comply with GCPs for conducting, recording and reporting the results of clinical studies to assure that data and reported results are credible and accurate and that the rights, integrity and confidentiality of study participants are protected. Regulatory authorities enforce these requirements through periodic inspections (including through inspections that may be conducted once we submit an NDA or ANDA to the USFDA) of study sponsors, clinical investigators, study sites and certain third parties including CROs. If we, our CROs, clinical study sites, or other third parties fail to comply with applicable GCPs or other regulatory requirements, we or they may be subject to enforcement or other legal actions, the clinical data generated in our clinical studies may be deemed unreliable and the USFDA may require us to perform additional clinical studies. We cannot assure you that upon inspection by a given regulatory authority, such regulatory authority will determine that any of our clinical studies comply with GCPs. Moreover, our business may be significantly impacted if our CROs, clinical investigators or other third parties violate federal or state healthcare fraud and abuse or false claims laws and regulations or healthcare privacy and security laws. 
-
-# **_42. Our approved products may not achieve expected levels of market acceptance._** 
-
-Even if we are able to obtain regulatory approvals for our new products, the success of those products is dependent upon market acceptance. 
-
-Levels of market acceptance for our new products could be affected by several factors, including but not limited to: 
-
-- the availability of alternative products from our competitors; 
-
-- the prices of our products relative to those of our competitors; 
-
-- the timing of our market entry and that of any competing products; 
-
-70 
-
-- the ability to market our products effectively at the retail level; 
-
-- the perception of patients and the healthcare community, including third-party payers, regarding the safety, efficacy and benefits of our drug products compared to those of competing products; and 
-
-- the acceptance of our products by government and private formularies. 
-
-Some of these factors will not be in our control, and our products may not achieve expected levels of market acceptance. Additionally, continuing and increasingly sophisticated studies of the proper utilization, safety and efficacy of pharmaceutical products are being conducted by the industry, government agencies and others which can call into question the utilization, safety and efficacy of products previously or currently marketed by us. In some cases, studies have resulted, and may in the future result, in the discontinuance of product marketing or other risk management programs such as the need for a patient registry. 
-
-# **_43. Our facilities are subject to client inspections and quality audits and any failure on our part to meet their expectations or to comply with the quality standards set out in our contractual arrangements, could result in the termination of our contracts and adversely affect our business, financial condition and results of operations._** 
-
-Pursuant to our contractual arrangements, certain of our clients have the right to regularly examine our manufacturing processes, quality control and procedures and registers of our manufacturing facilities after reasonable notice and at a reasonable time to ensure that our services are meeting their internal standards and regulatory requirements. Most of our clients routinely inspect and audit our facilities. Any failure on our part to meet the expectations of our clients and to comply with the quality standards set out in our contractual arrangements, could result in the termination of our contracts and our clients may choose to source their requirements from our competitors. We may also incur significant costs to upgrade our facilities and manufacturing processes. While we have not encountered such events that have had a material impact on our financial condition and/or operations in the past, there can be no assurance that the occurrence of any such event will not have an adverse effect on our business, financial condition and results of operations. 
-
-# **_44. Federal regulation of arrangements between manufacturers of branded and generic products could adversely affect our business._** 
-
-We may be involved in numerous patent litigations in which we challenge the validity or enforceability of innovator companies’ listed patents and/or their applicability to our generic products, as well as patent infringement litigation in which other generic companies challenge the validity or enforceability of our patents and/or their applicability to their generic pharmaceutical products, and therefore settling patent litigations may be an important part of our business. As part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, companies, including us, are required to file with the U.S. Federal Trade Commission (“ **FTC** ”) and the Department of Justice (“ **DOJ** ”) certain agreements entered into between branded and generic pharmaceutical companies related to the manufacture, marketing and sale of generic versions of branded drugs for their review. For instance, we filed the Settlement and License Agreement with the FTC and DOJ in January 2024. In June 2013, the U.S. Supreme Court in its decision in FTC v. Actavis determined that “reverse payment” patent settlement agreements between brand and generic companies could violate the antitrust laws. The Supreme Court held that such settlement agreements are neither immune from antitrust attack nor presumptively illegal but rather should be analyzed under the “Rule of Reason” test to determine whether they violate the federal antitrust laws. This holding has resulted in heightened scrutiny of such settlement agreements by the FTC and state and local authorities and has increased the risk of liability in pending antitrust litigation brought by private plaintiffs. The FTC has brought actions against parties to such settlement agreements. Further, private plaintiffs, including direct and indirect purchasers of our products, have also become more active in bringing private litigation claims against us and other brand and generic/biosimilar pharmaceutical companies alleging that such settlement agreements violate the antitrust laws. While we have not in the past received formal or informal requests from the FTC for information about settlement agreements, there is a risk that the FTC, state and local authorities, or private plaintiffs, may commence an action against us alleging violations of the antitrust laws. 
-
-Antitrust investigations and claims are generally expensive and time consuming, and we can give no assurance as to the timing or outcome of such investigations or claims or of any future private litigation 
-
-71 
-
-or government action alleging that one of our settlement agreements violates antitrust laws. The impact of federal regulation of arrangements between manufacturers of brand and generic/biosimilar products, further legislation and the potential for private-party lawsuits associated with such arrangements could adversely affect our business. 
-
-# **_45. Our products may have unanticipated adverse effects or possible adverse effects, and if we are sued by our customers or end users for defects in our products, it could harm our reputation and thus our profits and may subject us to regulatory investigations or sanctions._** 
-
-Our products may have previously unknown safety or efficacy concerns or unknown side effects. While our products undergo clinical studies and statistical analysis during the development process prior to approval, there are inherent limitations with regard to the design of such trials, the limited time used to measure the efficacy of the product and the limited ability to perform long-term monitoring. In the event that such unanticipated side effects are discovered, we may be required to add descriptions of the side effects as “precautions” to the packaging of our products, recall and terminate sales of products or conduct costly post-launch clinical studies. Furthermore, concerns of potential side effects could arise among consumers or medical professionals, and such concerns, whether justified or not, could expose us to negative publicity and have an adverse effect on sales of our products and our reputation. Further, if any of our products cause serious or unexpected side effects after receiving market approval, a number of potentially significant negative consequences could result, including but not limited to: 
-
-- regulatory authorities may withdraw their approval of the product or impose restrictions on its distribution; 
-
-- the USFDA may require implementation of a Risk Evaluation and Mitigation Strategy (“ **REMS** ”); 
-
-- regulatory authorities may require the addition of labeling statements, such as warnings or contraindications; 
-
-- we may be required to change the way the product is administered or conduct additional clinical studies; or 
-
-- we could be sued and held liable for harm caused to patients. 
-
-The performance, quality and safety of our products also depends on the effectiveness of our quality control system, which in turn depends on a number of factors, including the design of the system, our quality training program and our ability to ensure that our employees adhere to our quality control policies and guidelines. 
-
-In addition, customers may return products and our customers have the right to terminate their respective contracts with us without assigning any cause. If an indemnity claim is made or a contract is terminated, it may have an adverse impact on our business. 
-
-While we have not faced any product liability claims against us that have had a material impact on the Group’s financial condition and/or operations in the past, we cannot assure you that a product liability claim will not be brought against us in the future. A product liability claim could require us to pay substantial damages. Product liability claims against us, whether or not successful, are costly and timeconsuming to defend. Regardless of the merits or eventual outcome, liability claims may result in: 
-
-- decreased demand for our products and resultant loss of revenue; 
-
-- injury to our reputation or adverse publicity against us; 
-
-- initiation of investigations by regulators and any fines, product recalls, withdrawals or labeling, marketing or promotional restrictions; 
-
-- costs to defend the related litigation and to pay any compensatory damages; and 
-
-- a diversion of management’s time and resources and exhaustion of available insurance and capital resources. 
-
-Additionally, from time to time, the pharmaceutical industry has experienced difficulty in obtaining desired amounts of product liability insurance coverage. We export, and also manufacture and sell, 
-
-72 
-
-products to highly regulated markets, such as the United States, which are noted for their litigious nature and high awards of damages. 
-
-# **_46. The USFDA and other regulatory agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses._** 
-
-If we are found to have improperly promoted off-label uses of our products or product candidates, if approved, we may become subject to significant liability. While to our knowledge we have not promoted such off-label uses in the past, such enforcement has become more common in industry. The USFDA and other regulatory agencies strictly regulate promotional claims that may be made about prescription products, such as our product candidates, if approved. In particular, a product may not be promoted for uses that are not approved by the USFDA or such other regulatory agencies as reflected in the product’s approved labeling. If we receive marketing approval for our product candidates for our proposed indications, physicians may nevertheless use our products for their patients in a manner that is inconsistent with the approved label, if the physicians personally believe in their professional medical judgment that it could be used in such manner. However, if we are found to have promoted our products for any off-label uses, the federal government could levy civil, criminal and/or administrative penalties, and seek fines against us. The USFDA or other regulatory authorities could also request that we enter into a consent decree or a corporate integrity agreement, or seek a permanent injunction against us under which specified promotional conduct is monitored, changed or curtailed. If we cannot successfully manage the promotion of our product candidates, if approved, we could become subject to significant liability, which would materially adversely affect our business and financial condition. 
-
-# **_47. We remain subject to ongoing regulatory obligations and continued regulatory review for approved product candidates, which may result in significant additional expense and we may be subject to penalties if we fail to comply with regulatory requirements or experience unanticipated problems with our product candidates._** 
-
-Approved product candidates are subject to ongoing regulatory requirements in the United States and requirements of comparable foreign regulatory authorities. Products that have received USFDA approval are subject to extensive and ongoing regulatory requirements, including requirements related to manufacturing processes, labeling, packaging, distribution, post-approval monitoring and adverse event reporting, storage, import, export, advertising, promotion and recordkeeping. The USFDA has significant post-market authority, including the authority to require labeling changes based on new safety information and to require post-market studies or clinical trials to evaluate safety risks related to the use of a product or to require withdrawal of the product from the market. The USFDA also has the authority to require a REM after approval, which may impose further requirements or restrictions on the distribution or use of an approved drug. In addition, the facilities at which our products are manufactured are subject to periodic review and inspection by the USFDA, including for continued compliance with cGMP requirements. 
-
-Any regulatory approvals that we receive for our product candidates may be subject to limitations on the approved indicated uses for which the product may be marketed or to the conditions of approval, or contain requirements for potentially costly post-marketing testing, including Phase IV clinical studies and surveillance to monitor the safety and efficacy of the product candidate. In addition, if the USFDA or a comparable foreign regulatory authority approves our product candidates, we will have to comply with requirements including submissions of safety and other post-marketing information and reports, registration, as well as continued compliance with cGMPs and GCPs for any clinical studies that we conduct post-approval. 
-
-The USFDA may impose consent decrees or withdraw approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with our product candidates, including adverse events of unanticipated severity or frequency, or with our third party manufacturers or manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information, imposition of post-market studies or clinical studies to assess new safety risks, or imposition of distribution restrictions or other restrictions under a REMS program. Other potential consequences include, among other things: 
-
-- restrictions on the marketing or manufacturing of our products, withdrawal of our products from the market, or voluntary or mandatory product recalls; 
-
-73 
-
-- fines, warning letters, untitled letters, or holds on clinical studies; 
-
-- refusal by the USFDA to approve pending applications or supplements to approved applications filed by us or suspension or revocation of license approvals; 
-
-- product seizure or detention, or refusal to permit the import or export of our product candidates; and 
-
-- injunctions or the imposition of civil or criminal penalties. 
-
-The policies of the USFDA and of other regulatory authorities may change and additional government regulations may be enacted that could prevent, limit or delay regulatory approval of our product candidates. We cannot predict the likelihood, nature or extent of government regulation that may arise from future legislation or administrative or executive action. If we are slow or unable to adapt to changes in existing requirements or the adoption of new requirements or policies, or if we are not able to maintain regulatory compliance, we may lose any marketing approval that we may have obtained and we may not achieve or sustain profitability. 
-
-# **_48. Our failure to maintain optimum inventory levels could adversely affect our business, financial condition, results of operation and cash flow._** 
-
-We determine the quantities of products to be manufactured for sales and distribution through our dedicated forecasting and planning team, who utilize forecasting tools pursuant to management estimates based on historical levels of sales, actual sale orders on hand, customer-provided demand estimates, prevailing market trends, competitive scenario and the anticipated production requirements taking into consideration any expected fluctuation in raw material prices and delivery delay. 
-
-Our future earnings through the sale and distribution of our products may not be realized as forecasted, due to cancellations or modifications of firm orders or our failure to accurately prepare demand forecasts. If we are unable to appropriately estimate the demand for our products for any reason, it could result in excess inventory levels or the unavailability of our products during increased demand, resulting in loss in potential sales and higher unrecoverable costs of production. 
-
-Our ability to accurately forecast customer demand for our products is affected by various factors, including, among others: 
-
-- a substantial increase or decrease in the demand for our products or for similar offerings of our competitors; 
-
-- changes in customer requirements; 
-
-- aggressive pricing strategies employed by our competitors; 
-
-- failure to accurately forecast changes in customer acceptance of our products; 
-
-- limited historical demand and sales data for our new products or products in newer markets; 
-
-- fluctuations in foreign currencies; and 
-
-- weakening of general economic conditions or customer confidence that could reduce the sale of our products. 
-
-We maintain an inventory level that we think is appropriate to meet our customer demands. We usually keep 130 days of inventory of finished goods at our facilities in the U.S. and India, including third party storage locations. We also usually keep 215 days of raw material and work-in-progress inventory at our manufacturing facilities. The following table sets forth our details of inventory provision as of the dates indicated and inventory days for the periods / years indicated: 
-
-|**Particular**|**As of and Fo**<br>**period end**<br>|**r three month**<br>**ed June 30**<br>|**As of and F**<br>|**or Fiscal ended Ma**<br>|**rch 31,**<br>|
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Inventory<br>Provision (₹<br>million)|0.37|140.09|83.82|4.56|52.66|
-
-
-
-74 
-
-|**Particular**|**As of and For**<br>**period end**<br>|**three month**<br>**ed June 30**<br>|**As of and F**<br>|**or Fiscal ended Ma**<br>|**rch 31,**<br>|
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Inventory as<br>on<br>respective<br>year end (₹<br>million)|5,740.77|3,631.27|5,216.10|3,004.92|1,672.09|
-|Inventory<br>Provision as<br>% of<br>inventory as<br>on<br>respective<br>year end<br>(%)|0.01%|3.86%|1.61%|0.15%|3.15%|
-|Inventory<br>Days (No. of<br>Days)|484|352|400|307|414|
-
-
-
-_Note: For a reconciliation of non-GAAP measures, see "Other Financial Information - Non-GAAP Measures" on page 418._ 
-
-Inventory levels that exceed customer demand on a sustained basis may result in inventory write-downs or write-offs or we may be required to sell our excess inventory at discounted prices, which may increase our inventory provision and adversely affect our gross margins and may negatively impact our reputation. Our inventory provision decreased in Fiscal 2024 and in the three month period ended June 30, 2025, notwithstanding an increase in our inventory. While this is in accordance with our policy on provision, there is no assurance that such inventory provision will be sufficient. For details, see “ _Restated Consolidated Financial Information – Note 1B Basis of preparation, measurement and material accounting policies_ ”. On the other hand, if we face demand in excess of our production, we may not be able to adequately respond to the demand for our products. This could result in delays in delivery of our products to our customers and we may suffer damage to our reputation and customer relationships in addition to being required to compensate our customers by way of contractual penalties for our failure to supply. Our customers may consequentially be driven to purchase products offered by our competitors, thereby affecting our market share. There can be no assurance that we will be able to manage our inventories at optimum levels to successfully respond to customer demand. 
-
-# **_49. Any product which fails our assessment for commercial feasibility during the development process, or which is not as commercially viable once launched or did not meet the development stage targets, may be discontinued. Any such discontinuations may have an adverse effect on our business, results of operations, financial condition and cash flows._** 
-
-We budget and monitor costs incurred on the development of each new product from commencement of the project. Each project is assessed for commercial feasibility throughout the development process and projects that fail in this assessment or do not meet their development stage targets, do not receive further funding and are discontinued. For instance, certain products in therapy areas such as CNS, cardiovascular, gastro esophageal reflux disease (GERD), pain management and anti-infective, among others have been dropped since they were considered not commercially viable in the last three Fiscals and the three month periods ended June 30, 2025 and 2024. Further, products which are fully developed and launched may not perform as expected or be as commercially viable as initially conceptualized, and may also be discontinued. If we were to discontinue any such projects or products, we are unlikely to recoup our investment in developing such products.  We have not discontinued any product after launch in the last three Fiscals and the three month periods ended June 30, 2025 and 2024. However, we cannot assure that we may not discontinue a product after its launch in the future and the discontinuation of such product after its launch could adversely affect our business, results of operations, financial condition and cash flows. 
-
-75 
-
-**_50. Improper storage, processing and handling of our raw materials, work products and products could damage our inventories and, as a result, have an adverse effect on our business, results of operations and cash flows._** 
-
-We typically store our raw materials, work-in-progress and finished goods in our manufacturing facilities. Products are shipped from our manufacturing facilities or from the facilities of contract manufacturing organizations to warehouse locations in the US that are contracted by us to perform thirdparty logistics services. For further details, see “ _Our Business - Our Product Distribution_ ” on page 263. In the event that our raw materials, work products and products are improperly stored, processed and handled, the quality of our raw materials could be reduced and our work products could be damaged. As a result, our production outputs could be adversely affected, which could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
-
-# **_51. Information relating to historical installed capacity and estimated capacity utilization of our manufacturing facilities included in this Red Herring Prospectus is based on various assumptions and estimates and our future production and capacity utilization may vary. Under-utilization of our manufacturing capacity and an inability to effectively utilize our manufacturing facilities may have an adverse effect on our business and future financial performance._** 
-
-Information relating to our historical installed capacity and estimated capacity utilization of our manufacturing facilities included in this Red Herring Prospectus is based on various assumptions and estimates of our management and independent chartered engineer, namely Sharjeel Aslam Faiz, including assumptions related to the calculation of installed capacity on the basis of 365 days working with 21 hours operations per day and further adjustment for mandatory cleaning and change over time given our manufacturing facilities are multi-product. 
-
-For information regarding our manufacturing facilities, including our historical installed capacity and estimated capacity utilization, see _“Risk Factor – Any disruption, breakdown or shutdown of our research and development and manufacturing facilities may have a material adverse effect on our business, financial condition, results of operations and cash flows.” on page_ 38 and “ _Our Business— Our Product Manufacturing_ ” on page 258. In addition, the independent chartered engineer is an expert providing services for the preparation of such information in his individual capacity and any recourse against him may be limited to that extent. Actual and future manufacturing volumes and capacity utilization rates may differ significantly from the estimated production capacities of our manufacturing facilities due to changes in product mix and other estimates. Undue reliance should therefore not be placed on the information relating to our installed capacities or historical capacity utilization of our manufacturing facilities included in this Red Herring Prospectus. 
-
-Further, there is no guarantee that our future production or capacity utilization levels will match or exceed our historical levels. There is no assurance that the capacity utilization of our manufacturing facilities, including any new manufacturing facilities, will operate at an optimal level which will enable us to achieve operational efficiencies and achieve our expected return on capital employed. Under-utilization of our manufacturing capacities over extended periods, or significant under-utilization in the short term could increase our cost of production and our operating costs and adversely impact our business, growth prospects and future financial performance. Our expected return on capital employed is subject to, among other factors, the ability to ensure satisfactory performance of personnel to further grow our business, our ability to absorb additional infrastructure costs and utilize the expanded capacities as anticipated. In case of oversupply in the industry or lack of demand, we may not be able to utilize our capacity efficiently. 
-
-**_52. We will not receive any proceeds from the Offer for Sale portion and objects of the Fresh Issue for which the funds are being raised have not been appraised by any bank or financial institutions. Any variation in the utilization of our Net Proceeds as disclosed in this Red Herring Prospectus would be subject to certain compliance requirements, including prior Shareholders’ approval._** 
-
-The Offer includes an offer for sale of up to [●] Equity Shares aggregating up to ₹8,774.99 million by the Selling Shareholder. The proceeds from the Offer for Sale will be paid to the Selling Shareholder and we will not receive any such proceeds. We propose to use the Net Proceeds for prepayment or scheduled repayment of all or a portion of certain outstanding borrowings availed by our Company and for funding inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes. The proposed deployment of Net Proceeds has not been appraised by any bank or financial 
-
-76 
-
-institution or other independent agency and is based on internal management estimates based on current market conditions and historic level of expenditure. The deployment of the Net Proceeds will be at the discretion of our Board. However, the deployment of the Gross Proceeds will be monitored by a Monitoring Agency appointed pursuant to the SEBI ICDR Regulations. Any variation in the utilization of the Net Proceeds shall be on account of a variety of factors such as our financial condition, business and strategy and external factors such as market conditions and competitive environment, which may not be within the control of our management, and may be subject to various other approvals, which includes, amongst others obtaining prior approval of the Shareholders of the Company. For details, see “ _Objects of the Offer_ ” on page 140. 
-
-Various risks and uncertainties, including those set forth in this “ _Risk Factors_ ” section, may limit or delay our efforts to use the Net Proceeds to achieve profitable growth in our business. Accordingly, the use of the Net Proceeds to fund our growth and for other purposes identified by our management may not result in actual growth of our business, increased profitability or an increase in the value of our business and your investment. 
-
-# **_53. If we fail to maintain an effective system of internal controls, we may not be able to successfully manage, or accurately report, our financial risks. Despite our internal control systems, we may be exposed to operational risks, including fraud, petty theft and embezzlement, which may adversely affect our reputation, business, financial condition, results of operations and cash flows._** 
-
-Effective internal controls are necessary for us to prepare reliable financial reports and effectively avoid fraud. Moreover, any internal controls that we may implement, or our level of compliance with such controls, may deteriorate over time, due to evolving business conditions. 
-
-Notwithstanding that the auditors’ report issued on the internal financial controls with reference to financial statements of our Company for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023 did not contain a qualified opinion or disclaimer of opinion, there can be no assurance that deficiencies in our internal controls will not arise in the future, or that we will be able to implement, and continue to maintain, adequate measures to rectify or mitigate any such deficiencies in our internal controls. Any inability on our part to adequately detect, rectify or mitigate any such deficiencies in our internal controls may adversely impact our ability to accurately report, or successfully manage, our financial risks, and to avoid fraud, each of which may have an adverse effect on our business, financial condition, results of operations and cash flows. 
-
-Further, given the high volume of production on a daily basis, notwithstanding the internal controls that we have in place, we may be exposed to the risk of fraud or other misconduct by employees, contractors, customers or distributors. Fraud and other misconduct can be difficult to detect and deter. Certain instances of fraud and misconduct may go unnoticed or may only be discovered and successfully rectified after substantial delays. Even when we discover such instances of fraud or theft and pursue them to the full extent of the law or with our insurance carriers, there can be no assurance that we will recover any of the amounts involved in these cases. In addition, our dependence upon automated systems to record and process transactions may further increase the risk that technical system flaws or employee tampering or manipulation of those systems will result in losses that are difficult to detect, which may adversely affect our reputation, business, financial condition, results of operations and cash flows. 
-
-# **_54. Failure or disruption of our information technology systems may adversely affect our business, financial condition, results of operations, cash flows and prospects._** 
-
-We have implemented various information technology solutions to cover key areas of our operations including sourcing, planning, manufacturing, quality assurance, order-to-cash management, accounting, distribution network and data security. For further details, see “ _Our Business - Information Technology_ ” on page 270. However, these systems are potentially vulnerable to damage or interruption from a variety of sources, which could result in a material adverse effect on our operations. A large-scale information technology malfunction could disrupt our business or lead to disclosure of, and unauthorized access to, sensitive Company information. Our ability to keep our business operating depends on the proper and efficient operation and functioning of various information technology systems, which are susceptible to malfunctions and interruptions (including those due to equipment damage, power outages, computer viruses and a range of other hardware, software and network problems). While we have not suffered such malfunction or disruptions, there can be no assurance this would not occur in the future and it could interrupt our business operations and result in economic losses. Any failure of our information 
-
-77 
-
-technology systems could also cause damage to our reputation which could harm our business. Any of these developments, alone or in combination, could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
-
-There is no assurance that we will not experience disruption in our information technology systems in the future and we will be able to remedy such disruption in timely manner, or at all. Any such disruption of our information technology systems could have a material adverse effect on our business, results of operation and financial condition. 
-
-Further, unavailability of, or failure to retain, well trained employees capable of constantly servicing our information technology systems may lead to inefficiency or disruption of our information technology systems, thereby adversely affecting our ability to operate efficiently. 
-
-Any failure in overhauling or updating our information technology systems in a timely manner could cause our operations to be vulnerable to external attacks and inefficient. Hence, any failure or disruption in the operation of these systems or the loss of data due to such failure or disruption (including due to human error or sabotage) may affect our ability to conduct our normal business operations, which may materially adversely affect our business, financial condition, results of operations, cash flows and prospects. In addition, technological advances from time to time may result in our systems, methods or processing facilities becoming obsolete. 
-
-Further, we are dependent on various external vendors for certain elements of our operations such as deployment, upgrade and improvement of our enterprise resource planning system, and are exposed to the contractual risks and operational risks of these external vendors. Their failure to perform their contractual obligations could materially and adversely affect our business, results of operations and cash flows. 
-
-# **_55. Our suppliers and customers may engage in certain transactions in or with countries or persons that are subject to international economic sanctions._** 
-
-Various international jurisdictions, including the United States and the United Kingdom, restrict investments or otherwise doing business in or with certain countries or territories and with certain persons or businesses that have been specially designated by such government agencies. Other governments and international or regional organizations also administer similar economic sanctions. 
-
-Our suppliers and customers may be located in and/ or may enter into transactions with end customers, either directly or indirectly through distributors and agents, located in, jurisdictions to which certain Office of Foreign Assets Control-administered and other sanctions apply. For further details in relation to our revenue from outside India, see “ _– We were and are exposed to foreign currency fluctuation risks, particularly in relation to the translation of our financial statements and our borrowings, and we had negative foreign currency exposures as at June 30, 2025 and June 30, 2024, and as at March 31, 2025, 2024 and 2023, which may adversely affect our results of operations, financial condition and cash flows._ ” on page 42. 
-
-U.S. sanctions may apply to: (i) the Company as an entity “owned or controlled” by a U.S. person for the purposes of certain Office of Foreign Assets Control sanctions targeting Cuba, Iran and North Korea, as well as to (ii) the Company’s U.S. incorporated subsidiaries. U.S. sanctions may also apply to transactions that the Company or its subsidiaries participate in that have a connection to the United States. We believe we comply fully with international sanctions to the extent applicable to us, although there can be no assurance that we will be able to fully monitor all our transactions for any potential violation. If we fail to comply with current or future applicable laws we could incur significant fines and other penalties and suffer negative publicity and reputational damage, which could have an adverse effect on our financial condition, cash flows, results of operations or business. Further, investors in the Equity Shares could incur reputational or other risks as a consequence. There can be no assurance that our future business will be free of risk under sanctions implemented by these jurisdictions or that we will be able to conform our business operations to the expectations and requirements of such international regulatory agencies that do not have jurisdiction over our business but nevertheless assert the right to impose sanctions on an extraterritorial basis. 
-
-**_56. We have certain contingent liabilities and commitments, which, if they materialize, may adversely affect our results of operations, financial condition and cash flows._** 
-
-78 
-
-Our contingent liabilities and commitments as of June 30, 2025 are as follows: 
-
-|**Particulars**|**Amount (₹ in**<br>**million)**|
-|---|---|
-|**Contingent Liabilities**<sup>**(1)**</sup>||
-|(1) The Sales tax demands in respect of Maharashtra Value Added Tax and Central Sales<br>Tax are in appeals andpendingdecisions.|16.04|
-|(2) The demands received from income tax authorities for various assessment years, on<br>account of disallowances of expenses are in appeals andpendingdecisions.|106.42|
-|**Commitments**||
-|(1) Estimated amount of contracts remaining to be executed on capital account and not<br>provided for, net of advances.|329.77|
-|(2) The Group has executed bond in favor of the Customs department, pursuant to various<br>incentive schemes issued byDirector General of Foreign Trade(DFGT).|3,233.53|
-
-
-
-_Note:_ 
-
-_(1) Given our contingent liabilities relate to different contingencies, the total has not been included._ 
-
-If any such contingent liability or commitment materializes, it could have an adverse effect on our results of operations, financial condition and cash flows. For details, see “ _Management’s Discussion and Analysis of Financial Condition and Results of Operations – Contingent Liabilities_ ”, “ _Restated Consolidated Financial Information – Note 29 Commitments_ ” and “ _Restated Consolidated Financial Information – Note 30 Contingent Liabilities_ ” on pages 452, 380 and 380, respectively. 
-
-# **_57. Any downgrade of our credit ratings could increase borrowing costs and constrain our access to capital and lending markets and, as a result, could negatively affect our net interest margin and our business._** 
-
-The cost and availability of capital is dependent on our short-term and long-term credit ratings. Ratings reflect a rating agency’s opinion of our financial strength, operating performance, strategic position and ability to meet our obligations. Under certain financing agreements, we are also required to maintain specific credit ratings and if we fail to do so, it would result in an event of default. 
-
-India Ratings and Research Private Limited has assigned the following credit ratings in July 2025: 
-
-|**Instrument**|**Rating / Outlook **|
-|---|---|
-|Fund-based working capital limit|IND A-<br>/Positive/IND A2+|
-|Term loan|IND A-/Positive|
-|Working capitalterm loan|IND A-/Positive|
-
-
-
-While there has been no downgrade in our credit ratings as of the date of this Red Herring Prospectus, any future downgrade of our credit ratings would increase borrowing costs and constrain our access to capital and debt markets and, as a result, would negatively affect our net interest margin and our business. In addition, downgrades of our credit ratings could result in a recall of existing facilities, increase the possibility of additional terms and conditions being added to any additional financing or refinancing arrangements in the future, impair our future issuances of debt and equity and our ability to raise new capital on a competitive basis or at all. The ratings provided by credit rating agencies may be suspended, withdrawn or revised at any time by the assigning rating agency and should be evaluated independently of any other rating. These ratings are not a recommendation to buy, sell or hold securities and investors should take their own decisions. Any such adverse development in our credit ratings could adversely affect our business, financial condition, results of operations and cash flows. 
-
-# **_58. Our operations could be adversely affected by strikes or increased wage demands by our employees or any other kind of disputes with our employees._** 
-
-As of June 30, 2025, we employed 1,141 personnel across our operations. Although we have not experienced any material employee unrest in the past, we cannot assure you that we will not experience disruptions in work due to disputes or other problems with our work force, which may adversely affect our ability to continue our business operations. Any employee unrest directed against us or our management, could directly or indirectly prevent or hinder our normal operating activities, and, if not resolved in a timely manner, could lead to disruptions in our operations. These actions are impossible for 
-
-79 
-
-us to predict or control and any such event could adversely affect our business, financial condition and results of operations. 
-
-None of our workforce is currently unionized. However, there is a risk that our employees may choose to unionize in the future. Labor unions for pharmaceutical employees may organize strikes, and we may in the future be affected by strikes, work stoppages or other labor disputes if any portion of our workforce were to become part of a union in the future. In the event of a labor dispute, protracted negotiations and strike action may impair our ability to carry on our day-to-day operations and, if not resolved in a timely manner, could adversely affect our business, financial condition, results of operations and cash flows. 
-
-# **_59. We rely on contract labor for carrying out certain of our operations and we may be held responsible for paying the wages of such workers, if the independent contractors through whom such workers are hired default on their obligations, and such obligations could have an adverse effect on our results of operations, cash flows and financial condition._** 
-
-In order to retain flexibility and control costs, we appoint independent contractors who in turn engage on-site contract labor for performance of certain of our operations. The following table sets forth details of our contract personnel and cost of such personnel as of and for the periods / years indicated: 
-
-|**Particular**|**As of and for thr**<br>**ended J**<br>|**ee month period**<br>**une 30**<br>|**As of and**<br>|**For Fiscals ended**<br>|**March 31,**<br>|
-|---|---|---|---|---|---|
-||**2025**|**2024**|**2025**|**2024**|**2023**|
-|Number of<br>contract<br>personnel|511|489|525|499|400|
-|Contract<br>Labor<br>Charges (₹<br>million)|31.51|25.52|132.76|111.36|74.97|
-
-
-
-Although we do not engage these laborers directly, we may be held responsible for any wage payments to be made to such laborers in the event of default by such independent contractor. Any requirement to fund their wage requirements may have an adverse impact on our results of operations and financial condition. In addition, under the Contract Labor (Regulation and Abolition) Act, 1970, we may be required to absorb a number of such contract laborers as permanent employees. Thus, any such order from a regulatory body or court may have an adverse effect on our business, results of operations, cash flows and financial condition. 
-
-# **_60. Our Promoters and Promoter Group will continue to retain a majority shareholding in our Company after the Offer, which will allow them to exercise significant influence over us._** 
-
-As on date of this Red Herring Prospectus our Promoters and Promoter Group hold 77.67% of the issued, subscribed and paid-up equity share capital of our Company on a fully diluted basis. After the completion of the Offer, our Promoters and Promoter Group are expected to hold [●]% of our outstanding Equity Share Capital. 
-
-Accordingly, our Promoters and Promoter Group will continue to exercise significant influence over our business and all matters requiring shareholders’ approval, including the composition of our Board of Directors, the adoption of amendments to our constitutional documents, the approval of mergers, strategic acquisitions or joint ventures or the sales of substantially all of our assets, and the policies for dividends, investments and capital expenditures. This concentration of ownership may also delay, defer or even prevent a change in control of our Company and may make some transactions more difficult or impossible without the support of our Promoters and Promoter Group. Further, the Promoters’ shareholding may limit the ability of a third party to acquire control. The interests of our Promoters and Promoter Group, as our Company’s controlling shareholder, could conflict with our Company’s interests, your interests or the interests of our other shareholders. There is no assurance that our Promoters and Promoter Group will act to resolve any conflicts of interest in our Company’s or your favor. 
-
-# **_61. Our ability to pay dividends in the future will depend on our future cash flows, working capital requirements, capital expenditures and financial condition._** 
-
-80 
-
-We have declared and paid dividend in Fiscals 2025, 2024 and 2023. For details, see “ _Dividend Policy_ ” on page 347. However, the amount of our future dividend payments, if any, will depend on our future earnings, cash flows, financial condition, working capital requirements, capital expenditures, applicable Indian legal restrictions and other factors. Furthermore, we have a history of net losses and negative cash flows. For further details, see “- _We have a history of net losses, negative earnings per share (“EPS”) and return on capital employed. We need to generate and sustain increased revenues while managing our expenses to achieve profitability, and our inability to achieve these goals may have an adverse effect on our business, results of operations, cash flows and financial condition._ ” and “- _We have had negative cash flows from operating activities in prior periods and may continue to have negative cash flows in the future_ ” on pages 34 and 44, respectively. There can be no assurance that we will pay dividends in the future. We may decide to retain all of our earnings to finance the development and expansion of our business and, therefore, may not declare dividends on our Equity Shares. Additionally, in the future, we may be restricted by the terms of our financing agreements in making dividend payments unless otherwise agreed with our lenders. 
-
-# **_62. We have entered, and will continue to enter, into related party transactions which may involve conflicts of interest. Further, our Promoters, Directors and Key Managerial Personnel have interests in us other than reimbursement of expenses incurred and normal remuneration or benefits._** 
-
-We have in the past entered into certain related party transactions with our Directors, Key Managerial Personnel and Promoter Group Entity. For instance, the Registered and Corporate Office is located on premises leased from and owned by MedOne Pharma Labs, our Promoter Group entity, and Otrio Ventures Private Limited, an entity in which certain of our Individual Promoters are interested as its directors and shareholders, provides manpower supply services to the Company. Further, our Directors and Key Managerial Personnel have interests in us other than reimbursement of expenses incurred and normal remuneration or benefits. For further details in relation to our related party transactions for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023, see “ _Offer Document Summary – Summary of Related Party Transactions_ ” and “ _Related Party Transactions_ ” on pages 26 and 456, respectively. While we believe that all such related party transactions for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023, have been conducted on an arm’s length basis and are in compliance with applicable law, including the Companies Act, we cannot assure you that we could not have obtained more favorable terms had such transactions been entered into with unrelated parties. 
-
-# **_63. The determination of the Price Band is based on various factors and assumptions and the Offer Price of the Equity Shares may not be indicative of the market price of the Equity Shares upon listing on the Stock Exchanges. Further, the current market price of some securities listed pursuant to initial public offerings which were managed by the Book Running Lead Managers in the past, is below their respective issue prices._** 
-
-The determination of the Price Band and discount, if any, is based on various factors and assumptions, and will be determined by our Company in consultation with the Book Running Lead Managers. Furthermore, the Offer Price of the Equity Shares will be determined by our Company in consultation with the Book Running Lead Managers through the Book Building Process. These will be based on numerous factors, including those described under “ _Basis for Offer Price_ ” on page 152, and may not be indicative of the market price of the Equity Shares upon listing on the Stock Exchanges. The price of our Equity Shares upon listing on the Stock Exchanges will be determined by the market and may be influenced by many factors outside of our control. For further details, see “ _– Our Equity Shares have never been publicly traded, and after the Offer, the Equity Shares may experience price and volume fluctuations, and an active trading market for the Equity Shares may not develop. Further, the Offer Price may not be indicative of the market price of the Equity Shares after the Offer_ ” on page 89. Further, the current market price of securities listed pursuant to certain previous initial public offerings managed by the Book Running Lead Managers is below their respective issue prices. For further details, see “ _Other Regulatory and Statutory Disclosures – Price information of past issues handled by the Book Running Lead Managers_ ” on page 486. 
-
-**_64. The COVID-19 pandemic had a material and adverse impact on our business and operations, and its resurgence or any future outbreak of other diseases may have an adverse effect on our business prospects and future financial performance._** 
-
-81 
-
-The outbreak of the COVID-19 pandemic, as well as government measures to reduce the spread of the COVID-19 pandemic, had impacted our operations and its resurgence could materially and adversely affect our business in the future. During the COVID-19 pandemic, our ability to perform critical functions of our business, such as manufacturing, managing production, sourcing supplies, planning expansion, engaging with customers and prospective customers, was adversely affected. For instance, we temporarily suspended our operations at our manufacturing facilities during the COVID-19 related lockdown, during which time we were not manufacturing any products. 
-
-The COVID-19 pandemic had resulted in, and its resurgence or the future outbreak of other diseases may in the future, result in, significant economic volatility and uncertainty in Indian and international markets, which could adversely affect the level of demands for our products, the availability and price level of our raw materials and our access to capital markets, which could have a material and adverse effect on our business, financial condition and prospects. 
-
-# **_65. We have presented certain supplemental information of our performance and liquidity which is not prepared under or required under Ind AS._** 
-
-This Red Herring Prospectus includes our Net Worth, Return on Net Worth, Net Asset Value per Equity Share, EBITDA, EBITDA (pre-research and development expense), Return on Capital Employed, Gross Margin, Gross Margin (%), Gross Profit, Gross Profit (%), Inventory Days, Capital Expenditure incurred and Capital Expenditure incurred as a % of Total Income (collectively “ **Non-GAAP Measures** ”) and certain other industry measures related to our operations and financial performance, which are supplemental measures of our performance and liquidity and are not required by, or presented in accordance with, Ind AS, IFRS or U.S. GAAP. For further details in relation to reconciliation of nonGAAP measures, see “ _Other Financial Information_ ” on page 418. 
-
-Further, these Non-GAAP Measures and other industry measures are not a measurement of our financial performance or liquidity under Ind AS, Indian GAAP, IFRS or US GAAP. They should not be considered in isolation or construed as an alternative to cash flows, profit / (loss) for the periods / years or any other measure of financial performance or as an indicator of our operating performance, liquidity, profitability or cash flows generated by operating, investing or financing activities, derived in accordance with Ind AS, Indian GAAP, IFRS or US GAAP. In addition, such Non-GAAP Measures and other industry measures are not standardized terms and may vary from any standard methodology that is applicable across the Indian vehicle financing and financial services industries, and therefore may not be comparable with financial or industry related statistical information of similar nomenclature computed and presented by other companies, and hence a direct comparison of these Non- GAAP Measures and other industry measures between companies may not be possible. Other companies may calculate these Non-GAAP Measures and other industry measures differently from us, limiting its usefulness as a comparative measure. Although such Non-GAAP Measures and other industry measures are not a measure of performance calculated in accordance with applicable accounting standards, our Company’s management believes that they are useful to an investor in evaluating us as they are widely used measures to evaluate a company’s operating performance. 
-
-# **_66. Significant differences exist between Ind AS and other accounting principles, such as US GAAP and International Financial Reporting Standards (“IFRS”), which investors may be more familiar with and consider material to their assessment of our financial condition._** 
-
-Our restated consolidated statements of assets and liabilities as at June 30, 2025 and 2024, and March 31, 2025, March 31, 2024 and March 31, 2023, and restated consolidated statements of profit and loss (including other comprehensive income), restated consolidated statements of cash flows and restated consolidated statements of changes in equity for the three month periods ended June 30, 2025 and 2024, and Fiscals 2025, 2024 and 2023 have been prepared in accordance with the Indian Accounting Standards notified under Section 133 of the Companies Act, 2013, read with the Ind AS Rules and restated in accordance with the SEBI ICDR Regulations and the Guidance Note. 
-
-We have not attempted to quantify the impact of US GAAP, IFRS or any other system of accounting principles on the financial data included in this Red Herring Prospectus, nor do we provide a reconciliation of our financial statements to those of US GAAP, IFRS or any other accounting principles. US GAAP and IFRS differ in significant respects from Ind AS. Accordingly, the degree to which the Restated Consolidated Financial Information included in this Red Herring Prospectus will provide meaningful information is entirely dependent on the reader’s level of familiarity with Ind AS and the 
-
-82 
-
-SEBI ICDR Regulations. Any reliance by persons not familiar with Indian accounting practices on the financial disclosures presented in this Red Herring Prospectus should accordingly be limited. 
-
-# **_67. A portion of the Net Proceeds may be utilized for repayment or pre-payment of a loan availed by our Company from Axis Bank Limited, which is an affiliate of Axis Capital Limited, one of the BRLMs._** 
-
-We propose to repay or pre-pay a loan availed by our Company from Axis Bank Limited from the Net Proceeds. Axis Bank Limited is an affiliate of Axis Capital Limited, one of our Book Running Lead Managers and is not an associate of our Company in terms of the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992. The loan sanctioned to our Company by Axis Bank Limited was done as part of their lending activities in the ordinary course of business and we do not believe that there is any conflict of interest under the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992, as amended, or any other applicable SEBI rules or regulations. The Board of Directors of our Company has chosen the loans and facilities to be repaid/prepaid based on commercial considerations. Further, as on June 30, 2025, the Company has availed loans amounting to ₹434.02 million from Axis Bank Limited. The Company may prepay / repay 96.54% of such loans from Axis Bank Limited from the Net Proceeds, in accordance with use of the Offer Proceeds as set out in this Red Herring Prospectus. For details see “ _Objects of the Offer_ ” on page 140. However, there can be no assurance that the repayment/ prepayment of such loans from the Net Proceeds to an affiliate of one of the Book Running Lead Managers will not be perceived as a current or potential conflict of interest. 
-
-# **_68. If we are classified as a passive foreign investment company for U.S. federal income tax purposes, U.S. investors in Equity Shares may be subject to adverse U.S. federal income tax consequences._** 
-
-A non-U.S. corporation will be classified as a passive foreign investment company (a “ **PFIC** ”) for any taxable year if either: (a) at least 75% of its gross income for such year is “passive income” for purposes of the PFIC rules or (b) at least 50% of the value of its assets (determined on the basis of a quarterly average) during such year is attributable to assets that produce or are held for the production of passive income. For this purpose, passive income includes interest, dividends and other investment income, with certain exceptions. The PFIC rules also contain a look-through rule whereby we will be treated as owning our proportionate share of the assets and earning our proportionate share of the income of any other corporation in which we own, directly or indirectly, 25 percent or more (by value) of the stock. Based on the current and anticipated composition of our income, assets (including their expected value) and operations, we do not expect to be treated as a PFIC for the current taxable year or in the foreseeable future. Whether we are treated as a PFIC is a factual determination that is made on an annual basis after the close of each taxable year. This determination will depend on, among other things, the ownership and the composition of our income and assets, as well as the value of our assets (which may fluctuate with our market capitalization), from time to time. Moreover, the application of the PFIC rules is unclear in certain respects. The U.S. Internal Revenue Service (the “ **IRS** ”) or a court may disagree with our determinations, including the manner in which we determine the value of our assets and the percentage of our assets that are passive assets under the PFIC rules. Therefore, there can be no assurance that the Company will not be classified as a PFIC for the current taxable year or for any future taxable year. If we are treated as a PFIC for any taxable year during which a U.S. investor held Equity Shares, such U.S. investor could be subject to adverse U.S. federal income tax consequences. _See “Certain U.S. Federal Income Tax Considerations — Passive Foreign Investment Company Considerations.”_ on page 184. 
-
-# **_69. Certain of our Directors do not possess experience of being on the board of any listed company._** 
-
-Certain of our Directors do not possess experience of being on the board of any listed company and accordingly, may not be adequately well-versed with the activities or industry practices undertaken by the listed company. While our Company will be subject to compliance requirements under the SEBI Listing Regulations and other applicable law post listing of the Equity Share on the Stock Exchanges, and our Board is capable of efficiently managing such compliance requirements including by engaging professionals having expertise in managing such compliances, we cannot assure you that the lack of adequate experience of being on board of any listed company will not have any adverse impact on the management and operations of our Company. 
-
-83 
-
-# **EXTERNAL RISK FACTORS** 
-
-**_70. Pursuant to listing of the Equity Shares, we may be subject to pre-emptive surveillance measures like Additional Surveillance Measure (ASM) and Graded Surveillance Measures (GSM) by the Stock Exchanges in order to enhance market integrity and safeguard the interest of investors._** 
-
-SEBI and the Stock Exchanges have introduced various pre-emptive surveillance measures in order to enhance market integrity and safeguard the interests of investors, including ASM and GSM. ASM and GSM are imposed on securities of companies based on various objective criteria such as significant variations in price and volume, concentration of certain client accounts as a percentage of combined trading volume, average delivery, securities which witness abnormal price rise not commensurate with financial health and fundamentals such as earnings, book value, fixed assets, net worth, price / earnings multiple and market capitalization. 
-
-Upon listing, the trading of our Equity Shares would be subject to differing market conditions as well as other factors which may result in high volatility in price, low trading volumes, and a large concentration of client accounts as a percentage of combined trading volume of our Equity Shares. The occurrence of any of the abovementioned factors or other circumstances may trigger any of the parameters prescribed by SEBI and the Stock Exchanges for placing our securities under the GSM and/or ASM framework or any other surveillance measures, which could result in significant restrictions on trading of our Equity Shares being imposed by SEBI and the Stock Exchanges. These restrictions may include requiring higher margin requirements, requirement of settlement on a trade for trade basis without netting off, limiting trading frequency, reduction of applicable price band, requirement of settlement on gross basis or freezing of price on upper side of trading, as well as mentioning of our Equity Shares on the surveillance dashboards of the Stock Exchanges. The imposition of these restrictions and curbs on trading may have an adverse effect on market price, trading and liquidity of our Equity Shares and on the reputation and conditions of our Company. 
-
-**_71. Slowdown in the pharmaceutical sector that we sell to, and any adverse changes in the conditions affecting these markets can adversely impact our business, results of operations, financial condition and cash flows._** 
-
-Our business is dependent to a significant extent on the performance and growth of the pharmaceutical sector where we are present. In the event of a downturn in the pharmaceutical sector, demand for their products may decline and to that extent, our business, financial condition, results of operations and cash flows could be adversely affected. 
-
-# **_72. Export destination countries may impose varying duties on our products. Any increase in such duties may adversely affect our business and results of operations._** 
-
-A substantial portion of our products are exported and sold in the United States and various countries across the world. These destination countries may impose varying duties and other levies on our products, which may adversely affect our ability to compete with the local manufacturers and other competitors, whom due to more widespread operations, are able to coordinate delivery and supplies from strategically located production facilities in a more cost competitive manner. There can be no assurance that the duties or other levies imposed on our products by such destination countries will not change or increase, or that such change or increase will not adversely affect our business and results of operations. 
-
-**_73. Changing laws, rules and regulations and legal uncertainties, including the withdrawal of certain benefits or adverse application of tax laws, may adversely affect our business, prospects, results of operations and cash flows. Further, failure to comply with the existing laws and regulations applicable to our business could subject our Company to enforcement actions and penalties and otherwise harm our business._** 
-
-In US, our business is governed by various laws and regulations including the Hatch-Waxman Act, FDCA and ACA while in India, our business is governed by, amongst others, Drugs and Cosmetics Act 1940, Narcotic Drugs and Psychotropic Substances Act, 1985. For details, see “ _Key Regulations and Policies_ ” beginning on page 273. Any failure or alleged failure to comply with the applicable laws, regulations or requirements could subject us to inspection, enforcement actions and penalties imposed by authorities. 
-
-84 
-
-Our business could be adversely affected by any change in laws, municipal plans or interpretation of existing laws, or promulgation of new laws, rules and regulations applicable to us. We cannot assure you that we will be able to comply with the revised norms or any other additional regulation applicable to us, or pass any cost arising from the compliance with the revised norms to our consumers, and if we are not able to do so, our business, financial condition and prospects may be adversely affected. 
-
-Any political instability in India, such as corruption, scandals and protests against certain economic reforms, which have occurred in the past, could slow the pace of liberalization and deregulation. The rate of economic liberalization could change, and specific laws and policies affecting foreign investment, currency exchange rates and other matters affecting investment in India could change as well. 
-
-There can be no assurance that the federal, state or local governments in the US, the Government of India and the authorities in any other jurisdiction we operate in may not implement new regulations and policies which will require us to obtain approvals and licenses from them and other regulatory bodies or impose onerous requirements and conditions on our operations. Any such changes and the related uncertainties with respect to the applicability, interpretation and implementation of any amendment or change to governing laws, regulation or policy in the jurisdictions in which we operate may have a material adverse effect on our business, financial condition, results of operations and cash flows. In addition, we may have to incur expenditures to comply with the requirements of any new regulations, which may also materially harm our results of operations and cash flows. Any unfavorable changes to the laws and regulations applicable to us could also subject us to additional liabilities. 
-
-In addition, unfavorable changes in or interpretations of existing, or the promulgation of new laws, rules and regulations including foreign investment laws governing our business, operations and group structure could result in us being deemed to be in contravention of such laws or may require us to apply for additional approvals. We may incur increased costs and other burdens relating to compliance with such new requirements, which may also require significant management time and other resources, and any failure to comply may adversely affect our business, results of operations, cash flows and prospects. Uncertainty in the applicability, interpretation or implementation of any amendment to, or change in, governing law, regulation or policy, including by reason of an absence, or a limited body, of administrative or judicial precedent may be time consuming as well as costly for us to resolve and may affect the viability of our current business or restrict our ability to grow our business in the future. 
-
-# **_74. Our business is substantially affected by prevailing economic, political and other conditions._** 
-
-Our Company is incorporated in India and a portion of our operations are located in India. As a result, we are dependent on prevailing economic conditions in India and our results of operations and cash flows are significantly affected by factors influencing the Indian economy. Factors that may adversely affect the Indian economy, and hence our results of operations and cash flows, may include (among others): 
-
-- any increase in Indian interest rates or inflation; 
-
-- any exchange rate fluctuations; 
-
-- any scarcity of credit or other financing in India, resulting in an adverse impact on economic conditions in India and scarcity of financing for our expansions; 
-
-- prevailing income conditions among Indian consumers and Indian corporates; 
-
-- volatility in, and actual or perceived trends in trading activity on India’s principal stock exchanges; 
-
-- changes in India’s tax, trade, fiscal or monetary policies; 
-
-- political instability, terrorism or military conflict in India or in countries in the region or globally, including in India’s various neighboring countries; 
-
-- occurrence of natural or man-made disasters; 
-
-- prevailing regional or global economic conditions, including in India’s principal export markets; 
-
-- any downgrading of India’s debt rating by a domestic or international rating agency; 
-
-- financial instability in financial markets; and 
-
-85 
-
-- other significant regulatory or economic developments in or affecting India or its construction sector. 
-
-In addition, any slowdown or perceived slowdown in the Indian economy, or in specific sectors of the Indian economy, could adversely affect our business, results of operations, cash flows and financial condition and the price of the Equity Shares. 
-
-# **_75. The impact of the Russian invasion of Ukraine, the Israel-Hamas conflict, the Red Sea crisis and the Iran-Israel tensions on the global economy, energy supplies and raw materials is uncertain, but may prove to negatively impact our business and operations._** 
-
-The implications of the Russia-Ukraine war, the Israel-Hamas conflict, the Red Sea crisis, and the IranIsrael tensions remain uncertain at this time. We have experienced an increase in supply chain and transit insurance costs as a result of the attacks on and disruptions to the Red Sea shipping routes. To date, we have not experienced any material interruptions in our business operations in connection with these conflicts. We continue to monitor any adverse impact that the outbreak of war in Ukraine, the subsequent institution of sanctions against Russia by the United States and several European and Asian countries, and the Israel-Hamas conflict, Red Sea crisis or the Iran-Israel tensions may have on the global economy in general, on our business and operations and on the businesses and operations of our lenders and other third parties with which we conduct business. To the extent the wars in Ukraine, conflicts in Israel, attacks on the Red Sea or the tensions between Iran and Israel may adversely affect our business as discussed above, it may also have the effect of heightening many of the other risks described herein. Such risks include, but are not limited to, adverse effects on macroeconomic conditions, including inflation; disruptions to our global technology infrastructure, including through cyberattack, ransom attack, or cyber-intrusion; adverse changes in international trade policies and relations; disruptions in global supply chains; significant volatility in commodity prices and supply of energy resources; political and social instability; changes in consumer or purchaser preferences and constraints; volatility, or disruption in the capital markets, any of which could negatively affect our business and financial condition. 
-
-# **_76. We are subject to certain competition and antitrust laws throughout the world, including federal and state antitrust laws in the United States._** 
-
-Our business is subject to applicable competition and antitrust laws throughout the world, including federal and state antitrust laws in the United States. For example, the federal government and most states in the United States have enacted antitrust laws that prohibit specific types of anti-competitive conduct, including price fixing, wage fixing, concerted refusals to deal, price discrimination, monopolization, and tying arrangements, as well as acquisitions that have, or may have, a substantial adverse effect on competition. In addition, we are subject to similar antitrust and anti-competition laws in countries other than the United States, and as an importer of certain products into the United States, the potential jurisdiction of the USITC. See “ _Key Regulations and Policies_ ” on page 273. 
-
-Similarly, the Competition Act, 2002, of India, as amended (“ **Competition Act** ”), regulates practices having an appreciable adverse effect on competition in the relevant market in India (“ **AAEC** ”). Under the Competition Act, any formal or informal arrangement, understanding or action in concert, which causes or is likely to cause an AAEC is considered void and may result in the imposition of substantial penalties. Further, any agreement among competitors which directly or indirectly involves the determination of purchase or sale prices, limits or controls production, supply, markets, technical development, investment or the provision of services or shares the market or source of production or provision of services in any manner, including by way of allocation of geographical area or number of customers in the relevant market or directly or indirectly results in bid-rigging or collusive bidding is presumed to have an AAEC and is considered void. The Competition Act also prohibits abuse of a dominant position by any enterprise. 
-
-On March 4, 2011, the Central Government notified and brought into force the Competition Commission of India (Procedure in regard to the transaction of business relating to combinations) Regulations (“Combination Regulations”) under the Competition Act with effect from June 1, 2011. The Combination Regulations require acquisitions of shares, voting rights, assets or control or mergers or amalgamations that cross the prescribed asset and turnover based thresholds to be mandatorily notified to, and pre-approved by, the Competition Commission of India. Additionally, on May 11, 2011, the Competition Commission of India issued the Competition Commission of India (Procedure for 
-
-86 
-
-Transaction of Business Relating to Combinations) Regulations, 2011, which sets out the mechanism for implementation of the merger control regime in India. 
-
-The Competition Act aims to, among other things, prohibit all agreements and transactions which may have an appreciable adverse effect in India. Consequently, all agreements entered into by us could be within the purview of the Competition Act. Further, the Competition Commission of India has extraterritorial powers and can investigate any agreements, abusive conduct or combination occurring outside of India if such agreement, conduct or combination has an appreciable adverse effect in India. However, the impact of the provisions of the Competition Act on the agreements entered into by us cannot be predicted with certainty at this stage. We do not have any outstanding notices in relation to non-compliance with the Competition Act or the agreements entered into by us. 
-
-We may become subject to legal action or investigations and proceedings by national and supranational competition and antitrust authorities for alleged infringements of antitrust laws, which could result in sanctions, fines or other forms of liability, or otherwise damage our business reputation, which could have a material adverse effect on our business, financial condition, results of operations and prospects. Such laws and regulations could also limit or prohibit our ability to grow in certain markets. If we are subject to investigations, we may incur substantial costs, be exposed to unanticipated civil liabilities or monetary penalties and be subject to restrictions on our activities, including but not limited to restrictions on our sales and distribution practices and the institution of monitoring obligations, in each case in a manner that may be materially adverse to our business, financial condition and results of operation. Moreover, the investigation and its outcome could expose us to negative publicity, which could adversely affect our brands, reputation and customer preference for our products. 
-
-# **_77. Terrorist attacks, communal disturbances, civil unrest and other acts of violence or war involving India and other countries in which we have operations may adversely affect the financial markets and our business._** 
-
-Terrorist attacks and other acts of violence or war may negatively affect the Indian markets on which our Equity Shares trade and also adversely affect markets in which we have operations, as well as the worldwide financial markets. These acts may also result in a loss of business confidence, and adversely affect our business. In addition, any deterioration in relations between India and its neighboring countries might result in investor concern about stability in the region, which may adversely affect the price of our Equity Shares. 
-
-Some states in India have also witnessed civil unrest including communal disturbances in recent years and it is possible that future civil unrest, as well as other adverse social, economic and political events in India may have a negative impact on us. Such incidents may also create a greater perception that investment in Indian companies involves a higher degree of risk and may have an adverse impact on our business and the price of our Equity Shares. 
-
-# **_78. Any downgrading of India’s debt rating by an independent agency may harm our ability to raise financing._** 
-
-Any adverse revisions to India’s credit ratings for domestic and international debt by domestic or international rating agencies may adversely affect our ability to raise additional financing and the interest rates and other commercial terms on which such additional financing is available. This could have a material adverse effect on our capital expenditure plans, business and financial performance and the price of our Equity Shares. 
-
-# **_79. If the rate of Indian price inflation increases, our business and results of operations may be adversely affected._** 
-
-In the recent past, India has experienced fluctuating wholesale price inflation as compared to historical levels due to the global economic downturn. An increase in inflation in India could cause a rise in the price of raw materials and wages, or any other expenses that we incur. If this trend continues, we may be unable to accurately estimate or control our costs of production or pass on increase in costs to our customers and this could have a material adverse effect on our business and results of operations. 
-
-# **_80. Financial instability in Indian financial markets could adversely affect our results of operations and financial condition._** 
-
-87 
-
-The Indian financial market and the Indian economy are influenced by economic and market conditions in other countries, particularly in the emerging market in Asian countries. Financial turmoil in Asia, Europe, the United States and elsewhere in the world in recent years has affected the Indian economy. Although economic conditions are different in each country, investors’ reactions to developments in one country can have a material adverse effect on the securities of companies in other countries, including India. A loss in investor confidence in the financial systems of other emerging markets may cause increased volatility in Indian financial markets and, indirectly, in the Indian economy in general. Any global financial instability, including continued volatility in global financial markets due to the economic slowdown in China and the increase in the federal interest rates by the United States Federal Reserve, could also have a negative impact on the Indian financial markets and economy. 
-
-# **_81. Investors may not be able to enforce judgments obtained in foreign courts against us._** 
-
-Our Company is incorporated under the laws of India. Our Company’s assets are located in India and except for two of our Senior Management, who are U.S. residents, all of our Company’s Directors, Key Managerial Personnel and Senior Management are residents of India. For further details, see “ _Our Management_ ” on page 316. As a result, it may not be possible for investors to effect service of process upon our Company or such persons in jurisdictions outside India, or to enforce against them judgments obtained in courts outside India. Moreover, it is unlikely that a court in India would award damages on the same basis as a foreign court if an action were brought in India or that an Indian court would enforce foreign judgments if it viewed the amount of damages as excessive or inconsistent with Indian public policy. A party seeking to enforce a foreign judgment in India is required to obtain prior approval from the RBI under the FEMA to repatriate any amount recovered, and such approval may not be forthcoming. 
-
-The recognition and enforcement of foreign judgments in India are governed by Sections 13 and 44A of the Civil Code, which provide that a suit must be brought in India within three years of the date of the judgment sought to be enforced. Generally, there are considerable delays in the disposal of suits by Indian courts. Furthermore, enforcement of foreign arbitral awards is governed under Sections 48, 49, 55 and 57 of the Arbitration and Conciliation Act, 1996. However, the courts may refuse to enforce such awards if the courts find that the subject matter of the dispute is not capable of being settled under the laws of India or if the enforcement would be contrary to the public policy of India. 
-
-# **_82. Foreign investors are subject to foreign investment restrictions under Indian law, which may adversely affect the market price of the Equity Shares._** 
-
-Under the exchange control regulations currently in force in India, transfers of shares between nonresidents and residents are freely permitted (subject to certain restrictions) if they comply with the pricing guidelines and reporting requirements specified by the Reserve Bank of India. If the transfer of shares is not in compliance with such pricing guidelines or reporting requirements or falls under any of the exceptions referred to above, then the approval of the Reserve Bank of India will be required for such transaction to be valid. 
-
-Additionally, shareholders who seek to convert Rupee proceeds from a sale of shares in India into foreign currency and repatriate that foreign currency from India require a no-objection or a tax clearance certificate from the Indian income tax authorities. Further, in accordance with Press Note No. 3 (2020 Series), dated April 17, 2020 issued by the Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry, Government of India (formerly known as Department of Industrial Policy and Promotion)and the Foreign Exchange Management (Non-debt Instruments) Amendment Rules, 2020 which came into effect from April 22, 2020, any investment, subscription, purchase or sale of equity instruments by entities of a country which shares a land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country, will require prior approval of the Government of India, as prescribed in the Consolidated FDI Policy and the FEMA Rules. These investment restrictions shall also apply to subscribers of offshore derivative instruments. Neither the Consolidated FDI Policy nor the FEMA Rules provide a definition of the term “beneficial owner”. The interpretation of “beneficial owner” and enforcement of this regulatory change may differ in practice, which may have an adverse effect on our ability to raise foreign capital. We cannot assure you that any required approval from the Reserve Bank of India or any other governmental agency can be obtained on any particular terms or at all. 
-
-88 
-
-**_83. A third party could be prevented from acquiring control of our Company because of anti-takeover provisions under Indian law._** 
-
-There are provisions in Indian law that may delay, deter or prevent a future takeover or change in control of our Company, even if a change in control would result in the purchase of your Equity Shares at a premium to the market price or would otherwise be beneficial to you. Such provisions may discourage or prevent certain types of transactions involving actual or threatened change in control of our Company. Under the Takeover Regulations, an acquirer has been defined as any person who, directly or indirectly, acquires or agrees to acquire shares or voting rights or control over a company, whether individually or acting in concert with others. Although these provisions have been formulated to ensure that interests of investors/shareholders are protected, these provisions may also discourage a third party from attempting to take control of our Company. Consequently, even if a potential takeover of our Company would result in the purchase of the Equity Shares at a premium to their market price or would otherwise be beneficial to its stakeholders, it is possible that such a takeover would not be attempted or consummated because of the Takeover Regulations. Further, there are requirements under the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 and the Takeover Regulations if the shareholding of any entity exceeds the specified threshold. 
-
-# **_Risks Related to the Offer_** 
-
-**_84. Our Equity Shares have never been publicly traded, and after the Offer, the Equity Shares may experience price and volume fluctuations, and an active trading market for the Equity Shares may not develop. Further, the Offer Price may not be indicative of the market price of the Equity Shares after the Offer._** 
-
-Prior to the Offer, there has been no public market for the Equity Shares, and an active trading market for our Equity Share on the Stock Exchanges may not develop or be sustained after the Offer. Listing and quotation do not guarantee that a market for the Equity Shares will develop, or if developed, the liquidity of such market for the Equity Shares. Furthermore, the Offer Price of the Equity Shares will be determined through the Book Building Process. These will be based on numerous factors, including factors as described under “ _Basis for Offer Price_ ” beginning on page 152 and may not be indicative of the market price for the Equity Shares after the Offer. 
-
-The market price of the Equity Shares may be subject to significant fluctuations in response to, among other factors, the failure of security analysts to cover the Equity Shares after this Offer, or changes in the estimates of our performance by analysts, the activities of competitors and lenders, future issuances and sales of the Equity Shares by our Company or our shareholders, variations in our results of operations of our Company, differences between our actual financial and operating results and those expected by investors and analysts, market conditions specific to the industry we operate in, developments relating to India, volatility in securities markets in jurisdictions other than India, variations in the growth rate of financial indicators, variations in revenue or earnings estimates by research publications, the market capitalization not being indicative of the valuation of our business, and changes in economic, legal and other regulatory factors. We cannot assure you that an active market will develop, or sustained trading will take place in the Equity Shares or provide any assurance regarding the price at which the Equity Shares will be traded after listing. 
-
-In addition, the stock market often experiences price and volume fluctuations that are unrelated or disproportionate to the operating performance of a particular company. Recent stock run-ups, divergences in valuation ratios relative to those seen during traditional markets, high short interest or short squeezes, and strong and atypical retail investor interest in the markets may also impact the demand for and price of our shares that are not directly correlated to our operating performance. As a result of these fluctuations, our Equity Shares may trade at prices significantly below the Offer Price. These broad market fluctuations and industry factors may materially reduce the market price of the Equity Shares, regardless of our Company’s performance. There can be no assurance that the investor will be able to resell their Equity Shares at or above the Offer Price. 
-
-**_85. The average cost of acquisition of Equity Shares for our Selling Shareholder may be lower than the Offer Price._** 
-
-89 
-
-The average cost of acquisition of Equity Shares for our Selling Shareholder may be lower than the Offer Price. The details of the average cost of acquisition of Equity Shares held by our Selling Shareholder as at the date of the Red Herring Prospectus is set out below: 
-
-|**Name**|**Number of Equity Shares**|**Average Cost of Acquisition per**|
+|**Name of the Promoter**|**Number of Equity Shares acquired in**<br>**the last one year**<sup>**#**</sup>|**Weighted average price of acquisition per**<br>**Equity Share (in ₹)**|
 |---|---|---|
-|||**Equity Share(in ₹) ***|
-|General<br>Atlantic<br>Singapore RR Pte. Ltd.|80,837,506|78.73**|
+|General Atlantic Singapore RR Pte. Ltd.<sup>**</sup>|Nil|Not applicable|
+|Pratibha Pilgaonkar|Nil|Not applicable|
+|Sudhir Dhirendra Pilgaonkar|Nil|Not applicable|
+|ParagSuganchand Sancheti|Nil|Not applicable|
 
 
 
-_* As certified by N B T & Co, Chartered Accountants by way of their certificate dated October 1, 2025_ . _** Cost of acquisition is excluding the expenses incurred while acquiring the Equity Shares._ 
+27 
 
-For more details regarding weighted average cost of acquisition of Equity Shares by our Selling Shareholder and build-up of Equity Shares by our Selling Shareholder in our Company, see `“` _Offer Document Summary_ ” and “ _Capital Structure_ ” on pages 21 and 110, respectively. 
+|**Name of the Promoter**|**Number of Equity Shares acquired in**|**Weighted average price of acquisition per**|
+|---|---|---|
+||**the last one year**<sup>**#**</sup>|**Equity Share (in ₹)**|
+|Surabhi ParagSancheti|Nil|Not applicable|
+|Sumant Sudhir Pilgaonkar|Nil|Not applicable|
 
-# **_86. Investors may be subject to Indian taxes arising out of income arising from distribution of dividend and sale of the Equity Shares._** 
 
-Under current Indian tax laws, unless specifically exempted, capital gains arising from the sale of equity shares in an Indian company is generally taxable in India. Investors may be subject to payment of longterm or short-term capital gains tax in India, in addition to payment of Securities Transaction Tax (“STT”), on the sale of any Equity Shares held for more or less than 12 months immediately preceding the date of transfer. While non-residents may claim tax treaty benefits in relation to such capital gains income, generally, Indian tax treaties do not limit India’s right to impose a tax on capital gains arising from the sale of shares of an Indian company. 
 
-In terms of the Finance Act, 2018, with effect from April 1, 2018, taxes payable by an assessee on the capital gains arising from transfer of long-term capital assets (introduced as Section 112A of the IncomeTax Act, 1961) shall be calculated on such long-term capital gains at the rate of 10%, where the longterm capital gains exceed ₹ 100,000, subject to certain exceptions in case of resident individuals and Hindu Undivided Families. The stamp duty for transfer of certain securities, other than debentures, on a delivery basis is currently specified at 0.015% and on a non-delivery basis is specified at 0.003% of the consideration amount. 
+_* As certified by N B T and Co, Chartered Accountants by way of their certificate dated October 1, 2025 ** Also the Selling Shareholder._ 
 
-Under the Finance Act 2020, any dividends paid by an Indian company will be subject to tax in the hands of the shareholders at applicable rates. Such taxes will be withheld by the Indian company paying dividends. The Company may or may not grant the benefit of a tax treaty (where applicable) to a nonresident shareholder for the purposes of deducting tax at source pursuant to any corporate action including dividends. Investors are advised to consult their own tax advisors and to carefully consider the potential tax consequences of owning Equity Shares. Unfavorable changes in or interpretations of existing, or the promulgation of new, laws, rules and regulations including foreign investment and stamp duty laws governing our business and operations could result in us being deemed to be in contravention of such laws and may require us to apply for additional approvals. 
+**Weighted average cost of acquisition of Equity Shares transacted in one year, eighteen months and three years preceding the date of this Red Herring Prospectus:** 
 
-# **_87. QIBs and Non-Institutional Investors are not permitted to withdraw or lower their Bids (in terms of quantity of Equity Shares or the Bid Amount) at any stage after submitting a Bid, and Retail Individual Investors are not permitted to withdraw their Bids after Bid/Offer Closing Date._** 
+|**Period**|**Weighted average cost**<br>**of acquisition per Equity**<br>**Share (in ₹)***|**Cap Price is ‘x’ times the**<br>**weighted average cost of**<br>**acquisition*^**|**Range of acquisition price per**<br>**Equity Share: lowest price –**<br>**highest price (in ₹)**<sup>***#**</sup>|
+|---|---|---|---|
+|Last 1 year preceding the date of<br>this Red Herring Prospectus|386.55|Not Applicable|16.00-484.47|
+|Last 18 months preceding the date<br>ofthisRedHerringProspectus|386.55|Not Applicable|16.00-484.47|
+|Last 3 year preceding the date of<br>this Red Herring Prospectus|355.73**|Not Applicable|Nil** – 484.47|
 
-Pursuant to the SEBI ICDR Regulations, QIBs and Non-Institutional Investors are required to pay the Bid Amount on submission of the Bid and are not permitted to withdraw or lower their Bids (in terms of quantity of Equity Shares or the Bid Amount) at any stage after submitting a Bid. However, Retail Individual Investors can revise their Bids during the Bid/Offer Period and withdraw their Bids until Bid/Offer Closing Date. While our Company is required to complete all necessary formalities for listing and commencement of trading of the Equity Shares on all Stock Exchanges where such Equity Shares are proposed to be listed including Allotment pursuant to the Offer within such period as may be prescribed under applicable law, events affecting the Bidders’ decision to invest in the Equity Shares, including adverse changes in international or national monetary policy, financial, political or economic conditions, our business, results of operation, cash flows or financial condition may arise between the date of submission of the Bid and Allotment. Our Company may complete the Allotment of the Equity Shares even if such events occur, and such events limit the Bidders’ ability to sell the Equity Shares Allotted pursuant to the Offer or cause the trading price of the Equity Shares to decline on listing. 
 
-90 
 
-# **_88. Holders of Equity Shares could be restricted in their ability to exercise pre-emptive rights under Indian law and could thereby suffer future dilution of their ownership position._** 
+_* As certified by N B T and Co, Chartered Accountants by way of their certificate dated October 1, 2025 ** Includes a transaction of Equity Shares through transmission. ^To be updated in the Prospectus following finalisation of Price Band. #Excluding gift and bonus transactions_ 
 
-Under the Companies Act, a company having share capital and incorporated in India must offer holders of its Equity Shares pre-emptive rights to subscribe and pay for a proportionate number of Equity Shares to maintain their existing ownership percentages prior to the issuance of any new equity shares, unless the pre-emptive rights have been waived by the adoption of a special resolution. However, if the laws of the jurisdiction that you are in does not permit the exercise of such pre-emptive rights without our filing an offering document or registration statement with the applicable authority in such jurisdiction, you will be unable to exercise such pre-emptive rights unless we make such a filing. To the extent that you are unable to exercise pre-emptive rights granted in respect of the Equity Shares, you may suffer future dilution of your ownership position and your proportional interests in our Company would be reduced. 
+**Details of price at which specified securities were acquired by the Promoters, members of our Promoter Group, Selling Shareholder and Shareholders with right to nominate directors or any other rights (“Other Shareholders”) in the last three years preceding the date of this Red Herring Prospectus** 
 
-# **_89. Future issuances or sales of Equity Shares, or convertible securities or other equity-linked securities could adversely affect the trading price of the Equity Shares or dilute the value of your investment._** 
+|**Name of Acquirer /**<br>**shareholder**|**Category of**<br>**Acquirer /**<br>**shareholder**|**Date of transfer /**<br>**acquisition of the**<br>**Equity Shares**|**Number of Equity**<br>**Shares Transferred**<br>**/ acquired**<sup>**#**</sup>|**Face Value**|**Acquisition price per**<br>**Equity Share**<sup>***#**</sup>**(in ₹)**|
+|---|---|---|---|---|---|
+|General Atlantic Singapore RR<br>Pte.Ltd.<sup>^</sup>|Promoter|October 11, 2023|59,258,360|1.00|Nil**|
+|Sudhir Dhirendra Pilgaonkar|Promoter|October 11, 2023|4,290,000|1.00|Nil**|
+|<br>PratibhaPilgaonkar|Promoter|October 11,2023|4,290,000|1.00|Nil**|
+|Sumant Sudhir Pilgaonkar|Promoter|October 11, 2023|8,710,000|1.00|Nil**|
+|<br>Surabhi Parag Sancheti|Promoter|<br>October 11, 2023|<br>8,730,000|1.00|Nil**|
+|<br>Parag Suganchand Sancheti|Promoter|October 11, 2023|20,000|1.00|Nil**|
+|Terentia Venture Partners|Promoter<br>Group|October 11, 2023|340,000|1.00|Nil**|
+|Shivanand S. Mankekar|Other<br>Shareholder|October 11, 2023|4,000|1.00|Nil**|
+|Laxmi S. Mankekar|Other<br>Shareholder|October 11, 2023|4,000|1.00|Nil**|
+|Kedar Mankekar|Other<br>Shareholder|October 11, 2023|4,000|1.00|Nil**|
+|Shivanand Shankar Mankekar<br>HUF|Other<br>Shareholder|October 11, 2023|14,904,820|1.00|Nil**|
+|Amansa Investments Limited|Other<br>Shareholder|August 12, 2025|5,160,278|1.00|484.47|
+|TIMF Holdings|Other<br>Shareholder|September 19,<br>2025|14,44,878|1.00|484.47|
+|360 ONE Equity Opportunity<br>Fund-Series 4|Other<br>Shareholder|September 19,<br>2025|2,06,411|1.00|484.47|
+|360 ONE Special<br>OpportunitiesFund-Series11|Other<br>Shareholder|September 19,<br>2025|1,03,205|1.00|484.47|
+|360 ONE Special<br>Opportunities Fund-Series 12|Other<br>Shareholder|September 19,<br>2025|8,25,645|1.00|484.47|
+|360 ONE Special<br>Opportunities Fund-Series 13|Other<br>Shareholder|September 19,<br>2025|3,09,617|1.00|484.47|
 
-Any future issuances could dilute the value of your investment in our Company. Further, our future issuances of Equity Shares, convertible securities or securities linked to the Equity Shares by us (including under employee stock option plans) or the disposal of Equity Shares by our Promoter or any of our other principal shareholders or the perception that such issuance or sales may occur, including to comply with the minimum public shareholding norms applicable to listed companies in India, may significantly affect the trading price of the Equity Shares and our ability to raise capital through an issue of our securities. There can be no assurance that we will not issue further Equity Shares or that the shareholders will not dispose of, pledge or otherwise encumber the Equity Shares. 
 
-# **_90. Fluctuation in the exchange rate of the Rupee and other currencies could have an adverse effect on the value of our Equity Shares, independent of our results of operations._** 
 
-Subject to requisite approvals, on listing, our Equity Shares will be quoted in Rupees on the Stock Exchanges. Any dividends, if declared, in respect of our Equity Shares will be paid in Rupees and subsequently converted into the relevant foreign currency for repatriation, if required. Any adverse movement in exchange rates during the time that it takes to undertake such conversion may reduce the net dividend to such investors. In addition, any adverse movement in exchange rates during a delay in repatriating the proceeds from a sale of Equity Shares outside India, for example, because of a delay in regulatory approvals that may be required for the sale of Equity Shares may reduce the net proceeds received by shareholders. 
+_# Adjusted for split of equity shares_ 
 
-The exchange rate of the Rupee has changed substantially in the last two decades and could fluctuate substantially in the future, which may have a material adverse effect on the value of the Equity Shares and returns from the Equity Shares, independent of our results of operations. 
+_* As certified by N B T and Co, Chartered Accountants by way of their certificate dated October 1, 2025 **Acquired through bonus issue of equity shares ^ Also, a Selling Shareholder and Other Shareholder._ 
 
-# **_91. Investors will not be able to sell immediately on an Indian stock exchange any of the Equity Shares they purchase in the Offer._** 
+# **Issue of Equity Shares for consideration other than cash in the last one year (excluding bonus issuance)** 
 
-Subject to requisite approvals, the Equity Shares will be listed on the Stock Exchanges. Pursuant to applicable Indian laws, certain actions must be completed before the Equity Shares can be listed and trading in the Equity Shares may commence. Investors’ book entry, or ‘demat’ accounts with depository participants in India, are expected to be credited within one working day of the date on which the Basis of Allotment is approved by the Stock Exchanges. The Allotment of Equity Shares in this Offer and the credit of such Equity Shares to the applicant’s demat account with depository participant could take approximately two Working Days from the Bid Closing Date and trading in the Equity Shares upon receipt of final listing and trading approvals from the Stock Exchanges is expected to commence within three Working Days of the Bid Closing Date. There could be a failure or delay in listing of the Equity Shares on the Stock Exchanges. Any failure or delay in obtaining the approval or otherwise commence trading in the Equity Shares would restrict investors’ ability to dispose of their Equity Shares. There can be no assurance that the Equity Shares will be credited to investors’ demat accounts, or that trading in the Equity Shares will commence, within the time periods specified in this risk factor. We could also be 
+Our Company has not issued any Equity Shares for consideration other than cash in the one year preceding the date of this Red Herring Prospectus. 
 
-91 
+28 
 
-required to pay interest at the applicable rates if allotment is not made, refund orders are not dispatched or demat credits are not made to investors within the prescribed time periods. 
+# **Split / Consolidation of Equity Shares in the last one year** 
 
-For further details, see “ _Offer Procedure_ ” on page 510. 
+Except as disclosed in “ _Capital Structure – Notes to the Capital Structure – 1. Share capital history of our Company – (a) Equity Share capital_ ” on page 110, there has been no split or consolidation of the Equity Shares of our Company in the last one year. 
 
-92 
+# **Details of Pre-IPO Placement** 
+
+Our Company has not undertaken a Pre-IPO Placement. 
+
+# **Exemption from complying with provisions of securities laws granted by SEBI** 
+
+Our Company has not sought any exemption by SEBI from complying with any provisions of securities laws, as on the date of this Red Herring Prospectus. 
+
+29 
 

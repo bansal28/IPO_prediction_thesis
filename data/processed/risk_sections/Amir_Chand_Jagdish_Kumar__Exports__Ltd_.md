@@ -1129,3 +1129,983 @@ Subject to requisite approvals, the Equity Shares will be listed on the Stock Ex
 
 76 
 
+# **SECTION – III INTRODUCTION** 
+
+# **THE ISSUE** 
+
+The following table summarizes details of the Issue: 
+
+|**Issue of Equity Shares**<sup>**(1)^**</sup>|Fresh Issue of up to [●] Equity Shares of face value of ₹10<br>each, aggregating up to ₹5,500 million|
+|---|---|
+|**The Issue consists of:**||
+|**A. QIB Portion**<sup>(2)(3)</sup>|Not more than [●] Equity Shares of face value of ₹10 each,<br>aggregating to ₹ [●] million|
+|_of which:_||
+|(i) Anchor Investor Portion<sup>(2)</sup>|Up to [●] Equity Shares of face value of ₹10 each|
+|(ii) Net QIB Portion (assuming Anchor<br>Investor Portion is fully subscribed)|[●] Equity Shares of face value of ₹10 each|
+|_of which:_||
+|a.<br>Available for allocation to Mutual Fund<br>Portion (5% of the Net QIB Portion)|[●] Equity Shares of face value of ₹10 each|
+|b. Balance of Net QIB for all QIBs<br>including Mutual Funds|[●] Equity Shares of face value of ₹10 each|
+|**B. Non-Institutional Portion**<sup>(3)(4)(5)</sup>|Not less than [●] Equity Shares of face value of ₹10 each,<br>aggregating to ₹ [●] million|
+|_of which:_||
+|One-third of the Non-Institutional Portion<br>available for allocation to Bidders with an<br>application size of more than ₹0.20 million to<br>₹ 1.00 million|[●] Equity Shares of face value of ₹10 each|
+|Two-third of the Non-Institutional Portion<br>available for allocation to Bidders with an<br>application size of more than ₹1.00 million|[●] Equity Shares of face value of ₹10 each|
+|**C. Retail Portion** <sup>(3)(4)</sup>|Not less than [●] Equity Shares of face value of ₹10 each,<br>aggregating to ₹ [●] million|
+|**Pre and post-Issue Equity Shares**||
+|Equity Shares outstanding prior to the Issue (as<br>at the date of this Draft Red Herring<br>Prospectus)|82,041,028 Equity Shares of face value of ₹10 each|
+|Equity Shares outstanding after the Issue|[●] Equity Shares of face value of ₹10 each|
+|**Use of Net Proceeds**|See “_Objects of the Issue_” on page 109 for information about<br>utilization of Net Proceeds|
+
+
+
+- _(1) The Issue has been authorised by our Board pursuant to the resolution passed at its meeting dated June 13, 2025 and by our Shareholders pursuant to the special resolution passed at their extraordinary general meeting dated June 16, 2025. ^ Our Company, in consultation with the BRLMs, may consider a Pre-IPO Placement of specified securities, as may be permitted under the applicable law, aggregating up to ₹500 million prior to filing of the Red Herring Prospectus with the RoC. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company, in consultation with the BRLMs. If the Pre-IPO Placement is completed, the amount raised pursuant to the Pre-IPO Placement will be reduced from the Fresh Issue, subject to compliance with Rule 19(2)(b) of the SCRR. The Pre-IPO Placement, if undertaken, shall not exceed 20% of the size of the Fresh Issue. Prior to the completion of the Issue, our Company shall appropriately intimate the subscribers to the Pre-IPO Placement, prior to allotment pursuant to the Pre-IPO Placement, that there is no guarantee that our Company may proceed with the Issue or the Issue will be successful and will result into listing of the Equity Shares on the Stock Exchanges. Further, relevant disclosures in relation to such intimation to the subscribers to the Pre-IPO Placement (if undertaken) shall be appropriately made in the relevant sections of the RHP and Prospectus._ 
+
+- _(2) Our Company in consultation with the BRLMs, may allocate up to 60% of the QIB Portion to Anchor Investors at the Anchor Investor Issue Price a discretionary basis in accordance with the SEBI ICDR Regulations. The QIB Portion will be accordingly reduced for the shares allocated to Anchor Investors. One-third of the Anchor Investor Portion shall be reserved for domestic Mutual Funds, subject to valid Bids being received from domestic Mutual Funds at or above the Anchor Investor Allocation Price. In the event of under-subscription in the Anchor Investor Portion, the remaining Equity Shares shall be added back to the QIB Portion. Further, 5% of the Net QIB Portion (excluding the Anchor Investor Portion) shall be available for allocation on a proportionate basis to Mutual Funds only, and the remainder of the Net_ 
+
+77 
+
+_QIB Portion shall be available for allocation on a proportionate basis to all QIB Bidders (other than Anchor Investors), including Mutual Funds, subject to valid Bids being received at or above the Issue Price. However, if the aggregate demand from Mutual Funds is less than as specified above, the balance Equity Shares available for Allotment in the Mutual Fund Portion will be added to the Net QIB Portion and allocated proportionately to the QIB Bidders (other than Anchor Investors) in proportion to their Bids. For details, see “Issue Procedure” beginning on page 420._ 
+
+- _(3) Subject to valid Bids being received at or above the Issue Price, under-subscription, if any, in any category except the QIB Portion, would be allowed to be met with spill over from any other category or combination of categories, as applicable, at the discretion of our Company in consultation with the BRLMs and the Designated Stock Exchange, subject to applicable law. Under-subscription, if any, in the QIB Portion would not be allowed to be met with spill-over from other categories or a combination of categories. For further details, see “Issue Procedure” on page 420._ 
+
+- _(4) Allocation to Bidders in all categories, except Anchor Investor Portion, Non-Institutional Portion and Retail Portion, shall be made on a proportionate basis subject to valid Bids received at or above the Issue Price. The allocation to each Retail Individual Bidder shall not be less than the minimum Bid Lot, subject to availability of Equity Shares in the Retail Portion and the remaining available Equity Shares, if any, shall be allocated on a proportionate basis. Not less than 15% of the Issue shall be available for allocation to Non-Institutional Bidders. The Equity Shares available for allocation to Non-Institutional Bidders under the Non-Institutional Portion, shall be subject to the following: (i) one-third of the portion available to Non-Institutional Bidders shall be reserved for applicants with an application size of more than ₹0.20 million and up to ₹1.00 million and (ii) two-third of the portion available to Non-Institutional Bidders shall be reserved for applicants with application size of more than ₹1.00 million, provided that the unsubscribed portion in either of the aforementioned sub-categories may be allocated to applicants in the other sub-category of Non-Institutional Bidders. The allocation to each Non-Institutional Bidder shall not be less than ₹0.20 million, subject to availability of Equity Shares in the Non-Institutional Portion and the remaining available Equity Shares, if any, shall be allocated on a proportionate basis in accordance with the conditions specified in this regard in Schedule XIII of the SEBI ICDR Regulations._ 
+
+- _(5) SEBI through its circular (SEBI/HO/CFD/DIL2/CIR/P/2022/45) dated April 5, 2022 (to the extent not rescinded by the SEBI ICDR Master Circular in relation to the SEBI ICDR Regulations), has prescribed that all individual investors applying in initial public offerings opening on or after May 1, 2022 where the application amount is up to ₹0.50 million, shall use the UPI Mechanism. Individual investors bidding under the Non-Institutional Portion bidding for more than ₹0.20 and up to ₹0.50 million, using the UPI Mechanism, shall provide their UPI ID in the Bid cum Application Form for Bidding through Syndicate, sub-syndicate members, Registered Brokers, RTAs or CDPs, or online using the facility of linked online trading, demat and bank account (3 in 1 type accounts), provided by certain brokers._ 
+
+Pursuant to Rule 19(2)(b) of the SCRR, the Issue is being made for at least [●] % of the post-Issue paid-up Equity Share capital of our Company. Allocation to Bidders in all categories except the Anchor Investor Portion, NonInstitutional Portion and the Retail Portion, if any, shall be made on a proportionate basis subject to valid Bids received at or above the Issue Price, as applicable. 
+
+The allocation to each of the RIBs shall not be less than the minimum Bid Lot, subject to availability of Equity Shares in Retail Portion and the remaining available Equity Shares, if any, shall be allocated on a proportionate basis. 
+
+The allocation to each of the NIIs shall not be less ₹0.20 million, subject to the availability of Equity Shares in Non-Institutional Portion, and the remaining Equity Shares, if any, shall be allocated on a proportionate basis in accordance with the SEBI ICDR Regulations. For further details, see “ _Issue Structure”, “Issue Procedure”_ and _“Terms of the Issue”_ beginning on pages 415, 420 and 408 respectively. 
+
+78 
+
+# **SUMMARY OF RESTATED CONSOLIDATED FINANCIAL STATEMENTS** 
+
+The following tables set forth the summary financial information derived from the Restated Consolidated Financial Information for the nine months ended December 31, 2024 and the Financial Years ended March 31, 2024, March 31, 2023 and March 31, 2022 on a consolidated basis. The summary financial information presented below should be read in conjunction with “ _Restated Consolidated Financial Information_ ” and “ _Management’s Discussion and Analysis of Financial Position and Results of Operations_ ” on pages 276 and 345, respectively. 
+
+# **RESTATED CONSOLIDATED SUMMARY STATEMENT OF ASSETS AND LIABILITIES** 
+
+|**Particulars**|**As at December**<br>**31st, 2024**|**As at March**<br>**31st, 2024**|**As at March**<br>**31st, 2023**|_(₹ in million)_<br>**As at March**<br>**31st, 2022**|
+|---|---|---|---|---|
+|**ASSETS**|||||
+|**Non-Current Assets**|||||
+|(a) Property, Plant and Equipment|936.12|976.55|1,018.28|1,071.59|
+|(b) Capital work-in-progress|16.96|16.96|16.02|16.02|
+|(c) Investment Property|13.34|13.80|14.12|15.19|
+|(d) Goodwill|12.74|12.74|12.74|12.74|
+|(e) Other Intangible assets|0.63|2.50|5.00|7.50|
+|(f) Financial Assets|||||
+|-Security Deposit|0.53|0.53|0.73|0.73|
+|(g) Other Non-Current Assets|10.42|10.28|9.66|9.66|
+|**Total Non Current Assets**|**990.74**|**1,033.36**|**1,076.55**|**1,133.41**|
+|**Current Assets**|||||
+|(a) Inventories|8,854.36|7,965.39|6,271.13|6,447.06|
+|(b) Financial Assets|||||
+|-Investments|16.10|20.34|7.41|1.94|
+|-Trade receivables|4,918.15|3,242.02|3,098.47|3,077.75|
+|-Cash and cash equivalents|241.48|15.09|87.46|63.28|
+|- Bank balances other than Cash and<br>cash equivalents|161.51|164.18|88.12|93.33|
+|-Other Financial Assets|443.39|228.56|201.71|264.36|
+|(c) Other Current Assets|133.56|166.35|59.78|238.47|
+|**Total Current Assets**|**14,768.55**|**11,801.93**|**9,814.08**|**10,186.19**|
+|**Total Assets**|**15,759.29**|**12,835.29**|**10,890.63**|**11,319.61**|
+|**EQUITY AND LIABILITIES**|||||
+|**Equity**|||||
+|(a) Equity Share Capital|820.41|54.39|54.39|54.39|
+|<br>(b) Other Equity|2,852.60|3,060.39|2,754.03|2,579.06|
+|**Total Equity**|**3,673.01**|**3,114.78**|**2,808.42**|**2,633.44**|
+|**Liabilities**|||||
+|**Non Current Liabilities**|||||
+|(a) Financial liabilities|||||
+|-Borrowings|12.25|15.60|107.27|97.52|
+|(b) Provisions|3.82|3.38|2.82|2.50|
+|(c) Deferred Tax liabilities|40.35|47.59|56.73|64.75|
+|(d) Other non-current liabilities|41.73|41.72|41.72|41.72|
+|<br>**Total Non Current Liabilities**|**98.15**|**108.29**|**208.54**|**206.50**|
+|**Current liabilities**|||||
+|(a) Financial liabilities|||||
+|-Borrowings|8,174.76|7,760.60|6,568.03|7,148.80|
+|-Trade Payables:-|||||
+|(A) total outstanding dues of micro|-|-|-|-|
+|and small enterprises|||||
+
+
+
+79 
+
+|**Particulars**|**As at December**<br>**31st, 2024**|**As at March**<br>**31st, 2024**|**As at March**<br>**31st, 2023**|**As at March**<br>**31st, 2022**|
+|---|---|---|---|---|
+|(B) total outstanding dues of|||||
+|creditors other than micro and small<br>enterprises.|1,682.93|552.67|1,011.18|1,038.21|
+|- Other financial liabilities (other than<br>those specified above)|1,996.16|1,247.83|239.51|139.48|
+|(b) Provisions|0.13|0.12|0.10|0.09|
+|(c) Other current liabilities|18.75|6.49|30.42|130.99|
+|(d) Current Tax Liabilities (Net)|115.40|44.51|24.43|22.12|
+|**Total Current Liabilities**|**11,988.13**|**9,612.22**|**7,873.67**|**8,479.67**|
+|**Total Liabilities**|**15,759.29**|**12,835.29**|**10,890.63**|**11,319.61**|
+
+
+
+80 
+
+# **RESTATED CONSOLIDATED PROFIT & LOSS STATEMENT** 
+
+|**Particulars**|**Nine months**<br>**ended**|**For the year**<br>**ended March**|**For the year**<br>**ended**|_(₹ in million)_<br>**For the year**<br>**ended**|
+|---|---|---|---|---|
+||**December 31,**|**31, 2024**|**March 31,**|**March 31,**|
+||**2024**||**2023**|**2022**|
+|**(I) Revenue from operations**|**14,213.06**|**15,495.24**|**13,158.48**|**12,203.71**|
+|**(II) Other income**|**19.73**|**18.97**|**20.13**|**99.15**|
+|**(III) Total Income (I+II)**|**14,232.79**|**15,514.21**|**13,178.61**|**12,302.86**|
+|**(IV) Expenses**|||||
+|Cost of materials consumed|12,141.31|12,551.36|11,118.25|9,756.64|
+|Purchases of stock in trade|30.26|26.42|40.46|6.00|
+|Changes in inventories of finished<br>goods, work in progress & stock-in-|(36.36)|422.64|(101.34)|534.40|
+|trade|||||
+|Employee benefits expenses|88.04|122.23|108.32|100.21|
+|Finance costs|560.68|649.01|511.28|479.42|
+|Depreciation and amortization expenses|53.73|73.37|73.34|73.37|
+|Other expenses|753.97|1,275.94|1,195.86|1,125.86|
+|**Total Expenses (IV)**|**13,591.63**|**15,120.98**|**12,946.17**|**12,075.90**|
+|**(V) Profit/(loss) before exceptional items**<br>**and tax (III-IV)**|**641.16**|**393.23**|**232.44**|**226.97**|
+|(VI)Exceptional items|-|-|-|-|
+|**(VII) Profit/(loss) before tax(V-VI)**|**641.16**|**393.23**|**232.44**|**226.97**|
+|(VIII) Tax expense:|||||
+|a)Current tax|150.17|96.00|65.50|58.50|
+|b)Deferred tax/(Income)|(7.88)|(9.71)|(8.03)|(5.90)|
+|c) Short/Excess Payment of tax in<br>Previous periods|<br>11.12|<br>2.89|<br>0.01|<br>2.75|
+|**Total tax expense(VIII)**|**153.42**|**89.18**|**57.48**|**55.35**|
+|**(IX) Profit (Loss) for the period (VII-**|**487.75**|**304.05**|**174.96**|**171.62**|
+|**VIII)**|||||
+|**(X) Other Comprehensive Income**|||||
+|i) Items that will not be reclassified to<br>Profit or Loss|3.45|2.81|0.02|0.13|
+|ii) Income Tax relating to items that will<br>not be reclassified to Profit or Loss|(0.63)|(0.50)|(0.00)|(0.03)|
+|i)Items that will be reclassified to Profit<br>or Loss|-|-|-|-|
+|ii) Income Tax relating to items that will<br>be reclassified to Profit or Loss|-|-|-|-|
+|**Total Other Comprehensive Income (X)**|**2.82**|**2.31**|**0.02**|**0.10**|
+|**(XI) Total Comprehensive Income (IX+I)**|<br>**490.57**|**306.36**|**174.98**|**171.71**|
+|**Earnings per equity share**|||||
+|Basic earning per share (Face Value of INR<br>10 each) in (₹)|5.99*|3.75|2.14|2.10|
+|Diluted earning per share (Face Value of<br>INR 10 each) in (₹)|5.99*|3.75|2.14|2.10|
+
+
+
+_*EPS is not annualised for the period ended December 31, 2024_ 
+
+81 
+
+# **RESTATED CONSOLIDATED CASH FLOW STATEMENT** 
+
+|**Particulars**|**As at December**<br>**31, 2024**|**As at March 31,**<br>**2024**|**As at March**<br>**31, 2023**|**As at March 31,**<br>**2022**|
+|---|---|---|---|---|
+|**CASH FLOW**|||||
+|**FROM**|||||
+|**A**<br>**OPERATING**<br>**ACTIVITIES:**|||||
+
+
+
+|**Net Profit Before Tax**||**641.16**||**393.23**||**232.4**<br>**4**||**226.9**<br>**7**|
+|---|---|---|---|---|---|---|---|---|
+|**Add/Less: Adjustments:**|||||||||
+|Gratuity Provision<br>|0.36||0.43||0.39||0.36||
+|Depreciation And<br>Amortisation|53.73||73.37||73.34||73.37||
+|Net Interest & Hire<br>Charges On Vehicle Loan|488.57|542.66|576.64|650.44|431.50|505.2<br>2|298.41|372.1<br>4|
+|Less : Adjustments:|||||||||
+|Interest On Fdr &<br>Deposits|6.18||8.64||5.74||4.33||
+|||6.18||8.64||5.74||4.33|
+|**Operating Profit Before**<br>**Working Capital**||**1,177.**||**1,035.0**||**731.9**||**594.7**|
+|**Changes**||**65**||**3**||**2**||**8**|
+|**Adjustment On Account**<br>**Of Working Capital**<br>**Ch**|||||||||
+|**anges:**|||||||||
+|Decrease / (Increase) In|(1,676.1||||(322.2||(1,290.4||
+|<br>Trade Receivables|2)||291.92||2)||6)||
+|Decrease / (Increase) In<br>Financial & Other Assets|(182.18)||(133.84)||241.33||(60.71)||
+|Decrease / (Increase) In<br>Inventories|(888.97)||(1,694.2<br>6)||175.94||921.60||
+|Increase / (Decrease) In|1,130.2||||(27.03||||
+|<br>Trade Payables|7||(458.51)||)||855.98||
+|Increase / (Decrease) In<br>Liabilities & Provisions|716.08||959.95||(22.65<br>)||(216.55)||
+|Cash Reduced Before||**(900.9**||**(1034.7**||||**209.8**|
+|Extraordinary Items||**2)**||**4)**||**45.37**||**5**|
+|Less: Income Tax Paid||45.90||54.38||41.07||35.98|
+|Cash Generated From||||||**736.2**||**768.6**|
+|Operating Activities (A)||**230.83**||**(54.10)**||**2**||**4**|
+|**CASH FLOW**|||||||||
+|B<br>.<br>**FROM**<br>**INVESTING**<br>|||||||||
+|**ACTIVITIES**|||||||||
+|Net (Purchase)/Sales Of|||||||||
+|Property, Plant &|||||(16.46||||
+|Equipments|(8.00)||(29.77)||)||11.42||
+
+
+
+82 
+
+|**Particulars**|**As at De**<br>**31, 2**|**cember**<br>**024**|**As at Ma**<br>**202**|**rch 31,**<br>**4**|**As at**<br>**31, 2**|**March**<br>**023**|**As at M**<br>**20**|**arch 31,**<br>**22**|
+|---|---|---|---|---|---|---|---|---|
+|Net (Purchase)/Sales of<br>Portfolio Investments|5.24||(9.90)||(5.50)||(2.00)||
+|Interest Received on Fdr<br>& Deposits|6.18||8.64||5.74||4.33||
+|Net Cash Reduced From<br>Investing Activities (B)||**3.42**||**(31.03)**||**(16.22)**||**13.75**|
+|**C. CASH FLOW FROM**<br>**FINANCING**<br>**ACTIVITIES:**|||||||||
+|Capital Introduction<br>(Along With Securities<br>Premium)|67.24||||||||
+|Increase / (Decrease) In|||||(283.5||(188.76||
+|Secured Loans|414.16||764.89||2)||)||
+|Increase / (Decrease) In<br>Other Loans & Term<br>Liabilities|(3.35)||(99.46)||14.00||(256.85<br>)||
+|Hire Charges On Vehicle<br>Loan|1.22||1.01||(0.50)||(0.40)||
+||||(577.64||(431.0||(298.00||
+|Payment Of Interest|(489.79)||)||0)||)||
+|Net Cash Generated From||||||**(701.0**||**(744.0**|
+|Financing Activities (C)||**(10.53)**||**88.79**||**2)**||**2)**|
+|Net Increase In Cash &<br>Cash Equivalents||<br>**223.71**||<br>**3.67**||<br>**18.98**||<br>**38.38**|
+|Cash & Cash Equivalent<br>At Beginning||**179.26**||**175.58**||**156.61**||**118.24**|
+|Cash & Cash Equivalent|||||||||
+|At The End Of The Year||**402.99**||**179.26**||**175.58**||**156.61**|
+
+
+
+83 
+
+# **GENERAL INFORMATION** 
+
+Our Company was incorporated in the name and style of ‘ _Amir Chand Jagdish Kumar (Exports) Limited_ ’ as a public limited company under the Companies Act, 1956, pursuant to a certificate of incorporation issued on August 29, 2003 by the Registrar of Companies, N.C.T of Delhi and Haryana. Our Company was granted its certificate for commencement of business on May 13, 2004. 
+
+The address and certain details of Registered and Corporate Office of our Company are as follows: 
+
+# **Registered Office:** 
+
+# **Amir Chand Jagdish Kumar (Exports) Limited** 
+
+2735, Shop No. 9, Mohan Lal Palace, Naya Bazar, Delhi – 110 006, India. 
+
+For details in relation to the changes in the Registered Office of our Company, see “ _History and Certain Corporate Matters - Changes in the Registered Office of our Company_ ” on page 236. 
+
+# **Corporate Office:** 
+
+**Amir Chand Jagdish Kumar (Exports) Limited** Village Sillakheri, Jind Road, Tehsil Safidon, District Jind, Haryana – 126 112, India. 
+
+# **Corporate Identity Number:** U15312DL2003PLC121979 
+
+# **Company Registration Number:** 121979 
+
+# **Address of the Registrar of Companies** 
+
+Our Company is registered with the Registrar of Companies, Delhi & Haryana situated at the following address: 
+
+4th Floor, IFCI Tower, 61, Nehru Place, New Delhi – 110 019, India. 
+
+# **Filing of this Draft Red Herring Prospectus** 
+
+A copy of this Draft Red Herring Prospectus is being filed electronically on the SEBI’s intermediary portal at https://siportal.sebi.gov.in, in accordance with Regulation 25(8) of the SEBI ICDR Regulations and in accordance with SEBI ICDR Master Circular no. SEBI/HO/CFD/PoD-2/P/CIR/2023/00094 dated June 21, 2023. It will also be filed with SEBI at: 
+
+# **Securities and Exchange Board of India** 
+
+Corporation Finance Department Division of Issues and Listing SEBI Bhavan, Plot No. C4 A, ‘G’ Block Bandra Kurla Complex, Bandra (E) Mumbai - 400 051, Maharashtra, India. 
+
+# **Filing of the Red Herring Prospectus and Prospectus** 
+
+A copy of the Red Herring Prospectus, along with the material contracts and documents required to be filed under Section 32 of the Companies Act, 2013 will be filed with the RoC and a copy of the Prospectus to be filed under Section 26 of the Companies Act, 2013 would be filed with the RoC and through the electronic portal at http://www.mca.gov.in/mcafoportal/loginvalidateuser.do. 
+
+84 
+
+# **Board of Directors** 
+
+Our Board comprises the following Directors as on the date of this Draft Red Herring Prospectus: 
+
+|**Name**|**Designation **|**DIN**|**Address**|
+|---|---|---|---|
+|Jagdish Kumar<br>Suri|Chairman & Managing<br>Director|00012690|House No. 659-A, Sushant Lok-1, Block A,<br>Gurgaon, Haryana–122 001, India.|
+|Rahul Suri|Whole Time Director|00012654|House No. 659-A, Sushant Lok-1, Block A,<br>Gurgaon, Haryana–122 001, India.|
+|Ramnika Suri|Non-Executive<br>Non-<br>Independent Director|00012622|House No. 659-A, Sushant Lok-1, Block A,<br>Gurgaon, Haryana–122 001, India.<br>|
+|Yogendra<br>Kumar Singhal|Independent Director|09636972|B-4/139, 2<sup>nd</sup>Floor, Safdarjung Enclave,<br>Delhi–110 029, India.<br>|
+|Gauri Shankar|Independent Director|06764026|Flat No. 1101, 11<sup>th</sup>Floor, Tower – J,<br>Amrapali Sapphire, Phase -1, Sector 45,<br>Noida, Uttar Pradesh–201 301, India.|
+|Rajni|Independent Director|10650061|3041, Gali No. 12A, Near Shiv Chowk,<br>Ranjit Nagar, Patel Nagar, Central Delhi,<br>Delhi–110 008, India.|
+
+
+
+For brief profiles and further details of our Directors, see “ _Our Management_ ” on page 243. 
+
+# **Company Secretary and Compliance Officer** 
+
+Sadhna Khurana is the Company Secretary and Compliance Officer of our Company. Her contact details are as follows: 
+
+# **Amir Chand Jagdish Kumar (Exports) Limited** 
+
+Village Sillakheri, Jind Road, Tehsil Safidon, District Jind, Haryana – 126 112, India. **Telephone:** +91 85959 12447 **E-mail:** info@aeroplanerice.com 
+
+# **Investor Grievances** 
+
+**Investors can contact our Company Secretary and Compliance Officer or the Registrar to the Issue in case of any pre-Issue or post-Issue related matters, such as non-receipt of letters of Allotment, non-credit of Allotted Equity Shares in the respective beneficiary account, non-receipt of refund orders or non-receipt of funds by electronic mode.** 
+
+For all Issue related queries and for redressal of complaints, investors may also write to the BRLMs. All Issue related grievances, other than that of Anchor Investors, may be addressed to the Registrar to the Issue with a copy to the relevant Designated Intermediary(ies) to whom the Bid cum Application Form was submitted. The Bidder should give full details such as name of the sole or first Bidder, Bid cum Application Form number, Bidder’s DP ID, Client ID, UPI ID, PAN, date of submission of the Bid cum Application Form, address of the Bidder, number of Equity Shares applied for, the name and address of the Designated Intermediary(ies) where the Bid cum Application Form was submitted by the Bidder and ASBA Account number (for Bidders other than UPI Bidders using the UPI Mechanism) in which the amount equivalent to the Bid Amount was blocked or the UPI ID in case of RIBs using the UPI Mechanism. 
+
+Further, the Bidder shall also enclose a copy of the Acknowledgment Slip or provide the acknowledgement number received from the Designated Intermediaries in addition to the information mentioned hereinabove. All grievances relating to Bids submitted through Registered Brokers may be addressed to the Stock Exchanges with a copy to the Registrar to the Issue. The Registrar to the Issue shall obtain the required information from the SCSBs for addressing any clarifications or grievances of ASBA Bidders. 
+
+All Issue related grievances of the Anchor Investors may be addressed to the Registrar to the Issue, giving full details such as the name of the sole or First Bidder, Bid cum Application Form number, Bidders’ DP ID, Client ID, PAN, date of the Anchor Investor Application Form, address of the Bidder, number of the Equity Shares applied for, Bid Amount paid on submission of the Bid Cum Application Form and the name and address of the 
+
+85 
+
+BRLMs unique transaction reference number, the name of the relevant bank where the Bid cum Application Form was submitted by the Anchor Investor. 
+
+# **Book Running Lead Managers** 
+
+**Emkay Global Financial Services Limited** 7th Floor, The Ruby, Senapati Bapat Marg, Dadar (West), Mumbai – 400 028, Maharashtra, India. **Telephone:** + 91 22 6612 1212 **E-mail:** acjkel.ipo@emkayglobal.com **Investor Grievance E-mail:** ibg@emkayglobal.com **Website:** www.emkayglobal.com **Contact Person:** Deepak Yadav/ Pooja Sarvankar **SEBI Registration Number:** INM000011229 **Keynote Financial Services Limited** 9th Floor, The Ruby, Senapati Bapat Marg Dadar (West), Mumbai – 400 028, Maharashtra, India. **Telephone:** + 91 22 6826 6000 **E-mail:** mbd@keynoteindia.net **Investor Grievance E-mail** : investors@keynoteindia.net **Website:** www.keynoteindia.net **Contact Person:** Milan Soni/ Virendra Chaurasia **SEBI Registration Number:** INM000003606 
+
+# **Statement of inter-se allocation of responsibilities among the BRLMs:** 
+
+|**Sr. No.**|**Activity**|**Responsibility**|**Co-ordination**|
+|---|---|---|---|
+|1.|Capital structuring with the relative components and formalities<br>such as composition of debt and equity, type of instruments,<br>positioning strategy and due diligence of the Company<br>including its operations/management/ business plans/legal etc.<br>Drafting, design and finalizing of the draft red herring<br>prospectus, red herring prospectus and prospectus and of<br>statutory / newspaper advertisements including a memorandum<br>containing salient features of the prospectus. The BRLMs shall<br>ensure compliance with SEBI ICDR Regulations and stipulated<br>requirements and completion of prescribed formalities with the<br>stock exchanges, RoC and SEBI and RoC filings and follow up<br>and coordination till final approval from all regulatory<br>authorities.|BRLMs|Emkay|
+|2.|Drafting and approval of statutory advertisements preparation<br>of Audiovisual (AV) presentation.|BRLMs|Emkay|
+|3.|Drafting and approval of all publicity material other than<br>statutory advertisement as mentioned above including corporate<br>advertising, brochure, application form, abridged prospectus,<br>etc. and filing of media compliance report.|BRLMs|Keynote|
+|4.|Appointment of intermediaries advertising agency, Registrar to<br>the Issue, printer (including coordinating all agreements to be<br>entered with such parties).|BRLMs|Emkay|
+|5.|Appointment of intermediaries banker(s) to the Issue, Sponsor<br>Bank, Syndicate Members, Monitoring Agency etc. (including<br>co-ordinating all agreements to be entered with such parties).|BRLMs|Keynote|
+|6.|To upload the documents on the Document Repository platform<br>of the Stock Exchanges for all the stages of the IPO.|BRLMs|Emkay|
+|7.|Preparation of road show presentation and frequently asked<br>questions.|BRLMs|Keynote|
+
+
+
+86 
+
+|**Sr. No.**|**Activity**|**Responsibility**|**Co-ordination**|
+|---|---|---|---|
+|8.|International institutional marketing of the Issue, which will<br>cover,_inter alia_:<br>•<br>Institutional marketing strategy and preparation of<br>publicity budget;<br>•<br>Finalising the list and division of international<br>investors for one to-one meetings<br>•<br>Finalising international road show and investor<br>meeting schedules.|BRLMs|Emkay|
+|9.|Domestic institutional marketing of the Issue, which will cover,<br>_inter alia_:|BRLMs|Keynote|
+||•<br>Finalising the list and division of domestic investors<br>for one-to-one meetings<br>•<br>Finalising domestic road show and investor meeting<br>schedules.|||
+|10.|Conduct non–institutional and retail marketing of the Issue,<br>which will cover,_inter alia_:<br>•<br>Finalising media, marketing and public relations<br>strategy;<br>•<br>Follow-up on distribution of publicity and offer<br>material including forms, the Prospectus and deciding<br>on the quantum of Issue material;<br>•<br>Finalising commission structure<br>•<br>Finalising centers for holding conferences for brokers<br>etc. and|BRLMs|Emkay|
+||•<br>Finalising collection centres.|||
+|11.|<br>Coordination with Stock Exchanges for book building software,<br>bidding terminals, mock trading, anchor coordination, anchor<br>CAN and initiation of anchor allocation.|BRLMs|Keynote|
+|12.|Managing the book and finalization of pricing in consultation<br>with our Company.|BRLMs|Keynote|
+|13.|<br>Post bidding activities including management of escrow<br>accounts, coordinate noninstitutional allocation, coordination<br>with registrar, SCSBs and banks, intimation of allocation and<br>dispatch of refund to bidders, etc. Post-Issue activities, which<br>shall involve essential follow-up steps including allocation to<br>Anchor Investors, follow-up with Bankers to the Issue and<br>SCSBs to get quick estimates of collection and advising the<br>issuer about the closure of the Issue, based on correct figures,<br>finalisation of the Basis of Allotment or weeding out of multiple<br>applications, coordination for unblock of funds by SCSBs,<br>finalization of trading, dealing and listing of instruments,<br>dispatch of certificates or demat credit and refunds and<br>coordination with various agencies connected with the post-<br>issue activity such as Registrar to the Issue, Bankers to the Issue,<br>SCSBs including responsibility for underwriting arrangements,<br>as applicable.|BRLMs|Keynote|
+||Submission of all post Issue reports including the Initial and<br>final Post Issue report to SEBI.|||
+
+
+
+# **Legal Counsel to the Issue as to Indian law** 
+
+**M/s. Crawford Bayley & Co.** State Bank Building, 4th Floor NGN Vaidya Marg Fort, Mumbai – 400 023 Maharashtra, India. **Telephone:** +91 22 2266 3353 
+
+87 
+
+# **Registrar to the Issue** 
+
+**KFin Technologies Limited** Selenium Tower-B, Plot 31 & 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad – 500 032, Telangana, India. **Telephone:** +91 40 6716 2222 **Toll Free No.:** 1800 309 4001 **E-mail:** acjkel.ipo@kfintech.com **Investor Grievance E-mail:** einward.ris@kfintech.com **Website:** www.kfintech.com **Contact Person:** M Murali Krishna **SEBI Registration Number:** INR000000221 
+
+**Statutory Auditors to our Company** 
+
+**Pramod K. Sharma & Co., Chartered Accountants** 11&12, 2<sup>nd</sup> floor, Sarnath Commercial Complex, Opp. Board Office, Shivaji Nagar, Bhopal, Madhya Pradesh – 462 016, India. **Telephone:** +91 0755-4273005 **E-mail:** pksharma_com@rediffmail.com , pramod360p@gmail.com **Firm Registration Number:** 007857C **Peer review number:** 020699 **Contact Person:** Pramod Sharma 
+
+# **Changes in Statutory Auditors** 
+
+Except as mentioned below, there has been no change in our statutory auditors in the three years preceding the date of this Draft Red Herring Prospectus: 
+
+|**Particulars of Auditors**|**Date of change**|**Reason**|
+|---|---|---|
+|**SPMG & Co., Chartered Accountants**<br>101, Sagar Plaza-II, Plot No. 27, Commercial<br>Complex, Rani Bagh, Pitampura, New Delhi<br>-110 034, India.<br>**Telephone:**011 - 47580854<br>**E-mail:**caswadeshgupta@spmg.in<br>**Firm Registration Number:**509249C<br>**Peer review number:**013869|September 29,<br>2022|Completion of tenure as<br>statutory auditors of our<br>Company|
+|**Rajender Kumar Singal & Associates**<br>**LLP, Chartered Accountants**<br>Flat No. 1001, Block-1, DDA SFS Flats,<br>Motia<br>Khan,<br>near<br>Vardhman<br>Plaza,<br>Jhandewalan Extn, Delhi- 110 055, India.<br>**Telephone:**+91 98113 40650<br>**E-mail:**rksa@rksinghal.com<br>**Firm Registration Number:**016379N<br>**Peer review number:**013277|September 30,<br>2022|Appointment as statutory<br>auditors of our Company|
+|**Rajender Kumar Singal & Associates**<br>**LLP, Chartered Accountants**|March 7, 2024|Resignation<br>as<br>statutory<br>auditors of our Company<br>due to rejection of proposal<br>for increment of audit fees|
+|**Pramod K Sharma & Co. Chartered**<br>**Accountants**<br>11&12, 2<sup>nd</sup>floor, Sarnath Commercial<br>Complex,<br>Opp. Board Office, Shivaji Nagar,<br>Bhopal,MadhyaPradesh – 462016,India.|March 29, 2024|Appointment as statutory<br>auditors of our Company to<br>fill the casual vacancy|
+
+
+
+88 
+
+|**Particulars of Auditors**|**Date of change**|**Reason**|
+|---|---|---|
+|**Telephone:**+91 0755-4273005<br>**E-mail:**<br>pksharma_com@rediffmail.com<br>,<br>pramod360p@gmail.com<br>**Firm Registration Number:**007857C|||
+|**Promod K Sharma & Co. Chartered**<br>**Accountants**|September 20,<br>2024|Reappointment as statutory<br>auditors of our Company|
+
+
+
+# **Banker(s) to the Issue** 
+
+**_Escrow Collection Bank(s), Refund Bank(s), Sponsor Bank and Public Issue Account Bank(s)_** 
+
+# **[●]** 
+
+# **Bankers to our Company** 
+
+# **Bank of India** 
+
+New Delhi Large Corporate Branch, PTI Building, 4, Parliament Street, New Delhi – 110 001, India. **Telephone:** 011-2346 1404/ 2376 5128 **E-mail:** largecorporatebr.newdelhi@bankofindia.co.in **Website:** www.bankofindia.co.in **Contact Person:** Deputy General Manager 
+
+# **Union Bank of India** 
+
+26/28-D, Connaught Place, New Delhi – 110 001, India. **Telephone:** +91 95409 63374 **E-mail:** ubin0549797@unionbankofindia.bank **Website:** www.unionbankonline.co.in **Contact Person:** Assistant General Manager 
+
+# **Indian Bank** 
+
+Mid Corporate Branch, 165-Industrial Area A, Cheema Chowk, Ludhiana, India. **Telephone:** +91 90515 55521 **E-mail:** mcbludhiana@indianbank.co.in **Website:** www.indianbank.in **Contact Person:** Chief Manager 
+
+# **Syndicate Member(s)** 
+
+# **[** • **]** 
+
+# **Designated Intermediaries** 
+
+# **Self-Certified Syndicate Banks** 
+
+The list of SCSBs notified by SEBI for the ASBA process is available at www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes or at such other website as may be prescribed by SEBI from time to time. A list of the Designated SCSB Branches with which an ASBA Bidder (other than a UPI Bidders), not bidding through Syndicate/ Sub Syndicate or through a Registered Broker, RTA or CDP may submit the Bid cum Application Forms, is available at www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34, or at such other websites as may be prescribed by SEBI from time to time 
+
+89 
+
+# **Self-Certified Syndicate Banks and mobile applications enabled for UPI Mechanism** 
+
+In accordance with SEBI ICDR master circular no. SEBI/HO/CFD/PoD-1/P/CIR/2024/0154 dated November 11, 2024, SEBI Circular No. SEBI/HO/CFD/DIL2/CIR/P/2019/85 dated July 26, 2019 and SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28, 2019, UPI Bidders may apply through the SCSBs and mobile applications whose names appears on the website of the SEBI (www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40) and (www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43) respectively, as updated from time to time. A list of SCSBs and mobile applications, which are live for applying in public issues using UPI mechanism is provided as ‘Annexure A’ for the SEBI circular number SEBI/HO/CFD/DIL2/CIR/P/2019/85 dated July 26, 2019. 
+
+# **Syndicate Self-Certified Syndicate Banks Branches** 
+
+In relation to Bids (other than Bids by Anchor Investors and RIBs) submitted under the ASBA process to a member of the Syndicate, the list of branches of the SCSBs at the Specified Locations named by the respective SCSBs to receive deposits of Bid cum Application Forms from the members of the Syndicate is available on the website of the SEBI (www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35) and updated from time to time or any such other website as may be prescribed by SEBI from time to time. For more information on such branches collecting Bid cum Application Forms from the Syndicate at Specified Locations, see the website of the SEBI at www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 as updated from time to time or any such other website as may be prescribed by SEBI from time to time. 
+
+# **Registered Brokers** 
+
+Bidders can submit ASBA Forms in the Issue using the stock broker network of the Stock Exchanges, i.e., through the Registered Brokers at the Broker Centre. The list of the Registered Brokers eligible to accept ASBA forms, including details such as postal address, telephone number and e-mail address, is provided on the websites of BSE and NSE at www.bseindia.com and www.nseindia.com, respectively, as updated from time to time. 
+
+# **Registrar and Share Transfer Agents** 
+
+The list of the RTAs eligible to accept ASBA Forms at the Designated RTA Locations, including details such as address, telephone number and e-mail address, is provided on the websites of Stock Exchanges at www.bseindia.com/Static/Markets/PublicIssues/RtaDp.aspx? and www.nseindia.com/products/content/equities/ipos/asba_procedures.htm, respectively, as updated from time to time. 
+
+# **Collecting Depository Participants** 
+
+The list of the CDPs eligible to accept ASBA Forms at the Designated CDP Locations, including details such as name and contact details, is provided on the websites of BSE at www.bseindia.com/Static/Markets/PublicIssues/RtaDp.aspx? and on the website of NSE at https://www.nseindia.com/products-services/initial-public-offerings-asba-procedures, as updated from time to time. 
+
+# **Experts** 
+
+Except as stated below, our Company has not obtained any expert opinions: 
+
+Our Company has received written consent dated June 27, 2025 from the Statutory Auditor, namely, Pramod K. Sharma & Co., Chartered Accountants, to include their name as required under Section 26(5) of the Companies Act, 2013 read with SEBI ICDR Regulations, in this Draft Red Herring Prospectus, and as an “expert” as defined under Section 2(38) of the Companies Act, 2013 to the extent and in their capacity as our Statutory Auditors, and in respect of (i) their examination report dated June 13, 2025 on the Restated Consolidated Financial Statements; and (ii) their report dated June 27, 2025 on the statement of possible special tax benefits in this Draft Red Herring Prospectus and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term “expert” shall not be construed to mean an “expert” as defined under the U.S. Securities Act. 
+
+90 
+
+Further, our Company has received written consent dated June 27, 2025 from Dharam Vir Mehta, Independent Chartered Engineer, to include its name as an “expert” as defined under Section 2(38) and other applicable provisions of the Companies Act, 2013 in respect of his certificate dated June 27, 2025, on installed capacity, actual utilisation at our manufacturing facility and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term “expert” and “consent” shall not be construed to mean an “expert” and “consent” as defined under the U.S. Securities Act. 
+
+Our Company has received written consent dated June 27, 2025 from PWR & Associates, Independent Practicing Company Secretaries, to include their name as an ‘expert’ as defined under Section 2(38) of the Companies Act to the extent and in its capacity as an independent practicing company secretary in respect of the certificate dated June 27, 2025 issued by it in connection secretarial compliances of our Company with _inter alia,_ untraceable corporate records of our Company and such consent has not been withdrawn as of the date of this Draft Red Herring Prospectus. 
+
+The term ‘expert’ shall not be construed to mean an ‘expert’ as defined under U.S. Securities Act. 
+
+# **Monitoring Agency** 
+
+In accordance with Regulation 41 of SEBI ICDR Regulations, our Company will appoint a monitoring agency to monitor the utilisation of the Gross Proceeds prior to the filing of the Red Herring Prospectus with RoC. For details in relation to the proposed utilisation of the Gross Proceeds, please see “ _Objects of the Issue_ ” beginning on page 109. 
+
+# **Appraising Entity** 
+
+None of the objects of the Issue for which the Net Proceeds will be utilised have been appraised by any agency. Accordingly, no appraising entity has been appointed in relation to the Issue. 
+
+# **Credit Rating** 
+
+As this is an Issue of Equity Shares, there is no credit rating for the Issue. 
+
+# **IPO Grading** 
+
+No credit rating agency registered with the SEBI has been appointed in respect of obtaining grading for the Issue. 
+
+# **Debenture Trustees** 
+
+As this is an issue of Equity Shares, no debenture trustee has been appointed for the Issue. 
+
+# **Green Shoe Option** 
+
+No green shoe option is contemplated under the Issue. 
+
+# **Illustration of the Book Building Process** 
+
+Book building, in the context of the Issue, refers to the process of collection of Bids from investors on the basis of the Red Herring Prospectus and the Bid cum Application Forms within the Price Band, which will be decided by our Company, in consultation with the BRLMs, and if not disclosed in the Red Herring Prospectus, will be advertised all editions of [●], an English national daily newspaper and all editions of [●], a Hindi national daily newspaper(Hindi being the regional language of Delhi, where our Registered Office is located), each with wide circulation, at least two Working Days prior to the Bid/Issue Opening Date and shall be made available to the Stock Exchanges for the purpose of uploading on their respective websites. The Issue Price shall be determined by our Company in consultation with the BRLMs, after the Bid/Issue Closing Date. For further details, see “ _Issue Procedure_ ” on page 420. 
+
+**All Bidders, except Anchor Investors, are mandatorily required to use the ASBA process for participating in the Issue by providing details of their respective ASBA Account in which the corresponding Bid Amount will be blocked by SCSBs. In addition to this, the RIBs may participate through the ASBA process by either (a) providing the details of their respective ASBA Account in which the corresponding Bid Amount will be** 
+
+91 
+
+**blocked by the SCSBs; or (b) through the UPI Mechanism. Except for Allocation to RIBs, Non-Institutional Bidders and the QIBs in the Net QIB Portion, Allocation in the Issue will be on a proportionate basis. Anchor Investors are not permitted to participate in the Issue through the ASBA process. In accordance with the SEBI ICDR Regulations, QIBs and Non-Institutional Investors are not permitted to withdraw or lower the size of their Bids (in terms of the quantity of the Equity Shares or the Bid Amount) at any stage. Retail Individual Investors can revise their Bids during the Bid/ Issue Period and withdraw their Bids until the Bid/ Issue Closing Date. Further, Anchor Investors cannot withdraw their Bids after the Anchor Investor Bidding Date. Allocation to QIBs (other than Anchor Investors) and Non-Institutional Investors will be on a proportionate basis while allocation to Anchor Investors will be on a discretionary basis. Each Bidder by submitting a Bid in the Issue, was deemed to have acknowledged the above restrictions and the terms of the Issue. For further details, see “** **_Terms of the Issue_ ” and “** **_Issue Procedure_ ” on pages 408 and 420 respectively.** 
+
+**The Book Building Process is in accordance with guidelines, rules and regulations prescribed by SEBI and are subject to change from time to time. Bidders are advised to make their own judgement about an investment through this process prior to submitting a Bid.** 
+
+The Bidders should note that the Issue is also subject (i) filing of the Prospectus by our Company with the RoC; and (ii) obtaining final listing and trading approvals of the Stock Exchanges, which our Company shall apply for after Allotment as per the prescribed timelines in compliance with the SEBI ICDR Regulations **.** 
+
+For further details on the method and procedure for Bidding, see “ _Issue Structure_ ”, “ _Issue Procedure_ ” and “ _Terms of the Issue_ ” on pages 415, 420 and 408, respectively. 
+
+# **Underwriting Agreement** 
+
+After the determination of the Issue Price but prior to the filing of the Prospectus with the RoC, our Company will enter into an Underwriting Agreement with the Underwriters for the Equity Shares proposed to be offered through the Issue. Pursuant to the terms of the Underwriting Agreement, the obligations of the Underwriters will be several and will be subject to certain conditions to closing, as specified therein 
+
+The Underwriting Agreement is dated [●]. The Underwriters have indicated their intention to underwrite the following number of Equity Shares which they shall subscribe to on account of rejection of bids, either by themselves or by procuring subscription, at a price which shall not be less than the Issue Price, pursuant to the Underwriting Agreement: 
+
+_(The Underwriting Agreement has not been executed as on the date of this Draft Red Herring Prospectus. This portion has been intentionally left blank and will be filled in before, and this portion will be applicable upon the execution of the Underwriting Agreement and filing of the Prospectus with the RoC, as applicable._ **_)_** 
+
+|**Name, Address, Telephone**<br>**Number and Email Address of the**<br>**Underwriters**|**Indicative Number of Equity**<br>**Shares to be Underwritten**|**Amount Underwritten****_(in_**<br>**_₹ million)_**|
+|---|---|---|
+|[●]|[●]|[●]|
+|[●]|[●]|[●]|
+
+
+
+The above-mentioned underwriting commitments are indicative and will be finalised after pricing of the Issue, the Basis of Allotment and actual allocation in accordance with provisions of the SEBI ICDR Regulations. 
+
+In the opinion of our Board (based on representation made to our Company by the Underwriters), the resources of the abovementioned Underwriters are sufficient to enable them to discharge their respective underwriting obligations in full. The abovementioned Underwriters are registered with the SEBI under Section 12(1) of the SEBI Act or registered as brokers with the Stock Exchanges. Our Board/ IPO Committee, at its meeting held on [●], has accepted and entered into the Underwriting Agreement mentioned above on behalf of our Company. 
+
+Allocation among the Underwriters may not necessarily be in proportion to their underwriting commitment set forth in the table above. 
+
+92 
+
+Notwithstanding the above table, the Underwriters shall be severally responsible for ensuring payment with respect to the Equity Shares allocated to investors respectively procured by them in accordance with the Underwriting Agreement. In the event of any default in payment, the respective Underwriter, in addition to other obligations defined in the Underwriting Agreement, will also be required to procure subscribers for or subscribe to the Equity Shares to the extent of the defaulted amount in accordance with the Underwriting Agreement. The Underwriting Agreement has not been executed as on the date of this Draft Red Herring Prospectus and will be executed in accordance with applicable laws, after the determination of the Issue Price and allocation of Equity Shares, prior to the filing of the Prospectus with the RoC. The extent of underwriting obligations and the Bids to be underwritten in the Issue shall be as per the Underwriting Agreement. 
+
+93 
+
+# **CAPITAL STRUCTURE** 
+
+The share capital of our Company, as on the date of this Draft Red Herring Prospectus, is set forth below: 
+
+|**Sr.**|**Particulars**|**Amo**|**unt**|
+|---|---|---|---|
+|**No.**||**_(in ₹ million, except sh_**<br>**_otherwise)_**|**_are data or indicated_**|
+|||**Aggregate value at**<br>**face value**|**Aggregate value at**<br>**Issue Price**|
+|**A.**|**Authorised Share Capital**<sup>(1)</sup>|||
+||120,000,000 Equity Shares of face value of ₹10 each|1,200.00|-|
+|**B.**|**Issued, Subscribed and Paid-Up Share Capital**<br>**before the Issue**|||
+||82,041,028 Equity Shares of face value of ₹10 each|820.41|-|
+|**C.**|**Present Issue in terms of this Draft Red Herring**<br>**Prospectus**|||
+||Fresh Issue up to [●] Equity Shares of face value of ₹10<br>each aggregating up to ₹5,500 million<sup>(2)</sup>|[●]|[●]|
+|**D.**|**Issued, Subscribed and Paid-Up Share Capital after**<br>**the Issue**|||
+||[●] Equity Shares of face value of ₹10 each<sup>*</sup><sup>**#**</sup>|[●]|[●]|
+|**E.**|**Securities Premium Account**|||
+||Before the Issue||490.44|
+||After the Issue<sup>*</sup>||[●]|
+|_*  To b_<br>_#Assu_|_e updated upon finalization of the Issue Price and subject to the_<br>_ming full subscription in the Issue._|_basis of Allotment._||
+
+
+
+> _(1) For details in relation to the changes in the authorised share capital of our Company in the last 10 years preceding the date of this Draft Red Herring Prospectus, see “History and Certain Corporate Matters – Amendments to our Memorandum of Association” on page 236._ 
+
+> _(2) Our Company, in consultation with the BRLMs, may consider a Pre-IPO Placement of specified securities, as may be permitted under the applicable law, aggregating up to ₹500 million prior to filing of the Red Herring Prospectus with the RoC. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company, in consultation with the BRLMs. If the Pre-IPO Placement is completed, the amount raised pursuant to the Pre-IPO Placement will be reduced from the Fresh Issue, subject to compliance with Rule 19(2)(b) of the SCRR. The Pre-IPO Placement, if undertaken, shall not exceed 20% of the size of the Fresh Issue. Prior to the completion of the Issue, our Company shall appropriately intimate the subscribers to the Pre-IPO Placement, if undertaken, prior to allotment pursuant to the Pre-IPO Placement, that there is no guarantee that our Company may proceed with the Issue, or the Issue will be successful and will result into listing of the Equity Shares on the Stock Exchanges. Further, relevant disclosures in relation to such intimation to the subscribers to the Pre-IPO Placement (if undertaken) shall be appropriately made in the relevant sections of the RHP and Prospectus._ 
+
+94 
+
+# **NOTES TO CAPITAL STRUCTURE** 
+
+# 1. **History of Share capital of our Company** 
+
+# **A. Equity Share Capital** 
+
+The following table sets forth details of the history of paid-up Equity Share capital of our Company: 
+
+|**Date**<br>**of**<br>**Allotment**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**_(₹_) **|**Issue**<br>**Price**<br>**(****_₹_) **|**Form**<br>**consider**|**of**<br>**ation**|**Nature/**<br>**Reason**<br>**of**<br>**Allotment**|**Name(s) of allottee(s) and details of Equity Shares**<br>**allotted per allottee**|**Cumulative**<br>**number**<br>**of**<br>**Equity**<br>**Shares**|<br>**Cumulative**<br>**paid**<br>**-up**<br>**Capital**<br>**(****_₹_) **|
+|---|---|---|---|---|---|---|---|---|---|
+|August<br>25,<br>2003<sup>*</sup>|70,000|10|10|Cash||Subscription to MOA|Subscription to the MOA by a) Jagdish Kumar Suri<br>for 10,000 Equity Shares, b) Ramnika Suri for<br>10,000 Equity Shares, c) Rahul Suri for 10,000<br>Equity Shares, d) Jasmine Suri for 10,000 Equity<br>Shares, e) Siya Malhotra for 10,000 Equity Shares,<br>f) Shakuntala Suri for 10,000 Equity Shares and g)<br>Vikrant Anand for 10,000 Equity Shares|70,000|<br>700,000|
+|January<br>14,<br>2005<sup>#</sup>|4,825,000|10|70|Other<br>Cash|than|Allotment pursuant to<br>takeover of_erstwhile_<br>M/s.<br>Amir<br>Chand<br>Jagdish Kumar through<br>Takeover Agreement|Allotment to Jagdish Kumar Suri for 4,825,000<br>Equity Shares|4,895,000|<br>48,950,000|
+|March<br>23,<br>2008|200|10|100^|Cash||Preferential Allotment|Allotment to a) Narendra Kumar Sehgal for 100<br>Equity Shares and b) Sushil Sehgal for 100 Equity<br>Shares.|4,895,200|<br>48,952,000|
+|June 4, 2008|420,000|10|90|Cash<sup>@</sup>||Preferential Allotment|Allotment to Jagdish Kumar Suri for 50,000 Equity<br>Shares|5,315,200|<br>53,152,000|
+|||||Other<br>Cash|than|Allotment pursuant to<br>conversion of loan|Allotment to a) Jagdish Kumar Suri for 45,000<br>Equity Shares and b) Rahul Suri for 8,333 Equity<br>Shares|||
+|||||||Allotment pursuant to<br>purchase of goods from<br>Rahul Suri, proprietor<br>of<br>_erstwhile_<br>M/s.<br>ACJK|Allotment to Rahul Suri for 316,667 Equity Shares|||
+|June 27, 2008|13,500|10|90|Other<br>Cash<sup>$</sup>|than|Allotment pursuant to<br>purchase of goods from<br>Rahul Suri, proprietor|Allotment to Rahul Suri for 13,500 Equity Shares|5,328,700|<br>53,287,000|
+
+
+
+95 
+
+|**Date**<br>**of**<br>**Allotment**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**_(₹_) **|**Issue**<br>**Price**<br>**(****_₹_) **|**Form**<br>**conside**|**of**<br>**ration**|**Nature/**<br>**Reason**<br>**of**<br>**Allotment**|**Name(s) of allottee(s) and details of Equity Shares**<br>**allotted per allottee**|**Cumulative**<br>**number**<br>**of**<br>**Equity**<br>**Shares**|<br>**Cumulative**<br>**paid**<br>**-up**<br>**Capital**<br>**(****_₹_) **|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||of<br>_erstwhile_<br>M/s.<br>ACJK||||
+|February<br>3,<br>2015|110,000|10|910|Other<br>Cash|than|Allotment pursuant to<br>purchase of goods from<br>Rahul Suri, proprietor<br>of<br>_erstwhile_<br>M/s.<br>ACJK|Allotment to Rahul Suri for 110,000 Equity Shares|5,438,700|<br>54,387,000|
+|August<br>24,<br>2024|13,158|10|2,280|Cash||Preferential Allotment|Allotment to Ankit Jagdishbhai Agarwal for 13,158<br>Equity Shares|5,451,858|<br>54,518,580|
+|September<br>11, 2024|76,326,012|10|NA|Other<br>Cash|than|Bonus Issue in the ratio<br>of 14  fully paid-up<br>Equity Shares for every<br>1 Equity Share held by<br>the Shareholders on<br>August 27, 2024 being<br>the record date.|<br>Allotment to a) Jagdish Kumar Suri for 69,161,260<br>Equity Shares, b) Rahul Suri for 6,420,260 Equity<br>Shares, c) Ramnika Suri for 280,000 Equity Shares,<br>d) Jasmine Suri for 140,000 Equity Shares, e) Siya<br>Malhotra for 140,000 Equity Shares, f) Satish<br>Saigal for 140 Equity Shares, g) Nishi Saigal for<br>140 Equity Shares and h) Ankit Jagdishbhai<br>Agarwal for 184,212 Equity Shares|81,777,870|<br>817,778,700|
+|September<br>23, 2024|263,158|10|152|Cash||Preferential Allotment|<br>Allotment to a) Somani Ventures and Innovations<br>Limited for 131,579 Equity Shares and b) Divya<br>Deven Pathak for 131,579 Equity Shares.|82,041,028|<br>820,410,280|
+
+
+
+- ⁎ _Our Company was incorporated on August 29, 2003. The date of subscription to the Memorandum of Association was August 25, 2003._ 
+
+- _# Allotment of a total of 4,825,000 Equity Shares, as sale consideration, to Jagdish Kumar Suri (proprietor of erstwhile M/s. Amir Chand Jagdish Kumar) pursuant to takeover of the assets and liabilities of the erstwhile M/s. Amir Chand Jagdish Kumar by our Company, vide Takeover Agreement dated January 14, 2005. For further information, please refer to “History and Certain Corporate Matters- Other Material Agreements” on page 240._ 
+
+   - _We have relied upon the disclosure forming part of the Board meeting minutes dated December 22, 2004, to ascertain details of the allotment, since Form 2 is not traceable in the records of the Company. Additionally, we have conducted a search at the RoC for such records but were unable to retrieve them and have relied on the physical search verification carried on March 21, 2024 by PWR & Associates, independent practicing company secretaries as certified by their certificate dated June 27, 2025._ 
+
+- ^ _Our Company in Form 2, had inadvertently mentioned the issue price as ₹10 each instead of ₹100 each. In this regard, our Company had filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record._ 
+
+- @ _Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of partly, in ‘cash’ and ‘other than cash’. In this regard, our Company had filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record._ 
+
+- $ _Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of ‘other than cash’. In this regard, our Company had filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record._ 
+
+   - _For further information, please refer to “Risk Factors- We are unable to trace some of our historical records with respect to secretarial forms filed with the Registrar of Companies. Additionally, there are certain discrepancies/ errors/ non-filings/ non-availability which have occurred in some of our corporate records relating to forms filed with the RoC and other provisions of Companies Act, 1956 and Companies Act, 2013. Any penalty or action taken by any regulatory authorities in future, for non-compliance with provisions of corporate or any other law could impact the financial position of our Company to that extent.” on page 44._ 
+
+96 
+
+# **B. Preference Share capital history of our Company** 
+
+Our Company does not have any issued or outstanding preference share capital as on the date of this Draft Red Herring Prospectus. 
+
+# **C. Secondary transactions of Equity Shares** 
+
+The following table sets forth details of the history of acquisition of Equity Shares through secondary transactions by the shareholders of our Company: 
+
+|**Date**<br>**Transfe**<br>**Equity**<br>**Shares**|**of**<br>**r of**|**No. of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**(****_₹_) **|**Transfer**<br>**Price**<br>**(****_₹_) **|**Form**<br>**of**<br>**conside**<br>**ration**|**Nature/**<br>**Reason**<br>**of**<br>**transaction**|**Name**<br>**of**<br>**transferor**|**Name**<br>**of**<br>**transferee**|**% of pre-**<br>**Issue**<br>**capital**|
+|---|---|---|---|---|---|---|---|---|---|
+|July<br>2008|20,|10,000|10|NA|NA|Transmission|Shakuntala<br>Devi|Jagdish<br>Kumar Suri|0.01|
+|January<br>2018|16,|10,000|10|NA|NA|Gift|Vikrant<br>Anand|Ramnika<br>Suri|0.01|
+|July 5, 2|024|90|10|560|Cash|Off-Market<br>Sale|Sushil Sehgal|Jagdish<br>Kumar Suri|_Negligible_|
+|July 5, 2|024|90|10|560|Cash|Off-Market<br>Sale|Narendra<br>Kumar<br>Sehgal|Rahul Suri|_Negligible_|
+|August<br>2024|1,|10|10|560|Cash|Off-Market<br>Sale|Sushil Sehgal|Nishi Saigal|_Negligible_|
+|August<br>2024|8,|10|10|560|Cash|Off-Market<br>Sale|Narendra<br>Kumar<br>Sehgal|Satish Saigal|_Negligible_|
+|Decemb<br>3,2024|er|150|10|Nil|Nil|Off-Market<br>Sale|Satish Saigal|Nishi Saigal|_Negligible_|
+
+
+
+2. **Issue of equity shares for consideration other than cash or out of revaluation reserves or by way of bonus issues:** 
+
+   - a) As on the date of this Draft Red Herring Prospectus, our Company has not issued any Equity Shares out of revaluation reserves since its incorporation. 
+
+   - b) Except as stated below our Company has not issued any Equity Shares for consideration other than cash as on the date of this Draft Red Herring Prospectus: 
+
+|**Date**<br>**of**<br>**Allotment**|**Name of Allottees**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**valu**<br>**e**<br>**(****_₹_) **|**Issue**<br>**Price**<br>**(****_₹_) **|**Form**<br>**conside**<br>**n**|**of**<br>**ratio**|**Nature/ Reason**<br>**of Allotment**|**Whethe**<br>**benefits**<br>**accrued**<br>**Issuer o**<br>**issue**|**r**<br>**any**<br> <br>**have**<br>**to the**<br>**ut of the**|
+|---|---|---|---|---|---|---|---|---|---|
+|January<br>14, 2005*|Jagdish<br>Kumar<br>Suri for 4,825,000<br>Equity Shares|4,825,000|10|70|Other<br>Cash|than|Allotment<br>pursuant<br>to<br>takeover<br>of<br>_erstwhile_M/s.<br>Amir<br>Chand<br>Jagdish Kumar<br>through<br>Takeover<br>Agreement|Acquisi<br>the bu<br>Amir<br>Jagdish<br>_erstwhi_<br>propriet<br>firm of<br>Kumar<br>going<br>basis|tion<br>of<br>siness of<br>Chand<br>Kumar,<br>_le_<br>orship<br>Jagdish<br>Suri on a<br>concern|
+|June<br>4,<br>2008|a) Jagdish Kumar<br>Suri<br>for<br>45,000<br>Equity Shares and<br>b) Rahul Suri for<br>8,333<br>Equity<br>Shares|53,333|10|90|Other<br>Cash<sup>#</sup>|than|Allotment<br>pursuant<br>to<br>conversion<br>of<br>loan|Liabilit<br>Compa<br>convert<br>Equity|y of the<br>ny<br>ed<br>to<br>Shares|
+
+
+
+97 
+
+|**Date**<br>**of**<br>**Allotment**|**Name of Allottees**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**valu**<br>**e**<br>**(****_₹_) **|**Issue**<br>**Price**<br>**(****_₹_) **|**Form**<br>**of**<br>**consideratio**<br>**n**|**Nature/ R**<br>**of Allotme**|**eason**<br>**nt**|**Whether**<br>**any**<br>**benefits**<br>**have**<br>**accrued to the**<br>**Issuer out of the**<br>**issue**|
+|---|---|---|---|---|---|---|---|---|
+||Rahul<br>Suri<br>for<br>316,667<br>Equity<br>Shares|316,667|10|90|Other than<br>Cash<sup>#</sup>|Allotment<br>pursuant<br>purchase<br>goods<br>Rahul<br>proprietor<br>_erstwhile_ <br>ACJK|<br>to<br>of<br>from<br>Suri,<br> <br>of<br>M/s.|Liability of the<br>Company<br>converted<br>to<br>Equity Shares|
+|June 27,<br>2008|Rahul<br>Suri<br>for<br>13,500<br>Equity<br>Shares|13,500|10|90|Other than<br>Cash<sup>@</sup>|Allotment<br>pursuant<br>purchase<br>goods<br>Rahul<br>proprietor<br>_erstwhile_ <br>ACJK|<br>to<br>of<br>from<br>Suri,<br> <br>of<br>M/s.|Liability of the<br>Company<br>converted<br>to<br>Equity Shares|
+|February<br>3, 2015|Rahul<br>Suri<br>for<br>110,000<br>Equity<br>Shares|110,000|10|910|Other than<br>Cash|Allotment<br>pursuant<br>purchase<br>goods<br>Rahul<br>proprietor<br>_erstwhile_ <br>ACJK|<br>to<br>of<br>from<br>Suri,<br> <br>of<br>M/s.|Liability of the<br>Company<br>converted<br>to<br>Equity Shares|
+|Septembe<br>r 11, 2024|a) Jagdish Kumar<br>Suri for 69,161,260<br>Equity Shares, b)<br>Rahul<br>Suri<br>for<br>6,420,260<br>Equity<br>Shares, c) Ramnika<br>Suri for 280,000<br>Equity Shares, d)<br>Jasmine Suri for<br>140,000<br>Equity<br>Shares,<br>e)<br>Siya<br>Malhotra<br>for<br>140,000<br>Equity<br>Shares, f) Satish<br>Saigal<br>for<br>140<br>Equity Shares, g)<br>Nishi Saigal for<br>140 Equity Shares<br>and<br>h)<br>Ankit<br>Jagdishbhai<br>Agarwal<br>for<br>184,212<br>Equity<br>Shares|76,326,01<br>2|10|NA|Other than<br>Cash|Bonus Iss<br>the ratio<br>fully<br>pa<br>Equity S<br>for<br>ever<br>Equity<br> <br>held<br>by<br>Sharehold<br>on Augus<br>2024 bein<br>record dat|ue in<br>of 14<br>id-up<br>hares<br>y<br>1<br>Share<br>the<br>ers<br>t 27,<br>g the<br>e.|Nil|
+
+
+
+⁎ _Allotment of a total of 4,825,000 Equity Shares, as sale consideration, to Jagdish Kumar Suri (proprietor of erstwhile M/s. Amir Chand Jagdish Kumar) pursuant to takeover of the assets and liabilities of the erstwhile M/s. Amir Chand Jagdish Kumar by our Company, vide Takeover Agreement dated January 14, 2005. For further information, please refer to “History and Certain Corporate Matters- Other Material Agreements” on page 240._ 
+
+- _We have relied upon the disclosure forming part of the Board meeting minutes dated December 22, 2004, to ascertain details of the allotment, since Form 2 is not traceable in the records of the Company. Additionally, we have conducted a search at the RoC for such records but were unable to retrieve them and have relied on the physical search verification carried on March 21, 2024 by PWR & Associates, independent practicing company secretaries as certified by their certificate dated June 27, 2025._ 
+
+> _# Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of partly, in ‘cash’ and ‘other than cash’. In this regard, our Company has filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record._ 
+
+98 
+
+- _@ Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of ‘other than cash’._ 
+
+   - _In this regard, our Company had filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record. For further information, please refer to “Risk Factors - We are unable to trace some of our historical records with respect to secretarial forms filed with the Registrar of Companies. Additionally, there are certain discrepancies/ errors/ non-filings/ non-availability which have occurred in some of our corporate records relating to forms filed with the RoC and other provisions of Companies Act, 1956 and Companies Act, 2013. Any penalty or action taken by any regulatory authorities in future, for non-compliance with provisions of corporate or any other law could impact the financial position of our Company to that extent.” on page 44._ 
+
+   - c) Except as disclosed below, our Company has not issued any Equity Shares by way of bonus issue or at a price lower than the Issue Price during a period of one year preceding the date of this Draft Red Herring Prospectus: 
+
+|**Date**<br>**of**<br>**Allotment**|**Name of Allottees**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**(****_₹_) **|**Issue**<br>**Price**<br>**(****_₹_) **|**Form of**<br>**consider**<br>**ation**|**Nature/**<br>**Reason**<br>**of**<br>**Allotment**|**Benefits**<br>**if**<br>**any,**<br>**that**<br>**have**<br>**accrued to**<br>**the**<br>**our**<br>**Company**|
+|---|---|---|---|---|---|---|---|
+|September<br>11, 2024|a) Jagdish Kumar Suri<br>for 69,161,260 Equity<br>Shares, b) Rahul Suri<br>of 6,420,260 Equity<br>Shares, c) Ramnika|76,326,012|10|NA|Other<br>than<br>Cash|Bonus Issue<br>in the ratio<br>of 14  fully<br>paid-up<br>Equity|Nil|
+||Suri of 280,000 Equity|||||Shares for||
+||Shares, d) Jasmine Suri|||||every<br>1||
+||for<br>140,000<br>Equity|||||Equity||
+||Shares,<br>e)<br>Siya|||||Share held||
+||Malhotra for 140,000|||||by<br>the||
+||Equity Shares, f) Satish|||||Shareholde||
+||Saigal for 140 Equity|||||rs<br>on||
+||Shares, g) Nishi Saigal|||||August 27,||
+||for 140 Equity Shares|||||2024 being||
+||and<br>h)<br>Ankit|||||the record||
+||Jagdishbhai<br>Agarwal<br>for 1,84,212 Equity<br>Shares|||||date.||
+
+
+
+3. Our Company is in compliance with the Companies Act, 1956 and Companies Act, 2013, to the extent applicable, with respect to issuance of  Equity Shares from the date of incorporation of our Company till the date of this Draft Red Herring Prospectus. 
+
+4. Our Company has not issued any Equity Shares under any employee stock option scheme or employee stock purchase scheme as on the date of this Draft Red Herring Prospectus. 
+
+5. Our Company has not allotted any Equity Shares in terms of any scheme of arrangement approved under Section 391-394 of the Companies Act, 1956 or Section 230-234 of the Companies Act, 2013. 
+
+6. All transactions in Equity Shares by our Promoters and members of our Promoter Group between the date of filing of this Draft Red Herring Prospectus and the Bid/Issue Closing Date shall be reported to the Stock Exchanges within 24 hours of such transactions. 
+
+7. Our Company shall ensure that the Pre-IPO Placement, if undertaken, will be reported to the Stock Exchanges within 24 hours of the Pre-IPO Placement. 
+
+8. **Details of build-up of our Promoters’ equity shareholding:** 
+
+As on the date of this Draft Red Herring Prospectus, the Promoters of our Company, hold 81,280,200 Equity Shares of face value of ₹10 each, equivalent to 99.07% of the issued, subscribed and paid-up Equity Share capital of our Company and none of the Equity Shares held by the Promoters are subject to any pledge. 
+
+99 
+
+Set forth below are the details of the build–up of our Promoters’ equity shareholding in our Company since incorporation: 
+
+# 1. **Jagdish Kumar Suri:** 
+
+|**Date**<br>**of**<br>**Allotment**<br>**/**<br>**Transfer of**<br>**Equity**<br>**Shares**|**Nature/ Reason of**<br>**transaction**|**No. of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**(****_₹_) **|**Issue /**<br>**transfer**<br>**price (****_₹_) **|**Form**<br>**conside**|**of**<br>**ration**|**% of pre-**<br>**Issue**<br>**capital**|**% of**<br>**post Issue**<br>**capital**|
+|---|---|---|---|---|---|---|---|---|
+|August 25,<br>2003*|Subscription<br>to<br>MOA|10,000|10|10|Cash||0.01|[●]|
+|January 14,<br>2005<sup>#</sup>|Allotment<br>pursuant<br>to<br>takeover<br>of<br>_erstwhile_<br>M/s.<br>Amir<br>Chand<br>Jagdish<br>Kumar<br>through Takeover<br>Agreement|4,825,000|10|70|Other<br>Cash|than|5.88|[●]|
+|June 4, 2008|Preferential<br>allotment of 50,<br>000 Equity Shares<br>and<br>allotment<br>pursuant<br>to<br>conversion of loan<br>of 45,000 Equity<br>Shares|95,000|10|90|Cash<br>Other<br>Cash^|and<br>than|0.12|[●]|
+|July<br>20,<br>2008|Transfer<br>from<br>Shakuntala Devi|10,000|10|NA|Transmi|ssion|0.01|[●]|
+|July 5, 2024|Transfer<br>from<br>Sushil Sehgal|90|10|560|Cash||_Negligible_|[●]|
+|September<br>11, 2024|Bonus Issue in the<br>ratio of 14  fully<br>paid-up<br>Equity<br>Shares for every 1<br>Equity Share held<br>by<br>the<br>Shareholders<br>on<br>August 27, 2024<br>being the record<br>date.|69,161,260|10|NA|Other<br>Cash|than|84.30|[●]|
+|**Total**||**74,101,350**|||||**90.32**|**[●]**|
+
+
+
+- ⁎ _Our Company was incorporated on August 29, 2003. The date of subscription to the Memorandum of Association was August 25, 2003._ 
+
+- # _Allotment of a total of 4,825,000 Equity Shares, as sale consideration, to Jagdish Kumar Suri (proprietor of erstwhile M/s. Amir Chand Jagdish Kumar) pursuant to takeover of all the assets and liabilities of the erstwhile M/s. Amir Chand Jagdish Kumar by our Company, vide Takeover Agreement dated January 14, 2005. For further information, please refer to “History and Certain Corporate Matters - Other Material Agreements” on page 240. We have relied upon the disclosure forming part of the Board meeting minutes dated December 22, 2004, to ascertain details of the allotment, since Form 2 is not traceable in the records of the Company. Additionally, we have conducted a search at the RoC for such records but were unable to retrieve them and have relied on the physical search verification carried on March 21, 2024 by PWR & Associates, Independent Practicing Company Secretaries as certified by their certificate dated June 27, 2025._ 
+
+- ^ _Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of partly, in ‘cash’ and ‘other than cash’. In this regard, our Company has filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record. For further information, please refer to “Risk Factors- We are unable to trace some of our historical records with respect to_ 
+
+100 
+
+_secretarial forms filed with the Registrar of Companies. Additionally, there are certain discrepancies/ errors/ nonfilings/ non-availability which have occurred in some of our corporate records relating to forms filed with the RoC and other provisions of Companies Act, 1956 and Companies Act, 2013. Any penalty or action taken by any regulatory authorities in future, for non-compliance with provisions of corporate or any other law could impact the financial position of our Company to that extent.” on page 44._ 
+
+# 2. **Rahul Suri:** 
+
+|**Date**<br>**of**<br>**Allotment /**<br>**Transfer of**<br>**Equity**<br>**Shares**|**Nature/ Reason of**<br>**transaction**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**(****_₹_) **|**Issue /**<br>**transfer**<br>**price**<br>**(****_₹_) **|**Form**<br>**conside**<br>**n**|**of**<br>**ratio**|**% of pre-**<br>**Issue**<br>**capital**|**% of post-**<br>**Issue**<br>**capital**|
+|---|---|---|---|---|---|---|---|---|
+|August 25,<br>2003*|Subscription<br>to<br>MOA|10,000|10|10|Cash||0.01|[●]|
+|June<br>4,<br>2008|Allotment pursuant<br>to conversion of<br>loan<br>for<br>8,333<br>Equity Shares and<br>allotment pursuant<br>to<br>purchase<br>of<br>goods from Rahul<br>Suri, proprietor of<br>_erstwhile_<br>M/s.<br>ACJK for 316,667<br>Equity Shares|325,000|10|90|Other<br>Cash<sup>#</sup>|than|0.39|[●]|
+|June<br>27,<br>2008|Allotment pursuant<br>to<br>purchase<br>of<br>goods from Rahul<br>Suri, proprietor of<br>_erstwhile_<br>M/s.<br>ACJK|13,500|10|90|Other<br>Cash^|than|0.02|[●]|
+|February 3,<br>2015|Allotment pursuant<br>to<br>purchase<br>of<br>goods from Rahul<br>Suri, proprietor of<br>_erstwhile_<br>M/s.<br>ACJK|110,000|10|910|Other<br>Cash|than|0.13|[●]|
+|July 5, 2024|Off-Market<br>Sale<br>from<br>Narendra<br>Kumar Sehgal|90|10|560|NA||_Negligible_|[●]|
+|September<br>11, 2024|Bonus Issue in the<br>ratio of 14  fully<br>paid-up<br>Equity<br>Shares for every 1<br>Equity Share held<br>by<br>the<br>Shareholders<br>on<br>August 27, 2024<br>being the record<br>date.|6,420,260|10|NA|Other<br>Cash|than|7.83|[●]|
+|**Total**||**6,878,850**|||||**8.38**|[●]|
+
+
+
+⁎ _Our Company was incorporated on August 29, 2003. The date of subscription to the Memorandum of Association was August 25, 2003._ 
+
+- # _Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of partly, in ‘cash’ and ‘other than cash’. In this regard, our Company has filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record._ 
+
+- ^ _Our Company in Form 2, had inadvertently mentioned that the allotment was made for a consideration in ‘cash’ instead of ‘other than cash’. In this regard, our Company had filed an application dated April 21, 2025, in Form GNL-1 with the RoC, requesting the RoC to take such discrepancies on record. For further information, please refer to “Risk Factors- We are unable to trace some of our historical records with respect to secretarial forms filed with the Registrar of Companies. Additionally, there are certain discrepancies/ errors/ non-filings/ non-availability which have occurred in some of our corporate records relating to forms filed with the RoC and other provisions of Companies Act, 1956 and Companies Act, 2013. Any penalty or action taken by any regulatory authorities in future,_ 
+
+101 
+
+_for non-compliance with provisions of corporate or any other law could impact the financial position of our Company to that extent.” on page 44._ 
+
+# 3. **Ramnika Suri:** 
+
+|**Date**<br>**Allotment**<br>**Transfer**<br>**Equity Sha**|**of**<br>**/**<br>**of**<br>**res**|**Nature/ Reason of**<br>**transaction**|**No.**<br>**of**<br>**Equity**<br>**Shares**|**Face**<br>**value**<br>**(****_₹_) **|**Issue /**<br>**transfer**<br>**price (****_₹_) **|**Form**<br>**consider**|**of**<br>**ation**|**% of pre-**<br>**Issue**<br>**capital**|**% of post-**<br>**Issue**<br>**capital**|
+|---|---|---|---|---|---|---|---|---|---|
+|August<br> <br>2003*|25,|Subscription<br>to<br>MOA|10,000|10|10|Cash||0.01|[●]|
+|January<br> <br>2018|16,|Transfer<br>from<br>Vikrant Anand|10,000|10|NA|Gift||0.01|[●]|
+|September<br>11, 2024||Bonus Issue in<br>the ratio of 14<br>fully<br>paid-up<br>Equity Shares for<br>every 1 Equity<br>Share held by the<br>Shareholders on<br>August 27, 2024<br>being the record<br>date.|280,000|10|NA|Other<br>Cash|than|0.34|[●]|
+|**Total**|||**300,000**|||||**0.37**|[●]|
+
+
+
+⁎ _Our Company was incorporated on August 29, 2003. The date of subscription to the Memorandum of Association was August 25, 2003._ 
+
+9. All the Equity Shares held by our Promoters were fully paid-up on the respective date of acquisition of such Equity Shares. 
+
+10. As on the date of this Draft Red Herring Prospectus, the Company has 9 shareholders. 
+
+11. **Details of Shareholding of our Promoters, members of our Promoter Group in our Company.** 
+
+The details of the shareholding of the Promoters and the members of the Promoter Group as on date of this Draft Red Herring Prospectus are set forth below: 
+
+|**Sr.**|**Name of the Shareholders**|**Pre- I**|**ssue**|**Post- I**|**ssue***|
+|---|---|---|---|---|---|
+|**No.**||**Number**<br>**of**<br>**Equity Shares**<br>**of face value of**<br>**₹10 each**|**% of the pre-**<br>**Issue paid up**<br>**Equity Share**<br>**capital**|**Number**<br>**of**<br>**Equity Shares of**<br>**face value of ₹**<br>**10 each**|**% of the post-**<br>**Issue paid up**<br>**Equity Share**<br>**capital**|
+|**Pro**|**moters**|||||
+|1.|Jagdish Kumar Suri|74,101,350|90.32|[●]|[●]|
+|2.|Rahul Suri|6,878,850|8.38|[●]|[●]|
+|3.|Ramnika Suri|300,000|0.37|[●]|[●]|
+|**Sub**|**Total (A)**|**81,280,200**|**99.07**|||
+|**Me**|**mbers of the Promoter Group**|||||
+|4.|Siya Malhotra|150,000|0.18|[●]|[●]|
+|5.|Jasmine Suri|150,000|0.18|[●]|[●]|
+|6.|Nishi Saigal|300|_Negligible_|[●]|[●]|
+|**Sub **|**Total (B)**|**300,300**|**0.37**|[●]|[●]|
+|**Tot**|**al (A+ B)**|**81,580,500**|**99.44**|[●]|[●]|
+
+
+
+_* Subject to completion of the Issue and finalization of the Allotment._ 
+
+# 12. **Details of Promoters’ contribution locked in** 
+
+Pursuant to Regulation 14 and 16 of the SEBI ICDR Regulations, an aggregate of 20% of the fully diluted post-Issue Equity Share capital of our Company held by the Promoters shall be locked in for a period of eighteen months or any other period as may be prescribed under applicable law, as minimum promoters’ 
+
+102 
+
+contribution from the date of Allotment (“ **Minimum Promoter’ Contribution** ”), and the Promoters’ shareholding in excess of 20% of the fully diluted post-Issue Equity Share capital shall be locked in for a period of six months or any other date as may be prescribed under applicable law, from the date of Allotment. 
+
+The lock-in of the Minimum Promoter’s Contribution would be created as per applicable laws and procedures and details of the same shall also be provided to the Stock Exchanges before the listing of the Equity Shares. 
+
+Our Promoters have given their consent dated [●] to include such number of Equity Shares held by them as may constitute 20% of the fully diluted post-Issue Equity Share capital of our Company as Promoters’ Contribution. Our Promoters have agreed not to dispose, transfer, charge, pledge or otherwise encumber in any manner, the Promoters’ Contribution from the date of filing this Draft Red Herring Prospectus, until the expiry of the lock-in period specified above, or for such other time as required under SEBI ICDR Regulations, except as may be permitted, in accordance with the SEBI ICDR Regulations. 
+
+The details of the Equity Shares held by our Promoters, which shall be locked - in for a period of 18 months from the date of Allotment as minimum Promoters’ contribution are set forth in the table below: 
+
+|**Name**<br>**Promoters**|**of**|**Number**<br>**of Equity**<br>**Shares**|**Date**<br>**allotm**<br>**transf**<br>**and**<br>**when**<br>**made**<br>**paid- **|**of**<br>**ent/**<br>**er**<br>**date**<br> <br>**fully**<br>**up**|**Nature/**<br>**Reason**<br>**of**<br>**Transac**<br>**tion**|**Face**<br>**value**<br>**per**<br>**Equity**<br>**Share**<br>**(****_₹_) **|**Issue**<br>**/**<br>**acquisiti**<br>**on price**<br>**per**<br>**Equity**<br>**Share**<br>**(****_₹_) **|**%**<br>**of**<br>**pre-**<br>**Issue**<br>**paid-up**<br>**capital**|**% of**<br>**post-**<br>**Issue**<br>**paid-up**<br>**capital**|**Date up to**<br>**which**<br>**Equity**<br>**Shares are**<br>**subject to**<br>**lock in**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|[●]||[●]||[●]|[●]|[●]|[●]|[●]|[●]|[●]|
+|[●]||[●]||[●]|[●]|[●]|[●]|[●]|[●]|[●]|
+|**Total**||[●]||[●]|[●]|[●]|[●]|[●]|[●]|[●]|
+
+
+
+_Note: To be updated during Prospectus stage._ 
+
+For details on the build-up of the Equity Share capital held by our Promoters, see “ _Capital Structure- Details of build-up of our Promoters’ equity shareholding_ ” on page 99. 
+
+Our Company undertakes that the Equity Shares that are being locked-in are not, and will not be, ineligible for computation of Promoter’ Contribution under Regulation 15 of the SEBI ICDR Regulations. 
+
+In this connection, we confirm the following: 
+
+- a. The Equity Shares offered as a part of the Minimum Promoters’ Contribution do not include Equity Shares acquired in the three immediately preceding years from the date of this Draft Red Herring Prospectus (a) for consideration other than cash and revaluation of assets or capitalisation of intangible assets was involved in such transaction; or (b) resulting from bonus issue by utilisation of revaluation reserves or unrealised profits of our Company or resulted from a bonus issue against Equity Shares, which are otherwise ineligible for computation of Minimum Promoter’s Contribution. 
+
+- b. Our Minimum Promoter’s Contribution does not include any Equity Shares acquired during the immediately preceding one year at a price lower than the price at which the Equity Shares are being offered to the public in the Issue. 
+
+- c. As on the date of this Draft Red Herring Prospectus, Equity Shares held by our Promotes and offered for Minimum Promoter’s Contribution are not subject to pledge or any other form of encumbrance. 
+
+- d. Our Company has not been formed by the conversion of a partnership firm into a company in the past one year and thus, no Equity Shares have been issued to our Promoters upon conversion of a partnership firm in the past one year immediately preceding the date of this Draft Red Herring Prospectus. All the Equity Shares held by the Promoters are held in dematerialized form. 
+
+In terms of undertaking executed by our Promoters, Equity Shares forming part of Promoter’s Contribution subject to lock in will not be disposed/ sold/ transferred by our Promoters during the period starting from the date of this Draft Red Herring Prospectus till the date of commencement of lock in period as stated in this 
+
+103 
+
+# Draft Red Herring Prospectus. 
+
+Other than the Equity Shares locked-in as Minimum Promoters’ Contribution for a period of eighteen months as stated in the table above, the entire pre-Issue Equity Share capital of our Company, including the excess of minimum Promoter’ Contribution, as per Regulation 16 (1) (b) and 17 of the SEBI ICDR Regulations, shall be locked in for a period of six months from the date of Allotment of Equity Shares in the Issue. Such lock – in of the Equity Shares are recorded by the relevant Depositories. 
+
+# **_Other requirements in respect of ‘lock-in’_** 
+
+As required under Regulation 20 of the SEBI ICDR Regulations, our Company shall ensure that the details of the Equity Shares locked-in are recorded by the relevant Depository. 
+
+In terms of Regulation 21(a) of the SEBI ICDR Regulations, the locked-in Equity Shares held by our Promoters can be pledged as collateral security for a loan only with any scheduled commercial banks or public financial institutions or a systemically important non-banking finance company or a housing finance company as collateral security for loans granted by such banks or financial institutions, provided that such loans have been granted for the purpose of financing one or more of the Objects of the Issue and pledge of the Equity Shares is a term of sanction of such loans. 
+
+In terms of Regulation 21(b) of the SEBI ICDR Regulations, the Equity Shares held by the Promoters which are locked-in for a period of six months from the date of Allotment may be pledged only with scheduled commercial banks, public financial institutions, systemically important non-banking finance companies or housing finance companies as collateral security for loans granted by such entities, provided that such pledge of the Equity Shares is one of the terms of the sanction of such loans. 
+
+However, such lock-in will continue pursuant to any invocation of the pledge and the transferee of the Equity Shares pursuant to such invocation shall not be eligible to transfer the Equity Shares until the expiry of the lock-in period stipulated above in terms of the SEBI ICDR Regulations. 
+
+In terms of Regulation 22 of the SEBI ICDR Regulations, the Equity Shares held by our Promoters which are locked in as per the provisions of Regulation 16(1) of the SEBI ICDR Regulations, may be transferred to and amongst Promoters and/or members of the Promoter Group or to a new promoter(s) or person(s) in control of our Company, subject to continuation of lock-in in the hands of transferees for the remaining period and compliance of SEBI Takeover Regulations, as applicable and such transferee shall not be eligible to transfer till the lock-in period stipulated in SEBI ICDR Regulation has expired 
+
+In terms of Regulation 22 of the SEBI ICDR Regulations, the Equity Shares held by persons other than our Promoters prior to the Issue and locked-in for a period of 6 months, may be transferred to any other person holding the Equity Shares which are locked-in as per Regulation 17 of the SEBI ICDR Regulations, subject to continuation of the lock-in in the hands of the transferees for the remaining period and compliance with the SEBI Takeover Regulations as applicable. 
+
+# 13. **Lock-in of Equity Shares Allotted to Anchor Investors** 
+
+50% of the Equity Shares allotted to Anchor Investors under the Anchor Investor Portion shall be locked-in for a period of 90 days from the date of Allotment and the remaining Equity Shares allotted to Anchor Investors under the Anchor Investor Portion shall be locked-in for a period of 30 days from the date of Allotment. 
+
+_(Remainder of this page has been intentionally left blank)_ 
+
+104 
+
+# 14. **Shareholding Pattern of our Company** 
+
+The table below represents the shareholding pattern of our Company as on the date of this Draft Red Herring Prospectus: 
+
+|**Category**<br>**(I)**|**Category of**<br>**Shareholder**<br>**(II)**|**No. of**<br>**Shareh**<br>**olders**<br>|**No. of fully**<br>**paid-up Equity**<br>**Shares held**<br>|**No. of**<br>**Partly**<br>**paid-up**<br>**Equity**<br>|**No. of**<br>**shares**<br>**underlyi**<br>**ng**<br>**deposito**|**Total No. of**<br>**shares held**<br>**(VII) = (IV)**<br>|**Shareholdi**<br>**ng as a %**<br>**of total no.**<br>**of Equity**<br>**Shares**<br>**(calculated**<br>**as per**<br>|**Number of**|**Voting Righ**<br>**securiti**<br>|**ts held in each**<br>**es (IX)**<br>|**class of**<br>**No. of**<br>**Shares**<br>**underlying**<br>**outstanding**<br>**convertible**<br>**securities**|**Shareholding**<br>**as a %**<br>**assuming full**<br>**conversion of**<br>**convertible**<br>**securities (as**<br>**a percentage**<br>**of diluted**<br>|**No. of locked-in**<br>**Equity Shares**<br>**(XII)**|**Number of**<br>**Equity Shares**<br>**pledged or**<br>**otherwise**<br>**encumbered**<br>**(XIII)**|**No. of**<br>**Equity**<br>**Shares held**<br>**in**<br>**demateriali**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**(III)**|**(IV)**|**Shares**<br>|**ry**<br>|**+(V)+ (VI)**|**SCRR)**<br>||**No. of vot**<br>|**ing rights**<br>|<br>**(including**<br>|**Equity Share**<br>|||**zed form**|
+|||||**held (V)**|**receipts**||**(VIII) As a**|**Class**|**Class**|**Total**|<br>**warrants)**<br>**Total as**|**capital)**|**As a %**|**As a %**|<br>**XIV**|
+||||||**(VI)**||**% of**|**(Equity)**|**(Other)**||<br>**(X)**<br>**a % of**|**(XI)=**|**of total**|**of total**|**()**|
+||||||||**(A+B+C2)**||||<br>**(A+B+C)**|**(VII)+(X) As**|**No.**<br>**Equity**|**No.**<br>**Equity**||
+|||||||||||||**a % of**<br>**(A+B+C2)**|**(a)**<br>**Shares**<br>**held**<br>**(b)**|**(a)**<br>**Shares**<br>**held**<br>**(b)**||
+|(A)|Promoters and<br>Promoter|6|81,580,500|-|-|81,580,500|99.44|81,580,500|-|81,580,500|99.44<br>-|-|-<br>-|-<br>-|81,580,500|
+||Group|||||||||||||||
+|(B)|Public|3|460,528|-|-|460,528|0.56|460,528|-|460,528|0.56<br>-|-|-<br>-|-<br>-|460,528|
+|(C)|Non-Promoter-<br>Non-Public|-|-|-|-|-|-|-|-|-|-<br>-|-|-<br>-|-<br>-|-|
+|(C1)|Shares<br>underlying<br>depository<br>receipts|-|-|-|-|-|-|-|-|-|-<br>-|-|-<br>-|-<br>-|-|
+|(C2)|Shares held by<br>employee trusts|-|-|-|-|-|-|-|-|-|-<br>-|-|-<br>-|-<br>-|-|
+|**Total**||**9**|**82,041,028**|||**82,041,028**|**100**|**82,041,028**|**-**|**82,041,028**|**100**||||**82,041,028**|
+|_Our Compan_<br>_trading of su_|_y will file the shareho_<br>_ch Equity Shares._|_lding patter_|_n in the form prescri_|_bed under Re_|_gulation 31 of t_|_he SEBI Listing Re_|_gulations, one (1_|_) day prior to th_|_e listing of th_|_e Equity Shares._|_The shareholding pattern wil_|_l be uploaded on th_|_e website of the Stoc_|_k Exchanges before c_|_ommencement of_|
+
+
+
+105 
+
+15. **Other details of shareholding of our Company:** 
+
+   - a) Particulars of the shareholders holding 1% or more of the paid-up Equity share capital of our Company and the number of shares held by them as on the date of filing of this Draft Red Herring Prospectus: 
+
+|**Sr.**|**Name of the Shareholders**|**No. of Equity Shares of face**|**% of Pre-Issue**|**Equity Share**|
+|---|---|---|---|---|
+|**No.**||**value of ₹10 each**|**Capital**||
+|1.|Jagdish Kumar Suri|74,101,350||90.32|
+|2.|Rahul Suri|6,878,850||8.38|
+|**Total **||**80,980,200**||**98.70**|
+
+
+
+- b) None of the shareholders of our Company holding 1% or more of the paid-up capital of the Company as on the date of the filing of this Draft Red Herring Prospectus are entitled to any Equity Shares upon exercise of warrant, option or right to convert a debenture, loan or other instrument. 
+
+- c) Particulars of the shareholders holding 1% or more of the paid-up equity share capital of our Company and the number of shares held by them ten days prior to the date of filing of this Draft Red Herring Prospectus: 
+
+|**Sr.**<br>**No.**|**Name of the Shareholders**|**No. of Equity Shares of face**<br>**value of ₹10 each**|**% of Pre-Issue Equity Share**<br>**capital as at ten days prior to**<br>**filing of this Draft Red Herring**<br>**Prospectus**|
+|---|---|---|---|
+|1.|Jagdish Kumar Suri|74,101,350|90.32|
+|2.|Rahul Suri|6,878,850|8.38|
+|**Total**||**80,980,200**|**98.70**|
+
+
+
+d) Particulars of the shareholders holding 1% or more of the paid-up equity share capital of our Company and the number of shares held by them one year from the date of filing of this Draft Red Herring Prospectus: 
+
+|**Sr.**<br>**No.**|**Name of the Shareholders**|**No. of Equity Shares of face**<br>**value ₹10 each**|**% of Pre-Issue**<br>**capital as at one**<br>**filing of this Draf**<br>**Prospectus**|**Equity Share**<br>**year prior to**<br>**t Red Herring**|
+|---|---|---|---|---|
+|1.|Jagdish Kumar Suri|4,940,000||90.83|
+|2.|Rahul Suri|458,500||8.43|
+|**Total**||**5,398,500**||**99.26**|
+
+
+
+e) Particulars of the shareholders holding 1% or more of the paid-up equity share capital of our Company and the number of shares held by them two years prior to filing of this Draft Red Herring Prospectus: 
+
+|**Sr.**<br>**No.**|**Name of the Shareholders**|**No. of Equity**<br>**face value ₹10**|**Shares of**|**% of Pre-Issue**<br>**capital as at two**<br>**filing of this Draf**<br>**Prospectus**|**Equity Share**<br>**years prior to**<br>**t Red Herring**|
+|---|---|---|---|---|---|
+|1.|Jagdish Kumar Suri||4,940,000||90.83|
+|2.|Rahul Suri||458,500||8.43|
+|**Tota**|**l**||**5,398,500**||**99.26**|
+
+
+
+f) Our Company has not made any initial public offer of its Equity Shares or any convertible securities during the preceding two years from the date of this Draft Red Herring Prospectus. 
+
+16. Except as disclosed below, none of our Directors, Key Management Personnel or Senior Managerial hold any Equity Shares in our Company: 
+
+106 
+
+|**Sr.**<br>**No.**|**Name of the**<br>**Shareholders**|**Designation**|**No. of Equity**<br>**Shares**<br>**of**<br>**face value of**<br>**₹10 each**|**% of Pre-**<br>**Equity Sh**<br>**Capital**<sup>**#**</sup>|**Issue**<br>**are**|**% of Pos**<br>**Equity**<br>**Capital**<sup>**#**</sup>|**t- Issue**<br>**Share**|
+|---|---|---|---|---|---|---|---|
+|1.|Jagdish Kumar Suri<sup>*</sup>|Chairman & Managing<br>Director|74,101,350||90.32||[●]|
+|2.|Rahul Suri<sup>*</sup>|Whole-Time Director|6,878,850||8.38||[●]|
+|3.|Ramnika Suri|Non-Executive<br>Non-<br>Independent Director|300,000||0.37||[●]|
+
+
+
+_#To be updated in the Prospectus_ 
+
+_*Also a Key Managerial Personnel_ 
+
+17. Except for the allotment of Equity Shares pursuant to the Pre-IPO Placement and the Issue, our Company does not have any intention or proposal to alter its capital structure within a period of six months from the date of opening of the Issue by way of split or consolidation of the denomination of Equity Shares or further issue of Equity Shares whether preferential or bonus, rights or further public issue basis or qualified institutions placements or otherwise. 
+
+18. As on the date of this Draft Red Herring Prospectus, all the Equity Shares held by our Promoters and members of our Promoter Group are held in dematerialised form. 
+
+19. The Promoters, members of our Promoter Group, Directors of our Company and any of their relatives have not undertaken purchase or sale transactions in the Equity Shares of our Company, during a period of six months immediately preceding the date of this Draft Red Herring Prospectus. 
+
+20. There are no financing arrangements wherein the Promoters, members of our Promoter Group, the Directors of our Company and their relatives (as defined under Companies Act, 2013), have financed the purchase by any other person of securities of our Company other than in the normal course of the business of the financing entity during the period of six months immediately preceding the date of filing of this Draft Red Herring Prospectus. 
+
+21. Our Company, our Directors and the BRLMs have not entered into buyback arrangements and or any other similar arrangements for the purchase of Equity Shares being offered through the Issue. 
+
+22. The post- Issue paid up Equity Share Capital of our Company shall not exceed the authorised Equity Share Capital of our Company. 
+
+23. No person connected with the Issue, including, but not limited to the BRLMs, our Company, the Promoters, the Syndicate members, or our Directors or the members of the Promoter Group, shall offer any incentive, whether direct or indirect, in any manner, whether in cash or kind or services or otherwise to any Bidder for making a Bid, except for fees or commission for services rendered in relation to the Issue. 
+
+24. Except for the allotment of Equity Shares pursuant to the Pre-IPO Placement and the Issue, there will be no further issue/offer of Equity Shares whether by way of issue of bonus shares, preferential allotment, rights issue or in any other manner during the period commencing from the date of filing of this Draft Red Herring Prospectus with SEBI until the Equity Shares have been listed on the Stock Exchanges or all application monies have been refunded on account of non-listing,, as the case may be. 
+
+25. This Issue is being made through Book Building Method. 
+
+26. None of the Equity Shares held by our Shareholders are pledged or otherwise encumbered as on the date of this Draft Red Herring Prospectus. 
+
+27. Our Company has no outstanding warrants, options to be issued or rights to convert debentures, loans or other convertible instruments into, or which would entitle any person any option to receive Equity Shares of our Company, as on the date of this Draft Red Herring Prospectus. 
+
+28. Our Company will ensure that at any given time, there shall be only one denomination of Equity Shares of our Company, unless otherwise permitted by law. 
+
+29. Our Company will comply with such disclosure and accounting norms as may be specified by SEBI from time 
+
+107 
+
+to time. 
+
+30. Our Company shall ensure that any transactions in Equity Shares by our Promoters and the members of our Promoter Group during the period between the date of filing this Draft Red Herring Prospectus and the date of closing of the Issue, shall be reported to the Stock Exchanges within 24 hours of the transaction. 
+
+31. All Equity Shares offered pursuant to the Issue shall be fully paid-up at the time of Allotment failing which no Allotment shall be made and there are no partly paid-up Equity Shares as on the date of this Draft Red Herring Prospectus. 
+
+32. As on the date of this Draft Red Herring Prospectus, the BRLMs and their respective associates (as defined under the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992) do not hold any Equity Shares of our Company. The BRLMs and its affiliates may engage in the transactions with and perform services for our Company and its in the ordinary course of business or may in the future engage in commercial banking and investment banking transactions with our Company /or our Subsidiary for which they may in the future receive customary compensation. 
+
+33. As on the date of this Draft Red Herring Prospectus, we do not have any Employees Stock Option Scheme / Employees Stock Purchase Scheme/ Stock Appreciation Right Scheme and we do not intend to allot any shares to our employees under Employee Stock Option Scheme/ Employee Stock Purchase Plan from the proposed Issue. As and when, options are granted to our employees under the Employee Stock Option Scheme, our Company shall comply with the SEBI (Share Based Employee Benefits) Regulations, 2014. 
+
+34. Neither our Promoters nor any of the members of our Promoter Group will participate in the Issue. 
+
+35. Our Company has not raised any bridge loans which are proposed to be repaid from the proceeds of the Issue. 
+
+36. As on the date of this Draft Red Herring Prospectus, none of the Shareholders of the Company are directly or indirectly related to the BRLMs and/or their respective associates (as defined in the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992). 
+
+37. Neither the (i) BRLMs nor any associate of the BRLM (except Mutual Funds sponsored by entities which are associates of the BRLMs or insurance companies promoted by entities which are associate of BRLMs or AIFs sponsored by the entities which are associate of the BRLMs or FPIs, other than individuals, corporate bodies and family offices sponsored by the entities which are associate of the BRLMs); nor (ii) any person related to the Promoters and Promoters Group shall apply in the Issue under the Anchor Investor Portion. 
+
+108 
+

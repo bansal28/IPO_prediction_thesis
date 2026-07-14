@@ -102,6 +102,8 @@ def company_to_stem(company_name: str) -> str:
 _MARKDOWN_STRIP_PATTERNS = [
     re.compile(r"<!--.*?-->", flags=re.DOTALL),  # HTML comments
     re.compile(r"</?u>"),                          # underline tags
+    re.compile(r"</?mark>"),                       # highlight tags (Syrma SGS)
+    re.compile(r"</?su[pb]>"),                     # superscript/subscript tags
     re.compile(r"\*+"),                            # bold/italic asterisks
     re.compile(r"_+"),                             # italic underscores
     re.compile(r"`+"),                             # code ticks
@@ -126,14 +128,17 @@ def compute_length(text: str) -> tuple[int, int]:
 # ---------------------------------------------------------------------------
 # Numbered-item detection
 # ---------------------------------------------------------------------------
+# Numbered risk items are formatted in seven different ways across the corpus:
 #
-# Numbered risk items are formatted three different ways across the corpus:
+#   A. Heading with number:    # **_2. Something..._**  or  # 3. Something
+#   B. Inline bold(-italic):   **1. Something**         or  **_1. Something_**
+#   C. Blockquote:             > **_45. Political factors..._**   (MSTC 2019)
+#   D. Plain numbered:         1. Something                       (OCR files only)
+#   E. Mark-tagged bold:       **_<mark>1. Our customers..._**    (Syrma 2022)
+#   F. Number-then-bold:       1. **_We were not in compliance..._**  (SAMHI 2023)
+#   G. Bullet-bold-nospace:    - **1 We are exposed to risks...**     (Apeejay 2024)
 #
-#   A. Heading with number:   # **_2. Something..._**   or  # 3. Something
-#   B. Inline bold(-italic):  **1. Something**          or  **_1. Something_**
-#   C. Plain numbered:        1. Something              (OCR files only)
-#
-# We match all three, dedupe by integer, and report both the count of
+# We match all seven, dedupe by integer, and report both the count of
 # unique numbers found and any gaps in the 1..max range. Gaps signal
 # a regex miss and get flagged in a diagnostic CSV.
 
@@ -148,6 +153,16 @@ PAT_BLOCKQUOTE_NUM = re.compile(
 )
 PAT_PLAIN_NUM = re.compile(
     r"^(\d{1,3})\.\s+[A-Z]", flags=re.MULTILINE
+)
+# --- New patterns discovered during n=416 diagnostic ---
+PAT_MARK_BOLD_NUM = re.compile(
+    r"^\*\*_?<mark>(\d{1,3})\.", flags=re.MULTILINE
+)
+PAT_NUM_THEN_BOLD = re.compile(
+    r"^(\d{1,3})\.\s+\*\*", flags=re.MULTILINE
+)
+PAT_BULLET_BOLD_NUM = re.compile(
+    r"^-\s+\*\*_?(\d{1,3})[.\s]", flags=re.MULTILINE
 )
 
 # Sanity cap: real risk sections rarely have >150 numbered items.
@@ -168,6 +183,7 @@ def count_numbered_items(text: str) -> dict:
     for pat in (
         PAT_HEADING_NUM, PAT_INLINE_BOLD_NUM,
         PAT_BLOCKQUOTE_NUM, PAT_PLAIN_NUM,
+        PAT_MARK_BOLD_NUM, PAT_NUM_THEN_BOLD, PAT_BULLET_BOLD_NUM,
     ):
         for m in pat.findall(text):
             try:
@@ -319,6 +335,9 @@ def _self_test() -> None:
         "inline_bold_plain": "**4.** Content\n",
         "blockquote_bold": "> **_45. Political factors..._**\n",
         "plain_ocr": "5. Something at start of line\n",
+        "mark_wrapped": "**_<mark>1. Our customers..._**\n",
+        "num_then_bold": "1. **_We were not in compliance..._**\n",
+        "bullet_bold_nospace": "- **1 We are exposed to risks...**\n",
     }
     for label, text in samples.items():
         info = count_numbered_items(text)

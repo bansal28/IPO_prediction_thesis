@@ -1,3 +1,5 @@
+# RISK FACTORS (plain-text fallback — pymupdf4llm output was mangled on this PDF)
+
  
  
  
