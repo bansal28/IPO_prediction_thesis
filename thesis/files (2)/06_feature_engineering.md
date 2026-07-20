@@ -358,8 +358,9 @@ the file is written.
 
 ---
 
-Chapter 7 turns to schema-guided extraction of risk factors from
-the 416 verified prospectus PDFs, producing a second feature file
-`data/features/features_llm_risk.csv` whose combination with the
-numeric feature file constructed here provides the augmented
-feature set evaluated in Chapters 8 and 9.
+Chapter 7 turns to schema-guided extraction of risk factors from the
+416 certified risk-section markdown files produced by the extraction
+pipeline in Chapter 3, §3.7. That extraction produces a second feature
+file `data/features/features_llm_risk.csv` whose combination with the
+numeric feature file constructed here provides the augmented feature
+set evaluated in Chapters 8 and 9.

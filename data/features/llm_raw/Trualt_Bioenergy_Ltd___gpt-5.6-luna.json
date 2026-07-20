@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "TruAlt Bioenergy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the against rows: criminal proceedings are 0 against the Company, 2 against Directors, 2 against Promoters, 2 against KMPs, 0 against SMPs and 0 against the Subsidiary, for 6 total; statutory/regulatory proceedings are nil in all against rows, for 0; tax proceedings are 1 against the Company and 3 against the Subsidiary, for 4, excluding all By rows and promoter/director tax matters. The quantified aggregate amount against the Company and Subsidiary is ₹1.50 lakhs against the Company; the Subsidiary amount is not quantifiable, so the aggregate is ₹1.50 lakhs, or ₹0.015 crore, based on the stated table amounts rather than summing unquantifiable matters. No contingent-liabilities total is disclosed in the provided risk section. The company-wide Fiscal 2025 top-five customer concentration is derived by summing the five disclosed customer percentages (35.93% + 23.14% + 15.54% + 13.04% + 5.02% = 92.67%), while top ten is explicitly 99.78%; both use revenue from operations excluding other operating revenue. Litigation amounts use ₹ lakhs, converted to crore by dividing by 100 (₹1.50 lakhs ÷ 100 = ₹0.015 crore).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.015,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 92.67,
+  "top10_customer_revenue_pct": 99.78
+}

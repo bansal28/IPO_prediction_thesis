@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Niva Bupa Health Insurance Company Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: for matters against the company, I counted 4 criminal proceedings, 29 tax proceedings, Nil statutory/regulatory proceedings and 8 material civil litigations; for directors, I counted 1 criminal proceeding and excluded all promoter/director personal matters from the aggregate amount. I excluded every “By the Company,” “By the Directors” and “By the Promoters” row; the quantified group amount is the stated Against the Company aggregate of ₹2,155.40 million, converted to ₹215.54 crore, rather than summing individual rows. The contingent-liabilities table is in ₹ millions as of June 30, 2024; no stated total row is provided, so the two disclosed line items, ₹447.65 million and ₹559.37 million, sum to ₹1,007.02 million, or ₹100.702 crore. The section provides no company-wide top-five or top-ten customer revenue concentration percentage; the disclosed percentages concern business lines, distribution channels and other non-customer concentrations, so those fields are null. Source monetary units are millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 29,
+  "total_litigation_against_amount_cr": 215.54,
+  "contingent_liabilities_total_cr": 100.702,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

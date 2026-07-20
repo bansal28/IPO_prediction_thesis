@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "G R Infraprojects Limited",
+  "extraction_reasoning": "The litigation table reports proceedings against the Company of 1 criminal and 2 regulatory cases, against Directors of 4 criminal cases, and against Subsidiaries of 1 regulatory case; thus criminal against-count is 5 and regulatory against-count is 3, excluding all “by” rows. Tax proceedings involving the Company are 5 income-tax, 3 entry-tax, 5 customs/excise/service-tax and 6 VAT cases, totaling 19; no subsidiary tax row is reported. The group litigation amount is summed from quantified against-group rows: Company civil ₹47.65 million, Company regulatory ₹5.26 million, Subsidiary regulatory ₹12.00 million, and Company tax ₹304.88 million, totaling ₹369.79 million; the civil figure carries an asterisk for additional unquantifiable amounts. Contingent liabilities use the explicitly stated consolidated Total of ₹10,133.99 million as of December 31, 2017. Customer concentration is company-wide top-five clients for Fiscal 2017, at 97.83% of total income (not revenue from operations); all monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 36.979,
+  "contingent_liabilities_total_cr": 1013.399,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 97.83,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "India Pesticides Limited",
+  "extraction_reasoning": "The litigation table separates matters Against and By: I counted the Against rows only—criminal cases of 8 against the Company plus 6 against Directors (14 total), statutory/regulatory actions of 5 against the Company, and taxation cases of 1 against the Company; all corresponding subsidiary and promoter rows are Nil, and the By rows were excluded. The quantified amount against the Company/subsidiaries is ₹0.90 million for statutory/regulatory actions; the tax amount is not quantified, so the aggregate is ₹0.90 million = ₹0.09 crore, excluding all By matters and unquantified amounts. The contingent-liabilities figure is the stated consolidated Total of Nil/zero as of March 31, 2021, rather than a re-sum. The company-wide top-10 customer concentration is 56.83% of total revenue from operations for the full Fiscal 2021; no company-wide top-5 percentage is disclosed. The source tables use ₹ million, converted to crore at ₹10 million per crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 14,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.09,
+  "contingent_liabilities_total_cr": 0.0,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 56.83
+}

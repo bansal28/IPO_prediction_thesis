@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "FirstCry",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Company are 1 criminal, 11 tax and 5 statutory/regulatory matters; against Directors are 3 criminal and 3 statutory/regulatory matters; and against Subsidiaries are 1 criminal, 44 tax and 13 statutory/regulatory matters. I counted only the Against rows for category counts, excluded all By Company/Directors/Subsidiaries rows, and for the aggregate group amount used the stated quantified Against Company amount of ₹59.57 million plus Against Subsidiaries amount of ₹195.21 million, excluding personal Director matters, for ₹254.78 million. The contingent-liabilities figure is the explicitly stated total of ₹53.98 million as at March 31, 2024, converted from the latest date shown. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages shown elsewhere relate to other metrics or specific businesses and are not customer concentration. The source monetary tables use ₹ in millions; ₹254.78 million ÷ 10 = ₹25.478 crore and ₹53.98 million ÷ 10 = ₹5.398 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 21,
+  "tax_proceedings_against_count": 55,
+  "total_litigation_against_amount_cr": 25.478,
+  "contingent_liabilities_total_cr": 5.398,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

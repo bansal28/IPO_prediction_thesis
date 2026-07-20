@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ami Organics Limited",
+  "extraction_reasoning": "The risk section contains a tax-proceedings table with proceedings against the Company (8: 7 direct-tax and 1 indirect-tax); no criminal or statutory/regulatory enforcement table is disclosed, and no “By” rows are present to count. The quantified aggregate amount against the Company is ₹16.24 million (₹1.624 crore), comprising ₹12.76 million direct tax and ₹3.48 million indirect tax; promoter and director matters are excluded. Contingent liabilities are stated in the table as ₹3.48 million for disputed tax liabilities, as on the date of the RHP, with additional income-tax matters described as not quantifiable; this converts to ₹0.348 crore. The company-wide top-five customer concentration is 44.43% of revenue from operations for the full Fiscal 2021; no company-wide top-ten figure is disclosed. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 1.624,
+  "contingent_liabilities_total_cr": 0.348,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 44.43,
+  "top10_customer_revenue_pct": null
+}

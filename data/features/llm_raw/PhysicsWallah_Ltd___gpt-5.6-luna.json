@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Physics Wallah Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by (“By”) from matters against the relevant parties: I counted only the “Against” rows—criminal proceedings of 4 against the Company, 0 against Directors, 0 against Subsidiaries, 0 against Promoters, KMP or SMP; statutory/regulatory actions of 1 against Directors and nil in the other against rows; and tax proceedings of 2 against the Company plus 7 against Subsidiaries, excluding tax matters involving Directors and all “By” rows. For the aggregate amount against the Company and Subsidiaries, I included the table amounts of ₹115.68 million and ₹68.25 million, plus the separately disclosed Company matters of ₹1.02 million in consumer proceedings and ₹860.00 million in other material litigation, totaling ₹1,044.95 million, or ₹104.495 crore; the contingent-liabilities table states ₹123.07 million as at June 30, 2025, equal to ₹12.307 crore, and this stated amount was used without re-summing. The only concentration percentages shown are business-segment figures, such as offline-channel city revenue, not company-wide customer concentration; therefore top-five and top-ten customer percentages are not disclosed. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 104.495,
+  "contingent_liabilities_total_cr": 12.307,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

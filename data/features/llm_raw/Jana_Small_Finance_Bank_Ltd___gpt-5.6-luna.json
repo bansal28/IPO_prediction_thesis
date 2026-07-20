@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jana Small Finance Bank Limited",
+  "extraction_reasoning": "The litigation table reports, against the Bank, 19 criminal proceedings, 25 tax proceedings, 1 statutory/regulatory proceeding and 1 material civil litigation; the corresponding “By the Bank” rows (11,604 criminal, Nil tax, 2,051 statutory/regulatory, and 3 civil) were excluded, as were all promoter/director rows because they are Nil. The quantified aggregate amount against the Bank is the table’s stated aggregate of ₹927.13 million, including the tax proceedings, rather than a separately summed figure; converted at ₹10 million per crore, this is ₹92.713 crore. The contingent-liabilities table provides a stated consolidated Total of ₹1,036.58 million as at September 30, 2023, converted to ₹103.658 crore; this stated Total was used without re-summing. No company-wide top-five or top-ten customer concentration percentage is disclosed; the source monetary unit is ₹ in millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 19,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 25,
+  "total_litigation_against_amount_cr": 92.713,
+  "contingent_liabilities_total_cr": 103.658,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rashi Peripherals Limited",
+  "extraction_reasoning": "The litigation table separates matters By and Against: I excluded the By Company row (95 criminal cases, 3 civil matters and ₹505.62 million) and counted the Against rows across listed entities. Against counts are criminal: 1 against the Company plus 1 against Subsidiaries = 2; statutory/regulatory: 6 against the Company and none against Directors or Promoters = 6; tax: 85 against the Company and nil against Subsidiaries = 85. The quantified aggregate amount against the Company is ₹4,121.89 million, including ₹4,087.28 million for 85 tax matters; the Subsidiary amount is not quantifiable, so the group total is ₹4,121.89 million, converted from million to ₹412.189 crore by dividing by 10. Contingent liabilities use the stated Total of ₹5,927.64 million as of September 30, 2023, converted to ₹592.764 crore; no company-wide top-five or top-ten customer concentration percentage is disclosed, while the disclosed percentages concern top global technology brands and are not customers.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 85,
+  "total_litigation_against_amount_cr": 412.189,
+  "contingent_liabilities_total_cr": 592.764,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

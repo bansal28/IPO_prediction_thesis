@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Innovision Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the Company from matters against it: I excluded the Company’s “By our Company” row (2 criminal, 2 tax and 3 civil matters, ₹95.75 million) and counted only the “Against our Company” row, which reports Nil criminal, Nil tax and 81 statutory/regulatory proceedings, ₹5.72 million; the directors, promoters and subsidiary against-rows are all Nil. The quantified group amount against the Company and subsidiaries is therefore the stated ₹5.72 million, not a sum of other rows, equal to ₹0.572 crore; promoter/director personal matters and all “By” matters were excluded. The contingent-liabilities figure is the stated Bank guarantee total of ₹438.43 million as of September 30, 2025, equal to ₹43.843 crore, using the table’s Total/aggregate disclosure rather than re-summing. Company-wide top-customer concentration is disclosed for Fiscal 2025 using revenue from operations/total revenue: the top 10 contributed 80.43%, while the top 5 sum to 73.16% from the five disclosed percentages (56.85% + 5.82% + 4.27% + 4.16% + 2.06%); this is company-wide, not merely a segment figure. The source monetary tables use ₹ million, converted to crore by dividing by 10 (₹5.72 million = ₹0.572 crore; ₹438.43 million = ₹43.843 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 81,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.572,
+  "contingent_liabilities_total_cr": 43.843,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 73.16,
+  "top10_customer_revenue_pct": 80.43
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Hexagon Nutrition Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company, subsidiaries, Promoter, Directors and KMP/SM as Nil, while the criminal proceedings by the Company number six and are excluded; statutory/regulatory actions against the Company and Promoter are 1 each, while the other against rows are Nil, and all proceedings by company/subsidiaries are excluded. Tax proceedings against the Company and subsidiaries are 5 and 1 respectively; promoter and KMP/SM tax matters are excluded from the group aggregate. The quantified amount against the Company and subsidiaries is ₹36.94 million of Company tax proceedings plus ₹0.08 million of subsidiary tax proceedings = ₹37.02 million, or ₹3.702 crore; the regulatory amount and one subsidiary civil matter are not ascertainable, and subsidiary civil proceedings initiated by subsidiaries are excluded. The contingent-liabilities table states a consolidated Total of ₹65.72 million as of December 31, 2025, converted to ₹6.572 crore without re-summing the components. Company-wide top-customer concentration is disclosed for Fiscal 2025 using revenue from operations: top five 35.88% and top ten 45.87%; segment-only concentration figures were not used. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 3.702,
+  "contingent_liabilities_total_cr": 6.572,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 35.88,
+  "top10_customer_revenue_pct": 45.87
+}

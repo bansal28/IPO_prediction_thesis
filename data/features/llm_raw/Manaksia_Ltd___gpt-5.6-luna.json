@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Manaksia Limited",
+  "extraction_reasoning": "The risk section does not contain a litigation summary table or a separate statutory/regulatory enforcement count: it discloses one criminal case against promoter Mr. B.K. Agrawal, and separately lists tax matters against the company consisting of 48 excise, 7 service tax, 17 sales tax, 3 customs and 1 income tax case; the 3 employee-related cases are excluded from the tax count. No matters filed by the company are disclosed, and the aggregate amount claimed against the company is Rs. 140.95 million, which is the quantified company-only component used for total litigation against the group; it converts to Rs. 14.095 crore (140.95 ÷ 10). The contingent-liabilities figure is the explicitly stated consolidated total disputed liability of Rs. 140.95 million as at September 30, 2006, converted to Rs. 14.095 crore, not a re-sum of line items. The disclosed percentages concern mosquito-coils and packaging-division revenues as percentages of total revenues for FY2004-FY2006, not company-wide top-five or top-ten customer concentration; the source currency unit for the monetary disclosures is million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 76,
+  "total_litigation_against_amount_cr": 14.095,
+  "contingent_liabilities_total_cr": 14.095,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

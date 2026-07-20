@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Unicommerce eSolutions Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by criminal, tax, statutory/regulatory, disciplinary and civil categories and by direction. For criminal proceedings against the listed entities, I counted the Against Company (Nil), Against Directors (2), and Against Promoters (2) rows, excluding all By rows; for statutory/regulatory proceedings I counted Against Directors (1) and Against Promoters (2), excluding tax proceedings and By rows; for tax proceedings against the company and subsidiaries, I counted the Against Company row (8), with no subsidiaries disclosed. The quantified aggregate amount against the Company is ₹26.14 million; the Company has no subsidiaries, and promoter/director amounts and all By rows are excluded, giving ₹2.614 crore after conversion from million to crore. No contingent-liabilities table or figure is disclosed in the provided risk section, so no date or amount is available. The company-wide top-10 customer concentration is 27.38% for Fiscal 2024, calculated as a percentage of revenue from contract with customers; no company-wide top-5 percentage is disclosed. Monetary tables use ₹ million, converted to crore by dividing by 10 (₹26.14 million ÷ 10 = ₹2.614 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 2.614,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 27.38
+}

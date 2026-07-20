@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "KSH International Private Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows, counted the “Against” criminal rows for directors (1) and none for the company, promoters, KMPs or SMs, and kept statutory/regulatory proceedings separate, with zero against rows. Tax proceedings against the company are nil; the disclosed tax proceedings against directors and promoters were excluded because the requested tax count is limited to the company and its subsidiaries, and no subsidiary row is disclosed. The aggregate amount against the company is explicitly ₹0.00 million; converted at ₹10 million per crore, this is ₹0.0 crore, while the contingent-liabilities figure is the stated Total/open bank guarantees outstanding of ₹34.92 million as at June 30, 2025, converted to ₹3.492 crore. The company-wide top-10 customer concentration is 52.54% of revenue from operations for full Fiscal 2025; no company-wide top-5 percentage is disclosed. The litigation and contingent-liability tables use ₹ in million, so the conversion applied is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 3.492,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 52.54
+}

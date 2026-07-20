@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "MTAR Technologies Limited",
+  "extraction_reasoning": "The litigation table reports proceedings against the Company of 4 cases: criminal 0, tax 2, and statutory/regulatory 2; proceedings by the Company are excluded. Proceedings against the subsidiary, promoters and directors contain no criminal, regulatory or tax cases, and all proceedings by those parties are excluded; therefore the counted against-group categories are criminal 0, regulatory 2 and tax 2. The quantified amount is the stated total for proceedings against the Company, ₹36.79 million, with no quantified amount against the subsidiary; this converts to ₹3.679 crore (₹36.79 million ÷ 10), and no separate contingent-liabilities total is disclosed. Customer concentration is disclosed only for the top three customers, not top five or top ten, for full Fiscal 2020 using revenue from operations as the denominator; therefore top-five and top-ten fields are null. The litigation source tables use ₹ million, converted to crore at 10 million = 1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 3.679,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

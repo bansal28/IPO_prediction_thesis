@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Emmvee Photovoltaic Power Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the group from matters against it: I counted the criminal “Against our Company” (1), “Against our KMPs” (1), and “Against our Subsidiaries” (0) rows, while excluding all “By” rows; statutory/regulatory proceedings against all listed entities are Nil, and tax proceedings against the Company (28) plus subsidiaries (8) total 36, excluding promoter/director personal matters. The aggregate quantified amount against the Company and subsidiaries is ₹198.34 million plus ₹0.49 million, or ₹198.83 million = ₹19.883 crore; “By” amounts of ₹205.80 million and ₹30.00 million were excluded. Contingent liabilities use the explicitly stated consolidated total of ₹192.84 million as of June 30, 2025, equal to ₹19.284 crore, rather than summing the listed components. Company-wide customer concentration is disclosed as a percentage of revenue from operations; for the latest full fiscal year, Fiscal 2025, top five customers contributed 75.10% and top ten customers 84.98%. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 19.883,
+  "contingent_liabilities_total_cr": 19.284,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 75.1,
+  "top10_customer_revenue_pct": 84.98
+}

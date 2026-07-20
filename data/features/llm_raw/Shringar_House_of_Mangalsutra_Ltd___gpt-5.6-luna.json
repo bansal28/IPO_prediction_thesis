@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shringar House of Mangalsutra Limited",
+  "extraction_reasoning": "The litigation table reports against-vs-by rows separately: all criminal cells are NIL, so criminal proceedings against all listed entities are 0; statutory/regulatory proceedings against the Company, Directors, Promoters, KMP and SMP are NIL, so regulatory actions against are 0; the tax column shows 1 against the Company and 1 against Promoters, but only the Company row is counted for the company/subsidiary tax field, giving 1. No subsidiary row or separate consolidated litigation total is disclosed, and the Company’s quantified aggregate amount is blank/not ascertainable; the only quantified amount, ₹0.32 million, relates to Promoters and is excluded. No contingent-liabilities table or total is disclosed in the provided risk section, so no date or figure is available. Company-wide concentration for the most recent full fiscal year, Fiscal 2025, is stated as 31.76% for the top five clients and 39.92% for the top ten clients, calculated as a percentage of revenue from operations. Monetary tables use ₹ in million; therefore any converted crore figures would equal million ÷ 10, although no litigation or contingent-liability amount is reportable here.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 31.76,
+  "top10_customer_revenue_pct": 39.92
+}

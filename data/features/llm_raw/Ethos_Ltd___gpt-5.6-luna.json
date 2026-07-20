@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ethos Limited",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Company and subsidiary from matters filed by them; I counted only the against rows, excluding the Company’s 2 criminal and 1 civil matters filed by it, and counted criminal, statutory/regulatory and tax categories separately. Against the Company and subsidiary, criminal proceedings are nil, statutory/regulatory proceedings comprise 1 matter against the Promoter only, and tax proceedings against the Company comprise 7 direct-tax and 6 indirect-tax matters; the quantified group amount is ₹110.22 lakhs civil against the Company plus ₹3,708.78 lakhs tax against the Company, totaling ₹3,819.00 lakhs, or ₹38.19 crore. The contingent-liabilities table is sourced from the stated line items as at December 31, 2021; because no stated Total row is shown, the disclosed items sum to ₹3,708.78 lakhs, or ₹37.0878 crore. The only concentration percentages shown concern individual stores rather than company-wide top customers, so customer concentration is not extracted; the source unit is ₹ lakhs and conversion to crore is by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 38.19,
+  "contingent_liabilities_total_cr": 37.0878,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

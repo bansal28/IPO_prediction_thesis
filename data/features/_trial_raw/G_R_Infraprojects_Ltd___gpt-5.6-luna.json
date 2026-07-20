@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "G R Infraprojects Limited",
+  "extraction_reasoning": "The litigation table separates proceedings against the Company, proceedings by the Company, tax proceedings involving the Company, proceedings against Directors, proceedings against Subsidiaries, and proceedings by Subsidiaries. I counted only against rows: criminal proceedings are 1 against the Company plus 4 against Directors; regulatory actions are 2 against the Company plus 1 against Subsidiaries; tax proceedings against the Company are 5 income tax, 3 entry tax, 5 customs/excise/service tax and 6 VAT, totaling 19. For the aggregate amount against the Company and Subsidiaries, I used the quantified against components of ₹47.65 million civil proceedings against the Company, ₹5.26 million regulatory proceedings against the Company, ₹304.88 million tax proceedings involving the Company, and ₹12.00 million regulatory proceedings against Subsidiaries, totaling ₹369.79 million; proceedings by the Company/Subsidiaries and personal Director matters were excluded. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹10,133.99 million as of December 31, 2017, rather than a re-sum. The company-wide top-five customer concentration is 97.83% for Fiscal 2017, based on total income, while the EPC percentages are segment-level and were not used; source monetary tables use ₹ million, converted to crore by dividing by 10 (₹369.79 million = ₹36.979 crore and ₹10,133.99 million = ₹1,013.399 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 36.979,
+  "contingent_liabilities_total_cr": 1013.399,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 97.83,
+  "top10_customer_revenue_pct": null
+}

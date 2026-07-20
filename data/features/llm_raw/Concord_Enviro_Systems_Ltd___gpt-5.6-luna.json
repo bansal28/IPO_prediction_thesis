@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Concord Enviro Systems Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the “Against the Subsidiaries” rows (criminal Nil, tax 7, regulatory Nil) and “Against the Company” rows (criminal Nil, tax 3, regulatory Nil); promoter matters add one statutory/regulatory proceeding, while director matters add none, and all “By” rows were excluded. The quantified aggregate against the company and subsidiaries is ₹393.69 million for subsidiaries plus ₹345.42 million for the Company, totaling ₹739.11 million, or ₹73.911 crore; promoter/director amounts were excluded. The contingent-liabilities table states a consolidated Total of ₹947.20 million as at August 31, 2024, used directly rather than re-summing line items, equal to ₹94.72 crore. Company-wide customer concentration for the latest full fiscal year, Fiscal 2024, is based on revenue from operations: top five customers contributed 53.83% and top ten customers 62.49%; the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 73.911,
+  "contingent_liabilities_total_cr": 94.72,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 53.83,
+  "top10_customer_revenue_pct": 62.49
+}

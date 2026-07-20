@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "CSM Technologies Limited",
+  "extraction_reasoning": "The litigation table reports “By our Company,” “By our Directors,” and “By our Promoters” rows, all of which are excluded; against rows show criminal proceedings as Nil for the company, directors and promoters, statutory/regulatory proceedings as Nil, tax proceedings of 22 against the company, 1 against directors and 1 against promoters, and no other material proceedings against the company or directors. For the required tax count, only the company row is counted, giving 22; the quantified aggregate against the company is the stated ₹1,101.25 lakhs, while the company tax matters are described as pre-litigation with no amount involved and no separate subsidiary row is disclosed, so the amount converts to ₹11.0125 crore (1,101.25 lakhs ÷ 100). The contingent-liabilities table states ₹4,165.73 lakhs as outstanding bank guarantees at December 31, 2025; this stated figure is used without re-summing and converts to ₹41.6573 crore. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is 63.72% for the top five and 77.56% for the top ten, measured against revenue from operations; the source monetary tables use ₹ lakhs, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 22,
+  "total_litigation_against_amount_cr": 11.0125,
+  "contingent_liabilities_total_cr": 41.6573,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 63.72,
+  "top10_customer_revenue_pct": 77.56
+}

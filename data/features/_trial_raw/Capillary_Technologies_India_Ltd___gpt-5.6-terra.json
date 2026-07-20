@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Capillary Technologies India Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against parties: all 'By' rows are nil and excluded; the 'Against' rows show 4 criminal proceedings against Directors, 2 statutory/regulatory proceedings against the Company, and no regulatory matters against the other listed entities. Tax proceedings against the Company are 6 and against Subsidiaries are 5, totaling 11; the Promoters' one tax matter is excluded because it is personal. The quantified group litigation amount uses the stated aggregate amounts against the Company of ₹354.91 million and against Subsidiaries of ₹11.33 million, totaling ₹366.24 million; unquantifiable Director and Promoter amounts are excluded. Contingent liabilities use the stated consolidated bank-guarantees-outstanding figure of ₹3.91 million as of September 30, 2025. The top-five and top-ten customer figures are company-wide for Fiscal 2025, use revenue from operations as denominator, and are 43.35% and 58.71%, respectively. The source tables use ₹ million, converted to crore by dividing by 10 (₹366.24 million = ₹36.624 crore; ₹3.91 million = ₹0.391 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 36.624,
+  "contingent_liabilities_total_cr": 0.391,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 43.35,
+  "top10_customer_revenue_pct": 58.71
+}

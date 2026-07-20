@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shriram Properties Limited",
+  "extraction_reasoning": "The litigation tables distinguish matters involving the Company, Subsidiaries, Promoter, Directors and Group Companies; I counted only the against-party rows and kept categories separate: criminal proceedings are Nil for the Company, 4 for Subsidiaries and 3 for Directors, totaling 7; regulatory/statutory actions are 2 for the Company and Nil elsewhere, totaling 2; tax proceedings against the Company and Subsidiaries are 16 and 27, totaling 43. For the aggregate quantified amount against the Company and Subsidiaries, I included Company regulatory ₹0.87 million, Company tax ₹684.53 million, Company RERA ₹40.66 million, Subsidiary tax ₹1,068.40 million and Subsidiary RERA ₹77.00 million, totaling ₹1,871.46 million, or ₹187.146 crore; promoter, director and Group Company matters and all By matters are excluded. The consolidated contingent-liabilities table is dated September 30, 2021 and has no stated Total row, so I summed its disclosed components: ₹351.17 million income tax, ₹26.45 million service tax, ₹7,262.00 million financial guarantees to joint ventures and ₹2,100.00 million guarantees on behalf of others, totaling ₹9,739.62 million or ₹973.962 crore. The only concentration percentage is for the top five projects, not customers, so customer concentration is not company-wide customer disclosure; the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 43,
+  "total_litigation_against_amount_cr": 187.146,
+  "contingent_liabilities_total_cr": 973.962,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

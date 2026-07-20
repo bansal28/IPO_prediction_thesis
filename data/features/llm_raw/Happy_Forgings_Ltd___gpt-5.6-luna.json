@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Happy Forgings Limited",
+  "extraction_reasoning": "The litigation table reports Against the Company: 1 criminal, 24 tax, Nil statutory/regulatory and ₹69.37 million; Against the Directors: 1 criminal; and Against Promoters: 1 criminal. I counted all against-entity rows for criminal proceedings (3 total), counted statutory/regulatory enforcement separately (0), counted tax proceedings only for the company/subsidiaries (24), and excluded every By row; the quantified aggregate against the company/group is the Company row’s ₹69.37 million, or ₹6.937 crore. Contingent liabilities are disclosed as of September 30, 2023 in ₹ million, with no stated Total row, so the two disclosed items were summed: ₹18.74 million excise/GST demands plus ₹17.34 million income-tax demands = ₹36.08 million = ₹3.608 crore. The company-wide concentration figures are for Fiscal 2023, using consolidated revenue from operations as denominator: top five customers 47.28% and top ten customers 70.08%; source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 24,
+  "total_litigation_against_amount_cr": 6.937,
+  "contingent_liabilities_total_cr": 3.608,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 47.28,
+  "top10_customer_revenue_pct": 70.08
+}

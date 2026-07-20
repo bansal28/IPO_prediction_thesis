@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table contains only an “Against our Company” row: criminal proceedings are Nil, tax proceedings are 7, statutory/regulatory proceedings are Nil, disciplinary actions are Nil, and material civil litigations are Nil; there are no “By” rows to count. The quantified amount against the Company is ₹143.10 million, consisting of the disclosed tax matters, and converts to ₹14.31 crore at ₹10 million per crore; no subsidiary or promoter/director matters are listed. The contingent-liabilities disclosure states a consolidated total of ₹143.10 million as of March 31, 2023, which converts to ₹14.31 crore; the separate ₹122.84 million capital commitment is excluded. The company-wide Overall customer concentration for the full Financial Year 2023 is 33.47% for the top five customers and 44.28% for the top ten customers, measured as a percentage of revenue from operations; the API and Formulations figures are segment-level and were not used. The litigation and contingent-liability tables use ₹ in millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 14.31,
+  "contingent_liabilities_total_cr": 14.31,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 33.47,
+  "top10_customer_revenue_pct": 44.28
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rainbow Children's Medicare Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By the Company,” “By Directors,” “By Promoters,” and “By Subsidiaries” rows, and counted the “Against” rows only. Criminal proceedings against were 3 against the Company, 1 against Directors, and 1 against Promoters, totaling 5; statutory/regulatory proceedings against were Nil, totaling 0; tax proceedings against the Company were 13 and against Subsidiaries were Nil, totaling 13. For the aggregate amount against the Company and Subsidiaries, I used the quantified “Against the Company” amount of ₹253.87 million and excluded promoter/director amounts; this converts to ₹25.387 crore. The contingent-liabilities table is dated December 31, 2021 and has no stated Total row, so its three disclosed items were summed: ₹32.21 million + ₹18.55 million + ₹100.35 million = ₹151.11 million, or ₹15.111 crore; the source unit for both tables is ₹ millions. No company-wide top-five or top-ten customer revenue concentration percentage, statutory auditor opinion status, or going-concern uncertainty is disclosed in this risk section; the segment-level supplier concentration percentages were not used.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 25.387,
+  "contingent_liabilities_total_cr": 15.111,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

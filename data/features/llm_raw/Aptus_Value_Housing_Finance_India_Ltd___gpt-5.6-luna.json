@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "India Shelter Finance Corporation Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: the company filed 7 criminal cases, which are excluded as “By our Company”; 2 criminal cases are against the directors and are counted, while 4 actions were taken by statutory and regulatory authorities and are counted as regulatory actions against the relevant parties. No tax proceedings row is disclosed, so tax proceedings against the company and subsidiaries are recorded as zero; no quantified amount against the company or subsidiaries is disclosed, and the quantified director amount is excluded. The contingent-liabilities figure is the stated table amount of ₹5.55 million as of March 31, 2021, not a sum of undisclosed line items, converted from million to crore at ₹5.55 million ÷ 10 = ₹0.555 crore. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed percentages concern AUM/customer composition rather than customer revenue concentration.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 0.555,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

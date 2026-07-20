@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vikram Solar Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only “Against” rows, excluding all “By” rows; criminal proceedings are 2 against the Company + 3 against Directors + 2 against Promoters + 3 against KMPs = 10, statutory/regulatory proceedings are 2 against the Company + 1 against Promoters = 3, and tax proceedings against the Company and Subsidiaries are 42 + 1 + 3 = 46. For the quantified aggregate against the Company and its Subsidiaries only, I used the stated against amounts of ₹3,430.47 million for the Company and ₹11.16 million for Subsidiaries, totaling ₹3,441.63 million, excluding promoter/director/KMP matters and all “By” rows. The contingent-liabilities figure is the stated consolidated “Total” of ₹2,577.72 million as of March 31, 2025, not a re-sum of line items. The concentration figures are company-wide top-five and top-ten customer percentages for Fiscal 2025, measured as a percentage of revenue from operations: 77.50% and 88.72%, respectively. The source tables use ₹ million; conversion to crore is by dividing by 10, so ₹3,441.63 million = ₹344.163 crore and ₹2,577.72 million = ₹257.772 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 46,
+  "total_litigation_against_amount_cr": 344.163,
+  "contingent_liabilities_total_cr": 257.772,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 77.5,
+  "top10_customer_revenue_pct": 88.72
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vaibhav Gems ‘N’ Jewellers",
+  "extraction_reasoning": "The litigation summary table is present but its OCR-rendered rows and values are unreadable, so no criminal, statutory/regulatory, tax, or other against-vs-by counts or quantified group litigation amount can be reliably extracted; the separate statement that there are no criminal matters at the FIR stage is not a complete litigation-table total. The contingent-liabilities figure is the explicitly stated total of ₹78.76 million as of June 30, 2023, comprising Income Tax of ₹69.91 million and a Civil Suit amount of ₹78.76 million; converted at ₹10 million per crore, the stated total is ₹7.876 crore. The only concentration disclosure concerns the top five showrooms and suppliers, not company-wide customers, so no customer concentration percentage is extracted; no relevant denominator or full-fiscal customer period is disclosed. The usable monetary table unit is million, and the conversion applied is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 7.876,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

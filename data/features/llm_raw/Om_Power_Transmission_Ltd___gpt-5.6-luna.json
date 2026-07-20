@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Om Power Transmission",
+  "extraction_reasoning": "The litigation table contains one “By our Company” row, which is excluded, and one “Against our Company” row: criminal proceedings are Nil, tax proceedings are 7, statutory/regulatory proceedings are Nil, and other material proceedings are Nil. No subsidiary rows are disclosed, so the quantified amount against the company is ₹168.33 lakhs; the ₹181.17 lakhs in the “By our Company” row is excluded, giving ₹16.833 crore after conversion. The contingent-liabilities figure is the explicitly stated Total of ₹168.18 lakhs as at December 31, 2025, not a re-sum, equal to ₹1.6818 crore. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is stated as 86.05% for the top five customers and 95.68% for the top ten customers, both measured as a percentage of revenue from operations; the source tables use ₹ lakhs, converted to crore at 100 lakhs per crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 16.833,
+  "contingent_liabilities_total_cr": 1.6818,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 86.05,
+  "top10_customer_revenue_pct": 95.68
+}

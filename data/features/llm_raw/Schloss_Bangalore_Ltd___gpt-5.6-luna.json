@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Schloss Bangalore Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows—criminal proceedings were Nil for the Company, Directors, Subsidiaries and KMP/Senior Management (0); statutory/regulatory actions were Nil for the Company and Directors, 8 against Subsidiaries, and Nil against KMP/Senior Management (8); tax proceedings were 4 against the Company plus 10 against Subsidiaries (14). I excluded all “By” rows, including the Company’s 4 tax matters and Subsidiaries’ 2 criminal, 11 tax and 1 civil matters. The contingent-liabilities figure is the stated consolidated Total of ₹4,941.44 million as of March 31, 2025, converted to ₹494.144 crore; the litigation aggregate against the Company and Subsidiaries is ₹34.07 million + ₹1,237.62 million = ₹1,271.69 million, converted to ₹127.169 crore. The source tables use ₹ in million, so the conversion is million ÷ 10 to crore. The only going-concern uncertainty discussed relates to subsidiary LPRL, while the statutory auditor’s opinion was expressly not modified; no company-wide top-five or top-ten customer concentration percentage is disclosed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 127.169,
+  "contingent_liabilities_total_cr": 494.144,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

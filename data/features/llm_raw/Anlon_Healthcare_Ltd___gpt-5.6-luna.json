@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Anlon Healthcare Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company, Directors, Promoters, and KMP/SMP as Nil, and all corresponding 'by' rows are also Nil; therefore criminal cases against count is 0 and no 'by' rows are counted. Statutory/regulatory actions against all listed categories are Nil, so regulatory actions against count is 0; tax proceedings against the Company are 9, while promoter and KMP/SMP tax matters are excluded as personal matters, and there are no subsidiary rows disclosed. The quantified aggregate litigation amount against the Company and its subsidiaries is the Company’s direct and indirect tax amount of ₹120.64 lakhs, with no quantified subsidiary amount disclosed, converted to ₹12.064 crore; promoter and KMP/SMP amounts are excluded. The contingent-liabilities figure uses the stated Total of ₹115.28 lakhs as of March 31, 2025, converted to ₹1.1528 crore, rather than summing line items. The company-wide top-10 customer concentration is 77.70% of Fiscal 2025 revenue from operations, the latest full fiscal year; no company-wide top-five percentage is disclosed. The source monetary unit is lakhs, converted to crore by dividing by 100 (₹120.64 lakhs ÷ 100 = ₹12.064 crore; ₹115.28 lakhs ÷ 100 = ₹1.1528 crore).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 12.064,
+  "contingent_liabilities_total_cr": 1.1528,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 77.7
+}

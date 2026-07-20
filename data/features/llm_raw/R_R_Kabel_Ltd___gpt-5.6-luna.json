@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "RR Kabel Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I excluded the Company’s 208 criminal and 32 tax proceedings filed by the Company, including the 205 Section 138 matters, and counted only the Company’s Against row—criminal 0, tax 7 and statutory/regulatory 1; Directors, Promoters and Group Companies have nil against proceedings. The quantified aggregate amount against the Company is ₹68.31 million, from the stated Against the Company row; converted at ₹10 million per crore, this is ₹6.831 crore, while the By the Company amount of ₹461.93 million is excluded. The contingent-liabilities table states a Total of ₹394.55 million as of June 30, 2023, which is used without re-summing and converts to ₹39.455 crore; commitments are excluded from the contingent-liabilities total. The only customer concentration percentage is segment-specific—top ten overseas distributors accounted for 89.81% of revenue from operations outside India in Fiscal 2023—so no company-wide top-five or top-ten percentage is extracted. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 6.831,
+  "contingent_liabilities_total_cr": 39.455,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

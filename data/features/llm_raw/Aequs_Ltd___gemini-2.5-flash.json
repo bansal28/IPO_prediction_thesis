@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aequs Limited",
+  "extraction_reasoning": "The litigation analysis counts cases \"Against\" the Company, Subsidiaries, Promoters, Directors, KMP, and Senior Management. Specifically, there are 0 criminal cases, 0 regulatory enforcement actions, and 8 tax proceedings against the Company and its subsidiaries (3 against the Company and 5 against Subsidiaries). The total quantified litigation amount against the Company and Subsidiaries is \n₹833.89 million (\n₹805.34 million for the Company and \n₹28.55 million for Subsidiaries, both from tax matters). The contingent liabilities are taken from the \"Total\" row of the contingent liabilities table as of September 30, 2025, amounting to \n₹934.32 million. Customer concentration figures are company-wide, for the Financial Year 2025, as a percentage of revenue from operations. All monetary figures are originally stated in \"\n₹ in million\" and are converted to \"crore\" by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 83.389,
+  "contingent_liabilities_total_cr": 93.432,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 73.17,
+  "top10_customer_revenue_pct": 88.57
+}

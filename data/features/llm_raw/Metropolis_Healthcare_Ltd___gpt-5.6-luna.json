@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Metropolis Healthcare Limited",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Registered Office/company-related proceedings from matters against the Company, subsidiaries, Directors and Promoters; I counted only the against rows: criminal matters of 9 relating to the Registered Office, 1 against the Company, none against subsidiaries, 11 against Directors and 10 against Promoters, while regulatory actions are 3 against the Company and 2 against subsidiaries, and tax proceedings are 4 against the Company plus 2 against subsidiaries. I excluded all litigation filed by the Company, subsidiaries, Directors or Promoters and excluded Directors’ and Promoters’ tax/regulatory rows where nil; for the quantified group amount, I included ₹11.75 million and ₹2.20 million of tax, ₹29.50 million of subsidiary civil litigation, and ₹6.70 million of consumer complaints disclosed in the risk factor, totaling ₹50.15 million, or ₹5.015 crore, while excluding the MUR 0.79 million amount because it is not quantified in Indian rupees. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹131.95 million as of December 31, 2018, converted to ₹13.195 crore rather than re-summing the line items. The concentration disclosures are company-wide revenue-from-operations percentages, but no top-five or top-ten customer percentage is disclosed for any fiscal period. The source monetary tables use ₹ million; conversion is million ÷ 10 to crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 22,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 5.015,
+  "contingent_liabilities_total_cr": 13.195,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

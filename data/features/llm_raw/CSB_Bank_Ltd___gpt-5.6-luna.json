@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "CSB Bank Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By our Bank,” “By our Directors,” “By our Promoter,” and “By the Group Company” rows, and counted only the against rows. Criminal proceedings against the listed entities are 8 against the Bank plus 3 against the Directors = 11; statutory/regulatory proceedings against the Bank are 15; tax proceedings against the Bank are 65, with no tax proceedings against subsidiaries disclosed. For the consolidated company-group litigation amount, I used the stated “Against our Bank” aggregate of ₹811.54 million, excluding the Directors’ ₹350.90 million and all matters filed by the entities; this converts to ₹81.154 crore. The contingent-liabilities table states a latest total of ₹6,577.57 million as of March 31, 2019, which converts to ₹65.7757 crore; no company-wide top-five or top-ten customer revenue concentration percentage is disclosed, and the disclosed concentration figures relate to the 20 largest borrowers/depositors rather than revenue. The source monetary tables use ₹ million, converted to crore by dividing by 100.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 11,
+  "regulatory_actions_against_count": 15,
+  "tax_proceedings_against_count": 65,
+  "total_litigation_against_amount_cr": 81.154,
+  "contingent_liabilities_total_cr": 65.7757,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

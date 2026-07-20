@@ -11,3 +11,4 @@ data/processed/.backup-risk_sections-*/
 data/raw/ghosh_mainboard_v18.xlsx
 data/raw/checkpoint.json
 *.checkpoint.json
+

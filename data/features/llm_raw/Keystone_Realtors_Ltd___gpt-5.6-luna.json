@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Keystone Realtors Limited",
+  "extraction_reasoning": "The litigation summary separates “By” and “Against” rows; all “By” rows were excluded. I counted the “Against” rows in the summary table across the company, promoters, subsidiaries, joint ventures and jointly controlled operations: criminal proceedings 2+2+0+1+0=5, statutory/regulatory proceedings 11+0+3+1+0=15, and tax proceedings for the company and subsidiaries only 30+16=46; however, the detailed subsidiary/joint-venture tables disclose additional entity-level counts, so the complete against-entity totals are criminal 6, regulatory 17 and company/subsidiary tax 46, with the aggregate amount for the company and subsidiaries taken from the stated summary totals of ₹3,273.26 million and ₹4,169.19 million, respectively, excluding promoter, joint-venture and jointly controlled-operation amounts. The contingent-liabilities figure is the stated consolidated Total of ₹1,583.86 million as of June 30, 2022, not a re-sum. The disclosed percentages relate to residential-project or category-level revenue, not company-wide top-five/top-ten customer concentration; therefore those fields are null. The source tables use ₹ million, converted to crore by dividing by 10: ₹7,442.45 million = ₹744.245 crore and ₹1,583.86 million = ₹158.386 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 17,
+  "tax_proceedings_against_count": 46,
+  "total_litigation_against_amount_cr": 744.245,
+  "contingent_liabilities_total_cr": 158.386,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

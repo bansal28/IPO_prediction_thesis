@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ventive Hospitality Limited",
+  "extraction_reasoning": "The litigation table separates matters brought by versus against each entity: I excluded all “By” rows, counted criminal proceedings against the Panchshil Promoters (2), statutory/regulatory proceedings against the Company (2), Panchshil Promoters (1) and Subsidiaries (2), and tax proceedings against the Company (2) and Subsidiaries (14), excluding the Promoters’ personal tax matters (12). For the aggregate amount against the Company and Subsidiaries, I used ₹64.56 million against the Company plus ₹128.00 million against Subsidiaries, totaling ₹192.56 million, or ₹19.256 crore; the source litigation unit is ₹ million. The contingent-liabilities table is as at September 30, 2024 and discloses ₹8.87 million of GST demands plus ₹62.49 million of income-tax demands; the excise notice is not quantified, so the quantified aggregate is ₹71.36 million, or ₹7.136 crore, with no stated Total row. The concentration percentages disclosed are business/geographic or asset-segment figures, not company-wide top-five or top-ten customer revenue percentages; therefore both customer concentration fields are null.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 16,
+  "total_litigation_against_amount_cr": 19.256,
+  "contingent_liabilities_total_cr": 7.136,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "IndiaMART",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, against/by subsidiaries, and matters involving Directors and Promoters. I counted only against rows: criminal proceedings 3 against the Company + 1 against subsidiaries + 2 against Directors + 2 against Promoters = 8; statutory/regulatory actions 1 + 1 + 1 = 3; and tax proceedings against the Company and subsidiary, comprising direct tax 5 + 1 and indirect tax 3 = 9. For the quantified group litigation amount, I used the against-Company and against-Subsidiaries rows only: ₹0.60 million + ₹20.38 million + ₹23.46 million + ₹150.00 million + ₹237.15 million = ₹431.59 million, excluding “Not ascertainable” amounts; converted from million to crore at 10 million per crore, this is ₹43.159 crore. The contingent-liabilities risk states only that contingent liabilities existed as of March 31, 2019 and provides no Total figure in the supplied text. No company-wide top-five or top-ten customer concentration percentage is disclosed; the only percentages are unrelated employee expenses, mobile traffic and other metrics.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 43.159,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

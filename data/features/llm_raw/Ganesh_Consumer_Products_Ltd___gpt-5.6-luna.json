@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ganesh Consumer Products Limited",
+  "extraction_reasoning": "The litigation tables show matters By the Company (6 criminal and 1 material civil, ₹193.25 million), which are excluded, and matters Against the Company (8 criminal, 23 tax, 3 statutory/regulatory, ₹115.07 million); the Against Directors rows add 7 criminal and 2 statutory/regulatory, and the Against Promoters rows add 7 criminal, 8 tax and 2 statutory/regulatory. The KMP table adds 7 criminal and 2 statutory/regulatory proceedings against KMPs; therefore criminal proceedings against all listed entities total 29, regulatory actions total 9, while tax proceedings for the company and subsidiaries total 23. No subsidiary-specific quantified amount is disclosed, so the aggregate quantified amount against the company/group is the Against Company amount of ₹115.07 million, converted to ₹11.507 crore; all By rows and personal promoter/director amounts are excluded. The contingent-liabilities table is in ₹ million and has no stated Total row, so its latest March 31, 2025 line items are summed: ₹26.16 million + ₹73.77 million + ₹40.28 million = ₹140.21 million, or ₹14.021 crore. The section gives no company-wide top-five or top-ten customer revenue concentration percentage; the disclosed percentages concern suppliers, products, SKUs, geography and channels, not customers. The source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 29,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 11.507,
+  "contingent_liabilities_total_cr": 14.021,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

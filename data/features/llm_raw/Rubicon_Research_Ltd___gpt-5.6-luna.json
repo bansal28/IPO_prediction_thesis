@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rubicon Research Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against the relevant parties: I counted only the “Against” rows. Criminal proceedings against the group total 1, from the Against Key Managerial Personnel and Senior Management row; statutory/regulatory proceedings against the company, directors, promoters and subsidiaries are Nil, while tax proceedings against the company and subsidiaries total 16 + 1 = 17, excluding the director’s personal tax matter and all “By” rows. The quantified aggregate amount against the company and subsidiaries is ₹516.71 million for the company plus ₹25.26 million for the subsidiary, or ₹541.97 million = ₹54.197 crore; promoter/director and KMP matters were excluded. The contingent-liabilities table is as of June 30, 2025, but expressly states that no total has been included, so no total was extracted rather than summing its components. The concentration disclosures are company-wide but use revenue from sale of goods rather than revenue from operations or total income: top-five customers were 71.22% in Fiscal 2025, so the schema’s top-five field is left null; no company-wide top-ten customer figure is disclosed. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 17,
+  "total_litigation_against_amount_cr": 54.197,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

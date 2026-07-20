@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Delhivery Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the Against Company, Against Directors and Against Subsidiaries rows. Criminal proceedings counted are 4 against the Company plus 8 against Directors plus nil against Subsidiaries = 12; statutory/regulatory proceedings counted are 13 against the Company plus 5 against Directors plus nil against Subsidiaries = 18; tax proceedings counted only for the Company and Subsidiaries are 25 + 11 = 36, excluding the 1 tax proceeding against Directors and all By rows. The quantified aggregate amount against the Company and Subsidiaries is ₹411.69 million + ₹638.23 million = ₹1,049.92 million, or ₹104.992 crore; the contingent-liabilities table is stated in ₹ million as of December 31, 2021 and, absent a stated total row, its disclosed components of ₹344.92 million, ₹622.58 million and ₹1.12 million sum to ₹968.62 million, or ₹96.862 crore. The company-wide top-five customer concentration is 42.66% of revenue from contracts with customers in Fiscal 2021, which is revenue from operations/contract revenue rather than total income; no company-wide top-ten percentage is disclosed. The source unit is ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 12,
+  "regulatory_actions_against_count": 18,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 104.992,
+  "contingent_liabilities_total_cr": 96.862,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 42.66,
+  "top10_customer_revenue_pct": null
+}

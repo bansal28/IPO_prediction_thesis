@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table contains only “Litigation filed against our Company” rows: 10 direct tax matters and 2 indirect tax matters, totaling 12 against the company; there are no “By ...” rows, criminal rows, or separate statutory/regulatory enforcement rows. I counted the 12 tax proceedings against the company, recorded zero criminal and zero regulatory actions, and used the stated litigation total of ₹10.07 million (₹8.87 million direct tax + ₹1.20 million indirect tax), converted at ₹10 million = ₹1 crore to ₹1.007 crore. No contingent-liabilities table or total is disclosed in the provided risk section, so no date or figure is available. The concentration disclosure is company-wide on a consolidated basis for Fiscal 2021 and uses total consolidated revenue: top five customers contributed 59.63%; no top-ten percentage is disclosed. The litigation source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 1.007,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 59.63,
+  "top10_customer_revenue_pct": null
+}

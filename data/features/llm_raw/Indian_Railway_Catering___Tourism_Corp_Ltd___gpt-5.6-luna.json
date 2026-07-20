@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "IRCTC",
+  "extraction_reasoning": "The litigation table separates proceedings against and by the Company and Directors: I counted only the against rows—criminal matters of 8 against the Company plus 1 against Directors, tax matters of 95 against the Company, and other pending material litigation of 23 against the Company; the Company’s 1 matter by it and all nil by-rows were excluded. No statutory/regulatory enforcement category is separately disclosed, so regulatory actions against is 0; tax count excludes the Directors’ nil tax row and personal matters. The aggregate quantified amount against the Company and its subsidiaries is the Company-against components of ₹0.12 million criminal + ₹2,257.23 million tax + ₹3,975.74 million other litigation = ₹6,233.09 million, converted at 10 million per crore to ₹623.309 crore; the contingent-liabilities figure is the stated total of ₹1,667.92 million as of March 31, 2019, converted to ₹166.792 crore. The only percentages resembling concentration are business-segment income shares for railway catering and packaged drinking water, not company-wide top-five/top-ten customer concentration; no revenue-from-operations or total-income top-customer percentage is disclosed. The source unit for the litigation and contingent-liabilities monetary disclosures is million, and all crore fields are converted from million by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 9,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 95,
+  "total_litigation_against_amount_cr": 623.309,
+  "contingent_liabilities_total_cr": 166.792,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

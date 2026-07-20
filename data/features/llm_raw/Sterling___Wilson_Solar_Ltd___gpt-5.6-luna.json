@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sterling and Wilson Solar Limited",
+  "extraction_reasoning": "The litigation table reports 1 other pending material litigation proceeding against the Company for ₹218.98 million; the Company’s 2 criminal proceedings and 1 other proceeding by the Company are excluded as “By” matters. Against the Promoters, I counted 1 criminal proceeding and 2 statutory/regulatory actions, while excluding their 3 criminal proceedings and 16 other proceedings by them; the 41 direct/indirect tax matters against Promoters are excluded because the tax count and aggregate amount cover the Company and its subsidiaries only, and no Company/subsidiary tax row is disclosed. The quantified aggregate against the Company/subsidiaries is the stated Company amount of ₹218.98 million, or ₹21.898 crore, and contingent liabilities are the stated ₹1.72 million as of March 31, 2019, or ₹0.172 crore; no subsidiary amount is separately shown. The customer concentration is company-wide top-five customers’ revenue from operations for the full fiscal year ended March 31, 2019, at 53.68%; no top-ten figure is disclosed. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 21.898,
+  "contingent_liabilities_total_cr": 0.172,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 53.68,
+  "top10_customer_revenue_pct": null
+}

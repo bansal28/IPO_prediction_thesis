@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Krishna Institute of Medical Sciences Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows—criminal proceedings of 4 against the Company, 2 against Directors and 1 against Promoters (7 total), statutory/regulatory proceedings of nil (0), and tax proceedings of 10 against the Company plus 1 against Subsidiaries (11 total); all By rows were excluded. The aggregate amount against the Company and Subsidiaries is the table's explicit Total of ₹361.90 million, comprising ₹361.81 million against the Company and ₹0.09 million against Subsidiaries, converted at ₹10 million per crore to ₹36.19 crore. The contingent-liabilities table is stated as of March 31, 2021 in ₹ million, but contains no stated Total row; therefore no total is extracted rather than summing line items. Revenue concentration disclosures are for Hyderabad hospitals as a percentage of group revenue (64.09% in Fiscal Year 2021), not company-wide top-five or top-ten customers, so both customer concentration fields are null; the source unit is million and the litigation amount conversion is 361.90 ÷ 10 = 36.19 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 36.19,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

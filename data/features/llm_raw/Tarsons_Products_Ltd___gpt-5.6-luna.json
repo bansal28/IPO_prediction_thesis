@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tarsons",
+  "extraction_reasoning": "No litigation summary table is disclosed in the provided risk section, so there are no against-vs-by rows to count; criminal, statutory/regulatory enforcement, and tax proceedings are therefore all not disclosed, and no quantified aggregate amount against the company or subsidiaries is available. No contingent-liabilities table or stated total is provided, so the contingent-liabilities figure and date are not disclosed. The company-wide concentration disclosed for the most recent full fiscal year, Fiscal 2021, is revenue from sale of goods to the top 10 distributors of 37.33% of total income from sale of goods; this is treated as the company-wide top-10 customer figure, while no top-five figure is given. The source unit for litigation and contingent-liability monetary tables is not stated because those tables are absent; the other monetary disclosures use ₹ million and ₹ crores, but no litigation or contingent-liability conversion is applicable.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 37.33
+}

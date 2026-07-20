@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Deepak Builders & Engineers India Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: I counted criminal proceedings against the Company (2) and Promoters (1), excluding all “by” rows; the statutory/regulatory actions column does not state a count for the Company and states Nil for Directors and Promoters, so no regulatory count is disclosed; tax proceedings against the Company total 30, while Promoter tax matters are excluded. For quantified matters against the Company and its subsidiaries, I used material civil litigation against the Company of ₹13.01 million plus direct and indirect tax proceedings against the Company of ₹144.21 million, totaling ₹157.22 million, or ₹15.722 crore; “by the Company” amounts are excluded. The contingent-liabilities disclosure provides bank guarantees and separate statutory-demand line items for the three months ended June 30, 2024, but no stated aggregate Total row, so no total contingent-liabilities figure is extracted. Company-wide top-five and top-ten customer concentrations are disclosed for Fiscal 2024 as 87.77% and 92.30%, respectively, measured against revenue from operations. Litigation and contingent-liability tables use ₹ million; conversion is ₹157.22 million ÷ 10 = ₹15.722 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 15.722,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 87.77,
+  "top10_customer_revenue_pct": 92.3
+}

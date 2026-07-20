@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aadhar Housing Finance Limited",
+  "extraction_reasoning": "The litigation counts are derived from the 'summary of outstanding matters' table in Risk Factor 2, summing 'Against' rows across the Company, Directors, and Promoter. Specifically, criminal cases against the Company and Directors are 32+1=33, and regulatory actions against the Company and Directors are 1+1=2. Tax proceedings are counted only for the Company (16). The total quantifiable litigation amount against the Company and Subsidiaries is 2,697.5 million. Contingent liabilities are taken from the 'Total' row in the table under Risk Factor 36, as of December 31, 2023, for 143.6 million. No company-wide customer concentration percentages (top 5 or top 10) are disclosed. All monetary figures are provided in '₹ in million' and converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 33,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 16,
+  "total_litigation_against_amount_cr": 269.75,
+  "contingent_liabilities_total_cr": 14.36,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

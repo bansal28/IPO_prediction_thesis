@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ivalue Infosolutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against the Company row for criminal (1), tax (10), and statutory/regulatory (Nil), plus the Against rows for directors, promoters, subsidiaries, KMP and SMP, all of which are nil; all By rows were excluded. The quantified aggregate amount against the Company is ₹108.10 million, with no quantified amount against subsidiaries, so the group amount is ₹10.81 crore after conversion from million; the ₹17.08 million By the Company amount was excluded. Contingent liabilities use the explicitly stated Total of ₹106.81 million as of March 31, 2025, converted to ₹10.681 crore, rather than summing the customs and GST line items. The only concentration percentages disclosed are for OEMs and System Integrators, based on Fiscal 2025 Gross Sales Billed to the Customers, not company-wide top-five/top-ten customers measured against revenue from operations or total income, so customer concentration fields are null. The source tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 10.81,
+  "contingent_liabilities_total_cr": 10.681,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

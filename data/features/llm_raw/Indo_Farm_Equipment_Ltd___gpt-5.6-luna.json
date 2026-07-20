@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indo Farm Equipment Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each party: I counted the Company’s 5 criminal, 1 tax and 1 statutory/regulatory proceeding in the “Against our Company” row, counted the Promoters and Directors’ 1 criminal proceeding for the all-entity criminal total, and excluded all “By” rows and promoter/director personal tax matters from the issuer-group tax and amount fields. The subsidiary has no matters in the “Litigation against our Subsidiary” row; the quantified amount against the Company is ₹46.02 million, while the ₹268.94 million filed by the Company and ₹54.59 million filed by the subsidiary were excluded, giving ₹46.02 million = ₹4.602 crore. Contingent liabilities use the explicitly stated consolidated Group Total of ₹200.34 million as at June 30, 2024, converted to ₹20.034 crore rather than summing line items. The company-wide top-10 customer/dealer concentration is 23.13% of revenue from operations for the most recent full fiscal year, FY 2023-24; no company-wide top-5 percentage is disclosed, while segment-specific concentrations were not used. Litigation and contingent-liability tables use ₹ in millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 4.602,
+  "contingent_liabilities_total_cr": 20.034,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 23.13
+}

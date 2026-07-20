@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ellenbarrie Industrial Gases Limited",
+  "extraction_reasoning": "The litigation table reports By the Company: 3 criminal and 3 material civil matters, which are excluded, while Against the Company reports Nil criminal, 6 tax, 1 statutory/regulatory and 1 material civil matter; all director, promoter, KMP and senior-management against rows are Nil, so the counted against rows are criminal 0, regulatory 1 and tax 6. The quantified aggregate amount against the Company is ₹100.77 million; since no subsidiary row or separate group total is disclosed, this company-only against amount is used and converted to ₹10.077 crore, excluding all By the Company matters. The contingent-liabilities figure is the explicitly stated Total of ₹101.71 million as at March 31, 2025, converted to ₹10.171 crore rather than resummed. The top-five and top-ten percentages are for customer concentration within the sale-of-gases business and use revenue from sale of gases, related products and services for Fiscal 2025, not company-wide revenue from operations, so they are not extracted. The source tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 10.077,
+  "contingent_liabilities_total_cr": 10.171,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

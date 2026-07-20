@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Yatharth Hospital & Trauma Care Services Limited",
+  "extraction_reasoning": "The litigation table on page 55, titled \"A summary of outstanding matters,\" lists cases against various entities. I have counted six criminal proceedings against the Company, its Directors, Promoters, and Subsidiaries, zero regulatory actions against any party, and zero tax proceedings against the Company or Subsidiaries. The aggregate quantified amount for litigation against the Company and Subsidiaries is 5.00 million (for the Company) + 0.74 million (for Subsidiaries) = 5.74 million. Contingent liabilities are explicitly stated as 2,358.44 million as of March 31, 2023. No company-wide customer concentration percentages (top 5 or top 10) for the most recent full fiscal year were disclosed. All monetary figures are in \"₹ million\" and have been converted to \"₹ crore\" by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.574,
+  "contingent_liabilities_total_cr": 235.844,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

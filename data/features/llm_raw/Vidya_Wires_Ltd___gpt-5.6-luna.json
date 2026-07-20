@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vidya Wires Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I excluded all 'By' rows, counted 0 criminal proceedings against the company, subsidiaries, promoters, directors and KMP, counted 2 statutory/regulatory proceedings against promoters, and counted 3 tax proceedings against the company; there were no such proceedings against the subsidiary. The quantified aggregate amount against the company and subsidiary group is the Company's ₹35.70 million tax amount; the promoter amount of ₹32.96 million is excluded, giving ₹35.70 million = ₹3.57 crore. The contingent-liabilities table is consolidated through the subsidiary and has no stated Total row, so I summed the latest June 30, 2025 line items of ₹34.80 million, ₹0.90 million, ₹30.07 million and ₹9.17 million, totaling ₹74.94 million = ₹7.494 crore. The company-wide top-five customer concentration for the latest full fiscal year, Fiscal 2025, is 21.79% of total sales (the table's denominator, rather than an interim period or segment-only figure); no company-wide top-ten percentage is disclosed. The source monetary tables use ₹ million, converted to crore by dividing million amounts by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 3.57,
+  "contingent_liabilities_total_cr": 7.494,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 21.79,
+  "top10_customer_revenue_pct": null
+}

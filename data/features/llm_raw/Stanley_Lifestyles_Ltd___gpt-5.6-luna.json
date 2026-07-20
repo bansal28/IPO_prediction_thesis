@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Stanley Lifestyles Limited",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows: all “By” rows are Nil and excluded; among “Against” rows, the Company has 0 criminal, 6 tax, 4 statutory/regulatory and 1 material civil proceeding, while subsidiaries have 0 criminal, 4 tax, 11 statutory/regulatory and 1 material civil proceeding. Accordingly, criminal proceedings against count is 0, regulatory actions against count is 15, tax proceedings against count is 10, and the quantified group amount uses only the Company and Subsidiaries rows: ₹36.71 million + ₹6.19 million = ₹42.90 million, or ₹4.29 crore; director and promoter personal matters are excluded. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹43.22 million as at December 31, 2023, converted to ₹4.322 crore without re-summing the line items. The only top-five concentration disclosed is for the contract manufacturing and leather automotive interiors business segment—99.90% in Fiscal 2023 of that segment’s revenue from operations—so no company-wide top-five or top-ten percentage is extracted. The litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 15,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 4.29,
+  "contingent_liabilities_total_cr": 4.322,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

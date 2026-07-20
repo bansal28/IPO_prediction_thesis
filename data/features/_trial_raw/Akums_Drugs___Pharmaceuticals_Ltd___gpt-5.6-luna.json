@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Akums Drugs and Pharmaceuticals Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against our Company” and “Against the Subsidiaries” rows, excluding all “By” rows; criminal proceedings are Nil and 2 respectively, statutory/regulatory proceedings are 39 and 62, and tax proceedings are 16 and 31. For the quantified aggregate against the company and subsidiaries, I used the stated row amounts of ₹169.56 million and ₹855.37 million, totaling ₹1,024.93 million, and excluded promoter/director amounts and all matters filed by them. The contingent-liabilities figure is the stated Total of ₹886.22 million as of March 31, 2024, rather than a re-sum of its components. The only customer concentration disclosure is for the CDMO business segment—ten largest CDMO clients contributed 39.31% of CDMO revenue from operations in Financial Year 2024—so no company-wide top-five or top-ten percentage is reported. The source tables use ₹ millions; ₹1,024.93 million converts to ₹102.493 crore and ₹886.22 million converts to ₹88.622 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 101,
+  "tax_proceedings_against_count": 47,
+  "total_litigation_against_amount_cr": 102.493,
+  "contingent_liabilities_total_cr": 88.622,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

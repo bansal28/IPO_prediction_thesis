@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Pine Labs Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, with criminal proceedings of Nil for the Company, subsidiaries, Directors and KMP/SMP (0), statutory/regulatory proceedings of Nil for all such rows (0), and tax proceedings of 10 against the Company plus 4 against subsidiaries (14); all “By” rows were excluded. For the aggregate quantified amount against the Company and subsidiaries, I used ₹4,928.74 million against the Company plus ₹24,326 million against subsidiaries, totaling ₹29,254.74 million, or ₹2,925.474 crore; promoter/director/KMP matters and “By” rows were excluded. The contingent-liabilities figure uses the explicitly stated consolidated Total of ₹3,310.40 million as of June 30, 2025, not a re-sum of components, which converts to ₹331.04 crore. Company-wide customer concentration for the most recent full fiscal year, Fiscal Year 2025, is 22.30% for the top 5 and 30.95% for the top 10, measured as a percentage of revenue from operations; the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 2925.474,
+  "contingent_liabilities_total_cr": 331.04,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 22.3,
+  "top10_customer_revenue_pct": 30.95
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "ASK Automotive Limited",
+  "extraction_reasoning": "The litigation details are found in Risk Factor 43, under \"Outstanding Legal Proceedings\". Criminal cases against all entities (Company, Subsidiary, Directors, Promoters) are counted, totaling 1. Regulatory actions against all entities sum to 2. Tax proceedings are counted for the Company and Subsidiary only, totaling 5, with the Director's tax matter excluded as a personal capacity item per the rules. The aggregate quantified litigation amount of ₹57.46 million is taken solely for the Company. The contingent liabilities are disclosed in Risk Factor 36, with the latest total figure for June 30, 2023, explicitly stated as ₹2,800.00 million. Customer concentration is discussed in Risk Factor 2, providing percentages for the top three customers as a percentage of \"revenue from operations\" for Fiscal 2023; however, no explicit figures for top 5 or top 10 customers company-wide are given. All monetary values in the source text are in \"₹ million\", and I converted these to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 5.746,
+  "contingent_liabilities_total_cr": 280.0,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

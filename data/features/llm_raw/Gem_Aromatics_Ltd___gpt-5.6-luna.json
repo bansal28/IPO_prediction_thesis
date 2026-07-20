@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Gem Aromatics Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each group: I excluded all “By” rows and counted the “Against” rows across the company, subsidiaries, directors, promoters, KMP and SMP. The against rows show criminal proceedings of nil throughout, one statutory/regulatory proceeding against the Company, and 18 tax proceedings against the Company; subsidiaries have nil in all three categories, while promoter/director tax matters were excluded from the company-group tax count. For the aggregate amount against the Company and subsidiaries, I used the stated litigation-table amount of ₹401.40 million against the Company plus ₹Nil against subsidiaries, giving ₹40.14 crore; the ₹3.05 million personal amounts against directors/promoters were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹581.88 million as at March 31, 2025, converted to ₹58.188 crore without re-summing line items. The company-wide top-five customer concentration is 40.04% for Fiscal 2025, calculated from the first five customer percentages, using revenue from operations as the denominator; the top-ten figure is the stated 56.06% for Fiscal 2025. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 18,
+  "total_litigation_against_amount_cr": 40.14,
+  "contingent_liabilities_total_cr": 58.188,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 40.04,
+  "top10_customer_revenue_pct": 56.06
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not stated",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I excluded all “By” rows and counted only “Against” rows. Criminal proceedings against were 2 for promoters and 1 for group companies, while statutory/regulatory proceedings against were 5 for the company, 11 for promoters and 1 for group companies; tax proceedings against the company and group companies were 4 and 10 respectively, kept separate from regulatory matters. For the company-and-subsidiaries aggregate amount, the explicitly stated company amount of ₹105.90 lakhs is the only quantified amount attributable to the company or a subsidiary; the ₹1,242.43 lakhs for group companies was not treated as a subsidiary amount because subsidiaries are not identified. The contingent-liabilities figure is the stated Total of ₹64.68 lakhs as of June 30, 2025, not a re-sum. Company-wide top-customer concentration is 92.82% of revenue from operations for the full fiscal year ended March 31, 2025 for the top 10 customers; no company-wide top-five percentage is disclosed. Monetary tables use ₹ in lakhs, converted to crore by dividing by 100: ₹105.90 lakhs = ₹1.059 crore and ₹64.68 lakhs = ₹0.6468 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 17,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 1.059,
+  "contingent_liabilities_total_cr": 0.6468,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 92.82
+}

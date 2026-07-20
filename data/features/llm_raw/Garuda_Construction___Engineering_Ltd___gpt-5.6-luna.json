@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I excluded all “By our Company,” “By our Directors,” and “By our Promoters” rows, and counted the “Against” rows only. Criminal proceedings against the company, directors and promoters are Nil, 3 and 4 respectively, totaling 7; statutory/regulatory actions against them are Nil, Nil and 3, totaling 3; tax proceedings are Not ascertainable for the company and promoters, while the directors’ tax matters are excluded because tax is counted only for the company and subsidiaries, so the tax count is not determinable. The quantified aggregate amount against the company is ₹1,714.05 lakh; no subsidiary amount is disclosed, so this is converted to ₹171.405 crore at 1 crore = 100 lakh. No contingent-liabilities total, going-concern statement, or statutory-auditor report status is disclosed in the provided risk section. Company-wide customer concentration for the most recent full fiscal year, FY 2024, is 80.96% for the top five and 96.97% for the top ten, measured against revenue from operations; the source tables use ₹ lakh, converted to crore for the litigation amount.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": 171.405,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 80.96,
+  "top10_customer_revenue_pct": 96.97
+}

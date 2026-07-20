@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Go Digit General Insurance Limited",
+  "extraction_reasoning": "The litigation summary separates “By” and “Against” rows: I excluded all “By Company,” “By Directors,” “By Promoters,” and “By Group Companies” rows, and counted only the “Against” rows. Criminal proceedings against the Company, Directors and Promoters are 2 + 3 + 1 = 6; statutory/regulatory proceedings against the Company are 10, with none against Directors, Promoters or Group Companies; tax proceedings against the Company and Group Companies are 5 + 0 = 5, excluding the personal tax matters of Directors and Promoters. The litigation table’s stated aggregate claim amount against the Company is ₹2,346.42 million, while Group Companies show Nil; this is ₹234.642 crore after conversion from million using 1 crore = ₹10 million. Contingent liabilities are explicitly stated as Nil as of March 31, 2023, March 31, 2022 and March 31, 2021; I used the latest date, March 31, 2023, and the stated nil disclosure rather than summing items. No company-wide top-five or top-ten customer concentration percentage, statutory auditor opinion status, or going-concern uncertainty is disclosed in the provided risk section.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 10,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 234.642,
+  "contingent_liabilities_total_cr": 0.0,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

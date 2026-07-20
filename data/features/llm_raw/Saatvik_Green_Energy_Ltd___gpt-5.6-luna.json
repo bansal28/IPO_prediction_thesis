@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Saatvik Green Energy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by entities from matters against them: I excluded all “By our Company,” “By our Directors,” “By our Promoters,” “By our Key Managerial Personnel and members of Senior Management,” “By our Subsidiaries,” and “By our Group Companies” rows. I counted 2 criminal proceedings against directors; statutory/regulatory proceedings against the company, directors, promoters, KMP/SMP and subsidiaries are all NIL or N.A., yielding 0; tax proceedings against the company are 10 and against subsidiaries are 3, while the 10 proceedings shown with the company row are treated as company proceedings rather than directors’ personal matters. For quantified litigation against the company and subsidiaries, I used the disclosed aggregate amounts of ₹185.08 million for the company and ₹81.90 million for subsidiaries, totaling ₹266.98 million, or ₹26.698 crore; promoter/director amounts and all “By” matters were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹6,268.06 million as of March 31, 2025, converted to ₹626.806 crore rather than re-summed. Company-wide customer concentration is reported for Fiscal 2025 using revenue from operations: top five customers contributed 44.43% and top 10 contributed 57.77%; the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 26.698,
+  "contingent_liabilities_total_cr": 626.806,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 44.43,
+  "top10_customer_revenue_pct": 57.77
+}

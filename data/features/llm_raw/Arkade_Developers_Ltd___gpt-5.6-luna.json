@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Arkade Developers Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: for proceedings against the group, I counted the criminal rows for the Company (1), Promoter (3), Directors (1), and Subsidiaries (Nil), while excluding all corresponding 'By' rows; regulatory counts are the statutory/regulatory rows against the Company (10), Promoter (16), Directors (10), and Subsidiaries (1), and tax counts include only the Company (4) and Subsidiaries (3), excluding promoter/director tax matters. The quantified aggregate amount against the Company and Subsidiaries is taken from their respective 'Against' rows: ₹422.29 million plus ₹10.09 million = ₹432.38 million, or ₹43.238 crore; promoter and director amounts and all 'By' rows are excluded. The contingent-liabilities figure is the stated consolidated Total of ₹317.43 million as at March 31, 2023, converted to ₹31.743 crore, rather than re-summed. The section provides no company-wide top-five or top-ten customer concentration percentage; the disclosed percentages concern project types or construction costs, not customers. The source currency unit is ₹ million, converted to crore using 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 37,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 43.238,
+  "contingent_liabilities_total_cr": 31.743,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Kalyan Jewellers India Limited",
+  "extraction_reasoning": "The litigation table separates matters against and by each party. I counted only the against rows: criminal proceedings are 3 against the Company plus 2 against Promoters, with Directors other than Promoters and Subsidiaries nil, totaling 5; statutory/regulatory actions are 14 against the Company and nil for the other against rows, totaling 14; tax proceedings are 36 against the Company and nil against Subsidiaries, totaling 36. The stated Company-against total is ₹4,496.21 million, and the table note identifies an additional ₹23.47 million counterclaim against the Company; including that quantified against-group amount gives ₹4,519.68 million, or ₹451.968 crore, while all 'by' rows are excluded. Contingent liabilities use the stated consolidated Total of ₹12,088.41 million as of December 31, 2020, converted to ₹1,208.841 crore. The disclosed concentration percentages are geographic revenue percentages, not company-wide top-five/top-ten customer concentration; no qualifying customer concentration percentage is provided. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 14,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 451.968,
+  "contingent_liabilities_total_cr": 1208.841,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

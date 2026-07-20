@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Swiggy",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows—criminal proceedings against the Company (4), Directors (2), and Subsidiaries (1); statutory/regulatory proceedings against the Company (4), Directors (3), and Subsidiaries (3); and tax proceedings against the Company (24) and Subsidiaries (6). I excluded all “By” rows and excluded tax matters from the regulatory count. The quantified aggregate amount against the Company and Subsidiaries is the stated table amount of ₹3,606.56 million plus ₹359.52 million, or ₹3,966.08 million = ₹396.608 crore; the contingent-liabilities disclosure is as of June 30, 2024, but no stated Total row is provided, so no total is extracted. No company-wide top-five or top-ten customer concentration percentage is disclosed; the only relevant percentages are unrelated metrics, and no denominator-based customer concentration figure is stated. Litigation and contingent-liability tables use ₹ million; conversion is ₹ million ÷ 10 to crore (₹3,966.08 million ÷ 10 = ₹396.608 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 10,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 396.608,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

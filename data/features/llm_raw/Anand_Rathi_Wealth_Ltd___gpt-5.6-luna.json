@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Anand Rathi Wealth Limited",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Company, Directors, Subsidiaries, Promoters and Group Companies; for criminal proceedings, I counted the against rows for the Company (Nil), Directors (7), Subsidiaries (Nil) and Promoters (6), while excluding no separate “By” rows because none are shown; regulatory/statutory proceedings against the Company total 2 and those against Subsidiaries, Promoters and Directors are Nil, while tax proceedings against the Company are Nil and against Subsidiaries total 1. For the aggregate amount against the Company and Subsidiaries only, I used the quantified against-Company regulatory amount of ₹0.84 million plus the against-Subsidiary tax amount of ₹4.62 million, totaling ₹5.46 million; promoter, director and Group Company amounts were excluded. The contingent-liabilities figure is the explicitly stated Total of ₹4.62 million as of August 31, 2021. Concentration percentages disclosed are segment/business-line revenue percentages, not company-wide top-five or top-ten customer percentages; no qualifying customer concentration denominator is disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹5.46 million = ₹0.546 crore and ₹4.62 million = ₹0.462 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 13,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.546,
+  "contingent_liabilities_total_cr": 0.462,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

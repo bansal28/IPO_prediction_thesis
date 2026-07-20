@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Lenskart Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the group from matters against it: I excluded all “By our Company,” “By our Subsidiaries,” “By our Directors,” “By our Promoters,” and “By our KMP/SMP” rows, and counted only the “Against” rows. Criminal proceedings against the company, subsidiaries, directors, promoters and KMP/SMP total 1 + 0 + 8 + 4 + 4 = 17; statutory/regulatory proceedings against the company and subsidiaries total 1 + 1 = 2, excluding tax; tax proceedings against the company and subsidiaries total 22 + 19 = 41, excluding promoter/director personal tax matters. The litigation amount for the consolidated group is the stated company amount of ₹1,074.17 million plus the stated subsidiaries amount of ₹443.10 million, totalling ₹1,517.27 million, converted from million to ₹151.727 crore. The contingent-liabilities section is dated June 30, 2025 and gives three components rather than a stated Total; their sum is ₹140.19 million + ₹505.86 million + ₹129.15 million = ₹775.20 million, or ₹77.52 crore. The section provides no company-wide top-five or top-ten customer revenue concentration percentage; the disclosed percentages relate to other metrics or segments, not customer concentration. The source monetary unit is ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 17,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 41,
+  "total_litigation_against_amount_cr": 151.727,
+  "contingent_liabilities_total_cr": 77.52,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

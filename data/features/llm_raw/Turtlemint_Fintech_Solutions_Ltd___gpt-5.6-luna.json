@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Turtlemint Fintech Solutions Limited",
+  "extraction_reasoning": "The litigation table lists proceedings against the Company, Subsidiaries, Directors, Promoters, Key Managerial Personnel and Senior Management, separately from proceedings by those parties; I counted only the Against rows. Criminal proceedings against were 0 for the Company, 2 for Subsidiaries, 3 for Directors and 2 for Promoters, totaling 7; statutory/regulatory actions against were 1 for Subsidiaries, 1 for Directors and 1 for Promoters, totaling 3; tax proceedings against the Company and Subsidiaries were 16 and 2, totaling 18. For the company-and-subsidiary aggregate, I used the quantified Against amounts of ₹574.21 million for the Company and ₹1.25 million for Subsidiaries, excluding promoter/director and all By amounts, totaling ₹575.46 million, or ₹57.546 crore. The contingent-liabilities table is consolidated and dated December 31, 2025; it discloses Income Tax of ₹62.25 million and GST of ₹511.96 million, which sum to ₹574.21 million or ₹57.421 crore because no stated Total row is provided. The concentration percentages disclosed are for general insurance companies and top Insurer Partners, not company-wide top-five or top-ten customers, so those customer fields are null; the disclosed percentages use revenue from operations or Platform Premium and are not customer concentration measures. Monetary tables use ₹ million, converted to crore by dividing by 10 (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 18,
+  "total_litigation_against_amount_cr": 57.546,
+  "contingent_liabilities_total_cr": 57.421,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Anthem Biosciences Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the entities from matters against them: I counted only the Against rows—criminal proceedings of 4 against the Company, 7 against Directors, 5 against Promoters, nil against the Subsidiary, 5 against Key Managerial Personnel and 1 against Senior Management; statutory/regulatory proceedings of 1 against the Company and nil in the other Against rows; and tax proceedings of 12 against the Company and nil against the Subsidiary. I excluded all By rows, including the Company’s 1 criminal matter and ₹4.52 million amount, and excluded promoter/director/KMP/SMP personal amounts from the aggregate litigation amount. The ₹491.94 million aggregate amount against the Company, which is the only quantified amount against the Company/Subsidiary group, converts to ₹49.194 crore; the contingent-liabilities table is dated March 31, 2025 and discloses ₹491.94 million of claims, ₹18.28 million of bank guarantees and ₹75.00 million of corporate guarantees, totaling ₹585.22 million or ₹58.522 crore, excluding the separate ₹1,544.69 million capital commitment. The company-wide top-customer concentration is for Fiscal 2025 and is measured against revenue from operations: top 5 customers were 70.92% and top 10 customers were 77.33%. The source unit for the litigation and contingent-liability tables is ₹ million; conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 22,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 49.194,
+  "contingent_liabilities_total_cr": 58.522,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 70.92,
+  "top10_customer_revenue_pct": 77.33
+}

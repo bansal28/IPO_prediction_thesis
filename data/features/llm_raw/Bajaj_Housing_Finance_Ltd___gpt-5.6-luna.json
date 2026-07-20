@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Bajaj Housing Finance Limited",
+  "extraction_reasoning": "The litigation table reports matters against the Company (23 criminal, 10 tax, Nil statutory/regulatory), against Directors (18 criminal, Nil tax and Nil statutory/regulatory), and against Promoters (47 criminal, 69 tax, Nil statutory/regulatory, plus one disciplinary SEBI/stock-exchange action); I counted only the Against rows, excluded all By rows, kept the disciplinary action separate from statutory/regulatory enforcement, and excluded promoter/director personal matters from the aggregate amount. The quantified aggregate amount against the Company is ₹239.0 million, while the Company’s ₹6,432.2 million and Promoters’ ₹3,116.1 million are By matters and excluded; ₹239.0 million converts to ₹23.90 crore. The contingent-liabilities figure is the stated amount of ₹35.3 million for disputed claims against the Company not acknowledged as debts, as at June 30, 2024; this converts to ₹3.53 crore. The only customer concentration percentages are top-10/top-20 loans outstanding, not company-wide revenue from operations or total-income percentages; therefore no qualifying top-five/top-ten revenue concentration is disclosed. Litigation and contingent-liability tables use ₹ in millions; conversion used 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 88,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 23.9,
+  "contingent_liabilities_total_cr": 3.53,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

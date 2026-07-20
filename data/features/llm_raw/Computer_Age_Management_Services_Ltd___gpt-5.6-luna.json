@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Computer Age Management Services Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, against Directors, against Subsidiaries, by Subsidiaries and against Group Companies. I counted 2 criminal proceedings against the Company and excluded 4 criminal proceedings by the Company; I counted 23 tax matters against the Company plus 5 tax matters against Subsidiaries, excluded nil matters by Subsidiaries, and did not count the 7 regulatory proceedings against Group Companies. The quantified amount against the Company and Subsidiaries is ₹5.10 million of criminal matters plus ₹235.34 million of Company tax matters plus ₹20.68 million of Subsidiary tax matters, totaling ₹261.12 million, or ₹26.112 crore; the contingent-liabilities table is dated June 30, 2020 and its line items total ₹193.84 million, or ₹19.384 crore, because no stated Total row is provided. The top-five concentration is company-wide and is 67.4% of revenue from operations for financial year 2020; no company-wide top-ten percentage is disclosed. The source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 28,
+  "total_litigation_against_amount_cr": 26.112,
+  "contingent_liabilities_total_cr": 19.384,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 67.4,
+  "top10_customer_revenue_pct": null
+}

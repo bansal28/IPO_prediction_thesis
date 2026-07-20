@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Bharat Coking Coal Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the Against rows—criminal proceedings of 22 against the Company, 2 against the Corporate Promoter, 1 against KMPs and 1 against SMPs, totaling 26; statutory/regulatory actions of 7 against the Company and 5 against the Corporate Promoter, totaling 12; and tax proceedings of 383 against the Company, excluding the Corporate Promoter’s 16 tax proceedings because the requested tax scope is the company and subsidiaries only. For the aggregate litigation amount against the Company and subsidiaries, the only quantified qualifying component shown is ₹31,999.66 million against the Company; the ₹22,452.19 million against the Corporate Promoter and all By amounts are excluded, giving ₹3,199.966 crore after conversion. Contingent liabilities use the explicitly stated Total of ₹41,887.40 million as of March 31, 2025, converted to ₹4,188.74 crore rather than summing line items. The company-wide top-10 customer concentration is 87.64% of revenue from operations for full Fiscal 2025; no company-wide top-five percentage is disclosed. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 26,
+  "regulatory_actions_against_count": 12,
+  "tax_proceedings_against_count": 383,
+  "total_litigation_against_amount_cr": 3199.966,
+  "contingent_liabilities_total_cr": 4188.74,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 87.64
+}

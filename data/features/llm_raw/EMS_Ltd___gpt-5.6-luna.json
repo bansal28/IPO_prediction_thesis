@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "EMS Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against our Company row—3 criminal proceedings, 10 tax proceedings, nil statutory/regulatory proceedings, and 2 material civil litigations—and excluded all By rows and the personal matters against directors/promoters. The quantified amount against the company is Rs. 155.12 lakhs; the group-companies/subsidiaries row is nil, so the consolidated company-and-subsidiaries amount is Rs. 155.12 lakhs, converted to Rs. 1.5512 crore. Contingent liabilities use the explicitly stated Total of Rs. 25,173.63 lakhs as at March 31, 2023, converted to Rs. 251.7363 crore, rather than summing line items. The only disclosed concentration percentages concern government trade receivables as a percentage of company-wide revenue from operations for the full fiscal years ended March 31, 2023, 2022 and 2021; no company-wide top-five or top-ten customer percentage is disclosed. The source monetary tables use lakhs, and conversion is lakhs divided by 100 to obtain crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 1.5512,
+  "contingent_liabilities_total_cr": 251.7363,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

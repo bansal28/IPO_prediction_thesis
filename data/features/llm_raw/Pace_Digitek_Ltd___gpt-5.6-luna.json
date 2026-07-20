@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Pace Digitek Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against” rows, namely criminal proceedings of 4 against Promoters, 0 against the Company, 0 against Directors and 0 against Subsidiaries; statutory/regulatory proceedings of 1 against the Company and 1 against Promoters; and tax proceedings of 24 against the Company plus 9 against Subsidiaries. Tax matters were kept separate from regulatory proceedings, and all “By” rows were excluded. The quantified aggregate against the Company and Subsidiaries is the stated Company amount of ₹497.58 million plus the Subsidiaries amount of ₹52.31 million, totaling ₹549.89 million; at the latest date shown, March 31, 2025, contingent liabilities use the stated Total of ₹554.60 million, not a re-sum. The concentration figures are company-wide top-customer percentages of revenue from operations for the most recent full fiscal year, Fiscal 2025: top 5 customers 93.97% and top 10 customers 96.25%. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10, so ₹549.89 million = ₹54.989 crore and ₹554.60 million = ₹55.46 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 33,
+  "total_litigation_against_amount_cr": 54.989,
+  "contingent_liabilities_total_cr": 55.46,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 93.97,
+  "top10_customer_revenue_pct": 96.25
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Krsnaa Diagnostics Limited",
+  "extraction_reasoning": "No litigation summary table is provided in the supplied risk section, so no criminal, statutory/regulatory, or tax rows—whether Against or By—can be counted, and no quantified group litigation aggregate can be extracted. The contingent-liabilities table states a Total of ₹36.50 million as of December 31, 2020; this stated Total is used without re-summing and converts to ₹3.65 crore (₹36.50 million ÷ 10). The section provides revenue concentration percentages for public health agencies and for Maharashtra, Rajasthan and Karnataka, but not company-wide top-five or top-ten customer percentages for a full fiscal year, so those fields are not disclosed. The monetary source unit used in the contingent-liabilities table is ₹ million; no separate litigation-table unit is provided.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 3.65,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

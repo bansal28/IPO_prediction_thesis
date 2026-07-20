@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Akums Drugs and Pharmaceuticals Limited",
+  "extraction_reasoning": "The litigation summary is stated in ₹ million: criminal proceedings against were Company Nil, Directors Nil, Promoters Nil and Subsidiaries 2 (while the 22 Company and 163 Subsidiary criminal matters shown as “By” were excluded); statutory/regulatory proceedings against were 39, 6, 6 and 62 respectively, and tax proceedings against the Company and Subsidiaries were 16 and 31 respectively. The group litigation amount was not stated as a consolidated total, so it is summed from the “Against our Company” aggregate amount of ₹169.56 million and “Against the Subsidiaries” aggregate amount of ₹855.37 million; director and promoter amounts and all “By” rows were excluded, giving ₹1,024.93 million / 10 = ₹102.493 crore. Contingent liabilities use the explicitly stated Total of ₹886.22 million as of March 31, 2024, converted to ₹88.622 crore. The only customer concentration disclosed is for the ten largest clients of the CDMO business in FY2024 (39.31% of CDMO-business revenue from operations), rather than company-wide revenue from operations or total income, so no company-wide top-5 or top-10 percentage is reported. Source monetary tables use ₹ million, with 10 million equal to ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 113,
+  "tax_proceedings_against_count": 47,
+  "total_litigation_against_amount_cr": 102.493,
+  "contingent_liabilities_total_cr": 88.622,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

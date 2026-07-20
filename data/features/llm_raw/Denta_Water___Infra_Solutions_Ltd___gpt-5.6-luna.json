@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Denta Water and Infra Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: all “By” rows are excluded; the “Against our Company” row has criminal Nil, tax 1, statutory/regulatory Nil and material civil 1 with an aggregate amount of ₹3.14 million, while the “Against our Promoters” row has criminal, tax and regulatory Nil and one material civil matter that is not quantifiable; directors and group companies have no against matters. Accordingly, criminal proceedings against count is 0, regulatory actions against count is 0, tax proceedings against count is 1, and the quantified company/group litigation amount is ₹3.14 million, or ₹0.314 crore; the promoter’s personal unquantifiable civil matter is excluded from the amount. The contingent-liabilities table is stated as of September 30, 2024 in ₹ million and lists bank guarantees of 570.15, income-tax demand of 3.14 and litigation of 5.00, but provides no stated Total row, so no contingent-liabilities total is extracted rather than summing the components. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2024, is 66.26% for the top five and 69.10% for the top ten, based on the table’s revenue percentage/total revenue from contracts with customers (also described as revenue from operations); the source unit is ₹ million and conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.314,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 66.26,
+  "top10_customer_revenue_pct": 69.1
+}

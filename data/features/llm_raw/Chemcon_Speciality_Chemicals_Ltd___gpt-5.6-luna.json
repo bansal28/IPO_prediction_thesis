@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not stated in provided text",
+  "extraction_reasoning": "No litigation summary table is provided in the supplied risk section: the narrative includes one criminal proceeding against a Promoter Group member, SEBI-related matters and RBI proceedings involving Promoter Group entities, but no countable against-vs-by litigation table; therefore criminal and regulatory table-based counts are null, while the separate tax table shows two proceedings involving the Company and no 'By' rows. The tax table reports ₹2.69 million involved, which is the only quantified amount against the Company/subsidiaries; converted at ₹10 million per crore, this equals ₹0.269 crore. The contingent-liabilities table is dated March 31, 2020 and lists components but provides no stated Total row; accordingly, the required stated total is not disclosed, and capital commitments are not treated as contingent liabilities. Company-wide top-five customer concentration is 59.35% of revenue from operations for Fiscal 2020, the most recent full fiscal year; the other percentages are segment-only and no company-wide top-ten figure is given. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 0.269,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 59.35,
+  "top10_customer_revenue_pct": null
+}

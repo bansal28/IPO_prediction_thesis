@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "OnEMI Technology Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by (“By”) from matters against (“Against”): I excluded the Company’s and Subsidiary’s “By” rows, including the Subsidiary’s 33,270 criminal matters, and counted only Against rows. Criminal proceedings against the Company and Subsidiary total 0 + 2 = 2; statutory/regulatory proceedings against them total 0 + 1 = 1; tax proceedings against them total 11 + 4 = 15, excluding the 3 promoter tax matters. The quantified aggregate amount against the Company and Subsidiary is the stated row amount of ₹189.32 million + ₹18.65 million = ₹207.97 million, or ₹20.797 crore; promoter and director amounts and all By-row amounts are excluded. The contingent-liabilities figure is the stated Total of ₹17,934.86 million as of December 31, 2025, converted to ₹1,793.486 crore; the source tables use ₹ million. No company-wide customer concentration percentage, going-concern uncertainty, or statutory-auditor opinion status is disclosed in the provided risk section.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 15,
+  "total_litigation_against_amount_cr": 20.797,
+  "contingent_liabilities_total_cr": 1793.486,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

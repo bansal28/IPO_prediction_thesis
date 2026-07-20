@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Quadrant Future Tek Limited",
+  "extraction_reasoning": "The litigation table shows 9 criminal proceedings against the Directors and 9 against the Promoters; the corresponding 'By' rows are nil, and all tax and statutory/regulatory columns are nil or not applicable, so 18 criminal proceedings against listed entities are counted, with 0 regulatory and 0 tax proceedings. The criminal matters concern directors/promoters personally and the table gives the aggregate amount as non-ascertainable, so no quantified company/subsidiary litigation amount is included. The contingent-liabilities figure is the stated consolidated 'Total contingent liabilities' of ₹50.67 million as at September 30, 2024, not a re-sum; this converts from million to ₹5.067 crore (50.67 ÷ 10). The company-wide customer concentration figures are for Fiscal 2024 and are percentages of revenue from operations: top five 72.99% and top ten 86.20%; the source tables use ₹ in million, converted to crore where applicable.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 18,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 5.067,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": 72.99,
+  "top10_customer_revenue_pct": 86.2
+}

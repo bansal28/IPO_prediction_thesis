@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Akme Fintrade (India) Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the Against rows, including 1 criminal proceeding against the promoters and 3 tax proceedings against the Company; the Company’s statutory/regulatory Against cell is nil, and I excluded all By Company, By Promoters and By Group Companies rows. The quantified aggregate amount for matters against the Company is explicitly stated as ₹657.07 lakhs; no subsidiaries are listed, so this is used as the company/group amount, converted to ₹6.5707 crore, while promoter/director personal matters and By matters are excluded. No total contingent-liabilities row is disclosed; the ₹1,203.57 lakhs corporate-guarantee figure as of December 31, 2023 is described only as forming part of contingent liabilities and therefore is not used as the total. The only disclosed percentages concern Rajasthan loan-book and interest-income concentration, not top customers; there is no company-wide top-five or top-ten customer percentage for a full fiscal year, and no denominator applicable to customer concentration. The source litigation and contingent-liability-related tables use ₹ in lakhs; ₹657.07 lakhs ÷ 100 = ₹6.5707 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 6.5707,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

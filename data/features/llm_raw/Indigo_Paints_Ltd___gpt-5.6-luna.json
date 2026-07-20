@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indigo Paints Limited",
+  "extraction_reasoning": "The litigation table separates matters filed against the Company from matters filed by the Company: against rows counted were 1 regulatory/statutory action, 10 indirect-tax matters, 3 direct-tax matters, and Nil criminal proceedings; the 99 criminal proceedings and ₹19.62 million in the 'filed by our Company' rows were excluded. Tax proceedings against the Company total 13, regulatory actions against total 1, and the quantified against-company amount is ₹529.76 million, comprising ₹2.28 million regulatory, ₹264.14 million indirect tax, ₹2.82 million direct tax, and ₹260.52 million material civil litigation; these components are treated as separate table categories. The contingent-liabilities figure is the stated Total of ₹315.86 million as of September 30, 2020, not a re-sum of line items. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the disclosed concentration percentages relate to geography, not customers. The source tables use ₹ million, converted to crore by dividing by 10: ₹529.76 million = ₹52.976 crore and ₹315.86 million = ₹31.586 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 52.976,
+  "contingent_liabilities_total_cr": 31.586,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

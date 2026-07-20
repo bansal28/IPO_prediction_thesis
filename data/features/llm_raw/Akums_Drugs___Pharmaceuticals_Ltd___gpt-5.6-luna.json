@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Akums",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the against rows: criminal proceedings are Nil for the Company, Directors and Promoters and 2 against Subsidiaries, while statutory/regulatory proceedings are 39 against the Company, 6 against Directors, 6 against Promoters and 62 against Subsidiaries; tax proceedings counted only for the Company and Subsidiaries are 16 and 31 respectively, excluding the Directors’ 2. The quantified aggregate amount against the Company and Subsidiaries is the stated ₹169.56 million plus ₹855.37 million, totaling ₹1,024.93 million, converted at ₹10 million per crore to ₹102.493 crore; all “By” rows were excluded. Contingent liabilities use the stated consolidated Total of ₹886.22 million as of March 31, 2024, converted to ₹88.622 crore, rather than summing line items. The only top-customer concentration disclosed is for the CDMO business segment—39.31% for the top ten clients in Financial Year 2024, measured against CDMO revenue from operations—so company-wide top-five and top-ten fields are null. Source monetary tables use ₹ millions, and the conversion applied is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 113,
+  "tax_proceedings_against_count": 47,
+  "total_litigation_against_amount_cr": 102.493,
+  "contingent_liabilities_total_cr": 88.622,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

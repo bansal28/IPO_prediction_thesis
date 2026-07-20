@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Kaynes Technology India Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows; criminal proceedings are Nil for the Company, subsidiaries, directors and promoters, statutory/regulatory proceedings are Nil, and tax proceedings are 17 against the Company plus 2 against subsidiaries. The quantified aggregate amount against the Company and subsidiaries is ₹76.35 million plus ₹0.58 million, or ₹76.93 million, excluding promoter/director matters and all “By” rows; converted at ₹10 million per crore, this is ₹7.693 crore. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹970.09 million as of June 30, 2022, not a sum of line items, converted to ₹97.009 crore. Company-wide customer concentration for the latest full fiscal year, Fiscal 2022, is measured as a percentage of revenue from operations: top 5 customers were 37.23% and top 10 customers were 51.02%; the source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 7.693,
+  "contingent_liabilities_total_cr": 97.009,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 37.23,
+  "top10_customer_revenue_pct": 51.02
+}

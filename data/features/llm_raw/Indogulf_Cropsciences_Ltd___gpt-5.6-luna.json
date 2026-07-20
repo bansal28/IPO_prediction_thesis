@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indogulf Cropsciences Limited",
+  "extraction_reasoning": "The litigation table reports against-vs-by rows separately: criminal proceedings against the Company (Nil), Promoters (1), and Directors (4) were counted, while the Company's 182 and the separate 82 cheque-bounce complaints filed by the Company were excluded as 'By' matters; statutory/regulatory proceedings against the Company (2) were counted separately, and tax proceedings against the Company (21) were counted separately from regulatory matters. The quantified aggregate amount against the Company is ₹224.29 million and against Subsidiaries is Nil; promoter and director amounts, and all 'By' amounts, were excluded, producing ₹22.429 crore after conversion. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹381.13 million as at December 31, 2024, converted to ₹38.113 crore rather than re-summing line items. The only customer concentration disclosure is segment-level top-10 revenue (Brand sales, Institutional sales and Exports), so no company-wide top-5 or top-10 percentage is extracted; the disclosed percentages use consolidated gross revenue from operations and include Fiscal 2024 as the latest full fiscal period. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 21,
+  "total_litigation_against_amount_cr": 22.429,
+  "contingent_liabilities_total_cr": 38.113,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

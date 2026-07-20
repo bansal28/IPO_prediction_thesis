@@ -1,0 +1,26 @@
+# ============================================================================
+# Phase 7 — FULL RUN: all 416 files on GPT-5.6 Luna (paid, ~$22.60 expected)
+# Edit this file, then run:  python src/processing/09_extract_llm_risk.py
+# Keys are NOT stored here — see .env.example. Paths are relative to project root.
+# ============================================================================
+
+[openai]
+api_key_env = "OPENAI_API_KEY"
+reasoning_effort = "low"          # validated at this setting — do not change
+max_output_tokens = 16000         # headroom; bills only what's actually used
+models = ["gpt-5.6-luna"]         # <-- GPT Luna, the model we settled on
+
+[gemini]
+api_key_env = "GEMINI_API_KEY"
+request_interval_seconds = 0      # unused now (no gemini model in the run)
+
+[paths]
+risk_dir      = "data/processed/risk_sections"
+system_prompt = "src/processing/system_prompt_risk_extraction.md"
+out           = "data/features/features_llm_risk.csv"   # the REAL feature file
+raw_dir       = "data/features/llm_raw"                  # per-file JSON, SQ3 audit trail
+
+[run]
+dry_run = false
+files = []        # empty = process EVERY .md in risk_dir (all 416)
+limit = 0

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sula Vineyards Limited",
+  "extraction_reasoning": "The litigation table separates matters filed By the Company, Subsidiary, Directors and Promoter from matters Against them. I counted only Against rows: criminal proceedings are 1 against the Company plus 1 against the Promoter (the same MCA complaint is separately included in both categories per note (1)); statutory/regulatory actions are 8 against the Company plus 1 against the Promoter; and tax proceedings are 9 against the Company plus 1 against the Subsidiary. For the aggregate amount against the Company and Subsidiary, I used ₹1,250.75 million for the Company plus ₹0.23 million for the Subsidiary, excluding the Promoter’s ₹28.15 million, giving ₹1,250.98 million; the stated contingent-liabilities aggregate is ₹185.15 million as of September 30, 2022, excluding the not-determinable provident-fund liability. The top-five customer concentration is company-wide, based on revenue from operations for the full Fiscal 2022, and is 37.25%; no company-wide top-ten percentage is disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹1,250.98 million = ₹125.098 crore and ₹185.15 million = ₹18.515 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 125.098,
+  "contingent_liabilities_total_cr": 18.515,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 37.25,
+  "top10_customer_revenue_pct": null
+}

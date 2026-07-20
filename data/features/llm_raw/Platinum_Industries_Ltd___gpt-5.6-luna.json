@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Platinum Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows, counted 0 criminal proceedings against, 10 statutory/regulatory proceedings against (5 against the Company and 5 against the Promoters), and 0 tax proceedings against the Company and its subsidiaries; the 1 tax matter against Directors was excluded from the tax field. The quantified aggregate amount against the Company and subsidiaries is the Company’s stated ₹9.11 million amount; no quantified amount is shown against subsidiaries, so ₹9.11 million was converted to ₹0.911 crore. Contingent liabilities use the explicitly stated Total of ₹43.20 million as of September 30, 2023, converted to ₹4.32 crore, rather than summing line items. The customer concentration table reports company-wide top-5 and top-10 percentages for the most recent full fiscal year, Fiscal 2023, using “% of total sales” as the denominator: 77.85% and 86.49%, respectively. Litigation and contingent-liability tables use ₹ in million; conversion is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 10,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.911,
+  "contingent_liabilities_total_cr": 4.32,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 77.85,
+  "top10_customer_revenue_pct": 86.49
+}

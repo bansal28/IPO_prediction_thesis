@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Midwest Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows. Criminal proceedings against the company, directors, promoters and subsidiaries total 0 + 0 + 2 + 0 = 2; statutory/regulatory proceedings total 10 + 0 + 1 + 0 = 11; tax proceedings against the company and subsidiaries total 14 + 3 = 17, excluding the promoter’s personal tax matter. The quantified group amount against the company and subsidiaries is ₹367.66 million + ₹607.51 million = ₹975.17 million, converted to ₹97.517 crore; promoter matters and all “By” amounts are excluded. The contingent-liabilities table states a consolidated Total of ₹1,407.38 million as of June 30, 2025, which is used without re-summing; this converts to ₹140.738 crore. Customer concentration is company-wide and based on revenue from operations: for the most recent full fiscal year, Fiscal 2025, top five customers contributed 36.34% and top ten contributed 51.21%. The source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 11,
+  "tax_proceedings_against_count": 17,
+  "total_litigation_against_amount_cr": 97.517,
+  "contingent_liabilities_total_cr": 140.738,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 36.34,
+  "top10_customer_revenue_pct": 51.21
+}

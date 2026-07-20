@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Yatharth Hospital & Trauma Care Services Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company (2), other Directors (1), Promoters (2), and Subsidiaries (1), totaling 6; all “By” rows are nil and excluded. The statutory/regulatory and tax columns are nil for all against rows, so regulatory actions and tax proceedings against the company/subsidiaries are each 0; the quantified group amount includes ₹5.00 million against the Company and ₹0.74 million against Subsidiaries, while the ₹0.74 million against Promoters is excluded, giving ₹5.74 million = ₹0.574 crore. The contingent-liabilities figure is the stated consolidated “Total” of ₹2,358.44 million as at March 31, 2023, converted to ₹235.844 crore without re-summing line items. Concentration percentages disclosed relate to COVID-19 revenue and hospital/service segments, not company-wide top-five or top-ten customers; the relevant denominator is revenue from operations, with Fiscal 2023 the latest full fiscal period. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 100 (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.574,
+  "contingent_liabilities_total_cr": 235.844,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "EPACK Durable Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, with criminal proceedings of Nil for the Company, Directors, Promoters and Subsidiary; statutory/regulatory proceedings of 1 against the Directors and Nil against the other listed entities; and tax proceedings of 3 against the Company plus 2 against the Subsidiary. I excluded all “By” rows, including 7 tax proceedings by the Company, and the quantified aggregate against the Company and Subsidiary is ₹3.11 million + ₹1.20 million = ₹4.31 million, converted to ₹0.431 crore. The contingent-liabilities figure is the stated Total of ₹13.69 million as of September 30, 2023, converted to ₹1.369 crore; it is not re-summed beyond using the stated Total. The concentration disclosure is company-wide top-five customer contribution to revenue from operations: 82.66% for the most recent full fiscal year, Fiscal 2023; no company-wide top-ten customer revenue percentage is disclosed. The litigation and contingent-liability tables use ₹ million, and conversion is by dividing by 10 because ₹10 million equals ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 0.431,
+  "contingent_liabilities_total_cr": 1.369,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": 82.66,
+  "top10_customer_revenue_pct": null
+}

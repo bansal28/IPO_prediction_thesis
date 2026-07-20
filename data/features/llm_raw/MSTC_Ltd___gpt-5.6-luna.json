@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "MSTC LIMITED",
+  "extraction_reasoning": "The litigation tables separate matters against the Company, by the Company, against Directors, against/by the Subsidiary, and involving the JVC. I counted only against rows: criminal matters are 10 against the Company, nil against the Subsidiary, and nil against Directors; statutory/regulatory actions are nil against both the Company and Subsidiary; tax proceedings against the Company and Subsidiary total 8 + 25 + 0 + 21 = 54, excluding all 'By' rows. The quantified aggregate against the Company and Subsidiary is ₹241.55 million direct tax + ₹519.09 million indirect tax + ₹7,937.39 million material civil litigation for the Company, plus ₹653.32 million indirect tax for the Subsidiary = ₹9,351.35 million, excluding the Subsidiary's 'NA' civil amounts; converted at 1 crore = ₹10 million, this is ₹935.135 crore. Contingent liabilities use the stated Total of ₹2,968.20 million as at September 30, 2018, converted to ₹296.82 crore. The only concentration disclosures are segment-specific: government/government-controlled entities in the e-commerce segment and top three customers in the trading line, so no company-wide top-five or top-ten percentage based on revenue from operations or total income is disclosed; the source tables use ₹ million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 54,
+  "total_litigation_against_amount_cr": 935.135,
+  "contingent_liabilities_total_cr": 296.82,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

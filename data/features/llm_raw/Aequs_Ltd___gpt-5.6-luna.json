@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aequs Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: all “By” rows were excluded; criminal proceedings against the company, directors, KMP, senior management, promoters and subsidiaries are all Nil, statutory/regulatory actions against all listed entities are Nil, and tax proceedings against the company (3) plus subsidiaries (5) total 8, excluding the directors’ personal tax matter. For the group-only quantified aggregate, I used the stated amounts against the Company of ₹805.34 million and against Subsidiaries of ₹28.55 million, totaling ₹833.89 million, converted from million to ₹83.389 crore; promoter/director and “By” amounts were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹934.32 million as of September 30, 2025, converted to ₹93.432 crore, rather than a re-sum. The company-wide customer concentration for the latest full fiscal year, Financial Year 2025, is 73.17% for the top five and 88.57% for the top ten, measured as a percentage of revenue from operations; the Aerospace Segment concentration was not used because it is segment-specific. The litigation and contingent-liability tables use ₹ million, and the conversion applied is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 83.389,
+  "contingent_liabilities_total_cr": 93.432,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 73.17,
+  "top10_customer_revenue_pct": 88.57
+}

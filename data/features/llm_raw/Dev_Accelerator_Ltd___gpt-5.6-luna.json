@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not stated",
+  "extraction_reasoning": "The litigation tables show all “By our Company,” “By our Directors,” “By our Promoters,” “By our Subsidiaries,” “By our Group Companies,” “By our KMPs” and “By our SMPs” rows as Nil, so these were excluded; among the “Against” rows, the Company has 9 tax proceedings and 0 criminal or statutory/regulatory proceedings, while all other against rows are Nil. The quantified amount against the Company is ₹14.19 million, comprising the Company’s 9 tax proceedings and 1 other material civil proceeding; no quantified amount is disclosed against subsidiaries, so ₹14.19 million is used and converted to ₹1.419 crore. Contingent liabilities use the stated Total of ₹14.19 million as at March 31, 2025, converted to ₹1.419 crore, rather than re-summing. The company-wide top-10 customer concentration is 38.58% of revenue from operations for Fiscal 2025; no company-wide top-5 percentage is disclosed. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 1.419,
+  "contingent_liabilities_total_cr": 1.419,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 38.58
+}

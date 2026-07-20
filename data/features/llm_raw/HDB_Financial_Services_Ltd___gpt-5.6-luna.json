@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "HDB Financial Services Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By the Company,” “By our Directors,” “By our Promoter,” and other “By” rows, and counted only the Against rows. Criminal proceedings counted are 87 against the Company, 13 against the Directors, 364 against the Promoter and 11 against Key Managerial Personnel, totaling 475; statutory/regulatory proceedings counted are 1 against the Company and 30 against the Promoter, totaling 31, while tax proceedings against the Company total 14; the Promoter’s 227 tax matters and disciplinary actions are excluded from the company-and-subsidiaries tax and regulatory counts. The aggregate litigation amount against the Company is explicitly stated as ₹1,011.7 million as of the date of the Red Herring Prospectus, equal to ₹101.17 crore; no subsidiary litigation row is disclosed. The contingent-liabilities table states a Total of ₹7,877.4 million as at March 31, 2025, equal to ₹787.74 crore, and this stated Total is used rather than summing line items. The only concentration percentages disclosed relate to business segments or specific service categories, not company-wide top-five or top-ten customers; the source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 475,
+  "regulatory_actions_against_count": 31,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 101.17,
+  "contingent_liabilities_total_cr": 787.74,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

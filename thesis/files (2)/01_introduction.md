@@ -119,13 +119,16 @@ explicitly not proposed and not endorsed.
 - **Chapter 3** describes the data collection pipeline — Chittorgarh IPO
   tracker and detail pages, SEBI DRHP/RHP downloads, InvestorGain grey-market
   data, Yahoo Finance market context, and the Ghosh et al. cross-validation
-  dataset.
+  dataset — and documents the risk-section extraction and audit pipeline that
+  converts the raw prospectus PDFs into a certified corpus of clean
+  risk-section markdown files consumed by downstream chapters.
 - **Chapter 4** documents data cleaning: leakage controls, target definition,
   handling of missing values, and locked methodological decisions.
 - **Chapter 5** presents exploratory data analysis, including the observed
   regime shift between 2024 and 2025.
 - **Chapter 6** describes feature engineering, motivated by the EDA findings.
-- **Chapter 7** describes LLM-based structured extraction of risk factors.
+- **Chapter 7** describes LLM-based structured extraction of risk factors from
+  the certified risk-section corpus produced in Chapter 3.
 - **Chapter 8** sets out the modelling methodology, temporal splits, and
   evaluation metrics.
 - **Chapter 9** reports results.

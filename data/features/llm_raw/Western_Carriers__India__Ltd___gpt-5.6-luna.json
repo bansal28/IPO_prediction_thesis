@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Western Carriers (India) Limited",
+  "extraction_reasoning": "The litigation table reports proceedings against the Company (criminal 2, tax 4, statutory/regulatory 5), against Directors (criminal 5, statutory/regulatory 2), and against Promoters (criminal 5, statutory/regulatory 2); I counted only these Against rows and excluded all By rows. Tax proceedings were kept separate from statutory/regulatory proceedings, and no subsidiary litigation row or Group Company proceedings were disclosed. The contingent-liabilities table is as of March 31, 2024 and lists Indian Railway ₹5.31 million, Income Tax ₹18.00 million and GST ₹2.75 million, but does not state a Total row; accordingly, the total contingent-liabilities field is null rather than re-summing the components. The company-wide customer concentration figures are for full Fiscal 2024 and are percentages of revenue from operations: top 5 customers 57.07% and top 10 customers 71.97%. Monetary litigation and contingent-liability tables use ₹ million; the quantified litigation amount of ₹30.93 million converts to ₹3.093 crore (₹30.93 million ÷ 10).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 12,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 3.093,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 57.07,
+  "top10_customer_revenue_pct": 71.97
+}

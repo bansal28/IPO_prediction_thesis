@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Popular Vehicles and Services Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I excluded all “By” rows and counted only against rows. Against counts are criminal 7 (Company) + 1 (Subsidiaries) + 0 (Directors) + 4 (Promoters) = 12; statutory/regulatory 23 + 7 + 1 + 9 = 40; and tax 72 (Company) + 65 (Subsidiaries) = 137, excluding promoter/director tax matters and keeping tax separate from regulatory proceedings. The quantified aggregate amount against the Company and Subsidiaries is ₹305.92 million + ₹2,474.75 million = ₹2,780.67 million, or ₹278.067 crore; the contingent-liabilities table is dated September 30, 2023 and lists components but provides no stated Total row, so no total is extracted. The disclosed concentration percentages concern OEMs and geographic states rather than company-wide top-five or top-ten customers; therefore both customer concentration fields are null. The litigation and contingent-liability source tables use ₹ million, converted to crore by dividing by 10 (₹2,780.67 million ÷ 10 = ₹278.067 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 12,
+  "regulatory_actions_against_count": 40,
+  "tax_proceedings_against_count": 137,
+  "total_litigation_against_amount_cr": 278.067,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

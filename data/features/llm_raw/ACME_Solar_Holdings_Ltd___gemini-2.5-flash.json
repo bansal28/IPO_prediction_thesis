@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "ACME Solar Holdings Limited",
+  "extraction_reasoning": "The litigation table on page 52 provides counts and amounts. For criminal proceedings, one case involves both a Director and a Promoter, so it is counted once, in addition to cases against Subsidiaries. Regulatory actions are summed across Company, Promoters, and Subsidiaries. Tax proceedings are strictly limited to the Company and Subsidiaries, as per the rules. The total quantified litigation amount aggregates sums against the Company (6.95 million) and Subsidiaries (1,348.15 million). Contingent liabilities are taken from the 'Total' row of the table on page 68 as of June 30, 2024. Customer concentration figures are for Fiscal 2024, based on percentages of revenue from operations, and are company-wide. All monetary values are presented in '₹ million' in the source text and converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 20,
+  "tax_proceedings_against_count": 24,
+  "total_litigation_against_amount_cr": 135.51,
+  "contingent_liabilities_total_cr": 611.984,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 74.98,
+  "top10_customer_revenue_pct": 89.97
+}

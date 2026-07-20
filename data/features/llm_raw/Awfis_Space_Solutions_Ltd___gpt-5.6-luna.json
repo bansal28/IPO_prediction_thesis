@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Awfis Space Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I excluded all “By the Company,” “By the Directors,” “By the Promoters,” and “By the Subsidiary” rows, and counted only against rows. Against rows show criminal proceedings of Nil against the Company, 1 against Directors, 1 against Promoters, and Nil against the Subsidiary; statutory/regulatory proceedings are Nil throughout; tax proceedings against the Company are 21 and against the Subsidiary are Nil, while promoter/director tax matters are excluded from the tax field. The quantified aggregate amount against the Company is ₹536.44 million, with no quantified amount against the Subsidiary; this stated aggregate is used rather than re-summing, and converts to ₹53.644 crore at ₹10 million per crore. No contingent-liabilities table or total is disclosed in the provided section. The top-five figure of 12.67% for Fiscal 2023 relates specifically to rental income from co-working space, a business segment rather than company-wide revenue, so it is excluded; no top-ten figure is disclosed. Litigation monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 21,
+  "total_litigation_against_amount_cr": 53.644,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

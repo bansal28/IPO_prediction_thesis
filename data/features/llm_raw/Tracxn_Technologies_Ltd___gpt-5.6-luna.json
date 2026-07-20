@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tracxn",
+  "extraction_reasoning": "The litigation table reports against-vs-by rows separately: all By Company, By Directors, By Promoters and By Subsidiaries rows are Nil and excluded; among Against rows, criminal proceedings are Nil for the Company, Directors, Promoters and Subsidiaries (0), statutory/regulatory proceedings are Nil (0), and tax proceedings are 1 against the Company plus 1 against Directors, with the Directors’ personal matter excluded from the company-and-subsidiaries tax count, resulting in 1 tax proceeding. The quantified amount against the Company is ₹3,179.04 thousand and against Subsidiaries is Nil; the Directors’ ₹137.98 thousand is excluded, so the company-and-subsidiaries aggregate is ₹3,179.04 thousand, or 0.317904 crore. The contingent-liabilities table explicitly states a Total of ₹3,179.04 thousand as of June 30, 2022, converted to 0.317904 crore without re-summing. No company-wide top-five or top-ten customer concentration percentage is disclosed for a full fiscal year; the revenue percentages disclosed concern customers outside India, US-dollar-denominated revenue, and related-party transactions, not customer concentration. The source monetary unit is ₹ thousand, and conversion is ₹3,179.04 thousand ÷ 10,000 = ₹0.317904 crore.",
+  "source_currency_unit": "thousand",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.317904,
+  "contingent_liabilities_total_cr": 0.317904,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

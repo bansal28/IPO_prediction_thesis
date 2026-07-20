@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sai Life Sciences Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each party. I counted only the “Against” rows: criminal proceedings are 0 against the Company, 1 against Directors and 1 against Promoters, totaling 2; statutory/regulatory proceedings are 1 against the Company and none against subsidiaries, totaling 1; tax proceedings against the Company and its Subsidiaries are 41 against the Company and nil against Subsidiaries, totaling 41. For the aggregate amount against the Company and Subsidiaries, I used the quantified “Against our Company” amount of ₹2,387.24 million and excluded Director/Promoter matters; this converts to ₹238.724 crore (₹2,387.24 million ÷ 10). The contingent-liabilities table is dated September 30, 2024 and has no stated Total row, so the two disclosed items were summed: ₹259.91 million + ₹36.37 million = ₹296.28 million, or ₹29.628 crore. The concentration figures are company-wide top-five and top-ten customer percentages of revenue from operations for the full Financial Year 2024: 31.17% and 46.26%, respectively. The source monetary tables use ₹ millions; all crore fields were converted using 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 41,
+  "total_litigation_against_amount_cr": 238.724,
+  "contingent_liabilities_total_cr": 29.628,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 31.17,
+  "top10_customer_revenue_pct": 46.26
+}

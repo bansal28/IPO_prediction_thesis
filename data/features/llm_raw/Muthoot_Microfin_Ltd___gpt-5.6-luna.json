@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Muthoot Microfin Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the Against Company, Against the Directors, and Against Promoters rows. Criminal proceedings against these rows total 2 + 1 + 8 = 11, statutory/regulatory proceedings total 2 + 0 + 1 = 3, and tax proceedings against the company are Nil; the 73 tax proceedings against Promoters were excluded, as were all By rows and promoter/director personal amounts. No quantified amount is disclosed for matters against the company or subsidiaries: the Against Company aggregate is Non-quantifiable, and the text states that Group Companies are not party to pending litigation with a material impact, so the consolidated company/subsidiary litigation amount is null. The contingent-liabilities table states a total of ₹5,196.22 million as of September 30, 2023; this stated figure was used without re-summing and converted at ₹10 million per crore to ₹519.622 crore. The only percentages resembling concentration disclosures concern related-party transactions (0.64% for the six months ended September 30, 2023 and 1.02% for FY2023) and are not top-customer concentration; no company-wide top-five or top-ten customer percentage is disclosed. Litigation and contingent-liability tables use ₹ million, so the conversion is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 11,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 519.622,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

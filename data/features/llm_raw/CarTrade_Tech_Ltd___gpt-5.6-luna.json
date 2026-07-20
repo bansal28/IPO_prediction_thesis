@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "CarTrade Tech Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, involving Directors, against Subsidiaries, and by Subsidiaries. I counted only against rows: criminal proceedings are Nil against the Company, Directors and Subsidiaries, giving 0; statutory/regulatory actions are Nil against the Company, Directors and Subsidiaries, giving 0; and tax matters are 4 against the Company plus 7 against Subsidiaries, giving 11. For the quantified aggregate against the Company and Subsidiaries, I included ₹6.43 million of Company tax matters, ₹37.84 million of Subsidiary material civil proceedings and ₹4.08 million of Subsidiary tax matters, while excluding all By rows and promoter/director personal matters; the total is ₹48.35 million, or ₹4.835 crore. The contingent-liabilities disclosure is consolidated as of March 31, 2021 and lists service tax of ₹4.86 million and Maharashtra value-added tax of ₹7.53 million; since no Total row is shown, these disclosed components sum to ₹12.39 million, or ₹1.239 crore. The section contains no company-wide top-five or top-ten customer revenue concentration percentage; the only percentages concern other operating metrics, not customer revenue concentration. Monetary litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 4.835,
+  "contingent_liabilities_total_cr": 1.239,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Innova Captab Limited",
+  "extraction_reasoning": "The litigation table reports against-vs-by rows separately: for matters against the group, I counted criminal proceedings of 20 against subsidiaries, statutory/regulatory proceedings of 5 against the Company, 7 against Directors and 7 against Promoters, and tax proceedings of 1 against the Company plus 35 against subsidiaries; I excluded all By rows and excluded Directors’ personal tax matters from the tax count. The quantified aggregate amount against the Company and subsidiaries was summed from ₹0.61 million against the Company and ₹1,997.54 million against subsidiaries, totalling ₹1,998.15 million, or ₹199.815 crore; promoter/director amounts and all By amounts were excluded. Contingent liabilities use the stated consolidated Total of ₹2,450.60 million as at June 30, 2023, converted to ₹245.06 crore, rather than re-summing the line items. The customer concentration figures disclosed are only for the CDMO business segment—top ten customers at 56.29% of CDMO revenue from operations in Fiscal 2023—so company-wide top-five and top-ten percentages are not extracted. The source tables use ₹ million; conversion is million ÷ 10 to obtain crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 20,
+  "regulatory_actions_against_count": 19,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 199.815,
+  "contingent_liabilities_total_cr": 245.06,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ujjivan Small Finance Bank Limited",
+  "extraction_reasoning": "The litigation tables split matters into “against” and “by” the Bank and Promoter, with separate criminal, taxation, and regulatory/statutory categories. I counted only the “against” rows: criminal cases against the Bank, Promoter and Directors are Nil; regulatory actions against the Bank and Directors are Nil and the Promoter has 1, while the Promoter’s regulatory matter is included in the regulatory count; taxation matters against the Bank are Nil, and the Promoter’s 1 tax matter is excluded because the tax field is limited to the company and its subsidiaries. The quantified aggregate against the Bank and subsidiaries is Nil, so the litigation amount is ₹0 million, or ₹0.0 crore; the ₹4.25 million contingent-liability figure is explicitly disclosed as of September 30, 2019 and converts to ₹0.425 crore (₹4.25 million ÷ 10). The source tables use ₹ million. The concentration table concerns top depositors as a percentage of total deposits, not company-wide customer revenue, so top-five and top-ten revenue percentages are not disclosed; no going-concern or statutory-auditor-report status is stated in the provided risk section.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 0.425,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vraj Iron and Steel Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity. I counted only the Against rows: criminal proceedings are 5 against Promoters, with nil against the Company, Directors and Group Companies; statutory/regulatory proceedings are 3 against the Company, 2 against Directors, 8 against Promoters and 1 against Group Companies; tax proceedings against the Company and Group Companies are nil, while the 2 against Promoters are excluded from the company/subsidiary tax count. For the aggregate quantified amount against the Company and its subsidiaries/group companies, I used ₹68.80 million against the Company plus ₹7.26 million against Group Companies = ₹76.06 million, or ₹7.606 crore; the other quantified against amounts relate to Promoters and are excluded. The contingent-liabilities figure is the stated Total of ₹493.51 million as at December 31, 2023, converted to ₹49.351 crore, rather than a re-sum. The company-wide top-customer percentages are for Fiscal 2023 and are stated as a percentage of revenue: 39.42% for the top five and 58.56% for the top ten; the source tables use ₹ in million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 14,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 7.606,
+  "contingent_liabilities_total_cr": 49.351,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 39.42,
+  "top10_customer_revenue_pct": 58.56
+}

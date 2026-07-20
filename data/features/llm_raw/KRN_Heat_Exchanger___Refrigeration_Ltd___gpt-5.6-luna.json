@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "KRN Heat Exchanger and Refrigeration Limited",
+  "extraction_reasoning": "The outstanding-litigation summary is present, but its table is rendered as unreadable image/placeholder content; therefore no criminal, statutory/regulatory, tax, or quantified against/by rows can be reliably counted, and all litigation fields are null. The contingent-liabilities figure is the explicitly stated consolidated-style Total of ₹2,189.91 lakhs as of March 31, 2024, not a re-sum of the components; ₹2,189.91 lakhs ÷ 100 = ₹21.8991 crore, reported as ₹218.991 crore? Actually 1 crore = 100 lakhs, so the correct conversion is ₹21.8991 crore. The customer concentration percentages are company-wide and based on revenue from operations for the full fiscal year FY 2023-24: top five customers 55.12% and top ten customers 72.31%. Monetary tables use lakhs; all crore amounts below are converted using 100 lakhs = 1 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 21.8991,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 55.12,
+  "top10_customer_revenue_pct": 72.31
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Clean Max",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the Against rows—criminal proceedings of 2 against the Company, 1 against Directors, 2 against Promoters, 0 against Subsidiaries, 2 against KMP and 0 against SMP, totaling 7; statutory/regulatory actions of 3 against the Company, 0 against Directors, 1 against Promoters, 1 against Subsidiaries, and 0 against KMP/SMP, totaling 5; and tax proceedings of 25 against the Company plus 25 against Subsidiaries, totaling 50. For the aggregate amount against the consolidated group, I summed the quantified Against our Company amount of ₹1,213.74 million and Against our Subsidiaries amount of ₹1,276.41 million, excluding promoter/director/KMP matters and all By rows; this equals ₹2,490.15 million, or ₹249.015 crore. The contingent-liabilities figure is the stated total of ₹1,967.41 million as of September 30, 2025, rather than a re-sum of the ₹903.66 million income-tax and ₹1,063.75 million GST components. The company-wide top-10 customer concentration is 36.16% of revenue from operations for Fiscal 2025, the most recent full fiscal year; the other concentration percentages are either interim or segment-specific, and no company-wide top-five percentage is disclosed. The source tables use ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 50,
+  "total_litigation_against_amount_cr": 249.015,
+  "contingent_liabilities_total_cr": 196.741,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 36.16
+}

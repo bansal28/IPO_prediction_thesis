@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Diffusion Engineers Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the “Against” rows: criminal proceedings are nil for the Company, Directors, Promoters and Subsidiaries; statutory/regulatory proceedings are 11 against the Company and 7 against the Promoters, while tax proceedings are 1 against the Company and 2 against the Promoters; the promoter tax matters are excluded from the company/subsidiary tax count, and all “By” rows were excluded. The quantified aggregate amount against the Company is ₹130.45 million and there is no quantified amount against Subsidiaries; therefore the group amount is ₹130.45 million, converted to ₹13.045 crore using ₹10 million = ₹1 crore. No contingent-liabilities total, going-concern uncertainty, or statutory auditor report status is disclosed in the provided risk section. The company-wide top-customer concentration is disclosed for Fiscal 2024 as 20.81% for the top five and 29.43% for the top ten, measured against standalone revenue from operations; the source tables use ₹ million, with monetary values converted from million to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 18,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 13.045,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 20.81,
+  "top10_customer_revenue_pct": 29.43
+}

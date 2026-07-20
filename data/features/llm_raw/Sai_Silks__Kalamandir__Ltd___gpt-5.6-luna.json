@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "No litigation summary table is provided, so there are no against-vs-by rows to count; criminal, statutory/regulatory, and tax proceedings are therefore all not disclosed. The risk section mentions a contingent liability as of March 31, 2009 arising from an income-tax notice, but provides no amount or stated Total, so no contingent-liabilities figure can be extracted. No company-wide customer concentration percentage is disclosed; the section gives no fiscal period or denominator based on revenue from operations or total income. The only explicit monetary table uses Rs. million, so the source unit is million; no litigation or contingent-liability amount is available for conversion to crore (1 million = 0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

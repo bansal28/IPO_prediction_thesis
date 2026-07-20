@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nureca Limited",
+  "extraction_reasoning": "The provided risk section contains no litigation summary table, so there are no against-vs-by rows to count and no criminal, regulatory, or tax proceedings to extract; the individual income-tax search operations described are not presented as a litigation-table count against the issuer or its subsidiaries. No contingent-liabilities table or stated Total is disclosed, so no contingent-liabilities figure or date can be extracted. No company-wide top-five or top-ten customer concentration percentage is disclosed; the section discusses channel-partner dependence qualitatively without a percentage, denominator, fiscal period, or segment/company-wide quantification. The only monetary table shown is a net-cash-flow table stated in ₹ million, not a litigation or contingent-liabilities table; therefore the source currency unit for the requested tables is not stated and no crore conversion is applicable.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fusion Micro Finance Limited",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows: I excluded the Company’s 309 criminal proceedings filed by it, and counted only “Against our Company” for regulatory proceedings (2); the Directors’ 2 tax proceedings and 1 material civil litigation are personal matters and excluded from company-group totals, while all promoter “Against” rows are nil. Tax proceedings against the Company are explicitly “-” (0), and the quantified amount against the Company is ₹1.35 million; there are no subsidiary rows or quantified subsidiary matters, so the aggregate against-company/subsidiaries amount is ₹1.35 million = ₹0.135 crore. No contingent-liabilities table or stated total is disclosed in this risk section, so the contingent-liabilities figure and date are unavailable. No company-wide top-five or top-ten customer concentration percentage is disclosed; the stated currency source unit for the litigation table is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.135,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

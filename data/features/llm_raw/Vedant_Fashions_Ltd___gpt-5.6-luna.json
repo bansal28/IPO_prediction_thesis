@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not stated",
+  "extraction_reasoning": "The litigation tables separate matters against the Company and its Subsidiary from matters filed by them: I counted the 3 criminal and 7 statutory/regulatory matters in the against table, excluded the 3 material civil matters filed by them and the 3 matters filed by them in total, and kept tax separate. The tax table shows 1 direct-tax and 4 indirect-tax proceedings against the Company, with quantified tax of ₹0.99 million; promoter/director matters were excluded from the group aggregate, while the 7 statutory/regulatory amount is ₹5.16 million, producing ₹6.15 million, or ₹0.615 crore, for quantified matters against the Company and Subsidiary. The text separately states nine pending legal metrology matters against the Company, but the litigation summary table reports seven statutory/regulatory cases; the table count is used and the discrepancy is noted. No contingent-liabilities Total row is stated as of June 30, 2021; therefore the disclosed ₹0.99 million and ₹5.16 million line items were not summed for the contingent-liabilities field. Concentration percentages disclosed for top five franchisees and online channels are segment/channel-level Sales of our Customers rather than company-wide revenue from operations, so they are excluded; no company-wide top-five or top-ten customer percentage is disclosed for a full fiscal year. Litigation and contingent-liability tables use ₹ in millions; ₹6.15 million ÷ 10 = ₹0.615 crore, while no contingent-liabilities total is available for conversion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 7,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 0.615,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "GSP Crop Science Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows, with criminal proceedings of 20 against the Company, 1 against Subsidiaries, and 4 against Promoters (none against Directors, KMPs or SMPs), excluding the 456 By the Company matters; statutory/regulatory enforcement is 1 against the Company and nil for the other entities, while tax proceedings are 42 against the Company and 1 against Subsidiaries, excluding all By rows. The quantified group litigation amount was summed from the Against Company amount of ₹521.56 million and Against Subsidiaries amount of ₹11.71 million, totaling ₹533.27 million, because no consolidated Against-company-and-subsidiaries total is stated. The contingent-liabilities figure uses the latest stated September 30, 2025 column and sums the disclosed non-nil items of ₹1.09 million and ₹355.31 million to ₹356.40 million; the table does not show a stated Total row. Company-wide customer concentration for the latest full fiscal year, Fiscal 2025, is 12.01% for the top five and 19.05% for the top ten, measured against revenue from continuing operations; the segment-specific figures were not used. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10 (₹533.27 million = ₹53.327 crore; ₹356.40 million = ₹35.64 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 25,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 43,
+  "total_litigation_against_amount_cr": 53.327,
+  "contingent_liabilities_total_cr": 35.64,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 12.01,
+  "top10_customer_revenue_pct": 19.05
+}

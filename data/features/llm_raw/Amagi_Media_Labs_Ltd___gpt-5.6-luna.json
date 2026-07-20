@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Amagi Media Labs Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: all “By” rows are excluded; criminal proceedings against the listed entities are Nil except 2 against KMP/SMP, statutory or regulatory proceedings against the Company, subsidiaries, directors, KMP/SMP and promoters are all Nil, and tax proceedings against the Company are 12 with subsidiaries Nil. The quantified aggregate against the Company is ₹1,175.07 million; subsidiaries have no quantified amount, so the group amount is ₹1,175.07 million = ₹117.507 crore, excluding promoter, director, KMP/SMP and “By” matters. Contingent liabilities are disclosed in the September 30, 2025 table in ₹ millions without a stated Total row; summing bank guarantee ₹0.72 million, income-tax dispute ₹592.48 million and GST dispute ₹104.44 million gives ₹697.64 million = ₹69.764 crore. The company-wide top-five and top-ten customer concentration figures are for Financial Year 2025 and are percentages of revenue from operations: 23.65% and 33.74%, respectively; the interim figures are not used because a full fiscal year is available. The source currency unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 117.507,
+  "contingent_liabilities_total_cr": 69.764,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 23.65,
+  "top10_customer_revenue_pct": 33.74
+}

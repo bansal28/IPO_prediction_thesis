@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Anupam Rasayan India Limited",
+  "extraction_reasoning": "No litigation summary table or against-vs-by rows are provided; the narrative states that no criminal, statutory, tax or material civil litigation was outstanding involving the Company, Subsidiary, Directors and Promoters, so criminal, regulatory and tax counts are each zero, with no By matters disclosed. The contingent-liability disclosure identifies cumulative CCPS dividend outstanding of ₹79,050 as of December 31, 2020; this is the latest stated amount and date, and ₹79,050 converts from rupees to ₹0.007905 crore. No separate litigation monetary table or source unit is stated. The only company-wide customer concentration figure is top-10 customers representing 86.65% of revenue from operations in Fiscal 2020; no top-five figure is disclosed, and the figure is company-wide rather than segment-specific.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 0.007905,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 86.65
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table lists matters involving the Company: criminal 2, regulatory/statutory 0, tax 3, and civil 1; the separate Directors table has no criminal or regulatory matters and one personal tax matter, which is excluded from the company-group tax count. I counted only the Company rows and excluded the Directors' tax proceeding; the quantified amount against the Company is ₹50.00 million civil + ₹0.20 million criminal + ₹1.56 million tax = ₹51.76 million, or ₹5.176 crore, while all 'By' rows are absent. No stated total contingent-liabilities figure is disclosed; only a ₹77.60 million corporate guarantee and a contingent-liabilities-to-net-worth percentage of 1.78% are provided, as of December 31, 2023. Concentration percentages disclosed in the section relate to a specific e-commerce distribution agreement, not top-five or top-ten company-wide customers, so those fields are null. The litigation source unit is ₹ million; conversion to crore is by dividing by 10 (₹51.76 million ÷ 10 = ₹5.176 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 5.176,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

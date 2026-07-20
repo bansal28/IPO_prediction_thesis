@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Divgi TorqTransfer Systems Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted the single criminal proceeding in the “Against the Directors” row; statutory/regulatory proceedings against the company, directors, promoters and subsidiaries are Nil; and tax proceedings against the company and subsidiaries are Nil. I excluded the two civil litigations and approximately ₹16.07 million shown in the “By the Company” row because they were initiated by the Company, not against it; quantified litigation against the Company or subsidiaries is explicitly Nil, so the aggregate is ₹0.00 crore. The contingent-liabilities figure is the stated Total of ₹35.90 million as of September 30, 2022, converted from million to crore by dividing by 10, giving ₹3.59 crore. The company-wide top-five customer concentration is 91.28% of revenue from operations for the most recent full fiscal year, Fiscal 2022; the six-month 2022 figure is not used, and no company-wide top-ten figure is disclosed. The litigation and contingent-liability tables use ₹ million, so all crore amounts are converted at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 3.59,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 91.28,
+  "top10_customer_revenue_pct": null
+}

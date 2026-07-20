@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Excelsoft Technologies Limited",
+  "extraction_reasoning": "The litigation table separates cases against the Company, Subsidiaries, Directors other than Promoters, Promoters, KMP and SMP from cases by those parties. I counted only against rows: criminal proceedings are 1 against a Director other than a Promoter, statutory/regulatory actions are Nil across the against rows, and tax proceedings against the Company are 3; tax matters against Directors and Promoters were excluded from the company-and-subsidiaries tax count. The quantified aggregate against the Company and Subsidiaries is the Company row total of ₹3.50 million, converted to ₹0.35 crore; subsidiary quantified matters are Nil, while promoter/director tax amounts of ₹0.10 million and ₹9.82 million were excluded. The contingent-liabilities figure is the explicitly stated total of ₹3,034.32 million as at June 30, 2025, converted to ₹303.432 crore, rather than a re-sum of components. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is top 5 at 66.12% and top 10 at 76.58%, based on revenue from operations/total revenue as presented in the customer table; the separate Pearson, industry-vertical and geography percentages were not used because they are not top-customer company-wide figures. The litigation and contingent-liability tables use ₹ million: ₹1 million = ₹0.1 crore, so ₹3.50 million = ₹0.35 crore and ₹3,034.32 million = ₹303.432 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 0.35,
+  "contingent_liabilities_total_cr": 303.432,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 66.12,
+  "top10_customer_revenue_pct": 76.58
+}

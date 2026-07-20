@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Interarch Building Products Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, namely criminal proceedings against the Company (1), Directors (2) and Promoters (2), and statutory/regulatory actions against the Company (37) and Directors (1); I excluded all “By” rows and kept the 42 Company tax proceedings separate, with no tax proceedings against Directors or Promoters. The quantified aggregate amount against the Company is explicitly stated as ₹299.07 million; there is no subsidiary, and the Directors’ and Promoters’ against rows show Nil amounts, so this converts to ₹29.907 crore (₹299.07 million ÷ 10). The contingent-liabilities table is dated March 31, 2024 and lists line items in ₹ million but does not provide a stated Total row, so no contingent-liabilities total is extracted. The only company-wide customer concentration percentage disclosed is repeat-order revenue, not top-five or top-ten customer revenue; therefore both concentration fields are null. The source monetary unit is million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 38,
+  "tax_proceedings_against_count": 42,
+  "total_litigation_against_amount_cr": 29.907,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

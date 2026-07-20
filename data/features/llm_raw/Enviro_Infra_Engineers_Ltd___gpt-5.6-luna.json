@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Enviro Infra Engineers Ltd.",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows and counted the “Against” rows for the Company, Subsidiaries, Directors and Promoters. Against the Company, criminal proceedings are NIL, tax proceedings are 15, statutory/regulatory proceedings are NIL, and aggregate amount involved is ₹331.61 lakhs; against Subsidiaries, criminal and regulatory proceedings are NIL, tax proceedings are 4, and aggregate amount involved is ₹0.84 lakhs; director and promoter against rows are NIL. Therefore, tax proceedings against the Company and Subsidiaries total 19, criminal and regulatory actions total zero, and quantified litigation against the consolidated group is ₹332.45 lakhs (₹3.3245 crore), comprising ₹331.61 lakhs plus ₹0.84 lakhs. The contingent-liabilities table states a Total of ₹25,882.56 lakhs as at June 30, 2024; this stated Total is used without re-summing and converts to ₹258.8256 crore. The risk section provides only segment-level concentration percentages (for example, WWTP/WSSP, EPC, HAM and O&M) and no company-wide top-five or top-ten customer percentage for a full fiscal year; source monetary tables use ₹ lakhs, converted to crore at 100 lakhs per crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 3.3245,
+  "contingent_liabilities_total_cr": 258.8256,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

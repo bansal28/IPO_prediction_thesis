@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Netweb Technologies",
+  "extraction_reasoning": "The litigation table separates matters filed By the entities from matters Against them: I excluded all By rows, counted the Against rows across company, promoters, directors and subsidiary, and kept categories separate. Against the company there are 0 criminal, 1 tax, 0 statutory/regulatory and 1 material civil proceeding; against the promoter there are 0 criminal, 1 tax and 6 disciplinary proceedings; directors and subsidiary have nil Against counts. For the aggregate amount against the company and subsidiary, I used the Company Against aggregate amount of ₹9.82 million (the subsidiary is nil), including the quantified company matter and excluding promoter matters; this converts to ₹0.982 crore. The contingent-liabilities figure is the stated consolidated-style Total of ₹276.79 million as at Fiscal 2023, not a re-sum, converting to ₹27.679 crore. The company-wide top-10 concentration is 57.80% of revenue from operations for Fiscal 2023, and the top-five percentage is derived from the five listed customer percentages (21.10% + 13.29% + 5.96% + 4.13% + 2.59% = 47.07%); the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.982,
+  "contingent_liabilities_total_cr": 27.679,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 47.07,
+  "top10_customer_revenue_pct": 57.8
+}

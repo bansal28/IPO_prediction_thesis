@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "LG Electronics India Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each party: I counted only the Against rows—criminal proceedings of 5 against the Company, 2 against Directors and 3 against KMP/SMP; statutory/regulatory actions of 21 against the Company, 2 against the Promoter and 1 against KMP/SMP; and tax claims of 192 against the Company, excluding the Promoter's personal 16 tax claims. For the quantified aggregate against the Company and its subsidiaries, I used the explicit Company-row aggregate amount of ₹47,441.47 million, which converts to ₹4,744.147 crore; the table does not identify a separate quantified subsidiary amount. The contingent-liabilities disclosure is in ₹ million: the stated Grand total for claims against the Company at June 30, 2025 is ₹26,893.43 million, and the separate royalty contingency at that date is ₹3,153.00 million; together these disclosed contingencies equal ₹30,046.43 million, or ₹3,004.643 crore. The concentration disclosures are segment-level revenue figures (for example, Home Appliances and Air Solution division at 74.97% in Fiscal 2025) and no company-wide top-five/top-ten customer revenue percentage is stated; the auditor disclosure is an emphasis of matter, not a modified opinion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 24,
+  "tax_proceedings_against_count": 192,
+  "total_litigation_against_amount_cr": 4744.147,
+  "contingent_liabilities_total_cr": 3004.643,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

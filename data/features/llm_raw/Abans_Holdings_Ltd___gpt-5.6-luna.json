@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Abans Holdings Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: all “By” rows were excluded. Against the company shows nil across categories; against directors has six tax proceedings but directors’ personal tax matters are excluded; against promoters has one disciplinary SEBI/stock-exchange matter, which is not counted as statutory/regulatory; against subsidiaries has eight tax proceedings and two statutory/regulatory proceedings, while the two disciplinary proceedings are excluded because they duplicate the regulatory matters; no criminal proceedings are shown against the relevant entities. The quantified amount against subsidiaries is ₹5.96 lakhs, with no quantified amount against the company, converting to ₹0.0596 crore; promoter/director and group-company amounts were excluded. Contingent liabilities are disclosed as ₹11,887.00 lakhs and ₹235.06 lakhs as of August 31, 2022; because no total row is shown, these were summed to ₹12,122.06 lakhs, or ₹121.2206 crore. The only customer-concentration percentages are segment-specific (finance, agency, and physical-commodities activities), not company-wide top-five/top-ten revenue percentages; the source tables use ₹ lakhs, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 0.0596,
+  "contingent_liabilities_total_cr": 121.2206,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

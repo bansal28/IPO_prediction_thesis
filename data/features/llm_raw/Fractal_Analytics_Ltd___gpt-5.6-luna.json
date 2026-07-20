@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fractal",
+  "extraction_reasoning": "The litigation table reports against-versus-by rows separately: I counted the Against our Company, Against our Subsidiaries, Against our Directors, Against our Promoters, Against our Key Managerial Personnel and Against our Senior Management rows, while excluding every By row. Criminal proceedings against count is 3 (directors only); statutory/regulatory actions against count is 1 (company only); tax proceedings against the company and subsidiaries total 19 (13 + 6), excluding director/promoter personal matters. The aggregate quantified amount against the company and subsidiaries is the stated 881 million + 1 million = 882 million, or ₹88.2 crore; the directors’ ₹9,158 million is excluded. Contingent liabilities are stated as a total of ₹102 million as of September 30, 2025, converted to ₹10.2 crore; the source tables use ₹ million. The only customer concentration disclosure is segment-level (Fractal.ai) for the six months ended September 30, 2025, so company-wide top-five and top-ten percentages for a full fiscal year are not disclosed; its denominator is revenue from operations in the Fractal.ai segment.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 88.2,
+  "contingent_liabilities_total_cr": 10.2,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

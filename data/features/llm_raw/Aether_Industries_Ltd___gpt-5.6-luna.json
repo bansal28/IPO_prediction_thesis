@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aether Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: the “Against the Company” row shows criminal Nil, tax 3, statutory/regulatory Nil and aggregate amount ₹20.97 million; “By the Company” is Nil and is excluded. The “Against the Directors” and “Against the Promoters” rows show criminal Nil, tax 2 each, statutory/regulatory Nil, but their tax proceedings and amounts are excluded from the company-and-subsidiaries fields because they are personal matters; no subsidiary row is disclosed. The contingent-liabilities table is dated December 31, 2021 and does not state an overall contingent-liabilities total; although it contains “Total Margin for above items” rows, no aggregate Total for all contingent liabilities is provided, and the raw-material FLC is denominated in US$ million while the other entries are in ₹ million. The only quantified company litigation amount, ₹20.97 million, converts to ₹2.097 crore (₹20.97 million ÷ 10); the top-customer disclosure provides only top 20 company-wide percentages, not top 5 or top 10, and uses revenue from operations for Fiscal 2021.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 2.097,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

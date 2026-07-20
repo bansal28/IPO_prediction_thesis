@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Paradeep Phosphates Limited",
+  "extraction_reasoning": "The litigation table separates matters involving the Company, Promoters, Directors and Goa Facility, with criminal, statutory/regulatory and tax rows distinct from one another. For criminal proceedings against, I counted 10 Company matters after excluding 61 Company-filed complaints, 128 Promoter matters after excluding 71 ZACL-filed complaints, and 3 Director matters; regulatory counts are the 5 Company, 1 Promoter and 1 Director matters, while tax counts are 44 Company and 9 Goa Facility matters, excluding promoter tax matters. The quantified aggregate against the Company/group is based on the Company direct-tax amount of ₹3,263.05 million plus Goa Facility tax proceedings of ₹897.80 million, totaling ₹4,160.85 million; other criminal and civil amounts were not isolated from matters filed by the Company or otherwise mixed. Contingent liabilities are disclosed as line items as of December 31, 2021; their summed amount is ₹2,704.16 million, or ₹270.416 crore, because no stated total row is provided. The concentration figures disclosed are state-level revenue-from-operations percentages, not company-wide top-five or top-ten customer concentration, so those fields are null. The source tables use ₹ million; amounts are converted to crore by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 141,
+  "regulatory_actions_against_count": 7,
+  "tax_proceedings_against_count": 53,
+  "total_litigation_against_amount_cr": 416.085,
+  "contingent_liabilities_total_cr": 270.416,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "EMKAY SHARE AND STOCK BROKERS LIMITED",
+  "extraction_reasoning": "No litigation summary table is provided, so there are no table-based against-versus-by rows to count; the narrative discloses four income-tax matters against the Company for assessment years 2000-01 through 2003-04, with no criminal or statutory/regulatory enforcement matters stated. The quantified aggregate against the Company is the stated Rs. 44.23 lakhs of income-tax demands, converted to Rs. 0.4423 crore; no subsidiary amount or promoter/director personal matter is disclosed. The contingent-liabilities table is in Indian rupees lakhs and is dated September 30, 2005, but it does not provide an overall contingent-liabilities Total row, so no total is extracted rather than summing line items. Customer concentration is described only qualitatively as a major portion of business derived from a few customers, with no company-wide percentage, fiscal period, or denominator disclosed. The source unit is lakhs; the conversion used is 1 crore = 100 lakhs, so Rs. 44.23 lakhs / 100 = Rs. 0.4423 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.4423,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

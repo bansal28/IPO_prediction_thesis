@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Dodla Dairy Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, against Directors, against Promoters, and against Subsidiaries: I counted only against rows—criminal cases 4 against the Company plus 2 against Directors and 2 against Promoters, statutory/regulatory actions against the Company Nil, and taxation matters against the Company 10; the Company’s criminal cases filed by it (4) were excluded. The quantified amount against the Company is ₹293.54 million of taxation matters plus ₹14.85 million of civil matters, totaling ₹308.39 million, or ₹30.839 crore; the subsidiary civil matter is stated separately in US$0.39 million and is not converted or added because no exchange rate is provided. Contingent liabilities use the explicitly stated Total of ₹165.55 million as at December 31, 2020, converted to ₹16.555 crore by dividing million by 10. The 98.75% figure is for revenue from operations in Fiscal 2020 from sales in southern India, a geographic business concentration rather than a company-wide top-customer concentration, so customer concentration fields are null; the source currency tables use both ₹ million and US$ million, hence the unit is mixed.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 30.839,
+  "contingent_liabilities_total_cr": 16.555,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

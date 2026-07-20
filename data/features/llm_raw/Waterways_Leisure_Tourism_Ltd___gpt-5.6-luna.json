@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Waterways Leisure Tourism Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against the relevant parties. I excluded all “By” rows; among the “Against” rows, the Company has Nil criminal proceedings, 3 tax proceedings, Nil statutory/regulatory proceedings, and the subsidiaries have Nil in all listed categories, while promoter, director and KMP/SMP rows are also Nil. The litigation table reports ₹255.46 million against the Company, which converts to ₹25.546 crore at ₹10 million per crore; this is the quantified aggregate against the Company and subsidiaries, including the tax proceedings. Contingent-liability items are stated in ₹ million as of March 31, 2026, but the provided text contains no explicit stated Total row, so the contingent-liabilities total is not extracted; the listed items are ₹120.96 million for the TAMP matter, ₹252.03 million income tax and ₹3.43 million GST. The revenue concentration disclosed is company-wide revenue from operations for full Fiscal 2026, but it concerns cruise ticket sales rather than top-five or top-ten customers, so both customer-concentration fields are null. The source currency unit for the litigation and contingent-liability tables is million, and the litigation amount conversion is ₹255.46 million ÷ 10 = ₹25.546 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 25.546,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "issuer_material_uncertainty",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "TBO Tek Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the Against rows—criminal proceedings of 2 against the Directors, with Nil against the Company, Promoters and Subsidiaries; statutory/regulatory proceedings of 1 against the Company and 1 against the Directors, excluding tax; and tax proceedings of 17 against the Company plus 1 against Subsidiaries, excluding promoter/director personal tax matters and all By rows. For the company-and-subsidiary litigation amount, I used the stated aggregate amounts of ₹1,223.25 million against the Company and ₹0.23 million against Subsidiaries, totaling ₹1,223.48 million, or ₹122.348 crore; the Director and Promoter amounts were excluded. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹501.47 million as of December 31, 2023, converted to ₹50.147 crore rather than re-summing line items. The concentration percentages disclosed concern Suppliers, not company-wide customers; therefore no top-five or top-ten customer revenue percentage is extracted. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 18,
+  "total_litigation_against_amount_cr": 122.348,
+  "contingent_liabilities_total_cr": 50.147,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

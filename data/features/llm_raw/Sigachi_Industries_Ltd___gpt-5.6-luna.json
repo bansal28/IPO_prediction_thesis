@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sigachi Industries Limited",
+  "extraction_reasoning": "The litigation table is expressly limited to “Cases filed against our Company”; it reports criminal matters Nil, direct tax matters Nil, indirect tax matters 1 for ₹559.21 lacs, regulatory actions Nil, and material civil litigations Nil. No “By” rows are disclosed, so the counted against rows are criminal 0, regulatory 0, and tax 1; the quantified group amount is the indirect-tax amount of ₹559.21 lacs, with no subsidiary-specific amount separately stated. The contingent-liabilities figure is the stated consolidated Total of ₹648.43 lacs as of June 30, 2021, rather than a re-sum. The company-wide top-five customer concentration is 47.93% of revenue from operations for the full fiscal year ended March 31, 2021; the other concentration disclosures are either interim or segment/industry-related, and no company-wide top-ten percentage is stated. The source tables use ₹ in lacs; ₹559.21 lacs ÷ 100 = ₹5.5921 crore and ₹648.43 lacs ÷ 100 = ₹6.4843 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 5.5921,
+  "contingent_liabilities_total_cr": 6.4843,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 47.93,
+  "top10_customer_revenue_pct": null
+}

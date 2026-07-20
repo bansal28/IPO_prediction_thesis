@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Life Insurance Corporation of India",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Corporation are 37 criminal, 63 tax, 1 statutory/regulatory and no material civil proceedings; against subsidiaries are nil criminal, 4 tax, nil statutory/regulatory and nil civil proceedings. I excluded all “By the Corporation” rows, including 226 criminal and 3 civil matters, and counted the 1 statutory/regulatory row despite the note that the Corporation is currently a petitioner in the appeal; promoter and director rows are nil. The quantified aggregate against the Corporation is ₹748,946.96 million, used as the stated against-amount total and converted to ₹74,894.696 crore; the subsidiary amount is USD 434,439 and cannot be converted to rupees from the provided text, so it is excluded from the rupee aggregate. The contingent-liabilities figure is the stated Total of ₹294,067.51 million as at December 31, 2021 on a standalone basis, converted to ₹29,406.751 crore. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed concentration percentages relate to states, products or other non-customer measures. Monetary litigation tables use ₹ million but also contain a subsidiary amount in USD, so the source unit is mixed; ₹ million was converted to crore by dividing by 10.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 37,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 67,
+  "total_litigation_against_amount_cr": 74894.696,
+  "contingent_liabilities_total_cr": 29406.751,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

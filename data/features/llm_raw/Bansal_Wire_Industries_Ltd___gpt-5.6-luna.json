@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Bansal Wires Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: “By” rows were excluded, including 3 criminal, 3 tax and 1 material civil matter filed by the Company; against the subsidiary there are Nil criminal, 6 tax, Nil statutory/regulatory and ₹121.67 million involved, and against the Company there are Nil criminal, 4 tax, Nil statutory/regulatory and ₹1.73 million involved. Against-promoter tax matters (2) were excluded from the company/subsidiary tax count and aggregate amount, as were all promoter/director personal matters; accordingly, criminal against count is 0, regulatory against count is 0, tax proceedings against count is 10, and quantified company-plus-subsidiary litigation is ₹123.40 million (₹121.67 million + ₹1.73 million), or ₹12.34 crore. The contingent-liabilities tables are stated as at March 31, 2024 in ₹ million, but no consolidated stated Total row for contingent liabilities is disclosed; the litigation-provision table separately states a Total of ₹123.40 million, which is not treated as the total contingent-liabilities figure. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages shown relate to suppliers, dealers, geography, exports or business segments, not customers. The source unit is ₹ million, converted to crore by dividing by 10 (₹123.40 million ÷ 10 = ₹12.34 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 12.34,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

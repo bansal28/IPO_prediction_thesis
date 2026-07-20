@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Avalon Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against the Company,” “Against Subsidiaries,” “Against the Directors,” and “Against Promoters” rows, excluding every “By” row. Criminal proceedings against all listed entities total 0; statutory/regulatory proceedings against the Company and Subsidiaries total 6 + 2 = 8, excluding tax; tax proceedings against the Company and Subsidiaries total 7 + 4 = 11, excluding promoter/director personal matters. The quantified aggregate against the Company and Subsidiaries is taken from the stated amounts of ₹42.73 million and ₹30.18 million, respectively, totaling ₹72.91 million, or ₹7.291 crore; “Not quantifiable” personal matters were excluded. The contingent-liabilities figure uses the stated Total of ₹37.19 million as of November 30, 2022, converted to ₹3.719 crore, without re-summing line items. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2022, is 49.65% for the top five and 64.57% for the top ten, measured as a percentage of revenue from operations. The source tables use ₹ million; conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 7.291,
+  "contingent_liabilities_total_cr": 3.719,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 49.65,
+  "top10_customer_revenue_pct": 64.57
+}

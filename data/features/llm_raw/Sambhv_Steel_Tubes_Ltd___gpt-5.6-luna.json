@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sambhv Steel Tubes Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category. Against rows counted were Company (criminal Nil, tax 2, regulatory 2), Directors (criminal 1, tax 2, regulatory Nil), Promoters (criminal Nil, tax 20, regulatory Nil), Subsidiary (all Nil), KMP (all relevant counts Nil) and Senior Management (criminal Nil and regulatory Nil); all By rows were excluded, and the promoter/director tax matters were excluded from the tax count because the requested tax field is limited to the company and subsidiary. Thus, criminal against count is 1, regulatory against count is 2, and tax proceedings against the company and subsidiary are 2. The litigation table gives an aggregate amount of ₹2.06 million for the Company against row and Nil for the Subsidiary; ₹2.06 million was converted to ₹0.206 crore. Contingent liabilities are disclosed as of December 31, 2024 in ₹ million, with no stated Total row; the quantified components, income tax demands of ₹4.47 million and outstanding bank guarantees of ₹54.61 million, sum to ₹59.08 million, or ₹5.908 crore. Customer concentration is disclosed separately for distributors and direct customers, not company-wide top-five/top-ten customers; the Fiscal 2024 figures use revenue from operations, but are category-specific and therefore not used. The source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 0.206,
+  "contingent_liabilities_total_cr": 5.908,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

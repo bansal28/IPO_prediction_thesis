@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "JSW Cement Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the “Against” rows, with criminal proceedings of 0 across the Company, directors, promoters, KMP, senior management personnel, subsidiaries, material joint venture and group companies; statutory/regulatory proceedings of 8 against the Company, 3 against directors, 2 against promoters and 1 against subsidiaries, excluding tax; and tax proceedings of 44 against the Company plus 20 against subsidiaries, excluding promoter/director matters and all “By” rows. For quantified litigation against the Company and subsidiaries, I used the stated aggregate amounts of ₹1,339.19 million for the Company and ₹395.96 million for subsidiaries, totalling ₹1,735.15 million, or ₹173.515 crore; promoter and group-company amounts were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹1,113.31 million as of March 31, 2025, converted to ₹111.331 crore without re-summing line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages shown relate to products or other business measures rather than customers. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 14,
+  "tax_proceedings_against_count": 64,
+  "total_litigation_against_amount_cr": 173.515,
+  "contingent_liabilities_total_cr": 111.331,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

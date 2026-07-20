@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indegene Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted the five criminal proceedings against Directors, the nine tax proceedings against the Company, and zero statutory/regulatory proceedings; I excluded all “By” rows and counted no criminal, regulatory, or tax proceedings against Subsidiaries. For the aggregate amount against the Company and Subsidiaries, I included ₹35.85 million against the Company and USD 1.57 million against Subsidiaries, excluding promoter/director and “By” matters; using the stated ₹82.91/USD conversion, this is approximately ₹166.00 million, or ₹16.60 crore. The contingent-liabilities table is dated December 31, 2023 and has no stated Total row, so the disclosed ₹0.40 million bank guarantee plus ₹6.55 million income-tax matters were summed to ₹6.95 million, or ₹0.695 crore. Company-wide customer concentration is disclosed for the full Financial Year 2023 using revenue from operations: top five customers were 49.19% and top ten customers were 67.00%; the source tables use ₹ million and USD million, so the source currency unit is mixed, with ₹ million converted to crore at 10 million per crore and USD converted at ₹82.91/USD.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 16.6,
+  "contingent_liabilities_total_cr": 0.695,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 49.19,
+  "top10_customer_revenue_pct": 67.0
+}

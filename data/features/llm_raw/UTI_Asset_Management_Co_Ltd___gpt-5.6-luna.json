@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "UTI Asset Management Company Private Limited",
+  "extraction_reasoning": "The litigation disclosure is narrative rather than a categorized table: against matters counted are 23 criminal cases against erstwhile UTI; one MRTP Commission case against erstwhile UTI as a regulatory matter; and five tax proceedings against the company/erstwhile UTI, comprising one Income Tax Department case, three additional income-tax demand cases, and one service-tax demand case. By matters excluded are the two civil cases filed by the Company and the 251 debt-recovery suits being continued on behalf of SUUTI or UTI Mutual Fund schemes; consumer cases litigated by transfer agents were also excluded from the issuer-group aggregate. The quantified against-company/group components used are more than Rs. 10,000 million income-tax exposure, Rs. 79.257434 million, Rs. 0.385927 million, Rs. 47.602848 million, Rs. 13.019657 million service-tax demand, and approximately Rs. 1.655152 million human-resource claims, totaling approximately Rs. 10,141.921018 million, or Rs. 1,014.1921018 crore; the civil claim involving both the Company and SUUTI was not separately attributable and was excluded. No contingent-liabilities total, going-concern assessment, statutory-auditor status, or company-wide top-five/top-ten customer concentration percentage is disclosed in the provided risk section. Monetary disclosures use mixed units (raw rupees and millions); the million-denominated aggregate was converted to crore by dividing by 10.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 23,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 1014.1921018,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

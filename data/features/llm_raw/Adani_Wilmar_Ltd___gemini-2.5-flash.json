@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Our Company",
+  "extraction_reasoning": "The issuer name 'Our Company' is used throughout the risk section; no explicit full legal name for the issuer is stated in the provided text for this section, making the instruction not to return 'Our Company' unfulfillable without violating the 'use only the text provided' rule. For litigation, I summed 'against' cases across Company, Directors, and Promoters for criminal, and Company and Promoters for regulatory, as Subsidiaries had no 'against' cases. Tax proceedings count is for Company and Subsidiaries only. The total quantified litigation amount aggregates only the 'against' cases for the Company and its Subsidiaries. Contingent liabilities are taken from the explicit 'Total' row in the table, as of March 31, 2021. Customer concentration percentages (top 5/10) were not disclosed company-wide for the latest full fiscal year, only segment or export market concentrations. All monetary figures were originally in '₹ million' and converted to 'crore' by dividing by 10 (1 million = 0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 152,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 84.871,
+  "contingent_liabilities_total_cr": 244.308,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

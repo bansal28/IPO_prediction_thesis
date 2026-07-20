@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Advance Agrolife Limited",
+  "extraction_reasoning": "The litigation summary table was analyzed for counts and amounts. For criminal cases, 10 matters were aggregated from those listed against the Company (5), Promoters (1), and KMP/SMP (4), excluding 'By' rows. Regulatory actions against the company, subsidiaries, promoters, or directors were nil. Tax proceedings against the Company and its subsidiaries total 4. The quantified litigation amount of 3.33 million rupees for tax proceedings against the Company was included, as other criminal matters were 'Not ascertainable'. Contingent liabilities were extracted as the stated aggregate of 2.97 million rupees for Fiscal 2025. Customer concentration figures (top 5 and top 10) for Fiscal 2025 are company-wide percentages of revenue from operations. All monetary amounts are in millions and converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.333,
+  "contingent_liabilities_total_cr": 0.297,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 51.7,
+  "top10_customer_revenue_pct": 69.47
+}

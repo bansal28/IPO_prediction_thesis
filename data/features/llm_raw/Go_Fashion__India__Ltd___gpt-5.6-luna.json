@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Go Fashion (India) Limited",
+  "extraction_reasoning": "The litigation summary lists one criminal proceeding initiated by the Company, which is a “By” matter and therefore excluded, leaving 0 criminal proceedings against; it lists 20 tax proceedings involving the Company, counted as tax proceedings against, and no separate statutory/regulatory enforcement row, so regulatory actions against are 0. The quantified amount against the Company is ₹17.49 million for the tax proceedings; the criminal amount of ₹0.30 million is a matter initiated by the Company and is excluded, so the aggregate against-company amount is ₹17.49 million = ₹1.749 crore. Contingent liabilities are disclosed as of June 30, 2021 in million rupees; no explicit total row is shown, so the disclosed amounts of ₹11.70 million, ₹12.19 million and ₹23.89 million are summed to ₹47.78 million = ₹4.778 crore. The only concentration percentages shown concern revenues from Southern and Western India and are not customer concentration; no company-wide top-five or top-ten customer percentages are disclosed, and no auditor opinion or going-concern uncertainty is stated in the provided risk section.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 20,
+  "total_litigation_against_amount_cr": 1.749,
+  "contingent_liabilities_total_cr": 4.778,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

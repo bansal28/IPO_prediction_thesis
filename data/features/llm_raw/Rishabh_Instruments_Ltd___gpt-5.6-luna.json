@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rishabh Instruments Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: all “By Company,” “By Directors,” “By Promoter,” and “By Subsidiaries” rows are excluded; the “Against” rows counted are criminal: Nil across company, directors, promoter and subsidiaries; statutory/regulatory actions: 2 against the Company, 1 against Directors, 1 against the Promoter and 1 against Subsidiaries; and tax proceedings: Nil against the Company and Subsidiaries. The quantified litigation amount against the Company is ₹71.93 million, while the amount against Subsidiaries is not quantifiable; therefore the aggregate quantified amount against the consolidated group is ₹71.93 million, or ₹7.193 crore, excluding promoter/director matters and all “By” matters. Contingent liabilities use the explicitly stated Total of ₹71.88 million as at March 31, 2023, converted to ₹7.188 crore rather than re-summing the line items. The company-wide top-10 customer concentration is 31.92% of revenue from operations for the full fiscal year ended March 31, 2023; no company-wide top-5 percentage is disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 7.193,
+  "contingent_liabilities_total_cr": 7.188,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 31.92
+}

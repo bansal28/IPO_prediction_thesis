@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jupiter Life Line Hospitals Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I excluded all “By” rows, including the Company’s 1 criminal and 4 civil matters and the Subsidiaries’ 1 criminal matter, and counted only the Against rows. Against the Company, the table shows 0 criminal, 1 tax, 1 statutory/regulatory, 9 civil and ₹15,068 million aggregate amount; Against the Subsidiaries it shows 0 in all categories and no quantified amount, so criminal = 0, regulatory = 1, tax for the company/subsidiaries = 1, and the group litigation amount is ₹15,068 million, excluding promoter/director personal matters; promoter/director rows show tax matters but are excluded from the company-and-subsidiaries aggregate. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹50.36 million as of March 31, 2023, not a re-sum of its components. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed percentages relate to payer categories or hospital/segment revenue, not top customers, and therefore are not used. The source tables use ₹ million; ₹15,068 million ÷ 10 = ₹1,506.8 crore and ₹50.36 million ÷ 10 = ₹5.036 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 1506.8,
+  "contingent_liabilities_total_cr": 5.036,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

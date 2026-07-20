@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Hexaware Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters initiated by and against each entity: I counted only the “Against” rows—criminal proceedings of 1 against the Company, statutory/regulatory proceedings of 2 against the Company plus 1 against subsidiaries, and tax proceedings of 15 against the Company; all “By” rows and promoter/director personal matters were excluded from the aggregate amount. For company and subsidiaries, the quantified aggregate is ₹7,244 million against the Company, converted to ₹724.4 crore; the subsidiaries’ USD 2 million and EUR 1 million amounts are stated in foreign currencies without a conversion rate and are therefore not added, so the source currency is mixed. Contingent liabilities are explicitly stated as nil as of September 30, 2024, and the stated nil figure is used. Company-wide customer concentration for the latest full fiscal year, Financial Year 2023, is 25.0% for the top five and 35.5% for the top ten customers, measured as a percentage of revenue from operations; the segment-level percentages were not used. Monetary tables use ₹ million, with ₹1 million = ₹0.1 crore; the litigation table also contains USD/EUR amounts.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 15,
+  "total_litigation_against_amount_cr": 724.4,
+  "contingent_liabilities_total_cr": 0.0,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 25.0,
+  "top10_customer_revenue_pct": 35.5
+}

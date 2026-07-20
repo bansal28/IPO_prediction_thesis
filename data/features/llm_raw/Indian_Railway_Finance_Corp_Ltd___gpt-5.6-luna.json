@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indian Railway Finance Corporation Limited",
+  "extraction_reasoning": "The litigation table has separate “against our Company” and “by our Company” sections: I counted the against rows only—criminal Nil (0), tax 2, statutory/regulatory actions Nil (0), and other material litigation 1 with Nil amount—and excluded the by-Company rows (criminal 1 and tax 1). The quantified aggregate against the Company is the stated against-section total of ₹26,547.13 million, comprising ₹26,547.13 million of tax proceedings and Nil for other material litigation; no subsidiary litigation is disclosed. The contingent-liabilities disclosures are as of September 30, 2020, but no stated Total row is provided, so line items were not summed. The 99.75% concentration figure is for Fiscal 2020 and represents lease income, interest on loans and pre-commencement lease interest as a percentage of total revenue from operations; it is not a top-five or top-ten customer concentration figure and therefore is not used. The source monetary unit is ₹ million; ₹26,547.13 million ÷ 10 = ₹2,654.713 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 2654.713,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

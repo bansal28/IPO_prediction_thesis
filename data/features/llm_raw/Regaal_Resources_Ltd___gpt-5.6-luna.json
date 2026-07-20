@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Regaal Resources",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By our Company,” “By our Promoter,” “By our Directors,” and “By our KMPs/members of Senior Management” rows, and counted only the against rows. Criminal proceedings against comprise 0 for the Company, 1 for the Promoter, 1 for Directors and 0 for KMPs/Senior Management; statutory/regulatory proceedings against are nil, while tax proceedings against the Company are 1; the table lists no subsidiaries. The quantified amount against the Company is ₹23.29 million for tax proceedings, with no quantified against amount for Promoters, Directors or KMPs, giving ₹23.29 million = ₹2.329 crore; the source unit is million. Contingent liabilities use the stated Total row of ₹23.29 million as at March 31, 2025, converted to ₹2.329 crore, rather than summing line items. The customer concentration percentages are company-wide but are stated as a percentage of Contract Price, not revenue from operations or total income, so the top-five and top-ten fields are not reported under the required denominator; the statutory auditor’s report explicitly says the opinion is not modified and contains an emphasis of matter only.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 2.329,
+  "contingent_liabilities_total_cr": 2.329,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

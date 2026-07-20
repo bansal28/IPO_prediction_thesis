@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "KFin Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the “Against” rows, namely criminal proceedings of 3 against the Company and 1 against Directors (4 total), statutory/regulatory actions of 1 against the Company (1 total), and tax proceedings of 8 against the Company and nil against Subsidiaries (8 total); all “By” rows and promoter/group-company rows with nil counts were excluded. The quantified aggregate amount against the Company and Subsidiaries is ₹34.85 million for the Company plus nil for Subsidiaries, while the quantified Director and Group Company amounts were excluded; ₹34.85 million converts to ₹3.485 crore. Contingent liabilities are disclosed as of September 30, 2022 in ₹ million, with no stated Total row, so the line items were summed: ₹58.68 million + ₹17.54 million + ₹17.31 million = ₹93.53 million, or ₹9.353 crore. The company-wide top-five customer concentration is 53.05% of revenue from operations for the most recent full fiscal year, Fiscal 2022; no company-wide top-ten percentage is disclosed, and segment-only percentages were not used. The source currency unit is ₹ million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 3.485,
+  "contingent_liabilities_total_cr": 9.353,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 53.05,
+  "top10_customer_revenue_pct": null
+}

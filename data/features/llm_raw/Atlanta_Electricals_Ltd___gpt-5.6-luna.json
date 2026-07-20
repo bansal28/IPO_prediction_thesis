@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Atlanta Limited",
+  "extraction_reasoning": "The risk section contains no litigation summary table; it only refers generally to involvement in legal proceedings and to an Outstanding Litigations section not provided, so no criminal, regulatory, tax, or quantified against-company litigation rows were counted, and no “By” rows were counted. The contingent-liabilities table is stated in Rs. millions and its latest disclosed period is the nine months ended December 31, 2005; the stated Total row is Rs. 748.77 million, converted to Rs. 74.877 crore (748.77 ÷ 10). The 87.44% road-project concentration is described as approximately the Company’s revenues, but no fiscal period or denominator is specified; it is not a top-five or top-ten customer concentration disclosure. Monetary source units in the relevant tables are Rs. millions, converted to crore using 1 crore = 10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 74.877,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

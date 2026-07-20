@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Knack Packaging Limited",
+  "extraction_reasoning": "The litigation table reports 9 criminal proceedings by the Company and none against the Company; it reports 4 tax proceedings against the Company, with no tax proceedings against the Subsidiary, and no statutory/regulatory proceedings against the Company, Subsidiary, Promoters, Directors, KMPs or SMPs. I counted only the Against Company and Against Subsidiary rows, excluding all By Company, By Directors, By Promoters, By Subsidiary and By KMP/SMP rows; the quantified group amount against the Company is ₹47.55 million and against the Subsidiary is Nil, totaling ₹47.55 million, or ₹4.755 crore. The contingent-liabilities figure is the stated consolidated Total of ₹314.84 million as at March 31, 2026, converted to ₹31.484 crore rather than summed from line items. Company-wide customer concentration for the latest full fiscal year, Fiscal 2026, is stated as a percentage of revenue from operations: top five customers 32.86% and top ten customers 40.87%; the source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 4.755,
+  "contingent_liabilities_total_cr": 31.484,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 32.86,
+  "top10_customer_revenue_pct": 40.87
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Capital Small Finance Bank Limited",
+  "extraction_reasoning": "The litigation table separates matters initiated by versus against the Bank, directors and promoters. I counted only the “Against the Bank” row: criminal proceedings Nil (0), tax proceedings 1, statutory/regulatory proceedings Nil (0), and excluded the Bank’s “By the Bank” row, including 207 criminal proceedings and ₹633.89 million, as well as all “By” rows; no matters against directors or promoters were counted. The quantified group amount against the Bank is the explicitly disclosed ₹12.21 million relating to the direct tax dispute, which is also the single material civil matter and is not double-counted; this converts from ₹12.21 million to ₹1.221 crore. The contingent-liabilities figure is the stated Total of ₹529.18 million as at September 30, 2023, converted to ₹52.918 crore, rather than a sum of line items. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the revenue percentages shown relate to interest earned or other business metrics, not customer concentration. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 1.221,
+  "contingent_liabilities_total_cr": 52.918,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

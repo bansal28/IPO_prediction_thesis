@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Paytm",
+  "extraction_reasoning": "The litigation table is organized by entities involved rather than explicit “Against” versus “By” rows; I counted the company, subsidiary and director rows as proceedings against those parties, while there are no “By” rows to include. Criminal proceedings counted are 23 involving the Company, 1 involving subsidiaries and 1 involving Directors; statutory/regulatory actions are 1, 1 and 1 respectively; tax proceedings are 18 involving the Company and 22 involving subsidiaries, with director tax matters nil. The quantified aggregate against the Company and subsidiaries is ₹61.2 million criminal plus ₹383.6 million civil plus ₹37,299 million Company tax plus ₹143.1 million subsidiary tax; nil regulatory and subsidiary criminal amounts are included as zero, producing ₹37,886.9 million, or ₹3,788.69 crore. The contingent-liabilities figure is the explicitly stated Total of ₹492 million as of March 31, 2021, converted to ₹49.2 crore; the source tables use ₹ million. The only disclosed concentration percentages are payment and financial services revenue as a percentage of revenue from operations for FY 2019–FY 2021, which is a business-segment figure rather than company-wide top-customer concentration, so both customer fields are null. No material uncertainty regarding the issuer’s going concern is mentioned, and the auditor disclosures describe emphasis-of-matter and CARO observations without an explicitly modified audit opinion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 25,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 40,
+  "total_litigation_against_amount_cr": 3788.69,
+  "contingent_liabilities_total_cr": 49.2,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

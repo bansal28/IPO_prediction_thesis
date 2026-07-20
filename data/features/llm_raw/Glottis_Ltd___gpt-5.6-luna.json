@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Glottis Limited",
+  "extraction_reasoning": "The litigation table separates proceedings filed By the Company from proceedings Against the Company: the Company row shows By the Company tax proceedings = 1, Against the Company tax proceedings = 1, and no criminal or statutory/regulatory proceedings; all director, promoter and group-company rows are Nil, and By rows were excluded. The quantified amount counted against the Company/group is the ₹0.80 million GST demand upheld and under appeal; the ₹4.12 million income-tax matter is in the By the Company row and was excluded, giving ₹0.80 million = ₹0.08 crore. The contingent-liabilities table states Fiscal 2025 amounts in ₹ million, with the latest stated total derived from the disclosed Fiscal 2025 components of ₹1.59 million lien against fixed deposits and ₹0.70 million guarantees, totaling ₹2.29 million = ₹0.229 crore; no explicit Total row is shown. The customer concentration figures are company-wide percentages of revenue from operations for the most recent full fiscal year, Fiscal 2025: top five 42.25% and top ten 52.73%. All monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.08,
+  "contingent_liabilities_total_cr": 0.229,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 42.25,
+  "top10_customer_revenue_pct": 52.73
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Venus Pipes & Tubes Limited",
+  "extraction_reasoning": "No litigation summary table with separate against-versus-by rows is provided in the supplied risk section. The narrative discloses one indirect-tax matter against the Company for ₹11.88 million, which is counted for the Company-and-subsidiaries aggregate and tax category; the separate ₹16.83 million indirect-tax matter against a Director is excluded, and no criminal matter or “By” matter is disclosed. The contingent-liabilities figure is the explicitly stated Total of ₹289.64 million as of December 31, 2021, rather than a re-summed amount. The company-wide top-10 customer concentration is 37.49% for the full fiscal year ended March 31, 2021, calculated as a percentage of total sales; no company-wide top-5 percentage is disclosed. The source tables use ₹ million, converted to crore by dividing by 10: ₹11.88 million = ₹1.188 crore and ₹289.64 million = ₹28.964 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": 1.188,
+  "contingent_liabilities_total_cr": 28.964,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 37.49
+}

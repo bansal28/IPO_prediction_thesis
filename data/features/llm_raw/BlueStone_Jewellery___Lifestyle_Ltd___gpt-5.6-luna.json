@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "BlueStone Jewellery and Lifestyle Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the Against Company, Against Subsidiary, Against Directors and Against Promoter rows. Against the Company, the table reports criminal Nil, 6 tax proceedings, 5 statutory/regulatory proceedings and ₹82.83 million quantified; the subsidiary and promoter/director rows report Nil, while all By rows were excluded. No contingent-liabilities table or stated Total is disclosed in the provided risk section, so no date or amount can be extracted. The concentration figures disclosed relate to supplier concentration, not company-wide customer revenue; therefore top-five and top-ten customer percentages are not available. Litigation amounts use ₹ million, and ₹82.83 million was converted to ₹8.283 crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 8.283,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

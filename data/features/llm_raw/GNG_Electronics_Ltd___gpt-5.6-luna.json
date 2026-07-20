@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "GNG Electronics Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against” rows, with criminal proceedings of 0 (Company, Directors, Promoters, Subsidiaries and KMP/SMP), statutory/regulatory proceedings of 0, and tax proceedings against the Company and Subsidiaries of 7 (the Company row has 7 and the Subsidiaries row is Nil); all “By” rows and personal promoter/director matters were excluded from the aggregate amount. The quantified amount against the Company and Subsidiaries is ₹9,173 million for the Company plus Nil for Subsidiaries, or ₹917.30 crore after conversion; promoter and director amounts were excluded. The contingent-liabilities table is dated March 31, 2025 and has no stated Total row, so I summed the disclosed ₹0.57 million income-tax amount and ₹91.69 million GST amount to ₹92.26 million, or ₹9.226 crore. Concentration is company-wide top-10 customer revenue of 46.59% for Fiscal 2025, using revenue from operations as the denominator; no company-wide top-five percentage is disclosed. The source currency unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 917.3,
+  "contingent_liabilities_total_cr": 9.226,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 46.59
+}

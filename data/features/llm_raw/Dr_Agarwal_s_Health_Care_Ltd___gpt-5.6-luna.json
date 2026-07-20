@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Dr. Agarwal’s Health Care Limited",
+  "extraction_reasoning": "The litigation table reports, for matters against the Company, 0 criminal, 11 tax, 0 statutory/regulatory, and 0 material civil proceedings; for subsidiaries it reports 0 criminal, 8 tax, 0 statutory/regulatory, and 0 material civil proceedings. I excluded all “By the Company,” “By the Directors,” “By the Promoters,” and “By the Subsidiary(ies)” rows, and also excluded personal matters against Directors and Promoters from the aggregate amount. The quantified amount against the Company and subsidiaries is ₹7.54 million + ₹9.06 million = ₹16.60 million, or ₹1.66 crore; the contingent-liabilities table states ₹214.84 million as of March 31, 2024, equivalent to ₹21.484 crore, and this stated figure is used without re-summing. The disclosed percentages relate to Financial Year 2024 and use revenue from operations, but no company-wide top-five or top-ten customer concentration percentage is provided; the percentages disclosed concern business categories, geography, payors, or other metrics. The source monetary unit is ₹ million, converted to crore by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 1.66,
+  "contingent_liabilities_total_cr": 21.484,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

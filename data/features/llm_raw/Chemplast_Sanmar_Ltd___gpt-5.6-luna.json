@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Chemplast Sanmar Limited",
+  "extraction_reasoning": "The litigation table separates matters against and by each entity: all company, subsidiary, promoter, director and group-company “By” rows are excluded. Against rows counted are criminal proceedings of 2 against the Directors, statutory/regulatory actions of 31 against the Company plus 2 against the Subsidiary, and tax proceedings of 254 against the Company plus 35 against the Subsidiary; promoter and other against rows are nil. The quantified litigation amount against the Company and Subsidiary is taken from their stated totals of ₹1,615.42 million and ₹319.29 million, respectively, totaling ₹1,934.71 million, or ₹193.471 crore; the source unit is million. Contingent liabilities use the stated Total rows as of December 31, 2020: ₹1,505.07 million for the Company plus ₹45.98 million for CCVL, totaling ₹1,551.05 million, or ₹155.105 crore; conversion is ₹1 crore = ₹10 million. The only disclosed company-wide customer concentration is top 10 customers at 30.00% of the Company’s revenue from operations for Financial Year 2020; the other percentages are either interim or CCVL/segment-specific, and no company-wide top-five percentage is disclosed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 33,
+  "tax_proceedings_against_count": 289,
+  "total_litigation_against_amount_cr": 193.471,
+  "contingent_liabilities_total_cr": 155.105,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 30.0
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sanstar Limited",
+  "extraction_reasoning": "The litigation table separates matters initiated by versus against each entity: the Company has 3 criminal proceedings by the Company involving ₹4.65 million, while criminal, tax, statutory/regulatory, disciplinary and civil matters against the Company, Directors, Promoters and Subsidiary are all Nil; therefore only the against rows were counted, with criminal, regulatory and tax kept separate. The ₹4.65 million amount is a By the Company matter and is excluded from the aggregate amount against the Company and Subsidiary, so no quantified against-group amount is disclosed. No contingent-liabilities total or date is stated in the provided risk section. The company-wide top-10 customer concentration is 40.53% for Fiscal 2024, calculated as a percentage of Gross Revenue from Operations; no company-wide top-5 customer percentage is disclosed. The litigation table uses ₹ in million, and no conversion is required for the null amount fields; any million amount would be converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 40.53
+}

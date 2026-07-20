@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Flair Writing Industries Limited",
+  "extraction_reasoning": "The litigation table reports against the Company: 0 criminal, 44 tax, and 8 statutory/regulatory proceedings; against the Promoters: 0 criminal, 10 tax, and 0 statutory/regulatory proceedings; and against Directors and Subsidiaries: nil across the listed categories. I counted only the Company and Subsidiaries for the aggregate amount: ₹87.56 million against the Company, while the Subsidiaries row is nil; the ₹137.63 million against Promoters and all “By” rows, including ₹58.49 million by the Company, were excluded. The contingent-liabilities table is as of June 30, 2023 and lists ₹58.85 million of disputed excise/service tax/GST matters and ₹47.16 million of income-tax matters; because no Total row is shown, these quantified components sum to ₹106.01 million, converted from million to ₹10.601 crore. The disclosed concentration percentages are segment-specific or relate to debtors, super-stockists, distributors, export countries, or OEM customers rather than company-wide top-five/top-ten customer revenue for a full fiscal year, so they are not used.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 44,
+  "total_litigation_against_amount_cr": 8.756,
+  "contingent_liabilities_total_cr": 10.601,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

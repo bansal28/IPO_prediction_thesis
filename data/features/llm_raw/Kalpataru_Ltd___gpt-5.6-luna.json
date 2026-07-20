@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Kalpataru Limited",
+  "extraction_reasoning": "The litigation table separates “By” and “Against” rows and separately reports criminal, tax, statutory/regulatory, disciplinary, civil and other matters. I counted only “Against” rows: criminal proceedings against the Company (1), Directors (6), KMP (1), Senior Management (0), Promoters (6), Subsidiaries (2), Associate (0) and Joint Ventures (1), totaling 17; statutory/regulatory proceedings against the Company (1), Directors (0), KMP (1), Senior Management (0), Promoters (0), Subsidiaries (7), Associate (0) and Joint Ventures (0), totaling 9; tax proceedings against the Company (18) and Subsidiaries (91), totaling 109. I excluded all “By” rows, promoter/director personal matters from the aggregate amount, and counted quantified amounts against the Company and Subsidiaries only: ₹2,650.77 million + ₹3,600.87 million = ₹6,251.64 million, or ₹625.164 crore. The contingent-liabilities figure is the stated Total of ₹3,336.80 million as of December 31, 2024, converted to ₹333.68 crore; the risk section gives no company-wide top-five or top-ten customer concentration percentage, although it gives segment/project concentration percentages and revenue percentages unrelated to customers. Litigation and contingent-liability tables use ₹ million; conversion is 1 million = 0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 17,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 109,
+  "total_litigation_against_amount_cr": 625.164,
+  "contingent_liabilities_total_cr": 333.68,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

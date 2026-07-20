@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nuvoco Vistas Corporation Limited",
+  "extraction_reasoning": "The litigation summary has no separate “By ...” rows or directional split; I therefore counted the listed Company and Subsidiary rows as proceedings against the group: criminal 277 + 110, statutory/regulatory actions 421 + 5, and direct/indirect tax proceedings 210 + 11, while excluding promoter and director rows. The quantified aggregate against the Company and Subsidiary is taken from the stated table totals, ₹13,330.47 million + ₹543.57 million = ₹13,874.04 million, including tax and material civil litigation, converted at ₹10 million per crore to ₹1,387.404 crore. Contingent liabilities use the explicitly stated consolidated total of ₹19,481.01 million, excluding payments under protest, as at March 31, 2021; this converts to ₹1,948.101 crore and is not re-summed from line items. The only disclosed concentration percentages concern supplier purchases and regional/segment sales volumes, not company-wide top-five or top-ten customer revenue as a percentage of revenue from operations or total income. The source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 387,
+  "regulatory_actions_against_count": 426,
+  "tax_proceedings_against_count": 221,
+  "total_litigation_against_amount_cr": 1387.404,
+  "contingent_liabilities_total_cr": 1948.101,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fedbank Financial Services Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted the Company’s 3 criminal, 3 tax and 1 statutory/regulatory proceedings, plus the Promoter’s 1 criminal proceeding; I excluded all “By the Company,” “By the Promoter,” and other “By” rows, and excluded the Promoter’s 12 tax proceedings from the company-group tax count because they are personal to the Promoter. The quantified amount against the Company is ₹4.66 million; no subsidiary row or aggregate company/subsidiary total is disclosed, so this is the only quantified group-against component, converted to ₹0.466 crore. Contingent liabilities use the stated Total of ₹6.95 million as at June 30, 2023, converted to ₹0.695 crore, rather than summing the line items. The disclosed percentages relate to loan portfolios, AUM, or other business/segment measures, not company-wide top-five or top-ten customer revenue as a percentage of revenue from operations or total income for a full fiscal year, so both concentration fields are null. The litigation and contingent-liability tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 0.466,
+  "contingent_liabilities_total_cr": 0.695,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

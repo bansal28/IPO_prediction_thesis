@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aegis Vopak Terminals Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the company there are Nil criminal, tax and statutory/regulatory proceedings; against directors there are 4 criminal proceedings; against key managerial personnel there are 2 criminal proceedings; against promoters there are 49 tax proceedings; and against subsidiaries there are Nil criminal, 16 tax and Nil statutory/regulatory proceedings. I excluded all “By” rows, including the company’s 3 civil matters, promoters’ 1 criminal, 1 tax and 8 civil matters, and subsidiaries’ 1 civil matter; thus criminal against count is 4 + 2 = 6, regulatory against count is 0, tax against company/subsidiaries is 0 + 16 = 16, and the quantified amount against the company and subsidiaries is the subsidiaries’ stated aggregate of ₹598.37 million, or ₹59.837 crore, while the company row is Nil. The contingent-liabilities-and-commitments table states a total of ₹13,548.26 million as of December 31, 2024; this stated Total is used without re-summing and converts to ₹1,354.826 crore. Company-wide customer concentration is stated as a percentage of revenue from operations for Fiscal 2024, with top five at 30.72% and top 10 at 44.56%; all monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 16,
+  "total_litigation_against_amount_cr": 59.837,
+  "contingent_liabilities_total_cr": 1354.826,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 30.72,
+  "top10_customer_revenue_pct": 44.56
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Medi Assist Healthcare Services Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows; criminal proceedings are 0 against the Company, 1 against Directors, 0 against Promoters and 2 against Subsidiaries, while statutory/regulatory proceedings are 2, 4, 2 and 0 respectively, and tax proceedings against the Company and Subsidiaries are 3 and 7 respectively. For the quantified aggregate against the Company and Subsidiaries only, I used the table amounts of ₹17.03 million against the Company plus ₹586.21 million against Subsidiaries, excluding promoter/director amounts and all “By” matters, totaling ₹603.24 million. The contingent-liabilities figure is the stated Total of ₹570.81 million as of September 30, 2023, not a re-sum of the line items. The company-wide top-five customer concentration is 77.97% for the full Financial Year 2023, measured against total revenue from contracts with customers; no company-wide top-ten percentage is disclosed, and the separate IT/ITES and BFSI percentages are segment-level concentration figures. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹603.24 million = ₹60.324 crore and ₹570.81 million = ₹57.081 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 60.324,
+  "contingent_liabilities_total_cr": 57.081,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": 77.97,
+  "top10_customer_revenue_pct": null
+}

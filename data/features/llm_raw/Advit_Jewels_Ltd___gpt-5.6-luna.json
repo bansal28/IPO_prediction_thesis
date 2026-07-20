@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Advit Jewels Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against” rows, with 2 criminal proceedings against promoters and 1 against directors, while the company row shows Nil; statutory/regulatory proceedings against the company, promoters and directors are all Nil, and tax proceedings against the company are Nil (tax matters against promoters/directors were excluded). The aggregate quantified amount against the company and its subsidiaries is explicitly Nil; the ₹340.04 lakhs and ₹0.04 lakhs amounts relate to promoter and director matters and were excluded. No contingent-liabilities table or total is disclosed in the provided risk section, so no date or figure is available. The company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is 37.14% for the top five customers and 54.17% for the top ten, calculated as a percentage of revenue from operations. Litigation amounts are sourced in ₹ lakhs; Nil converts to ₹0.0 crore (0.0 lakhs ÷ 100).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 37.14,
+  "top10_customer_revenue_pct": 54.17
+}

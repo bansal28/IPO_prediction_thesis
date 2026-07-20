@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "PB Fintech Limited",
+  "extraction_reasoning": "The litigation table separates matters involving the Company, Subsidiaries and Directors, and separates criminal, other pending, statutory/regulatory, and tax proceedings; I counted only Against rows for the Company and Subsidiaries, excluding all matters filed by them and excluding Directors’ personal matters. Criminal proceedings against the group are Nil for the Company plus 6 for Subsidiaries = 6; statutory/regulatory actions are Nil plus 1 = 1; tax proceedings are 1 for the Company plus Nil for Subsidiaries = 1. The quantified aggregate against the Company and Subsidiaries is ₹60 million other pending litigation + ₹245.44 million tax proceedings + ₹133.32 million subsidiary other pending litigation = ₹438.76 million, excluding the subsidiaries’ unquantifiable criminal and regulatory matters; at ₹ in millions, this converts to ₹43.876 crore. Contingent liabilities use the stated consolidated Total of ₹245.44 million as of June 30, 2021, converted to ₹24.544 crore. The only disclosed concentration figures are the four largest partners’ contribution to company-wide revenue from operations, not top-five or top-ten customer percentages; therefore top-5 and top-10 fields are not disclosed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 43.876,
+  "contingent_liabilities_total_cr": 24.544,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

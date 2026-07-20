@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Oswal Pumps Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: I counted only “Against” rows, with criminal proceedings against the Company, Directors, Promoters, Subsidiaries, KMP and Senior Management all nil; statutory/regulatory proceedings were 3 against the Company and 2 against Subsidiaries; and tax proceedings were 1 against the Company and none against Subsidiaries. I excluded all “By” rows and excluded the 13 tax proceedings against Promoters from the tax count and aggregate amount. The quantified aggregate amount against the Company and Subsidiaries is the stated ₹0.17 million for the Company; the Subsidiaries row has no quantified amount, so this converts to ₹0.017 crore. The contingent-liabilities table is dated December 31, 2024 and reports ₹38.33 million of GST demands and ₹6.81 million of labour-law/other demands, but provides no stated contingent-liabilities Total row; therefore the total field is not disclosed rather than re-summed. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2024, is 68.05% for the top five and 79.50% for the top ten, calculated as a percentage of revenue from operations; source monetary tables use ₹ million, converted to crore by dividing by 100.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.017,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 68.05,
+  "top10_customer_revenue_pct": 79.5
+}

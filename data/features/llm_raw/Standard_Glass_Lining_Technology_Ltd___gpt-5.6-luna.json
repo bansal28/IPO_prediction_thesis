@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Standard Glass Lining Technology Limited",
+  "extraction_reasoning": "The litigation table reports against-vs-by rows separately: I counted the criminal 'Against' rows for directors and promoters (Nil for the Company and subsidiaries), excluded all 'By' rows, and kept categories separate. Regulatory proceedings against the Company, subsidiaries, directors and promoters are Nil; tax proceedings counted against the Company and subsidiary are 9 + 1 = 10, while the 2 promoter tax proceedings were excluded from the company-and-subsidiaries tax count. The aggregate quantified amount against the Company and subsidiary is ₹664.63 million + ₹6.61 million = ₹671.24 million, or ₹67.124 crore; promoter/director personal amounts and all 'By' amounts were excluded, and the director amount was not quantifiable. The contingent-liabilities table states a Total of ₹495.97 million as of September 30, 2024, which is ₹49.597 crore; this stated Total was used without re-summing. The company-wide top-10 customer concentration is 40.56% of revenue from operations for the full Fiscal 2024; no company-wide top-5 figure is disclosed. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 67.124,
+  "contingent_liabilities_total_cr": 49.597,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 40.56
+}

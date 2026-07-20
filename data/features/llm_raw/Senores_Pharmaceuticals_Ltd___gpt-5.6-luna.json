@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Senores Pharmaceuticals Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Company are criminal Nil, tax 7 and statutory/regulatory 1; against the Subsidiaries are criminal 1, tax 2 and statutory/regulatory 3. I counted only these against-Company and against-Subsidiaries rows for the requested group counts and aggregate amount, excluding all By rows and excluding Directors’ and Promoters’ personal matters; thus criminal is 0+1=1, regulatory is 1+3=4, tax is 7+2=9, and quantified group amounts are ₹2.74 million + ₹205.13 million = ₹207.87 million. The contingent-liabilities table is dated September 30, 2024 and its stated Total row is ₹1,187.02 million, which is used without re-summing line items. Company-wide customer concentration for the latest full fiscal year, Fiscal 2024, is stated as 59.97% for the top five and 78.12% for the top ten, each as a percentage of revenue from operations. The source tables use ₹ million; conversion to crore is by dividing by 10, so ₹207.87 million = ₹20.787 crore and ₹1,187.02 million = ₹118.702 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 20.787,
+  "contingent_liabilities_total_cr": 118.702,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": 59.97,
+  "top10_customer_revenue_pct": 78.12
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Canara HSBC Life Insurance Company Limited",
+  "extraction_reasoning": "The litigation table separates matters by entity and direction: I counted only the “Against” rows, excluding all “By” rows. Criminal proceedings against the company, directors, promoters, KMP and senior management total 2 + 3 + 4 + 0 + 0 = 9; statutory/regulatory proceedings against those entities are explicitly Nil, giving 0, while tax proceedings against the company total 8 and promoter tax matters were excluded because they are personal promoter matters. The company’s quantified aggregate amount against it is ₹500.09 million, including ₹499.45 million of tax demands; no subsidiary row or separate subsidiary amount is disclosed, so this converts to ₹50.009 crore. The contingent-liabilities figure is the stated Total of ₹3,198.89 million as at June 30, 2025, converted to ₹319.889 crore, rather than a re-sum. The concentration percentages disclosed relate to bancassurance/distribution channels or individual-product/state/segment measures, not company-wide top-five or top-ten customers as a percentage of revenue from operations or total income; therefore those fields are null. The source currency unit is ₹ million, converted using 1 crore = 10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 9,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 50.009,
+  "contingent_liabilities_total_cr": 319.889,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "PRECISION PIPES AND PROFILES COMPANY LIMITED",
+  "extraction_reasoning": "The litigation summary separates cases against the Company (labour: 1) from cases filed by the Company (4), by its Promoters/Directors (1), against its Promoters/Directors (Customs & Excise: 1), by Group Companies (12), and against Group Companies (civil: 2 and Customs & Excise: 1); I excluded every “By” row. No criminal proceedings are identified, while statutory/regulatory enforcement against the listed entities comprises the against-promoters/directors Customs & Excise matter, the against-group-companies Customs & Excise matter, and three Companies Act compounding matters; the separate tax table has 1 Sales Tax, 2 Income Tax and 1 Service Tax proceedings against the company/group, totaling 4. The contingent-liabilities figure is the explicitly stated consolidated “Total” of Rs. 431.87 lakhs as at 30 June 2007, converted to Rs. 4.3187 crore by dividing by 100; the quantified group litigation aggregate is Rs. 12.40 lakhs against Group Companies plus Rs. 12.18 lakhs of tax matters, or Rs. 24.58 lakhs = Rs. 0.2458 crore, excluding unquantified/not-specified matters and all matters filed by the company or group companies. The company-wide top-five customer concentration is 83% of sales during the full fiscal year 2006-07; the source uses sales, treated as revenue from operations, and gives no top-ten percentage; all monetary tables use Rs. in lakhs.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.2458,
+  "contingent_liabilities_total_cr": 4.3187,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 83.0,
+  "top10_customer_revenue_pct": null
+}

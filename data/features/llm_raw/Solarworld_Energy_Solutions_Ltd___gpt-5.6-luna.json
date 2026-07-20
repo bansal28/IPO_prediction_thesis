@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Solarworld Energy Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: for criminal proceedings, all Against rows are Nil, while the Promoters’ By row has one matter and is excluded; for statutory/regulatory proceedings, all Against rows are Nil, and tax is kept separate, with 3 Against our Company tax proceedings and Nil against subsidiaries, while the Promoters’ 2 tax proceedings are personal matters and excluded. The quantified aggregate amount against the company and subsidiaries is the Company Against amount of ₹7.71 million; subsidiary Against amounts are Nil, and all By rows and promoter amounts are excluded, giving ₹7.71 million = ₹0.771 crore. The contingent-liabilities table is dated March 31, 2025 and provides component amounts but no stated Total row, so no contingent-liabilities total is extracted. Company-wide customer concentration for full Fiscal 2025 is based on revenue from operations: top 5 customers were 97.96% and top 10 customers were 99.97%; source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 0.771,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 97.96,
+  "top10_customer_revenue_pct": 99.97
+}

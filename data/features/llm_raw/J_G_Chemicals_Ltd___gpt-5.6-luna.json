@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "J.G. Chemicals Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: all “By our Company,” “By our Directors,” “By our Promoters,” and “By our Subsidiary” rows were excluded, while the “Against” rows were counted separately. Against the company and subsidiary, criminal, statutory/regulatory, tax and material civil litigation are all Nil; the two tax proceedings and ₹1.83 million aggregate amount relate to directors and therefore are excluded from the group aggregate. Contingent liabilities use the stated consolidated “Total” of ₹17.48 million as of December 31, 2023, the latest date shown, converted from million to crore by dividing by 10, resulting in ₹1.748 crore. The company-wide top-10 customer concentration is 76.09% for Fiscal 2023 and is calculated as a percentage of revenue from operations; no company-wide top-five figure is disclosed. The source tables use ₹ million, and all crore amounts are converted at ₹10 million per ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 1.748,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 76.09
+}

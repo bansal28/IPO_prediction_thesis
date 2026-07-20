@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Barbeque Nation Hospitality Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company, subsidiaries, promoters and directors from matters by promoters; I counted only the against rows. Criminal proceedings against the listed entities total 3 (SHL 2 and Raoof Dhanani 1), statutory/regulatory actions against all listed entities total 76, and tax proceedings against the Company and subsidiaries total 31; promoter/director personal tax matters and all “By our Promoters” rows were excluded. The quantified aggregate against the Company and subsidiaries is ₹670.57 million, comprising the NAA amount of ₹325.88 million, Company direct-tax ₹154.29 million, Company indirect-tax ₹172.89 million, subsidiary civil ₹4.87 million and subsidiary direct-tax ₹12.64 million; unquantifiable rows were excluded and the source unit is million, converted to crore by dividing by 10. Consolidated contingent liabilities are stated as a total of ₹920.21 million as at September 30, 2019, converted to ₹92.021 crore, and the concentration disclosure is for Barbeque Nation restaurants in three cities rather than top customers, so both customer-concentration fields are null. No going-concern uncertainty is mentioned; the auditor disclosure describes an audit reservation and CARO observations without expressly stating a qualified, adverse or disclaimer opinion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 76,
+  "tax_proceedings_against_count": 31,
+  "total_litigation_against_amount_cr": 67.057,
+  "contingent_liabilities_total_cr": 92.021,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

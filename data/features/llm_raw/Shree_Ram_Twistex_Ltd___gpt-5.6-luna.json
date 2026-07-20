@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shree Ram Twistex Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company, Directors, Promoters, and KMP/SMP as Nil, and criminal proceedings by the Company, Directors, Promoters, and KMP/SMP as Nil; therefore, only the against rows were counted for criminal matters. The Company has one action by statutory or regulatory authorities against it, with the amount not ascertainable; the one material civil litigation by the Company was excluded, as were all other by rows. Direct and indirect tax proceedings against the Company total 9 with ₹18.22 lakh involved; tax matters of other listed persons are Nil, so the quantified litigation amount against the Company/group is ₹18.22 lakh, or ₹0.1822 crore, excluding the unquantifiable regulatory action. The contingent-liabilities figure is the stated Total litigation amount of ₹50.57 lakh as of September 30, 2025, converted to ₹0.5057 crore; it was not re-summed. The company-wide top-five and top-ten customer concentrations for the most recent full fiscal year, Fiscal 2025, are 71.56% and 85.98%, respectively, measured as a percentage of revenue from operations. The litigation and contingent-liability tables use ₹ lakh, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 0.1822,
+  "contingent_liabilities_total_cr": 0.5057,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 71.56,
+  "top10_customer_revenue_pct": 85.98
+}

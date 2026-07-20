@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Northern Arc Capital Limited",
+  "extraction_reasoning": "The litigation table reports, against the Company, Nil criminal, 2 tax, 1 statutory/regulatory and 1 material civil proceeding; by the Company, 739 criminal, no tax, no statutory/regulatory and 2 material civil proceedings plus 40 other civil proceedings, all excluded. Against subsidiaries, it reports Nil criminal, 2 tax, no statutory/regulatory and no civil proceedings; by subsidiaries, 3 criminal proceedings, which are excluded. Accordingly, criminal proceedings against equals 0, regulatory actions against equals 1, tax proceedings against equals 4, and the quantified aggregate against the Company and subsidiaries is ₹139.98 million plus ₹9.67 million = ₹149.65 million, or ₹14.965 crore; by-entity amounts are excluded. The contingent-liabilities table is as of September 30, 2023 and gives income-tax matters of ₹52.52 million and guarantees outstanding of ₹1,157.82 million; as no stated Total row is provided, these components sum to ₹1,210.34 million, or ₹121.034 crore. The prospectus discloses Fiscal 2023 and other-period concentration percentages for borrowing sources and AUM, but no company-wide top-five or top-ten customer revenue percentage; therefore customer concentration is null, and no revenue-from-operations or total-income denominator applies. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 14.965,
+  "contingent_liabilities_total_cr": 121.034,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

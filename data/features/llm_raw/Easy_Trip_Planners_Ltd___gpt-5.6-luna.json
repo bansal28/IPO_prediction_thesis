@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Easy Trip Planners Limited",
+  "extraction_reasoning": "The litigation table separates matters against the company, promoters, directors and subsidiaries from matters filed by them. I counted criminal proceedings against the company (1) and promoters (4), excluding all “filed by” rows, for 5 criminal cases; statutory/regulatory actions against all listed entities are Nil, for 0; and tax proceedings against the company comprise 6 direct-tax and 2 indirect-tax matters, for 8, excluding promoters’ personal tax matters. The company-against quantified amount uses the stated litigation total of ₹1,392.11 million, comprising ₹367.45 million criminal, ₹356.98 million direct tax and ₹667.68 million other pending litigation; indirect tax is unquantified and subsidiaries have Nil proceedings. The contingent-liabilities figure is the stated consolidated Total of ₹1,257.88 million as of December 31, 2020, not a re-sum. The only concentration percentages concern the top five domestic airlines in the air-ticketing segment, not company-wide customers; no company-wide top-five or top-ten customer percentage is disclosed, and the segment percentages use Gross Booking Revenues rather than revenue from operations or total income. The source tables use ₹ million; amounts were converted to crore by dividing by 10, so ₹1,392.11 million equals ₹139.211 crore and ₹1,257.88 million equals ₹125.788 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 139.211,
+  "contingent_liabilities_total_cr": 125.788,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

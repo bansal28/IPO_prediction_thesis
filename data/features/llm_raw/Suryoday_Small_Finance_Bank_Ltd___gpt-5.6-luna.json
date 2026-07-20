@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Suryoday",
+  "extraction_reasoning": "The litigation table contains 1 indirect-tax and 2 direct-tax matters against the Bank; the separate 2-row entry is litigation filed against the Directors and was excluded from company/subsidiary totals. No criminal or statutory/regulatory enforcement proceedings are tabulated, and no “By” rows are disclosed. The quantified litigation amount against the Bank is ₹4.87 million plus ₹28.67 million, totaling ₹33.54 million, or ₹3.354 crore; the Directors’ ₹43,770.16 million was excluded. Contingent liabilities are stated as a Total of ₹48.76 million as of December 31, 2020, equal to ₹4.876 crore, and the stated Total was used rather than re-summing. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the 20-largest-depositors percentages are deposit, not revenue, concentrations. The source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 3.354,
+  "contingent_liabilities_total_cr": 4.876,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

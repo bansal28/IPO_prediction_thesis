@@ -523,7 +523,320 @@ redundancy without adding information. Option (a) remains a
 defensible alternative and can be added as a sensitivity analysis
 in Chapter 8 if validation-set performance warrants it.
 
----
+## D-29 · Content-based bounds detection over single-regex extraction
 
-*Additional entries will be added as further decisions are made during
-LLM extraction (Chapter 7), and modelling (Chapter 8).*
+**Locked:** 14 July 2026, during risk-section pipeline hardening
+(Chapter 3, §3.7).
+**Decision.** Risk Factors bounds detection is implemented as a
+multi-signal content scoring scheme rather than a single header
+regex. A page qualifies as a candidate section start when its
+combined score across strong content anchors, structural headers,
+and weak content anchors reaches 3 (Chapter 3, §3.7.2). Section
+end is detected by any of six explicit next-section title patterns
+followed by a strict "SECTION [Roman] — [UPPERCASE_TITLE]"
+catch-all with a broad Unicode separator character class.
+**Justification.** Empirical evidence from the initial extraction
+pass identified three failure modes for single-regex detection
+(Chapter 3, §3.7.1): body-text false positives on end detection
+(Inventurus), front-matter table-of-contents false positives on
+start detection (Anand Rathi 2005), and font-encoding artefacts in
+separator characters (Go Fashion, where the em-dash rendered as
+`±`). No single-regex rule can defend against all three
+simultaneously. The multi-signal approach requires several
+independent indicators to agree before accepting a page as
+section start, which is empirically robust to any one indicator
+misfiring.
+
+## D-30 · Extraction certification thresholds: coverage 0.60 to 1.50, bigram Jaccard 0.50
+
+**Locked:** 14 July 2026, during risk-section pipeline hardening
+(Chapter 3, §3.7.3).
+**Decision.** Every fresh extraction is audited against a
+ground-truth plain-text extraction of the same page range on two
+metrics: a coverage ratio (markdown word count divided by
+plain-text word count) required to lie in [0.60, 1.50], and a
+bigram Jaccard content-overlap coefficient computed on the opening
+12,000 characters of each, required to be at least 0.50. An
+extraction that passes both thresholds is written to the
+`risk_sections/` directory (after backing up the existing file);
+an extraction that fails is logged to a manual-review CSV and the
+existing file is left untouched.
+**Justification.** The coverage ratio detects extraction volume
+mismatches (dropped content in markdown, or bloated markdown
+noise); its lower bound of 0.60 accommodates minor content
+reformatting by `pymupdf4llm`, and its upper bound of 1.50
+accommodates minor markdown decoration. The bigram Jaccard
+coefficient detects extraction *location* mismatches — the case
+where the markdown and plain text are internally consistent but
+neither corresponds to the actual Risk Factors section. Bigrams
+are used rather than unigrams because the corpus has a large
+shared general-financial vocabulary that inflates unigram Jaccard
+on any two prospectus pages; bigrams tighten the check to
+same-content agreement. Empirical calibration on a validation
+set of five prospectuses (Chapter 3, §3.7.3) confirms clean
+extractions above 0.90 on both metrics, mangled extractions below
+0.30 on Jaccard, and truncated extractions below 0.60 on coverage.
+
+## D-31 · Plain-text fallback for pymupdf4llm mangled outputs
+
+**Locked:** 14 July 2026, during risk-section pipeline hardening
+(Chapter 3, §3.7.4).
+**Decision.** When `pymupdf4llm` markdown extraction fails audit
+under D-30 despite correctly-detected bounds, and when a
+plain-text extraction of the same bounds would exceed 5,000
+words, the .md file is written using the plain-text extraction
+wrapped in a minimal markdown header. The file's first line
+records that the plain-text fallback was used.
+**Justification.** For a small number of PDFs with non-standard
+table-cell encodings (Go Fashion is the only case in the study
+corpus), `pymupdf4llm` produces mangled output — squashed words,
+lost table cells — that fails the coverage check even when the
+selected page range is correct. Plain-text extraction on the
+same range preserves every word of the source content, at the
+cost of losing markdown-formatted table structure. This is a
+strictly better failure mode than either keeping the mangled
+markdown or leaving the previous (broken) extraction in place.
+The 5,000-word floor prevents the fallback from being invoked
+when the underlying page range itself yielded very little text.
+
+## D-32 · Multi-candidate start selection for bounds detection
+
+**Locked:** 14 July 2026, following Phase 6 exploratory analysis
+(Chapter 3, §3.7.5).
+**Decision.** When multiple pages in a PDF qualify as candidate
+section-start pages under the D-29 scoring rule, the extraction
+uses the (start, end) pair whose extracted range contains the
+most text, rather than the earliest qualifying start.
+**Justification.** Post-2022 SEBI disclosure guidelines mandate a
+"Summary of Risk Factors" subsection in the executive summary of
+every offer document, listing the top ten risks in condensed
+form before the full Risk Factors section proper. This summary
+block scores above the D-29 qualifying threshold because it
+contains some strong anchors and structural signals, and would be
+selected by an earliest-start rule — producing extractions of
+1,500 to 3,000 words with exactly ten numbered items detected.
+The full Risk Factors section further into the document extracts
+to 25,000 to 40,000 words; the summary cannot outweigh the full
+section on total content, so a longest-extraction rule reliably
+selects the correct section. Pre-2022 prospectuses which have
+only a single candidate start page are unaffected by this rule.
+Applying the rule surfaced 35 files needing re-extraction; all 35
+passed audit under the improved bounds, and the affected files
+moved from 1,000–3,000 word extractions to 25,000–45,000 word
+extractions.
+
+## D-33 · Hard cap of 90 pages on Risk Factors extraction
+
+**Locked:** 14 July 2026, following Phase 6 exploratory analysis
+(Chapter 3, §3.7.5).
+**Decision.** Section-end detection is hard-capped at 90 pages
+after the detected start, regardless of whether any end-signal
+pattern has matched.
+**Justification.** No Risk Factors section in the study corpus
+exceeds 68 pages at the 99th percentile of section length, so a
+90-page cap has no effect on any correctly-bounded extraction.
+The cap serves as a safety net for prospectuses where none of the
+end-signal patterns match — a failure mode observed on Atlanta
+Electricals, whose end-detection walked all the way to the
+"Declaration of Directors" on the last page of the document,
+producing a 77,361-word extraction that included several
+subsequent chapters. With the cap in place the same file
+extracts to 40,379 words. The cap is a conservative fallback
+rather than a primary mechanism; it operates only when the
+end-pattern matching fails entirely.
+
+## D-34 · Manual extraction of Sai Silks (Kalamandir) 2009
+
+**Locked:** 14 July 2026, during risk-section pipeline hardening
+(Chapter 3, §3.7.6).
+**Decision.** One prospectus in the study corpus, Sai Silks
+(Kalamandir) Ltd. (2009 Fixed Price Issue), was manually
+extracted by identifying its Risk Factors bounds directly from
+the PDF and running `pymupdf4llm.to_markdown(pages=range(11, 24))`
+by hand. The resulting file (5,697 words, pages 11 through 23)
+is checked into `data/processed/risk_sections/` as the source of
+truth for this IPO.
+**Justification.** The 2009-vintage Fixed Price Issue format uses
+letter-labelled sections ("SECTION – A", "SECTION – B: RISK
+FACTORS") rather than the Roman-numeral labelling standard from
+around 2010 onward, and its opening sentence uses "investment
+involves a degree of risk" rather than "high degree of risk".
+None of the D-29 anchor patterns match this document, and the
+D-29 auditor correctly flagged it as NO_ANCHOR. Rather than
+generalise the anchor patterns to cover a single 2009 outlier —
+which would risk introducing false positives on the other 415
+prospectuses — the file was extracted manually. This is the
+only manually-extracted file in the study corpus. The extraction
+target was located by inspecting the PDF directly: pages 11
+through 23 begin at "SECTION – B: RISK FACTORS" and end
+immediately before "Our Business:" on page 24.
+
+## D-35 · Manoj Vaibhav Gems retained as Tesseract OCR output
+
+**Locked:** 14 July 2026, during risk-section pipeline hardening
+(Chapter 3, §3.7.7).
+**Decision.** The Manoj Vaibhav Gems N Jewellers Ltd. prospectus
+PDF is image-only with no embedded text layer. Its risk-section
+.md file, produced by Tesseract OCR at 350 DPI with PSM 6 as
+described in Chapter 3, §3.6.4, is retained as the authoritative
+source. Every re-extraction stage in `src/processing/07_...` and
+`src/processing/08_...` detects the image-only PDF at start and
+skips the file without modification.
+**Justification.** For an image-only PDF the ground-truth
+plain-text extraction underpinning the D-30 audit is unavailable
+(both `pymupdf` and `pymupdf4llm` return effectively empty text),
+so the audit cannot compare a fresh extraction against a plain-text
+baseline. The Tesseract OCR .md file was produced at collection
+time under the four-check verification (Chapter 3, §3.6.4) and
+manually spot-checked; it contains 23,582 words and 71 numbered
+risk items, comparable to the median of the electronic-PDF
+extractions. Attempting to re-OCR or substitute the file would
+add no signal and risk degrading a known-good extraction.
+
+---
+<!--
+INSERT these entries into appendix_a_decisions_log.md immediately BEFORE the
+closing line "*Additional entries will be added ... (Chapter 8).*"
+They continue the numbering from D-35.
+-->
+
+## D-36 · Typed interpretable schema in place of opaque embeddings
+
+**Locked:** 17 July 2026, at the start of LLM extraction (Chapter 7,
+§7.1–7.2).
+**Decision.** Risk factors are extracted into a fixed twelve-field
+Pydantic schema of named, typed quantities (litigation counts,
+monetary exposures in crore, categorical financial-health flags)
+rather than encoded as dense text embeddings. The schema is the
+single source of truth for both the model instruction and the human
+labelling rule; field descriptions are lifted into the JSON schema via
+`use_attribute_docstrings=True`.
+**Justification.** The dissertation's sub-questions require feature
+identity. SQ2 (which risk features carry signal) is only answerable if
+features have names; SQ3 (faithfulness) is only answerable if features
+can be compared against a hand-labelled ground truth. Dense embeddings,
+as used by Ghosh, Zheng and Lopez-Lira (2024) on an overlapping
+universe, have neither property. The typed-schema design is the
+methodological point of distinction of this dissertation and is what
+makes the risk block auditable.
+
+## D-37 · Schema revision v1 → v3
+
+**Locked:** 17 July 2026, after a five-file scored trial (Chapter 7,
+§7.3).
+**Decision.** The schema reached its final (v3) form through two
+evidence-driven revisions. v1→v2 removed a promoter-share-pledge field
+(risk section carries only lock-in boilerplate; real data is in Capital
+Structure) and a related-party-transaction amount field (qualitative
+only in the risk section; figures reside in the financials). v2→v3
+(after scoring against the gold set) split litigation into three
+separate counts — criminal, statutory/regulatory-enforcement (tax
+*excluded*), and tax — tightened the severe auditor category to require
+explicit opinion-modification wording, restricted customer concentration
+to company-wide figures, and cut a top-5-supplier field for sparsity.
+Field entity scope was fixed as deliberately asymmetric: criminal and
+regulatory counts include company, subsidiaries, promoters, directors
+and key personnel; the tax count and monetary aggregates include company
+and subsidiaries only.
+**Justification.** Each change was forced by observed behaviour, not
+theory. The single pre-split "regulatory" field produced wild
+inter-model disagreement traceable entirely to tax ambiguity; giving tax
+its own field removed the ambiguity and added a feature. The auditor
+tightening corrected a shared false-positive on vague "qualifications
+and observations" wording. The concentration restriction corrected a
+segment-level figure incomparable to a company-wide one. The asymmetric
+scope reflects that a promoter's criminal/regulatory history is a
+governance signal attaching to the issue, whereas a promoter's personal
+tax matters are not a liability of the issuer. The dead-field cuts are
+the risk-section analogue of the `face_value` drop (D-25).
+
+## D-38 · Model and provider selection; structured-output compatibility
+
+**Locked:** 20 July 2026, after a three-model bake-off (Chapter 7,
+§7.5).
+**Decision.** The full extraction uses `gpt-5.6-luna` at
+`reasoning_effort = low` with a 16,000-token output ceiling. The schema
+model config does **not** set `extra="forbid"`.
+**Justification.** A five-file, three-model bake-off scored
+`gpt-5.6-luna` at 96 percent against the gold set, within two cells of
+`gpt-5.6-terra` and `gemini-2.5-flash` (both 98 percent); Luna's two
+misses were a single hardest multi-row sum and one regulatory
+undercount, not systematic errors. Free-tier options were closed not by
+cost but by rate structure: the binding constraint for long-document
+extraction is tokens-per-minute, and the surveyed free tiers either
+capped per-minute throughput below the size of a single document or
+capped per-day requests too low to finish 416 files in the timeline.
+Among paid options Luna was reachable through pre-existing API credit,
+making the marginal cost of the run negligible, and completed the corpus
+synchronously in one sitting. `reasoning_effort = low` was chosen
+because the task is extraction rather than multi-step reasoning, the
+trial confirmed low sufficed, and reasoning tokens bill as output. The
+`extra="forbid"` omission is a compatibility requirement: it makes
+Pydantic emit `additionalProperties: false`, which OpenAI strict mode
+requires but Gemini's `response_schema` rejects; the OpenAI SDK re-adds
+the property during strict conversion, so omitting it satisfies both
+providers (verified by inspecting each provider's transformed schema).
+
+## D-39 · Extraction run parameters and reproducibility anchor
+
+**Locked:** 20 July 2026, during the full run (Chapter 7, §7.6).
+**Decision.** All 416 files were extracted in a single resumable run;
+the raw JSON response for every file is retained under
+`data/features/llm_raw/` and is the authoritative record of what was
+extracted. Per-row metadata (resolved model, token counts, cost,
+timestamp) is stored alongside the extracted fields in
+`data/features/features_llm_risk.csv`.
+**Justification.** Input volume was priced in advance from an offline
+`tiktoken` count (18,857,188 tokens, expected \$22.60); the realised
+cost was \$21.13, all rows `ok`, with no refusals, truncations, or
+duplicates. Because a hosted model may change under a fixed name, the
+retained raw outputs — not the model endpoint — are the reproducibility
+anchor; a re-run against a drifted endpoint would be validated against
+these. The runner records completed rows and, on restart, skips any file
+already `ok`, re-charging nothing; this was exercised when a laptop-sleep
+event severed an in-flight connection and the run resumed from the last
+completed file without loss or double billing.
+
+## D-40 · Risk-feature transforms and redundancy resolution
+
+**Locked:** 20 July 2026, during risk-feature engineering (Chapter 7,
+§7.8).
+**Decision.** `10_engineer_risk_features.py` applies, on target-blind
+grounds only: `log1p` to the three counts and two monetary fields;
+a size-adjusted monetary form `log1p(amount) − assets_log1p`; retention
+of the top-10 concentration field with top-5 dropped (r = 0.98);
+retention of **both** monetary fields in size-adjusted form; collapse of
+going-concern to two flags and auditor to an ordinal severity plus a
+modified-opinion flag. The script reads exactly one column from the
+numeric feature file (`assets_log1p`) and never reads `first_day_return`.
+**Justification.** Transforms are justified by skew, coverage, economic
+mechanism, or redundancy — never by correlation with the target, in
+parallel with Chapter 6. The monetary pair correlates at 0.95 on the raw
+scale, which would argue for dropping one; but this is a scale artefact
+driven by a few very large issuers, and the skew transform dissolves it
+(`log1p` r = 0.58; size-adjusted r = 0.43). At 0.43 the two carry
+distinct information and both are retained — a revision of an earlier
+intention to drop one, recorded because it is a substantive
+methodological point. Size adjustment de-confounds exposure from firm
+size, which is otherwise already captured by the numeric size cluster.
+
+## D-41 · Missingness handling for the risk block
+
+**Locked:** 20 July 2026, at the Chapter 7 → 8 boundary (Chapter 7,
+§7.9–7.10).
+**Decision.** Every null risk feature is carried as a `*_missing`
+indicator and is never zero-filled. Modelling imputes with the
+indicators present rather than deleting rows; customer concentration is
+treated as a separable feature block tested on its own rather than
+included in the core model.
+**Justification.** A null denotes genuine non-disclosure (no litigation
+table; no stated contingent total; no company-wide concentration
+figure), which is categorically different from an explicit zero, and the
+schema preserves the distinction (D-37). Only 27 percent of issuers are
+complete across all six core risk features simultaneously — because
+concentration is disclosed by barely a third — so listwise deletion would
+collapse the sample from 416 to roughly 111 and destroy the temporal
+splits (D-03). Isolating concentration keeps the main SQ1 test on the
+well-populated litigation and exposure features and answers concentration's
+marginal contribution as a clean secondary question.
+

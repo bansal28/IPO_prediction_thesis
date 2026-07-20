@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Laxmi Dental Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: for matters against the company, I counted 1 criminal and 3 tax proceedings and no statutory/regulatory proceedings; against subsidiaries, all categories are Nil; against directors, I counted 3 criminal proceedings but excluded their 9 tax proceedings from the company/subsidiary tax count; against promoters, I counted 3 criminal proceedings but excluded their 4 tax proceedings. Thus, criminal proceedings against all listed entities total 7, regulatory actions against all listed entities total 0, and tax proceedings against the company and subsidiaries total 3; all “By” rows were excluded. The quantified aggregate amount against the company is ₹50.23 million, while the subsidiaries’ against amount is Nil, giving ₹50.23 million = ₹5.023 crore; director and promoter amounts and all “By” amounts were excluded. Contingent liabilities use the stated Total of ₹7.07 million as of September 30, 2024, with subsidiary totals shown as zero, converting to ₹0.707 crore; no company-wide top-five or top-ten customer concentration percentage is disclosed, although segment/geographic and other concentration percentages appear. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 5.023,
+  "contingent_liabilities_total_cr": 0.707,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

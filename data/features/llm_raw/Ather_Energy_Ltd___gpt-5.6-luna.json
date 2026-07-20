@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ather Energy Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: I counted only the Against Company rows (1 criminal, 35 tax, nil regulatory), Against Directors rows (1 criminal, 14 tax, nil regulatory), and Against Promoters rows (9 criminal, 74 tax, 2 statutory/regulatory); I excluded all By Company, By Directors and By Promoters rows, and excluded promoter/director matters from the aggregate amount. Tax proceedings against the company total 35, with no subsidiary row disclosed; the company-only quantified aggregate amount is the explicit ₹1,161.98 million figure in the Against Company row, converted to ₹116.198 crore, while the promoter amount is excluded. The contingent-liabilities figure is the stated Total of ₹608 million as of December 31, 2024, converted to ₹60.8 crore, rather than a re-sum. The concentration disclosures provided are segment/product, geographic, supplier or retail-partner figures, not company-wide top-five/top-ten customer revenue percentages for a full fiscal year; the source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 11,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 35,
+  "total_litigation_against_amount_cr": 116.198,
+  "contingent_liabilities_total_cr": 60.8,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

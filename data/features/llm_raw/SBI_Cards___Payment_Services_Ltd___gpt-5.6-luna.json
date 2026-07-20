@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "SBI Cards and Payment Services Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows, with criminal proceedings of 0 against the Company, 2 against the Directors and 1 against the Promoter; statutory/regulatory proceedings of 1 against the Company, 1 against the Directors and 1 against the Promoter; and tax proceedings of 15 against the Company. I excluded all By rows, including the Company's 33,378 criminal matters and the Promoter's 82 criminal matters, and excluded the Promoter's personal tax figure of “Over 486” from the company/group tax count. The quantified amount against the Company is ₹4,786.11 million, with no pending material litigation involving Group Companies; this converts to ₹478.611 crore (₹4,786.11 million ÷ 10), and no separate aggregate total is stated. No contingent-liabilities figure or balance-sheet date, going-concern statement, auditor-report status, or company-wide top-customer concentration percentage is disclosed in the provided risk section; the revenue percentages shown relate to revenue from operations but are not top-customer concentration figures. The source monetary unit is million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 15,
+  "total_litigation_against_amount_cr": 478.611,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Antony Waste Handling Cell Limited",
+  "extraction_reasoning": "The litigation table separates proceedings involving the Company, Subsidiaries, Directors, Promoters and Group Companies, but has no statutory/regulatory enforcement column. I counted criminal proceedings against the Company (6) and Subsidiaries (26), excluding the Group Companies criminal row and excluding the separately described complaint filed by a complainant; tax proceedings against the Company (Nil) and Subsidiaries (8) total 8, while regulatory actions are not disclosed. For the Company and Subsidiaries only, the quantified amount is 924.22 + 13 + 30.33 + 34.63 = ₹1,002.18 million, excluding nil amounts and all Group Company, promoter, director and 'By' matters; this converts to ₹100.218 crore. The contingent-liabilities figure is the explicitly stated Total of ₹84.62 million as at March 31, 2020, converted to ₹8.462 crore, rather than a re-sum. The top-five customer concentration is company-wide and based on total revenue for Fiscal 2020, at 81.76%; no top-ten percentage is disclosed. The source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 32,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 100.218,
+  "contingent_liabilities_total_cr": 8.462,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 81.76,
+  "top10_customer_revenue_pct": null
+}

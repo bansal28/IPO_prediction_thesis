@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nykaa",
+  "extraction_reasoning": "The litigation table separates “Cases against” from “Cases by”: I counted only against rows, namely criminal proceedings of 0 for the Company, 0 for subsidiaries, 0 for promoters and 0 for directors; statutory/regulatory actions of 4 + 9 + 4 + 6 = 23; and tax proceedings of 5 for the Company plus 7 for subsidiaries = 12. I excluded all “By” rows and excluded promoter/director personal matters from the aggregate amount; the group litigation totals used were the stated Company total of ₹26.94 million and Subsidiary total of ₹83.91 million, aggregating to ₹110.85 million = ₹11.085 crore. The contingent-liabilities table is dated June 30, 2021 and uses ₹ million; because no stated Total row is provided, its disclosed components of ₹74.37 million + ₹22.25 million + ₹35.58 million were summed to ₹132.20 million = ₹13.22 crore. The disclosed concentration percentages concern top five vendors’ share of total GMV from online sales, not company-wide revenue from operations or total income, and no company-wide top-five or top-ten customer revenue percentage is provided; the source unit is million and conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 23,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 11.085,
+  "contingent_liabilities_total_cr": 13.22,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

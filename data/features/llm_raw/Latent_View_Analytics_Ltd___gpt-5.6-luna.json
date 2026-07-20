@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "LatentView Analytics Limited",
+  "extraction_reasoning": "The litigation table is specifically for matters involving the Company and reports Criminal: Nil, Regulatory/statutory action: Nil, and Tax: 1 case for ₹3.09 million; there are no “By ...” rows and no subsidiary rows in the provided table, so only the company rows were counted, keeping criminal, regulatory and tax separate. The quantified litigation amount against the company is the stated tax amount of ₹3.09 million, with no other quantified matters; converted at ₹10 million = ₹1 crore, this is ₹0.309 crore. No contingent-liabilities table or total is disclosed in the provided risk section, and the auditor disclosure refers to CARO statements while explicitly stating no reservations, qualifications, adverse remarks or matters of emphasis in the statutory audit reports. The company-wide top-five customer concentration is 54.00% of revenue from operations for Fiscal 2021, the latest full fiscal year shown; the other concentration percentages are also company-wide, while no numerical company-wide top-ten percentage is disclosed. Monetary tables use ₹ million, so ₹3.09 million ÷ 10 = ₹0.309 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.309,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 54.0,
+  "top10_customer_revenue_pct": null
+}

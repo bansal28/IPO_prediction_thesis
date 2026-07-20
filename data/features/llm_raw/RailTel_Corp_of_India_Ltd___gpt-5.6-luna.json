@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "RailTel Corporation of India Limited",
+  "extraction_reasoning": "The litigation table is expressly headed “Litigation involving our Company” and contains Against-company matters only; it reports 2 criminal cases with ₹15.70 million, no regulatory/statutory actions, and 14 tax proceedings with ₹322.30 million. No “By ...” rows, subsidiary rows, promoter/director personal matters, or separate aggregate total are disclosed, so the quantified against-company amount is summed as civil ₹58.28 million + criminal ₹15.70 million + tax ₹322.30 million = ₹396.28 million, or ₹39.628 crore; criminal, regulatory and tax counts remain separate. The contingent-liabilities table states a consolidated/Company total of ₹1,515.80 million as of September 30, 2020, and that stated Total is used without re-summing: ₹1,515.80 million = ₹151.58 crore. The disclosed customer concentration is only for three customers, not a top-five or top-ten company-wide percentage; it is stated as a percentage of total revenue from operations for Fiscal 2018, 2019, Fiscal 2020 and the six months ended September 30, 2020, so no qualifying top-5/top-10 value is extracted. The source currency unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 39.628,
+  "contingent_liabilities_total_cr": 151.58,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

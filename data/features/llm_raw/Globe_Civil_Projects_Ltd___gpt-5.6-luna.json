@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Globe Civil Projects Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Company’s “Against our Company” row—1 criminal proceeding and 4 tax proceedings—and excluded all “By our Company” matters (5 civil matters, ₹1,337.80 million) and promoter matters; statutory/regulatory proceedings against the Company are Nil, and director/promoter against rows are Nil. The quantified aggregate amount against the Company is ₹170.86 million; promoter personal matters of ₹3.03 million and all “By” matters are excluded, giving ₹17.086 crore. The contingent-liabilities figure is the stated consolidated Total of ₹230.47 million as at December 31, 2024, converted to ₹23.047 crore rather than re-summing line items. The only concentration percentages are for construction project receipts/top projects or business segments, not company-wide top-five/top-ten customers; therefore customer concentration fields are null. Monetary tables use ₹ million, converted to crore by dividing by 10 (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 17.086,
+  "contingent_liabilities_total_cr": 23.047,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

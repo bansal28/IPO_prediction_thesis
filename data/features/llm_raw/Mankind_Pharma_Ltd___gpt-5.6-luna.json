@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Mankind Pharma Limited",
+  "extraction_reasoning": "The litigation table separates Against and By rows: I counted criminal proceedings only in Against rows (Company Nil, Subsidiaries Nil, Directors Nil, Promoters Nil), statutory/regulatory actions only in Against rows (82 + 5 + 5 + 5), and tax proceedings only for the Company and Subsidiaries (13 + 15); all By rows and promoter/director personal tax matters were excluded. The aggregate quantified amount against the Company and Subsidiaries is taken from the Against rows, ₹459.64 million + ₹67.63 million = ₹527.27 million, or ₹52.727 crore; non-quantifiable matters are excluded. Contingent liabilities are disclosed as of December 31, 2022; no stated Total row is provided, so the disclosed line items were summed: ₹33.16 million + ₹568.01 million + ₹80.45 million = ₹681.62 million, or ₹68.162 crore. The concentration disclosures are not company-wide top-five or top-ten customer percentages for a full fiscal year, so both concentration fields are null; the reported percentages elsewhere use revenue from operations or total income but are not applicable to top-customer concentration. The source monetary tables use ₹ in millions, converted to crore by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 97,
+  "tax_proceedings_against_count": 28,
+  "total_litigation_against_amount_cr": 52.727,
+  "contingent_liabilities_total_cr": 68.162,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

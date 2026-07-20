@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Elin Electronics Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted the criminal rows against the Company (1) and Promoters (1), while excluding all “By” rows; regulatory proceedings against the Company were 3, and tax proceedings against the Company (23) plus Subsidiary (5) were counted separately. The quantified aggregate amount against the Company and Subsidiary was ₹13.63 million plus ₹31.18 million, excluding the Promoters’ “Not quantifiable” amount, totaling ₹44.81 million, or ₹4.481 crore. The contingent-liabilities table is stated on a consolidated basis as of September 30, 2022; because no Total row is provided, the disclosed components of ₹40.40 million, ₹13.74 million and ₹44.81 million were summed to ₹98.95 million, or ₹9.895 crore. The latest full fiscal-year customer concentration is Fiscal 2022, measured as a percentage of company-wide revenue from operations: top five customers 63.20% and top ten customers 77.14%. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10 (₹44.81 million ÷ 10 = ₹4.481 crore; ₹98.95 million ÷ 10 = ₹9.895 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 28,
+  "total_litigation_against_amount_cr": 4.481,
+  "contingent_liabilities_total_cr": 9.895,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 63.2,
+  "top10_customer_revenue_pct": 77.14
+}

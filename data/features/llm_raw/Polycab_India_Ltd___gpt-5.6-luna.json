@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Polycab India Limited",
+  "extraction_reasoning": "The litigation tables contain only “against” rows for the Company, Directors, Subsidiaries and Joint Ventures, and Promoters; no “By” rows were disclosed. Criminal proceedings counted against all listed entities are 4 + 5 + 0 + 4 = 13, regulatory/statutory actions are 1 + 0 + 1 + 0 = 2, and tax proceedings against the Company and Subsidiaries are 46 indirect-tax matters for the Company plus 2 indirect-tax matters for Subsidiaries = 48; promoter/director tax matters were excluded from the tax count. The quantified litigation amount against the Company and Subsidiaries is based on the stated table totals: ₹1,383.77 million for the Company plus ₹3.90 million for Subsidiaries/Joint Ventures = ₹1,387.67 million, or ₹138.767 crore; unascertainable criminal and regulatory amounts were not added. Contingent liabilities use the stated consolidated Total of ₹6,019.40 million as of June 30, 2018, converted to ₹601.94 crore, rather than summing line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages relating to wires and cables external sales and overseas sales are business/segment measures, not customer concentration. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 13,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 48,
+  "total_litigation_against_amount_cr": 138.767,
+  "contingent_liabilities_total_cr": 601.94,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

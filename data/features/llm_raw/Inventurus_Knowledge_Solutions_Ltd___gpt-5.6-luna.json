@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Inventurus Knowledge Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the entities from matters against them: all “By” rows were excluded. For matters against the company, subsidiaries, directors and promoters, criminal counts are Nil (0), statutory/regulatory actions are 5 against subsidiaries, and tax proceedings are 1 against the company plus 5 against subsidiaries (6 total); the promoter disciplinary action is kept separate and not included in regulatory actions. The quantified aggregate amount against the company and subsidiaries is ₹0.23 million plus ₹249.42 million = ₹249.65 million, or ₹24.965 crore; promoter/director matters and all “By” rows were excluded. Contingent liabilities are disclosed as direct-tax litigation of ₹14.58 million plus arbitration of ₹31.94 million as of September 30, 2024, totaling ₹46.52 million or ₹4.652 crore; the stated capital commitment was not included. Company-wide top-customer concentration for the most recent full fiscal year, Fiscal 2024, is 27.59% for the top five and 43.66% for the top ten, measured against revenue from operations. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 24.965,
+  "contingent_liabilities_total_cr": 4.652,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 27.59,
+  "top10_customer_revenue_pct": 43.66
+}

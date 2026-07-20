@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not stated",
+  "extraction_reasoning": "The litigation tables distinguish matters “by” from matters “against”: I excluded all “By our Company,” “By our Subsidiaries,” “By our Directors,” and “By our Promoters” rows, and counted the against rows across all listed entities. Criminal proceedings against are 10 against the Company, 8 against Subsidiaries, 13 against Directors, and 12 against Promoters; statutory/regulatory actions against are 24, 28, 5, and 5 respectively; tax proceedings against the Company and Subsidiaries are 35 and 7, excluding promoter/director tax matters. The quantified aggregate against the Company and Subsidiaries is the sum of Company amounts of ₹2,904.66 million tax plus Subsidiary amounts of ₹1.83 million regulatory, ₹42.91 million tax, and ₹55.94 million civil, totalling ₹3,005.34 million, or ₹300.534 crore; “Not ascertainable or quantifiable” amounts were excluded. The contingent-liabilities figure uses the stated consolidated Total of ₹185.97 million as of August 31, 2021, converted to ₹18.597 crore rather than re-summing line items. The concentration disclosure is company-wide top 10 customers’ revenue from operations for full financial year 2021, at 62.8%; no company-wide top-five percentage is disclosed, and the source tables use ₹ millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 43,
+  "regulatory_actions_against_count": 62,
+  "tax_proceedings_against_count": 42,
+  "total_litigation_against_amount_cr": 300.534,
+  "contingent_liabilities_total_cr": 18.597,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 62.8
+}

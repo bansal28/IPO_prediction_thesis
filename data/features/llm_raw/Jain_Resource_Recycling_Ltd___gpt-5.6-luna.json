@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jain Resource Recycling Limited",
+  "extraction_reasoning": "The litigation table separates Against and By rows: I counted only the Against rows, obtaining criminal proceedings of 0 for the Company, 0 for subsidiaries, 3 for Directors, 1 for the Promoter and 3 for Key Managerial Personnel; statutory/regulatory proceedings of 0, 0, 1, 1 and 1 respectively; and tax proceedings against the Company and subsidiaries of 21 and 2 respectively. For the aggregate litigation amount, I used only the Company and Subsidiary Against rows: ₹287.35 million plus ₹0.62 million, excluding promoter/director/KMP matters and all By rows, totalling ₹287.97 million. The contingent-liabilities figure is the stated Total of ₹217.40 million as of March 31, 2025, not a re-sum of line items. The company-wide top-five and top-ten customer concentrations are for Fiscal 2025 and are measured as percentages of total revenue from operations: 43.64% and 58.40%, respectively. Monetary tables use ₹ million; conversion to crore is by dividing by 10, so ₹287.97 million equals ₹28.797 crore and ₹217.40 million equals ₹21.74 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 28.797,
+  "contingent_liabilities_total_cr": 21.74,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 43.64,
+  "top10_customer_revenue_pct": 58.4
+}

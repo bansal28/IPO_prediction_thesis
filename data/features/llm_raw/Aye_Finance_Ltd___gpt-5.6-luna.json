@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not disclosed",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the against rows: criminal proceedings are Nil for the Company, subsidiary, directors, KMP and SMP (0); statutory/regulatory actions are 1 against the Company and Nil for the other entities (1); tax proceedings are 5 against the Company and Nil against the subsidiary (5), excluding all By rows, including the 9,749 criminal cases filed by the Company. The aggregate quantified amount against the Company and subsidiary is ₹158.83 million for the Company and Nil for the subsidiary, totalling ₹158.83 million, or ₹15.883 crore; the contingent-liabilities figure is the stated Total of ₹158.92 million as of September 30, 2025, or ₹15.892 crore, not a re-sum. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages disclosed concern interest income, AUM or other metrics and are not customer concentration. The source tables use ₹ million, converted to crore by dividing by 10 (₹158.83 million ÷ 10 = ₹15.883 crore; ₹158.92 million ÷ 10 = ₹15.892 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 15.883,
+  "contingent_liabilities_total_cr": 15.892,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

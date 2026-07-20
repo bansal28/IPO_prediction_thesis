@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sanathan Textiles Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: all “By” rows are Nil and excluded; among “Against” rows, the Company has Nil criminal proceedings, 22 tax proceedings, and Nil statutory/regulatory proceedings, while promoters, directors and subsidiaries have Nil in each relevant category. The aggregate amount against the Company is explicitly stated as ₹1,701.04 million; the subsidiaries’ amount is Nil, so the quantified group amount is ₹1,701.04 million, converted from million to crore by dividing by 10, i.e. ₹170.104 crore. Contingent liabilities are taken from the stated consolidated Total of ₹644.79 million as at June 30, 2024, not re-summed, and converted to ₹64.479 crore. The company-wide customer concentration for the most recent full fiscal year, Fiscal 2024, is 14.20% for the top five and 23.16% for the top ten, measured as a percentage of revenue from operations. The litigation and contingent-liability tables use ₹ million as the source unit; all crore amounts above use the conversion ₹10 million = ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 22,
+  "total_litigation_against_amount_cr": 170.104,
+  "contingent_liabilities_total_cr": 64.479,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 14.2,
+  "top10_customer_revenue_pct": 23.16
+}

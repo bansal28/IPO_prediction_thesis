@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Motisons Jewellers Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against the Company” row for statutory/regulatory proceedings (1) and tax proceedings (20), while the criminal count is nil for the Company, directors and promoters; all “By” rows were excluded. The separate disciplinary-actions-by-SEBI/Stock-Exchanges column for promoters and the promoter criminal matter are not included in the issuer-directed criminal or statutory/regulatory counts, and promoter/director tax rows are excluded from the company-group tax count. The total litigation amount uses the explicitly stated “Against the Company” aggregate of ₹1,134.51 lakhs, rather than summing sub-items; this is ₹113.451 crore (1,134.51 lakhs ÷ 100), and is the company amount shown in the table. Contingent liabilities use the stated Total of ₹1,134.51 lakhs as of June 30, 2023, converted to ₹113.451 crore; the source tables use lakhs. No company-wide top-five or top-ten customer revenue concentration is disclosed: the percentages shown concern suppliers, not customers, and the revenue percentages elsewhere are geography or business-category concentrations.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 20,
+  "total_litigation_against_amount_cr": 113.451,
+  "contingent_liabilities_total_cr": 113.451,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

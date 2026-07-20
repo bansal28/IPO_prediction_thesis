@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "RateGain",
+  "extraction_reasoning": "The litigation table shows separate “By” and “Against” rows: all “By the Company,” “By our Directors,” “By our Promoters,” and “By our Subsidiaries” rows were excluded. Criminal proceedings against all listed entities are Nil; statutory/regulatory proceedings against the Directors and Promoters are 1 each, while tax proceedings against the Company are 2 and those against subsidiaries are Nil; promoter/director tax matters were excluded from the company-and-subsidiary tax count, and the quantified group amount uses the explicit “Against the Company” amount of ₹683.77 million, with subsidiaries Nil, for ₹68.377 crore. The contingent-liabilities figure is the stated Total of ₹683.77 million as of March 31, 2021, converted to ₹68.377 crore; no going-concern or statutory-auditor opinion status is stated. Company-wide concentration disclosed for the top ten major customer groups is 37.01% of revenue from operations in Fiscal 2021, the latest full fiscal year; the segment-only concentration figures were not used. The source tables use ₹ million, converted to crore by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 68.377,
+  "contingent_liabilities_total_cr": 68.377,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 37.01
+}

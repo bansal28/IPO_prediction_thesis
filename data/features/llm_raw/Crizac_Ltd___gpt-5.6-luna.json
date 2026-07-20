@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Crizac Limited",
+  "extraction_reasoning": "No litigation summary table is provided in the supplied risk section, so there are no against-versus-by rows to count and no criminal, regulatory, or tax proceedings to quantify; the narrative instead states that the Company, Promoters, Directors and Subsidiaries are currently not involved in legal proceedings. No contingent-liabilities table or stated total is disclosed, so no date-specific contingent-liabilities figure can be extracted. Company-wide customer concentration is disclosed for the full Fiscal 2025 using revenue from operations as the denominator: top five global institutions of higher education contributed 60.28% and top ten contributed 70.56%; these are not merely segment-level figures. The relevant financial tables use ₹ million, but no litigation or contingent-liabilities monetary table is present, so no conversion to crore is applicable.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 60.28,
+  "top10_customer_revenue_pct": 70.56
+}

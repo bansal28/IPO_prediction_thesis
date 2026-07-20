@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Laxmi India Finance Limited",
+  "extraction_reasoning": "The litigation table reports against-company rows of: criminal Nil, tax 5, statutory/regulatory Nil, and material civil 1, with aggregate amount ₹22.89 million; I counted the criminal and tax rows against the Company and excluded all “By the Company” rows, including 2,400 criminal proceedings and their separate ₹1,107.76 million amount. The against-promoters rows show 2 criminal and 8 tax proceedings, but promoter personal matters are excluded from the company-and-subsidiaries aggregate and tax count; there are no subsidiaries disclosed and no against-company regulatory proceedings. The contingent-liabilities figure is the stated amount for “Claims against the company not acknowledged as debt – Income tax demand” of ₹0.09 million as of March 31, 2025, used directly rather than summed. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed percentages concern MSME financing, AUM, cash collections and other business metrics, not customer concentration or revenue from operations. The litigation and contingent-liability tables use ₹ in million; ₹22.89 million ÷ 10 = ₹2.289 crore and ₹0.09 million ÷ 10 = ₹0.009 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 2.289,
+  "contingent_liabilities_total_cr": 0.009,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

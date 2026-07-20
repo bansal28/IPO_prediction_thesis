@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not disclosed",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company as Nil and statutory/regulatory actions against it as Nil; the separate tax table reports 6 direct-tax and 5 indirect-tax proceedings against the Company, totaling 11. The “Litigation filed by our Company” rows are excluded, as are the criminal, regulatory and tax matters involving Directors and Promoters for the requested company/subsidiary aggregate; the quantified amount counted is the Company tax total of ₹148.91 million, with no subsidiary litigation disclosed. Contingent liabilities use the stated aggregate figure of ₹140.39 million as of March 31, 2021, rather than summing the listed items. The company-wide top-10 customer concentration is 72.62% for Fiscal 2021, measured against revenue from operations; no company-wide top-5 percentage is disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹148.91 million = ₹14.891 crore and ₹140.39 million = ₹14.039 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 14.891,
+  "contingent_liabilities_total_cr": 14.039,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 72.62
+}

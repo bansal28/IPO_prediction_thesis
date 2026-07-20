@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Campus Activewear Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Company (criminal Nil, tax Nil, statutory/regulatory Nil, material civil Nil), against the Directors (criminal 2, tax 1, statutory/regulatory Nil, material civil Nil), against the Promoters (criminal Nil, tax 1, statutory/regulatory Nil, material civil Nil), and against the Subsidiary (criminal Nil, tax Nil, statutory/regulatory Nil, material civil Nil); I counted only the against rows, counted criminal matters across all entities, counted regulatory matters separately, and counted tax matters only for the Company and Subsidiary, excluding the Directors' and Promoters' tax matters. No quantified amount is disclosed for matters against the Company or Subsidiary because those rows state NA, so the aggregate litigation amount against the consolidated group is null; the quantified amounts of ₹26.03 million, ₹9.81 million and ₹1.64 million belong to By Company, Against Directors and By Subsidiary rows and are excluded. The contingent-liability table is as at December 31, 2021 and discloses ₹3.98 million for the EPCG-related matter; no stated Total row is shown, so this amount is converted from million to ₹0.398 crore. The section provides no company-wide top-five or top-ten customer concentration percentage; the disclosed top marketplace provider percentage is not a customer-concentration disclosure, and no auditor opinion or going-concern uncertainty is mentioned.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 0.398,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

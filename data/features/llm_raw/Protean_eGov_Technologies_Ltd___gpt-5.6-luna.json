@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Protean eGov Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against the Company” and “Against the Subsidiaries” rows, excluding all “By” rows and the nil director/group-company rows. Criminal proceedings against the company and subsidiaries are nil; statutory/regulatory proceedings against them are 1; tax proceedings are 71 against the Company plus 8 against subsidiaries, totaling 79, with tax kept separate from regulatory matters. The quantified amount against the group is ₹1,792.74 million against the Company plus ₹0.17 million against subsidiaries, and the separately described Skorydov Systems petition claim of ₹28.32 million is also against the Company; total ₹1,821.23 million, converted at ₹10 million per crore to ₹182.123 crore. The contingent-liabilities figure is the stated consolidated “Total” of ₹249.85 million as of June 30, 2023, converted to ₹24.985 crore, not a re-sum of line items. No company-wide top-five or top-ten customer concentration percentage, going-concern uncertainty, or statutory auditor report status is disclosed in the provided risk section; the disclosed percentages relate to government clients, e-governance services, and other non-customer concentration measures.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 79,
+  "total_litigation_against_amount_cr": 182.123,
+  "contingent_liabilities_total_cr": 24.985,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

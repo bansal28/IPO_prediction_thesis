@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "M&B Engineering Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company, Directors, Promoters, Subsidiaries, KMPs and SMPs as Nil, while the only criminal “By” row is for Subsidiaries with 1 case; accordingly, all “By” rows were excluded and criminal against count is 0. Statutory/regulatory proceedings are Nil in every against and by row, so regulatory actions against count is 0; tax proceedings against the Company (24) and Subsidiaries (3) were counted separately, while the Directors’ 13 tax proceedings and all by rows were excluded. The quantified aggregate amount against the Company and Subsidiaries is taken from the stated table amounts of ₹866.29 million and ₹34.00 million, respectively, totaling ₹900.29 million; this converts to ₹90.029 crore at ₹10 million per crore. The contingent-liabilities figure is the stated consolidated “Total Contingent Liabilities” of ₹1,033.10 million as at March 31, 2025, converted to ₹103.31 crore without re-summing. Company-wide customer concentration for the latest full fiscal year, Fiscal 2025, is 42.64% for the top five customer groups and 54.89% for the top ten, both measured as a percentage of consolidated revenue from operations; all source monetary tables use ₹ million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 27,
+  "total_litigation_against_amount_cr": 90.029,
+  "contingent_liabilities_total_cr": 103.31,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 42.64,
+  "top10_customer_revenue_pct": 54.89
+}

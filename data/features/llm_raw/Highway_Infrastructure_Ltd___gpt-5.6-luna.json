@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Highway Infrastructure Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, yielding 1 criminal proceeding against the subsidiary, 0 against the Company, directors, promoters and group companies, 0 statutory/regulatory proceedings across all against rows, and 3 tax proceedings against the Company plus 0 against the subsidiary; all “By” rows were excluded, and promoter/director personal tax matters were excluded from the tax count. The quantified aggregate amount against the Company and subsidiary is ₹32.44 million from the “Against the Company” row; the subsidiary amount is Nil, while the Company’s “By” amount of ₹97.98 million was excluded. Contingent liabilities are stated as ₹796.02 million as at March 31, 2025 in the risk disclosure; this is the stated aggregate of the table totals and was not re-summed. The concentration percentages disclosed are segment-level EPC Infra government-project revenue percentages for Fiscal 2025, Fiscal 2024 and Fiscal 2023, not company-wide top-customer concentration; no company-wide top-five or top-ten customer percentage is disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹32.44 million = ₹3.244 crore and ₹796.02 million = ₹79.602 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 3.244,
+  "contingent_liabilities_total_cr": 79.602,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

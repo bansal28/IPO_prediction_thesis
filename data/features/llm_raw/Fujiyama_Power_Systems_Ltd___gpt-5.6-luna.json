@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fujiyama Power Systems Limited",
+  "extraction_reasoning": "The litigation table reports 24 criminal proceedings by the Company, which are excluded as filed by the Company; the Against Company row has Nil criminal proceedings, Nil statutory/regulatory proceedings, and one tax proceeding, while all Against Directors, Promoters, Key Managerial Personnel and Senior Management rows are Nil. The ROC show-cause matter and ₹1.60 million penalty are stated not to be outstanding, so they are not added to the outstanding regulatory count. The quantified amount against the Company is ₹12.65 million for the one direct-tax proceeding, with no quantified matters against subsidiaries or other group entities; this equals ₹1.265 crore using ₹10 million per crore. Contingent liabilities are stated, not summed, at ₹12.65 million as of June 30, 2025, equal to ₹1.265 crore. The only top-five concentration percentages shown concern retail sales from top five distributors/states, not company-wide customers; therefore customer concentration is not disclosed, and no company-wide top-five or top-ten customer percentage based on revenue from operations or total income is available.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 1.265,
+  "contingent_liabilities_total_cr": 1.265,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

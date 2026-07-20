@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tatva Chintan Specialty Chemicals Limited",
+  "extraction_reasoning": "The litigation table reports proceedings against the Company, subsidiaries, promoters and directors separately from proceedings by those parties. I counted only the against rows: criminal cases are Nil across the Company, subsidiaries, promoters and directors; statutory/regulatory actions are also Nil across those against rows; tax proceedings against the Company are 2 and against subsidiaries are Nil, while all By rows were excluded. The quantified aggregate against the Company and subsidiaries is the stated Company-against total of ₹19.16 million, with subsidiaries Nil; converted at ₹10 million per crore, this equals ₹1.916 crore. No contingent-liabilities table or total is disclosed in the provided risk section. The company-wide top-10 customer concentration is 59.99% of revenue from operations for Fiscal 2021; no company-wide top-5 percentage is provided, and segment/geographic concentrations were not used. Litigation amounts use ₹ million as the source unit, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 1.916,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 59.99
+}

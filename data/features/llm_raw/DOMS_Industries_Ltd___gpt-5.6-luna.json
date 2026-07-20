@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not disclosed",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows; criminal proceedings are Nil for all listed entities, statutory/regulatory proceedings are 4 against the Company plus 2 against Directors, 2 against Promoters and 2 against Subsidiaries, and tax proceedings are 6 against the Company, with no subsidiary tax amount shown. The quantified aggregate amount against the Company is ₹8.79 million; the subsidiaries’ amount is Nil, so the group amount is ₹8.79 million, converted to ₹0.879 crore, while promoter/director personal matters and all “By” matters are excluded. Contingent liabilities use the stated table amount of ₹2.55 million as at September 30, 2023, converted to ₹0.255 crore; no total row is provided beyond this disclosed item. The disclosed percentages relate to products, distribution channels, suppliers, related-party transactions and other segments or categories, not company-wide top-five or top-ten customers as a percentage of revenue from operations or total income; therefore customer concentration percentages are not extracted. Monetary tables use ₹ million, converted to crore by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 10,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 0.879,
+  "contingent_liabilities_total_cr": 0.255,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

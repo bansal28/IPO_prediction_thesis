@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Mukka Proteins Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: for matters against the Company, I counted 2 criminal, 2 tax, and 1 statutory/regulatory proceeding, and for matters against Subsidiaries, 1 criminal, 1 tax, and 1 statutory/regulatory proceeding; all “By” rows and promoter/director personal matters were excluded. The quantified aggregate amount against the Company and Subsidiaries only is ₹43,529,480 + ₹10,734,530 = ₹54,264,010, or ₹5.426401 crore; the litigation table is stated in rupees, while the contingent-liabilities table is stated in ₹ million, so the source currency unit is mixed. Contingent liabilities are disclosed as of September 30, 2023; because no stated Total row appears, the listed consolidated components were summed: ₹149.64 million + ₹0.73 million + ₹500.00 million = ₹650.37 million = ₹65.037 crore. Company-wide customer concentration for the latest full fiscal year, Fiscal 2023, uses revenue from operations as the denominator: top 5 customers were 53.09% and top 10 customers were 69.04%; the conversion used is ₹10 million = ₹1 crore.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 5.426401,
+  "contingent_liabilities_total_cr": 65.037,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 53.09,
+  "top10_customer_revenue_pct": 69.04
+}

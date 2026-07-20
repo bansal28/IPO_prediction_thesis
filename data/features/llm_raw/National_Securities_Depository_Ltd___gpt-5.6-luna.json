@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "National Securities Depository Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted the “Against our Company” row (1 criminal, 4 statutory/regulatory, 3 material civil, ₹3,196.86 million) and the “Against the Directors” row (5 criminal), while excluding all “By” rows and excluding director matters from the aggregate amount. Tax proceedings against the company and subsidiaries are shown as “-”, so the tax count is zero; statutory/regulatory proceedings against subsidiaries are also “-”. The contingent-liabilities figure is the explicitly stated consolidated “Total” of ₹1,252.72 million as of March 31, 2025, rather than a sum of line items. The only top-five/top-ten customer concentration percentages disclosed are for depository participants as a percentage of depository-business revenue for Financial Year 2025 (12.35% and 15.15%), not company-wide revenue from operations, so both concentration fields are null. The source tables use ₹ in million; amounts were converted to crore by dividing by 10 (₹3,196.86 million = ₹319.686 crore; ₹1,252.72 million = ₹125.272 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 319.686,
+  "contingent_liabilities_total_cr": 125.272,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Capillary Technologies India Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Company (criminal Nil, tax 6, statutory/regulatory 2), against subsidiaries (criminal Nil, tax 5, statutory/regulatory Nil), against directors (criminal 4), and against promoters (tax 1); all 'By' rows were excluded, and the promoter tax matter was excluded from the company/subsidiary tax count. The quantified aggregate amount against the Company and subsidiaries is taken from the stated table amounts of ₹354.91 million and ₹11.33 million, respectively, totaling ₹366.24 million; the non-quantifiable matters were not added. Contingent liabilities are sourced from the stated bank-guarantees-outstanding figure of ₹3.91 million as of September 30, 2025, the latest date shown, rather than summed. Company-wide top-customer concentration for the most recent full fiscal year, Fiscal 2025, is 43.35% for the top five and 58.71% for the top ten, measured against revenue from operations. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10, so ₹366.24 million = ₹36.624 crore and ₹3.91 million = ₹0.391 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 36.624,
+  "contingent_liabilities_total_cr": 0.391,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 43.35,
+  "top10_customer_revenue_pct": 58.71
+}

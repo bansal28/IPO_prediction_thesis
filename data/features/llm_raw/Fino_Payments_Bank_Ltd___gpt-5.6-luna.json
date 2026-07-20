@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fino Payments Bank Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: I counted only the “Against” rows, namely criminal proceedings against the Bank, Promoter, Directors and Group Company (all Nil), regulatory/statutory actions against the Promoter (Nil) and Directors (2), and tax matters against the Bank (5); I excluded all “By” rows and did not count promoter/director tax matters in the issuer-group tax count. The quantified aggregate against the Bank and its subsidiaries is based on the stated components of ₹18.92 million civil litigation plus ₹30.61 million tax matters against the Bank, totaling ₹49.53 million, or ₹4.953 crore; promoter and director amounts were excluded. The contingent-liabilities figure is the explicitly stated Total of ₹40.14 million as of June 30, 2021, converted to ₹4.014 crore, rather than a re-sum. The only concentration percentages disclosed are segment/geographic figures (and fees and commissions as a percentage of total income), not company-wide top-five or top-ten customer revenue percentages for a full fiscal year. The litigation and contingent-liability tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 4.953,
+  "contingent_liabilities_total_cr": 4.014,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

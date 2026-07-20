@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Xelpmoc Design & Tech Limited",
+  "extraction_reasoning": "The only litigation table is headed “Litigation involving our Directors” and reports four tax proceedings involving a director for ₹42,790; this is a personal director matter, not an “Against” matter involving the issuer or its subsidiaries, and there are no criminal or statutory/regulatory enforcement rows or “By” rows to count. Accordingly, criminal, regulatory, tax-against-company/subsidiaries counts and the aggregate litigation amount against the group are not disclosed. No contingent-liabilities table or stated total, date, going-concern conclusion, or statutory auditor report status appears in the provided risk section. The company-wide concentration disclosure is for the full fiscal year ended March 31, 2018 and states top-five clients contributed 88.76% and top-ten clients 98.34% of revenues; the denominator is revenues, consistent with the surrounding disclosure, not a business-segment figure. The litigation table uses ₹ amounts stated directly in rupees, which is not one of the available source-unit categories; no litigation amount is converted because the director matter is excluded from the group aggregate.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 88.76,
+  "top10_customer_revenue_pct": 98.34
+}

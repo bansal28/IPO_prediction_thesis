@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jinkushal Industries Limited",
+  "extraction_reasoning": "The litigation table separates criminal, civil, statutory/regulatory, and tax matters and distinguishes “against” from “by” rows. I counted all “against” rows across the company, subsidiaries, promoters, directors, and KMPs/SMPs for criminal and regulatory categories: all are Nil, while tax proceedings against the company are 4 and those against subsidiaries are Nil; promoter tax proceedings (5) are excluded, and all “by” rows are excluded. The quantified group litigation amount is the company tax amount of ₹20.43 lakhs, with no quantified amount against subsidiaries, converted to ₹2.043 crore; promoter tax amount of ₹120.23 lakhs is excluded. The contingent-liabilities figure is the explicitly stated consolidated Fiscal 2025 aggregate of ₹19.18 lakhs as of March 31, 2025, converted to ₹1.918 crore, rather than a re-sum of disclosed items. The customer concentration figures are company-wide top-five and top-ten revenue from operations for full Fiscal 2025: 75.06% and 84.80%, respectively. The source monetary tables use lakhs, and conversion applied is ₹10 lakhs = ₹0.1 crore, or division by 100 for lakh amounts expressed in crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 2.043,
+  "contingent_liabilities_total_cr": 1.918,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 75.06,
+  "top10_customer_revenue_pct": 84.8
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nazara Technologies Limited",
+  "extraction_reasoning": "The litigation table contains only “Litigation by our Company” and “Litigation by our Subsidiaries” civil rows (2 cases/₹82.51 million and 1 case/₹27.87 million, respectively), so these “By” rows are excluded from against-party counts and amounts; no criminal or statutory/regulatory enforcement column is disclosed. Separately, the narrative describes one GST inspection involving the Company, counted as one tax proceeding against the Company, but provides no quantified amount. No contingent-liabilities total or date is stated in the provided risk section. The only concentration percentage is 58.78% for media-rights licensing revenue within the eSports business for FY 2020, which is segment-level rather than company-wide; the source monetary unit is million, and any disclosed million figures would convert to crore by dividing by 10 (for example, ₹82.51 million = ₹8.251 crore and ₹27.87 million = ₹2.787 crore), though these are excluded because they are “By” matters.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

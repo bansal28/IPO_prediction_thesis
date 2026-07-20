@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Manba Finance Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows, with criminal proceedings against the company, directors and promoters all Nil (0), statutory/regulatory proceedings all Nil (0), and tax proceedings against the company of 7; the promoters' 7 tax proceedings were excluded because they are personal promoter matters, and all By rows were excluded. The quantified amount against the company is ₹226.46 lakhs, comprising the company's tax proceedings and material civil litigation, while the promoters' ₹104.01 lakhs and the company's By-the-Company ₹57.64 lakhs were excluded; this converts to ₹2.2646 crore. The contingent-liabilities table explicitly states a Total of ₹226.46 lakhs as of March 31, 2024, used without re-summing, converting to ₹2.2646 crore. The only concentration percentages are business contribution from the top dealers, a dealer/business-channel measure rather than company-wide customer revenue, so the top-five and top-ten customer revenue fields are null; the disclosed revenue tables are in ₹ lakhs, but no qualifying company-wide customer concentration denominator is provided. The source monetary unit is lakh, and conversion is ₹226.46 lakhs ÷ 100 = ₹2.2646 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 2.2646,
+  "contingent_liabilities_total_cr": 2.2646,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

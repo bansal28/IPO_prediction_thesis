@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Issuer name not explicitly stated in provided text",
+  "extraction_reasoning": "The issuer company name was not explicitly stated in the provided risk factors section, being consistently referred to as \"our Company\". As no other registered name was found elsewhere in the provided text to resolve it, and \"our Company\" is prohibited, a descriptive string is used. For litigation, counts were aggregated from the \"Litigation against\" rows for the Company, Subsidiaries, Directors, and Promoters, specifically separating criminal, regulatory, and tax proceedings. Quantified amounts for total litigation against the Company and Subsidiaries were summed from the specified rows (Company Tax: 2,904.66 million; Subsidiary Regulatory: 1.83 million; Subsidiary Tax: 42.91 million; Subsidiary Civil: 55.94 million), treating explicit \"0.00\" as zero and excluding \"Not ascertainable\". Contingent liabilities were extracted as the \"Total\" figure from the table for August 31, 2021. Customer concentration for top 10 customers was taken for the financial year 2021 as a percentage of revenue from operations. All monetary values in the source text were in \"₹ in millions\" and converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 43,
+  "regulatory_actions_against_count": 62,
+  "tax_proceedings_against_count": 42,
+  "total_litigation_against_amount_cr": 300.534,
+  "contingent_liabilities_total_cr": 18.597,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 62.8
+}

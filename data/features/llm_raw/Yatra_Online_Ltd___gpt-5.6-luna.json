@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Yatra Online Limited",
+  "extraction_reasoning": "The litigation table separates Against and By rows: I counted only Against rows—criminal cases for the Company (2), Directors (2), and Subsidiaries (3), regulatory/statutory actions for the Company (3), and tax cases for the Company (9) and Subsidiaries (27); all By rows and promoter personal matters were excluded. The quantified group amount is summed from Against Company: INR 5.39 million criminal + INR 159.47 million regulatory + INR 1,919.47 million tax, and Against Subsidiaries: INR 219.77 million civil + INR 1.81 million criminal + INR 649.00 million tax, totaling INR 2,954.91 million, or INR 295.491 crore. The contingent-liabilities table is in INR million for Fiscal 2023 as of March 31, 2023; because no stated Total row is shown, the disclosed line items of INR 85.44 million, INR 315.53 million and INR 1.27 million sum to INR 402.24 million, or INR 40.224 crore. The only concentration percentages are segment or gross-booking measures—not company-wide top-customer revenue percentages; the Air Ticketing figure is Fiscal 2023 revenue from operations but is business-segment-only, and the top-five customer figure is a percentage of total gross bookings, so both customer-revenue fields are null. The source unit is INR million and conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 295.491,
+  "contingent_liabilities_total_cr": 40.224,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

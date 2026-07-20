@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Landmark Cars Limited",
+  "extraction_reasoning": "The litigation table reports Against Company (criminal 1, tax 10, civil 7, amount ₹255.80 million), Against Directors (criminal 3), Against Promoter (criminal 3), and Against Subsidiaries (criminal 6, tax 19, statutory/regulatory 1, civil 15, amount ₹554.64 million); I counted the criminal, statutory/regulatory, and tax categories separately across the relevant against rows and excluded all By Company and By Subsidiaries rows, as well as promoter/director personal matters from the aggregate amount. The quantified group litigation amount is therefore the stated Against Company plus Against Subsidiaries amounts, ₹810.44 million, converted to ₹81.044 crore; promoter and director amounts were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹2,819.35 million as of June 30, 2022, converted to ₹281.935 crore, rather than a re-sum of line items. The disclosed percentages concern geographic/OEM revenue concentrations, not company-wide top-five or top-ten customer revenue; no qualifying customer concentration percentage is provided for a full fiscal year. The source tables use ₹ in million, and the conversion applied is ₹1 crore = ₹10 million, so million amounts were divided by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 13,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 29,
+  "total_litigation_against_amount_cr": 81.044,
+  "contingent_liabilities_total_cr": 281.935,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

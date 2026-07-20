@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Happiest Minds Technologies",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Company, Promoter and Directors from matters by those parties; I counted only the against rows. Criminal proceedings against the Company, Promoter and Directors are each Nil, regulatory/statutory actions against the Company, Promoter and Directors are each Nil, and taxation matters against the Company and Promoter/Directors are Nil; the material civil amounts of ₹37.7 million against the Company and ₹231.9 million against Directors are not included in the requested aggregate because the latter is a personal matter, while the Company’s ₹37.7 million is included. The contingent-liabilities total is not disclosed in this risk section, and no date or stated Total is provided. Customer concentration percentages are disclosed for a single U.S. customer only, not company-wide top-five or top-ten customers; the percentages use total revenues from contracts with customers for Fiscals 2018–2020 and the three months ended June 30, 2020. Litigation amounts use ₹ million, converted to crore at ₹10 million per crore: ₹37.7 million ÷ 10 = ₹3.77 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 3.77,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

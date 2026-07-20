@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Glenmark Life Sciences",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, against/by the Promoter, and against the Directors. I counted 6 criminal proceedings against the Promoter, 12 statutory/regulatory actions against the Promoter and Directors (11 + 1), and 4 indirect-tax proceedings against the Company; I excluded the Company’s 1 criminal proceeding by it, the Promoter’s 2 criminal proceedings by it, and all Promoter personal tax matters from the issuer-group tax count. The quantified litigation amount against the Company and its subsidiaries is the Company’s material civil litigation of ₹1.21 million plus indirect tax of ₹52.98 million, totaling ₹54.19 million, or ₹5.419 crore; the stated contingent-liabilities figure is ₹22.16 million as of December 31, 2020, converted to ₹2.216 crore without re-summing. The company-wide top-five customer concentration is 56.65% for full fiscal year 2020, measured against total revenue from operations; the top-ten figure is only for generic API business and is therefore excluded. Litigation and contingent-liability tables use ₹ million, converted to crore at ₹10 million per crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 12,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 5.419,
+  "contingent_liabilities_total_cr": 2.216,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 56.65,
+  "top10_customer_revenue_pct": null
+}

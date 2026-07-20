@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table has “Against our Company” rows of 1 criminal, 1 civil, 11 tax and 21 statutory/regulatory cases; “Against our Promoters” has 4 criminal and 2 statutory/regulatory cases, and “Against our Directors” has 4 criminal and 2 statutory/regulatory cases. I counted only the against rows: criminal 1+4+4 = 9, regulatory 21+2+2 = 25, and tax 11 for the company; there are no “By” rows, and promoter/director personal amounts were excluded from the aggregate. The company-only quantified amount is ₹8.09 million civil + ₹95.15 million tax + ₹56.40 million regulatory = ₹159.64 million, or ₹15.964 crore; no subsidiary row is disclosed. The contingent-liabilities table is dated September 30, 2020, uses its stated Total of ₹252.44 million, converted to ₹25.244 crore; this table total includes the disclosed capital-account commitment. No company-wide top-five or top-ten customer concentration percentage is disclosed; the 50.84% Fiscal 2020 southern-region sales figure is geographic concentration, not customer concentration, and is based on total income. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 9,
+  "regulatory_actions_against_count": 25,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 15.964,
+  "contingent_liabilities_total_cr": 25.244,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

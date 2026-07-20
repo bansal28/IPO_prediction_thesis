@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Cello World Limited",
+  "extraction_reasoning": "The litigation table reports criminal, tax and statutory/regulatory proceedings separately: against the Company, subsidiaries, Directors and Promoters, all criminal and statutory/regulatory cells are Nil, while the subsidiaries have 12 tax proceedings; all “By” rows were excluded, and promoter/director tax matters were excluded from the tax count. For the group amount, the Company-against amount is Nil and the subsidiaries-against amount is ₹74.69 million; ₹74.69 million was converted to ₹7.469 crore, while promoter/director amounts and all “By” amounts were excluded. The contingent-liabilities-and-commitments table is dated June 30, 2023 and has no stated Total row, so its three disclosed components—₹47.22 million, ₹272.71 million and ₹1,377.07 million—were summed to ₹1,697.00 million and converted to ₹169.70 crore. The only percentages disclosed concern channels, materials, advertisements, related-party transactions and other segment or operational metrics, not company-wide top-five or top-ten customer revenue concentration for a full fiscal year; the source monetary tables use ₹ millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 7.469,
+  "contingent_liabilities_total_cr": 169.7,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

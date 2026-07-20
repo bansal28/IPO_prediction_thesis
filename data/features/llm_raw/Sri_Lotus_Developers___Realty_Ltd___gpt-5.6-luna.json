@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Lotus Developers",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: all “By” rows are Nil and excluded; the “Against our Company,” “Against our Directors,” and “Against our Promoters” rows are Nil, while “Against our Subsidiaries” is Nil for criminal, tax, and statutory/regulatory actions and shows five material civil litigation matters with an aggregate quantified amount of ₹45.75 million. Accordingly, criminal, regulatory, and tax counts against the relevant entities are each zero, and the quantified group litigation amount is ₹45.75 million, or ₹4.575 crore, including the subsidiary civil matters; no promoter/director personal amounts are included. The contingent-liabilities table is consolidated and dated September 30, 2024, but provides component amounts only—bank guarantees of ₹503.32 million and no letter-of-credit amount—and does not state a Total row, so the required stated total is not disclosed. No company-wide top-customer concentration percentage is disclosed; the only percentages in the section concern items such as subsidiaries, contractors, and other operational metrics, not top-five or top-ten customers. The source monetary tables use ₹ million; ₹45.75 million ÷ 10 = ₹4.575 crore, while the contingent-liability amount is left null because no stated total is provided.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 4.575,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

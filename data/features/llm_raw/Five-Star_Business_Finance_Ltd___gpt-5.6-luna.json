@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Five-Star Business Finance Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted 6 criminal cases against the Company and 1 criminal case against the Directors; the criminal cases by the Company (47) were excluded, as were the 2 tax proceedings by the Company. Statutory/regulatory actions against Directors and Promoters are both Nil, so the regulatory count is zero; the single tax proceeding against a Promoter was excluded because it is a personal promoter matter, leaving zero tax proceedings against the Company or subsidiaries. The Company’s quantified matters against it are explicitly Nil, so the aggregate Company/subsidiary litigation amount is ₹0 million, or ₹0.0 crore; no subsidiary-specific litigation is disclosed. The contingent-liabilities table is dated June 30, 2022 and reports ₹0.67 million for income-tax matters plus an unquantified Provident Fund item, but it provides no stated Total row, so the contingent-liabilities total is not extracted. The section contains no company-wide top-five or top-ten customer revenue concentration percentage; monetary tables use ₹ millions, converted to crore by dividing by 10 (₹0.67 million = ₹0.067 crore, though no contingent total is reported).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

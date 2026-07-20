@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "G R Infraprojects Limited",
+  "extraction_reasoning": "The litigation summary in \"Risk Factor 9\" provides details on cases against various entities. I summed criminal cases (1 against Company, 4 against Directors) and regulatory actions (2 against Company, 1 against Subsidiaries), excluding 'By' rows. Tax proceedings involving the Company and Subsidiaries totaled 19 cases. The aggregate quantified litigation amount against the Company and its Subsidiaries was derived by summing specific amounts from Civil (47.65 million), Regulatory (5.26 million for Company, 12.00 million for Subsidiaries), and all Tax proceedings (304.88 million) as explicitly listed, then converted to crore. The contingent liabilities figure of \"10,133.99 million\" is the stated consolidated total from the table in \"Risk Factor 45\" as of December 31, 2017. Customer concentration for the top five clients, 97.83%, is from \"Risk Factor 4\" for Fiscal 2017, using \"total income\" as the denominator, which is a company-wide figure. The source currency unit is 'million', and all *_cr fields are converted by dividing the million amount by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 36.979,
+  "contingent_liabilities_total_cr": 1013.399,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 97.83,
+  "top10_customer_revenue_pct": null
+}

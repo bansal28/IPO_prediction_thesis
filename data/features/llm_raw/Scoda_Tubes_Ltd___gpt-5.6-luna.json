@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Scoda Tubes Limited",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows: I excluded the Company’s one criminal proceeding filed by it and counted only the “Against our Company” row, which reports 0 criminal, 4 tax, and 1 statutory/regulatory proceedings; all against rows for directors, promoters, KMP and SMP are nil or not applicable. The quantified aggregate amount against the Company is the table’s explicit ₹15.11 million amount, while the separate tax litigation describes ₹31.43306 lakh and is included within that aggregate; ₹15.11 million converts to ₹1.511 crore. The contingent-liabilities table is stated in ₹ million and dated December 31, 2024, but it has no stated Total row, so no contingent-liabilities total is extracted under the stated-total rule. Company-wide customer concentration is reported as a percentage of revenue from operations; for the most recent full fiscal year, Fiscal 2024, top five customers contributed 36.56% and top ten customers contributed 47.77%. The source monetary unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 1.511,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 36.56,
+  "top10_customer_revenue_pct": 47.77
+}

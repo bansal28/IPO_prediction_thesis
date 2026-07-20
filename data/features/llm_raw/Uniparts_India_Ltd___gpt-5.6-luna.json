@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Uniparts India Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows—criminal proceedings of Nil against the Company, 0 against Directors, Nil against Promoters and Nil against Subsidiaries; statutory/regulatory actions of 2 against the Company and Nil against the other listed entities; and tax proceedings of 46 against the Company plus 3 against Subsidiaries, excluding the Promoters’ and Directors’ personal tax matters. I excluded all “By our Company,” “By our Directors,” “By our Promoters,” and “By our Subsidiary” rows. The quantified aggregate amount against the Company and Subsidiaries is ₹107.75 million plus ₹0.25 million, or ₹108.00 million, converted to ₹10.80 crore; the contingent-liabilities figure uses the stated Total of ₹55.20 million as of June 30, 2022, converted to ₹5.52 crore. The company-wide top-10 customer concentration is 70.42% for Fiscal 2022, measured against revenue from operations; segment-level top-10 percentages were not used, and no company-wide top-five percentage is disclosed. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 49,
+  "total_litigation_against_amount_cr": 10.8,
+  "contingent_liabilities_total_cr": 5.52,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 70.42
+}

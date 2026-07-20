@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "MapmyIndia",
+  "extraction_reasoning": "No litigation summary table is provided in the supplied risk section. The disclosed criminal writ petition was filed by the Company and a Promoter, so it is a “By” matter and was excluded; the SEBI complaints are not stated as statutory/regulatory enforcement proceedings against the Company, and no tax proceedings are disclosed. The contingent-liabilities table states a Total of ₹25.62 million as of September 30, 2021; this stated figure was used without re-summing, converted at ₹10 million per crore to ₹2.562 crore. The section gives company-wide revenue concentration for customers accounting for 80% of revenue, but does not disclose top-five or top-ten customer percentages; the disclosed market/segment percentages are not customer concentration. The source currency unit is million, and the contingent-liability conversion is ₹25.62 million ÷ 10 = ₹2.562 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 2.562,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

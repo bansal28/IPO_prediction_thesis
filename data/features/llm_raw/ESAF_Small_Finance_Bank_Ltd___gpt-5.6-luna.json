@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "ESAF Small Finance Bank Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the Against rows—criminal proceedings of 1 against the Bank, statutory/regulatory proceedings of 5 against the Bank, and tax proceedings of 13 against the Bank; the directors, Kadambelil Paul Thomas and ESAF Financial Holdings Private Limited rows add no counted criminal matters, while EFHPL is not identified as a subsidiary and is therefore excluded from the company-and-subsidiaries tax and amount fields. The quantified aggregate amount against the Bank is ₹288.67 million, taken from the stated table amount rather than summed; converted at ₹10 million per crore, this is ₹28.867 crore. The prospectus states provisions and contingent liabilities for litigation were nil except fraud cases, but does not state a total contingent-liabilities amount, so no contingent-liabilities figure is extracted. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the disclosed percentages concern business correspondents or other operational concentrations, not customers. The litigation tables use ₹ million, so the source currency unit is million and the amount conversion is ₹288.67 million ÷ 10 = ₹28.867 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 28.867,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

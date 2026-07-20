@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Not disclosed",
+  "extraction_reasoning": "The litigation table separates proceedings into criminal, tax, statutory/regulatory, disciplinary and civil columns, and separately identifies matters “By” and “Against” each entity. I counted only the “Against” rows: criminal proceedings against the Company, Directors and Promoters are all Nil (0); statutory/regulatory proceedings against all are Nil (0); and tax proceedings against the Company are Nil, while the one tax proceeding against Promoters is excluded because promoter-personal tax matters are not counted; there is no subsidiary row. The contingent-liabilities figure is the explicitly stated consolidated-looking Total of ₹134.12 lakhs as at March 31, 2023, converted at 1 crore = 100 lakhs to ₹1.3412 crore; the line items are ₹0.39 lakhs for Income Tax and TDS Disputes and ₹133.73 lakhs for Bank Guarantee, but the stated Total is used. The top-customer concentration is company-wide for full Fiscal 2023, measured as revenue from operations: top five customers contributed 18.92% and top ten customers 27.63%.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 1.3412,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 18.92,
+  "top10_customer_revenue_pct": 27.63
+}

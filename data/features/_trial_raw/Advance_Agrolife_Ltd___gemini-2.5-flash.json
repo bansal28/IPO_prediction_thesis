@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Advance Agrolife Limited",
+  "extraction_reasoning": "The litigation analysis sums criminal cases against the Company (5), Promoters (1), and KMP/SMP (4), for a total of 10 cases, as other entities' criminal cases were not listed or were 'by' cases. No regulatory actions against any party were quantified or listed. Tax proceedings were counted only for the Company (4 cases) as per Rule 5. The total quantified litigation amount against the Company and its subsidiaries is 0.333 crore, derived solely from the 3.33 million tax proceedings against the Company, as other amounts were 'Not ascertainable' or zero. The contingent liabilities figure of 0.297 crore is the explicitly stated aggregate of 2.97 million for Fiscal 2025. Customer concentration percentages are for Fiscal 2025, representing 51.70% for top 5 and 69.47% for top 10, both calculated as a percentage of company-wide revenue from operations. All monetary figures were originally stated in millions and converted to crore by dividing by 10 (e.g., 3.33 million / 10 = 0.333 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.333,
+  "contingent_liabilities_total_cr": 0.297,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 51.7,
+  "top10_customer_revenue_pct": 69.47
+}

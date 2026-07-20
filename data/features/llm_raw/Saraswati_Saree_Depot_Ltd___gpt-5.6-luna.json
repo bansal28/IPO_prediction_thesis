@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Saraswati Saree Depot Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, namely 1 criminal proceeding against Promoters and 4 statutory/regulatory proceedings against the Company plus 4 against Promoters; the 3 tax proceedings against Directors were kept separate from regulatory actions and excluded from the company-group tax count, while all “By” rows were excluded. The only quantified matter against the Company is the Company-row aggregate amount of ₹0.76 million; no subsidiary row or subsidiary amount is disclosed, so the aggregate company-and-subsidiaries amount is ₹0.76 million, converted to ₹0.076 crore. No contingent-liabilities total is disclosed, and no date for such a figure is provided. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the percentages shown concern products, geography, stores, or suppliers, with revenue-from-operations denominators for the fiscal periods, so they are not used. Litigation amounts are stated in ₹ million and converted to crore using ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.076,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

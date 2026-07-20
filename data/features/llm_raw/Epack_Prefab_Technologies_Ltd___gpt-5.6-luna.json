@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tata Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows and counted only “Against” rows. Criminal proceedings against the company, promoter, directors and subsidiaries total 2 + 34 + 0 + 0 = 36; statutory/regulatory proceedings against those entities total 4 + 1 + 0 + 1 = 6; tax proceedings against the company and subsidiaries total 17 + 2 = 19, excluding the promoter’s personal tax matters. For the group litigation amount, I included only the quantified “Against” amounts for the Company (₹1,412.72 million) and subsidiaries (₹11.38 million), totaling ₹1,424.10 million, or ₹142.41 crore; promoter and “By” amounts were excluded. The contingent-liabilities table is sourced as at September 30, 2023 and is presented in ₹ million, but it has no stated Total row, so no contingent-liabilities total is extracted rather than summing line items. The company-wide top-five customer concentration for Fiscal 2023 is 60.49% of revenue from operations; the other disclosed concentration figures are either top-five segment-level or not top-ten figures, and the source-unit conversion is ₹1,424.10 million ÷ 10 = ₹142.41 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 36,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 19,
+  "total_litigation_against_amount_cr": 142.41,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 60.49,
+  "top10_customer_revenue_pct": null
+}

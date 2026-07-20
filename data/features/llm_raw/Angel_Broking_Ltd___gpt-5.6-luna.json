@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Angel Broking Limited",
+  "extraction_reasoning": "The litigation tables are headed “involving” the Company, Promoters, Subsidiaries, Directors and Group Companies, and contain no “By” rows; therefore I counted the listed entity rows as against matters, while keeping criminal, regulatory/statutory and tax categories separate. Criminal cases against all listed entities total 160 for the Company + 2 for Subsidiaries + 8 for Promoters + 8 for Directors = 178; regulatory/statutory actions against the Company total 1; tax proceedings against the Company and Subsidiaries total 7 + 1 = 8. The quantified amount against the Company and Subsidiaries is ₹53.49 million + ₹129.66 million + ₹250.20 million + ₹79.49 million + ₹4.77 million + ₹0.43 million + ₹13.52 million = ₹531.56 million, or ₹53.156 crore; promoter, director and Group Company matters are excluded from this aggregate. The contingent-liabilities figure is the stated consolidated “TOTAL” of ₹2,973.96 million as at June 30, 2018, converted to ₹297.396 crore; both monetary tables use ₹ million, so conversion is million ÷ 10 = crore. The only concentration figures are segment-specific brokerage figures or the top 20% of active brokerage clients, not company-wide top-five/top-ten customer revenue percentages for a full fiscal year.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 178,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 53.156,
+  "contingent_liabilities_total_cr": 297.396,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

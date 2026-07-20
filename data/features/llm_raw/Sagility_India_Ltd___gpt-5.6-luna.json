@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sagility India Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows. Criminal proceedings against the company, subsidiaries, promoter, directors and group company are all Nil, giving 0; statutory/regulatory proceedings against subsidiaries and directors are 1 each, giving 2; tax proceedings against the company and subsidiaries are 2 and 10, respectively, giving 12. The quantified aggregate amount against the company and subsidiaries is ₹3.01 million plus ₹9,852.77 million, or ₹9,855.78 million; the latter includes the quantified subsidiary claim and is converted to ₹985.578 crore using 1 crore = ₹10 million. No contingent-liabilities table or stated contingent-liabilities Total is disclosed in this risk section, so no date or amount is available. Company-wide customer concentration for the full Financial Year 2024 is stated as a percentage of revenue from operations: top five client groups 79.16% and top ten client groups 91.41%; the source monetary tables use ₹ millions.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 985.578,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 79.16,
+  "top10_customer_revenue_pct": 91.41
+}

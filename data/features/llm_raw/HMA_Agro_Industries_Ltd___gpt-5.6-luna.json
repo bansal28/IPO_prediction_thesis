@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "HMA Agro Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters filed By the Company, directors, promoters, subsidiaries and group companies from matters Against them. I counted only Against rows: criminal proceedings are 1 against the Company, 1 against Promoters and 1 against Subsidiaries, totaling 3; statutory/regulatory proceedings are 5 against the Company and 3 against Subsidiaries, totaling 8; tax proceedings counted for the Company and Subsidiaries are 2 and 3, totaling 5, while director and promoter tax rows were excluded and all By rows were excluded. The quantified aggregate amount against the Company and Subsidiaries is taken from their stated row amounts of Rs 506.52 lakh and Rs 1,211.86 lakh, totaling Rs 1,718.38 lakh, converted at 100 lakh per crore to Rs 17.1838 crore; promoter, director and group-company amounts were excluded. The contingent-liabilities table is dated December 31, 2022 and uses Rs in million, but it provides no stated Total row, so no contingent-liabilities total is extracted rather than summing line items. Customer concentration is company-wide top 10 revenue from operations for the full fiscal year ended March 31, 2022 at 38.55%; no company-wide top-five percentage is disclosed. The litigation table uses lakh and the contingent-liabilities table uses million, so the source currency unit is mixed; the litigation amount conversion is Rs 1,718.38 lakh ÷ 100 = Rs 17.1838 crore.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 17.1838,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 38.55
+}

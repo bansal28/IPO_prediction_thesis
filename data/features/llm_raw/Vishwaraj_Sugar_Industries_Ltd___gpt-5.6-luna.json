@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vishwaraj Sugar Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company from matters filed by the Company, and separately lists proceedings against Directors and matters filed by Promoters. I counted the against rows only: criminal cases are 1 against the Company plus 1 against Directors; statutory/regulatory actions are 3 against the Company; and Central Excise tax proceedings are 9 against the Company. The quantified aggregate against the Company is ₹1,76,273 + ₹31,77,760 + ₹1,17,68,501 + ₹1,02,75,000 = ₹2,59,97,534, or 2.5997534 crore; all 'filed by' rows were excluded. The contingent-liabilities figure is the stated consolidated Total of ₹1,853.14 lakhs as at March 31, 2019, converted to ₹18.5314 crore; the source uses ₹ for litigation amounts and lakhs for contingent liabilities, so the source unit is mixed. The company-wide top-five customer concentration is 26.03% of total revenue from operations for the full fiscal year ended March 31, 2019; no company-wide top-ten percentage is disclosed.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 2.5997534,
+  "contingent_liabilities_total_cr": 18.5314,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 26.03,
+  "top10_customer_revenue_pct": null
+}

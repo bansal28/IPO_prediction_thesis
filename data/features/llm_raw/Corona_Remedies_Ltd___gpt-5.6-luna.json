@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "CORONA Remedies Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: for matters against the listed entities, criminal proceedings are Nil for the Company, Directors, Promoters, KMP and Senior Management, giving 0; statutory/regulatory actions are 6 against the Company, 7 against Directors, 6 against Promoters, 6 against KMP and Nil against Senior Management, giving 25; tax proceedings are Nil against the Company and no subsidiary row is disclosed, giving 0. All “By” rows were excluded, and promoter/director tax matters were not counted because the tax field is limited to the Company and subsidiaries. The aggregate amount against the Company is explicitly Nil, while no quantified subsidiary amount is disclosed, so the group amount is ₹0 million, converted to ₹0.0 crore; the litigation table uses ₹ million, with ₹1 million = ₹0.1 crore. No contingent-liabilities total, going-concern uncertainty, or statutory auditor report status is disclosed in the provided risk section. The only top-five/top-ten concentration figures are for C&F agents, which the text expressly states are not customers, so they are excluded from the company-wide customer fields; those figures relate to revenue from operations for FY2025, not customer revenue.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 25,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Orkla India Limited",
+  "extraction_reasoning": "The litigation table separates Against and By rows: I counted only Against rows, namely criminal proceedings of 1 against Directors and 2 against Key Managerial Personnel (Company, Subsidiary, Promoters, Senior Management and Group Companies were Nil), regulatory actions of 126 against the Company and 2 against Directors, and tax proceedings of 49 against the Company; Promoter tax proceedings of 1 were excluded because they are personal matters, and all By rows were excluded. The quantified aggregate against the Company and Subsidiary is ₹1,532.5 million for the Company plus Nil for the Subsidiary, or ₹153.25 crore; promoter and other personal/entity amounts were excluded. Contingent liabilities are disclosed in ₹ million as at June 30, 2025, the latest date shown; because no stated Total row appears, the disclosed litigation components of ₹1,248.6 million and ₹29.4 million were summed to ₹1,278.0 million, or ₹127.80 crore. The section provides concentration percentages for suppliers, geographic regions, exports, product categories and channels, but no company-wide top-five or top-ten customer revenue percentage for a full fiscal year; therefore both customer concentration fields are null. Monetary source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 128,
+  "tax_proceedings_against_count": 49,
+  "total_litigation_against_amount_cr": 153.25,
+  "contingent_liabilities_total_cr": 127.8,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

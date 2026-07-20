@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Urban Company Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the parties from matters against them. I counted only the “Against” rows: criminal proceedings were 0 against the Company, 0 against subsidiaries, 1 against Directors, 0 against Promoters, 0 against KMP and 0 against Senior Management; statutory/regulatory actions were 5, 0, 4, 2, 2 and 0 respectively; tax proceedings against the Company and subsidiaries were 3 and 1 respectively. For the Company and subsidiaries, I used the stated aggregate amounts of ₹536.65 million and ₹22.50 million, respectively, excluding “By” rows and personal promoter/director/KMP matters, giving ₹559.15 million = ₹55.915 crore; the separately disclosed three Company GST matters amount to ₹358.72 million but are included within the Company aggregate. The contingent-liabilities figure is the stated consolidated “Total” of ₹437.81 million as at June 30, 2025, converted to ₹43.781 crore; the source tables use ₹ million. The only concentration percentage shown is international-business revenue, not company-wide top-customer concentration; no company-wide top-5 or top-10 customer percentage is disclosed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 13,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 55.915,
+  "contingent_liabilities_total_cr": 43.781,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

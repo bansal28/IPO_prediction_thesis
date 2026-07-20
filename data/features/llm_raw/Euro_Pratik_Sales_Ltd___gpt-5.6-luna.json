@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Euro Pratik Sales Limited",
+  "extraction_reasoning": "The litigation table separates matters against the company, subsidiaries, directors, promoters, KMP and senior management from matters by those parties. I counted only the against rows: criminal proceedings are Nil for the company, subsidiaries, directors, promoters and KMP, with 1 against Senior Management; statutory/regulatory proceedings are Nil in every against row, while the separate promoter SEBI disciplinary-action entry is not included in the statutory/regulatory count; tax proceedings against the company and subsidiaries are Nil. The aggregate amount against the company and subsidiaries is explicitly Nil, while amounts in the rows by the Company and by Promoters are excluded. The contingent-liabilities disclosure states that there are no contingent liabilities as at March 31, 2025; the separately disclosed ₹140.50 million comprises capital commitments and is not treated as contingent liabilities. The company-wide distributor concentration table reports top five distributors at 25.91% and top 10 distributors at 36.12% of revenue from operations for the full Fiscal 2025; these are company-wide distributor/customer figures, not a business-segment figure. Litigation and commitment tables use ₹ million; Nil converts to ₹0.0 crore (0 million ÷ 10), and no non-zero litigation or contingent-liability amount requires conversion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 0.0,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 25.91,
+  "top10_customer_revenue_pct": 36.12
+}

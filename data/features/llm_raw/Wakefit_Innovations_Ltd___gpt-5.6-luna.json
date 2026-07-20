@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Wakefit Innovations Limited",
+  "extraction_reasoning": "The litigation tables show separate By and Against rows: I counted only Against our Company, Against our Directors, Against our Promoters, Against our Key Managerial Personnel and Against our Senior Management, excluding all By rows. Criminal proceedings against count is 7 (7 against Directors; Nil against the Company, Promoters, KMP and Senior Management); statutory/regulatory proceedings against count is 2 (1 against the Company and 1 against Directors), while tax proceedings against count is 30 (all against the Company; no subsidiary row is disclosed). The stated aggregate amount involved for Against our Company is ₹369.64 million, and the Directors’ and other against-entity rows are Nil; therefore the quantified company/group amount is ₹369.64 million, converted at ₹10 million per crore to ₹36.964 crore. Contingent liabilities use the stated Total of ₹80.81 million as of September 30, 2025, converted to ₹8.081 crore. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed percentages relate to product/channel categories, not customers. The litigation and contingent-liability tables use ₹ million as the source unit.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 36.964,
+  "contingent_liabilities_total_cr": 8.081,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

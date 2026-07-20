@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indiqube Spaces Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the Against our Company, Against our Directors, Against our KMPs and SMPs, and Against our Promoters rows. Criminal proceedings against total 8 (1 company + 3 directors + 2 KMPs/SMPs + 2 promoters); statutory/regulatory proceedings against total 3 (0 company + 1 director + 1 KMP/SMP + 1 promoter); tax proceedings counted only for the company and subsidiaries are 6 direct/indirect tax cases against the Company, excluding personal tax matters of directors and promoters and all By rows. The quantified amount against the company/group is ₹0.41 million in the Company Against row; no subsidiary amount is separately disclosed, so this converts to ₹0.041 crore (₹0.41 million ÷ 10). No contingent-liabilities total is disclosed in the provided risk section, and the auditor disclosure is an emphasis-of-matter/CARO matter stating that the opinion is not modified. The latest full fiscal concentration is Fiscal 2025: top five clients contributed 11.80% and top ten clients 18.22% of company-wide revenue from operations; source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 0.041,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 11.8,
+  "top10_customer_revenue_pct": 18.22
+}

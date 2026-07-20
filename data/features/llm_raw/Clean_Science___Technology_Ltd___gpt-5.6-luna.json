@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Clean Science and Technology Limited",
+  "extraction_reasoning": "The litigation table separates matters into criminal and tax categories, with 2 criminal cases against the Company, 1 tax proceeding against the Company, and 2 criminal cases against Directors; there are no “By” rows, no subsidiary rows, and no separate statutory/regulatory enforcement column, so criminal, regulatory and tax are kept separate. The quantified group amount against the Company/subsidiaries is the Company tax amount of ₹2.38 million; the criminal amounts are “Not quantifiable,” and Director matters are excluded from the aggregate. No contingent-liabilities table or stated contingent-liabilities total is disclosed in the provided risk section; the ₹104.04 million capital-commitments table is not contingent liabilities. The concentration disclosure is company-wide top-10 customer revenue for Fiscal 2021, the most recent full fiscal year, measured as 47.90% of total revenue from operations; no company-wide top-5 percentage is provided. Litigation amounts use ₹ million, converted to crore at ₹10 million per crore: ₹2.38 million ÷ 10 = ₹0.238 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.238,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 47.9
+}

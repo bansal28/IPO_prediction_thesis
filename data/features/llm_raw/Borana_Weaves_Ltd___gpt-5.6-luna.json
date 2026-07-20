@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Borana Weaves Limited",
+  "extraction_reasoning": "The litigation table separates Criminal, Tax, Statutory or regulatory, disciplinary actions and other proceedings, and distinguishes 'By' from 'Against' rows. I counted the 'Against our Company', 'Against our Directors', 'Against our Promoters' and 'Against our Group Companies' rows: all criminal, tax and statutory/regulatory cells are Nil; the 'By our Directors' row has one criminal proceeding and ₹40.21 lakh but is excluded because it is a 'By' matter. The aggregate amount against the company/group is therefore explicitly Nil, or ₹0.00 lakh, while the contingent-liabilities table states a Total of ₹982.36 lakh as of December 31, 2024; the source unit is lakh and ₹982.36 lakh ÷ 100 = ₹9.8236 crore. The company-wide customer concentration table reports Fiscal 2024 top-five customers at 39.00% and top-ten customers at 54.75% of revenue from operations, using the most recent full fiscal year shown.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 9.8236,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 39.0,
+  "top10_customer_revenue_pct": 54.75
+}

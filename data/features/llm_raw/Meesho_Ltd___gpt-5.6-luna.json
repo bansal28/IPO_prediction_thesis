@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Meesho",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the Against rows, namely 6 criminal, 5 tax and 4 statutory/regulatory proceedings against the Company, with zero against subsidiaries; I excluded all By rows and promoter/director/KMP/SMP matters from the aggregate amount. The quantified amount against the Company and subsidiaries is the table’s stated aggregate of ₹5,882.43 million, which converts to ₹588.243 crore; no amount against subsidiaries is shown. The contingent-liability table is dated September 30, 2025 and lists GST dispute ₹142.91 million, landowner dispute ₹72.00 million and income tax dispute ₹5,720.69 million; as no Total row is shown, these components sum to ₹5,935.60 million, or ₹593.56 crore. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the disclosed percentages concern geographic seller concentration and therefore are not used. The source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 588.243,
+  "contingent_liabilities_total_cr": 593.56,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

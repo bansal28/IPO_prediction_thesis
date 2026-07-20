@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Bharti Hexacom Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the Company or Promoter from matters against them: I excluded the “By our Company” criminal matter and all “By our Promoter” rows, and counted the “Against our Company” and “Against our Promoter” rows separately by category. Criminal proceedings against listed entities total 1 against the Company plus 9 against the Promoter = 10; statutory/regulatory proceedings total 41 against the Company plus 193 against the Promoter = 234; tax proceedings counted for the Company and subsidiaries only total 50, excluding the Promoter’s 497 tax proceedings. For the aggregate amount against the Company and subsidiaries, I used the quantified “Against our Company” amount of ₹24,055.00 million and excluded the Promoter amount of ₹370,044.84 million; ₹24,055.00 million ÷ 10 = ₹2,405.5 crore. The contingent-liabilities figure is the stated Total of ₹2,753 million as of December 31, 2023, converted to ₹275.3 crore; the separately disclosed ₹4,737 million one-time spectrum demand is not substituted for the table’s stated Total. No company-wide top-five or top-ten customer concentration percentage is disclosed; the 97.65% Fiscal 2023 figure concerns geographic mobile-service revenue, not customers. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 234,
+  "tax_proceedings_against_count": 50,
+  "total_litigation_against_amount_cr": 2405.5,
+  "contingent_liabilities_total_cr": 275.3,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

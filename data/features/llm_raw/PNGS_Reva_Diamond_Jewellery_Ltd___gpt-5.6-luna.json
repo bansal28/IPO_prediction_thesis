@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "PNGS Reva Diamond Jewellery Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: all “By” rows were excluded, while the “Against” rows were counted separately for criminal, tax, statutory/regulatory and other columns. Criminal proceedings against the company, directors, promoters, KMP and senior management are all Nil, and statutory/regulatory actions against those listed entities are also Nil; the only tax counts are against directors and promoters personally, so they are excluded from the company/subsidiary tax count and aggregate amount. The company’s own litigation row is Nil, and no subsidiary row or quantified company/subsidiary matter is disclosed, so the aggregate amount against the company and subsidiaries is explicitly Nil, i.e. ₹0 million = ₹0.0 crore. No contingent-liabilities total or auditor/going-concern disclosure appears in the provided risk section. The section gives company-wide geographic concentration in revenue from operations (Maharashtra: 96.97% in full Fiscal 2025), but it does not disclose top-five or top-ten customer concentration; therefore both customer fields are null.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

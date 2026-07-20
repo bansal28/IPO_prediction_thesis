@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Mangal Electrical Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows, counted the “Against” rows, and kept categories separate. Criminal proceedings against the Company, Directors, Promoters, Key Managerial Personnel and Senior Management are all NIL; statutory/regulatory proceedings against them are also NIL; tax proceedings against the Company are 3, while the 1 tax matter against the Directors is excluded because the note states it pertains personally to promoter/director Ashish Mangal. The quantified aggregate amount against the Company is ₹176.14 lakh, with no quantified subsidiary amount disclosed; this converts to ₹17.614 crore (₹176.14 lakh ÷ 100), excluding promoter/director personal litigation. The contingent-liabilities table is in ₹ lakhs and lists LC and BG amounts but provides no stated Total row, so no contingent-liabilities total is extracted; the latest date shown is March 31, 2025. The company-wide top-10-customer concentration is 49.94% for Fiscal 2025, measured against revenue from operations; the source unit for the litigation and contingent-liability tables is lakh, converted to crore using 100 lakh = 1 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 17.614,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 49.94
+}

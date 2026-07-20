@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Seshaasai Technologies Limited (formerly known as Seshaasai Business Forms Limited)",
+  "extraction_reasoning": "The litigation table lists only “Against the Company” criminal proceedings as Nil, “Against the Company” tax proceedings as 22, and no statutory/regulatory proceedings; the “By the Company,” directors’ and promoters’ rows are excluded, while director/promoter personal tax matters are excluded from the company-group tax count. The quantified amount against the company is ₹138.27 million; no separate subsidiary amount is disclosed, so this converts to ₹13.827 crore (138.27 ÷ 10). The contingent-liabilities table is dated March 31, 2025 and lists income-tax and indirect-tax amounts but does not state a Total row, so the contingent-liabilities total is not extracted under the stated-total rule. Top-five and top-ten customer concentration is company-wide for Fiscal 2025, measured as a percentage of revenue from operations: 49.12% and 65.77%, respectively. The source tables use ₹ million; monetary amounts reported in crore are converted at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 22,
+  "total_litigation_against_amount_cr": 13.827,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 49.12,
+  "top10_customer_revenue_pct": 65.77
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Waaree Energies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By our Company” (3 criminal, 1 civil, ₹321.97 million), “By our Subsidiaries” (1 criminal, ₹6.88 million), and other “By” rows, and counted only against rows. Criminal proceedings against were 1 against the Company, 1 against Directors, 1 against Promoters, and nil against Subsidiaries, while statutory/regulatory proceedings against were nil; tax proceedings against were 22 against the Company, 9 against Directors/Promoters in their personal capacity (excluded from the tax field), and 39 against Subsidiaries, so the company-and-subsidiaries tax count is 61. The quantified aggregate amount against the Company and Subsidiaries is ₹251.92 million plus ₹1.10 million = ₹253.02 million, or ₹25.302 crore, excluding promoter/director personal matters and all “By” rows. The contingent-liabilities figure is the explicitly stated total of ₹1,734.89 million as at June 30, 2024, equivalent to ₹173.489 crore, rather than a re-sum of the listed items. Company-wide customer concentration for the latest full fiscal year, Fiscal 2024, is 40.13% for the top five and 56.77% for the top ten, measured against revenue from operations; all source monetary tables use ₹ million, converted to crore by dividing by 100.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 61,
+  "total_litigation_against_amount_cr": 25.302,
+  "contingent_liabilities_total_cr": 173.489,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 40.13,
+  "top10_customer_revenue_pct": 56.77
+}

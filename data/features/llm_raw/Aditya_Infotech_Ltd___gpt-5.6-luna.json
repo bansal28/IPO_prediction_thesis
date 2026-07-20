@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aditya Infotech Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the “Against” rows, with criminal proceedings nil for the Company, subsidiaries, Directors, Promoters, KMPs and SMPs; statutory/regulatory proceedings nil throughout; and tax proceedings of 13 against the Company plus 2 against subsidiaries, excluding promoter/director tax matters and all “By” rows. The quantified aggregate amount against the Company and subsidiaries is ₹353.37 million plus ₹346.61 million, respectively, totaling ₹699.98 million, or ₹69.998 crore; this includes the quantified tax matters and excludes personal promoter/director matters. The contingent-liabilities table is dated March 31, 2025 and lists components but provides no stated Total row, so no total is extracted. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is 12.44% for the top five and 18.80% for the top ten, measured as a percentage of revenue from operations. Litigation and contingent-liability source tables use ₹ million; conversion is ₹ million ÷ 10 to crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 15,
+  "total_litigation_against_amount_cr": 69.998,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 12.44,
+  "top10_customer_revenue_pct": 18.8
+}

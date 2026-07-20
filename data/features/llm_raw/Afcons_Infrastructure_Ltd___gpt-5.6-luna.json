@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Afcons Infrastructure Limited",
+  "extraction_reasoning": "The litigation table separates matters filed By and Against each entity. I counted only Against rows: criminal proceedings are 12 against the Company, nil against subsidiaries, 6 against Directors, 6 against Promoters and nil against Group Companies, while statutory/regulatory proceedings are nil, nil, 3, 4 and nil respectively; tax proceedings for the Company and subsidiaries are 41 and nil, excluding promoter/director tax matters and all By rows. The quantified aggregate amount against the Company is ₹50,050.34 million and against subsidiaries is nil, giving ₹50,050.34 million, or ₹5,005.034 crore, for the consolidated group; the source unit is million. The contingent-liabilities table is as at June 30, 2024 and has no stated Total row, so the quantified line items were summed to ₹14,352.98 million, or ₹1,435.298 crore, excluding no listed quantified items; amounts described as not ascertainable are not included. The only concentration percentages for customers concern Order Book, not company-wide revenue from operations or total income, so top-five and top-ten customer revenue percentages are not disclosed; the source tables use ₹ million, converted to crore by dividing by 100.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 24,
+  "regulatory_actions_against_count": 7,
+  "tax_proceedings_against_count": 41,
+  "total_litigation_against_amount_cr": 5005.034,
+  "contingent_liabilities_total_cr": 1435.298,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

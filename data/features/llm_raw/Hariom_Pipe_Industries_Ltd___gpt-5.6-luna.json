@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table discloses only civil proceedings and tax proceedings; no criminal or statutory/regulatory enforcement rows are provided. Against the company, I counted 1 civil proceeding for ₹10.11 lakh and 3 direct-tax proceedings for ₹592.71 lakh; I excluded the 3 civil proceedings by the company, the company’s tax claims against authorities, and all promoter/director matters. Thus, the quantified amount against the company/group is ₹602.82 lakh, or ₹6.0282 crore, calculated as ₹10.11 lakh + ₹592.71 lakh; no subsidiaries are listed. The contingent-liabilities table states a Total of ₹602.00 lakh as of September 30, 2021, which converts to ₹6.02 crore and is used without re-summing. The top-10 customer concentration is company-wide revenue from operations for Fiscal 2021, the latest full fiscal year shown, at 60.74%; no company-wide top-five percentage is disclosed. The source monetary unit is ₹ lakh, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 6.0282,
+  "contingent_liabilities_total_cr": 6.02,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 60.74
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Adani Wilmar Limited",
+  "extraction_reasoning": "The litigation tables split matters into “against” and “by” rows: I counted only against rows for the company, directors and promoters, while excluding all by-company, by-promoter and by-subsidiary rows. Criminal proceedings against total 10 (company 2 + directors 5 + promoters 3); regulatory/statutory actions against total 152 (company 151 + promoters 1); tax proceedings against the company total 30 (direct tax 5 + indirect tax 25), with no against-tax row disclosed for subsidiaries. The quantified amount against the company and subsidiaries is based on the company’s against rows only: ₹100.00 million + ₹10.00 million civil matters + ₹71.53 million direct tax + ₹667.18 million indirect tax = ₹848.71 million, or ₹84.871 crore; amounts in excluded promoter/director or by-party rows were not included. The contingent-liabilities figure is the stated consolidated “Total” of ₹2,443.08 million as at March 31, 2021, converted to ₹244.308 crore without re-summing line items. The only concentration percentages disclosed are for the edible oil business segment, not company-wide top-five/top-ten customers; no company-wide customer concentration percentage or denominator is disclosed. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 100 (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 10,
+  "regulatory_actions_against_count": 152,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 84.871,
+  "contingent_liabilities_total_cr": 244.308,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

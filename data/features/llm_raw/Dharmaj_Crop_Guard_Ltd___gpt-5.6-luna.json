@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I excluded the Company’s 31 criminal and 2 civil matters filed by it, and counted only the Against our Company row (1 criminal, 1 statutory/regulatory, 2 civil; ₹69.79 million), with no against matters for directors and no criminal, regulatory or tax matters against promoters. Tax proceedings against the company and subsidiaries are nil, and there are no subsidiaries listed; the quantified group amount against the company/subsidiaries is therefore ₹69.79 million, excluding the promoter amount of ₹69.78 million and all By matters. The contingent-liabilities figure uses the explicitly stated total of ₹20.20 million as of July 31, 2022, not a re-sum of the table. The only company-wide customer concentration disclosed is top 10 customers’ 19.22% of total revenues from operations in Fiscal 2022; no company-wide top-five percentage is provided. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹69.79 million = ₹6.979 crore and ₹20.20 million = ₹2.02 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 6.979,
+  "contingent_liabilities_total_cr": 2.02,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 19.22
+}

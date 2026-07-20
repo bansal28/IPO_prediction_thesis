@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Studds Accessories Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the “Against” rows, namely criminal proceedings of 1 against the Company, 1 against Directors and 1 against Promoters; statutory/regulatory actions of 18, 2 and 2 respectively; and tax proceedings of 11 against the Company. The Subsidiary has nil proceedings, and all “By” rows were excluded; promoter/director tax matters were excluded from the tax count and personal quantified amounts were excluded from the aggregate amount. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹33.02 million as at September 30, 2024, converted to ₹3.302 crore; the quantified litigation amount against the Company and Subsidiary is the Company’s stated aggregate of ₹15.73 million, converted to ₹1.573 crore. The disclosed concentration percentages relate to distributors, suppliers, OEMs/government customers, products or segments rather than company-wide top-five/top-ten customers, so no customer concentration figure is extracted; the source monetary tables use ₹ million and conversion is by dividing million by 10 to obtain crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 22,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 1.573,
+  "contingent_liabilities_total_cr": 3.302,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

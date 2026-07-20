@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vishal Mega Mart Limited",
+  "extraction_reasoning": "The litigation table separates matters initiated by and against each entity: I counted only the “Against” rows, namely criminal proceedings of 1 against the Company, 7 against subsidiaries and 8 against directors (16 total); statutory/regulatory proceedings of 32 against the Company and 247 against subsidiaries (279 total, excluding the “By” rows); and tax proceedings of 16 against the Company and 33 against subsidiaries (49 total), excluding the 4 promoter tax matters because they are personal matters. The aggregate quantified amount against the Company and subsidiaries is the stated ₹59.65 million plus ₹398.57 million, or ₹458.22 million = ₹45.822 crore; this includes ₹7.84 million and ₹176.28 million of tax proceedings respectively, and excludes all “By” rows and promoter/director personal matters. The contingent-liabilities figure is the stated consolidated Total of ₹606.61 million as at September 30, 2024, converted to ₹60.661 crore; the Total row was used rather than summing line items. The only disclosed percentages concern state, product-brand, vendor, related-party and other segment or operational concentrations, not company-wide top-five or top-ten customers; disclosed revenue percentages use revenue from operations, with full fiscal-year periods shown, but no qualifying customer concentration percentage is provided. Litigation and contingent-liability tables use ₹ in millions; conversion is ₹1 million = ₹0.1 crore, so ₹458.22 million = ₹45.822 crore and ₹606.61 million = ₹60.661 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 16,
+  "regulatory_actions_against_count": 279,
+  "tax_proceedings_against_count": 49,
+  "total_litigation_against_amount_cr": 45.822,
+  "contingent_liabilities_total_cr": 60.661,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

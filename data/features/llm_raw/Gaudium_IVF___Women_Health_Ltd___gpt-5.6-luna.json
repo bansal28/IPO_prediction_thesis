@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Gaudium IVF and Women Health Limited",
+  "extraction_reasoning": "The litigation table separates matters filed By the entities from matters Against them: all criminal, statutory/regulatory and disciplinary columns are NIL, so criminal proceedings against all listed entities and regulatory actions against all listed entities are 0; the tax column shows 4 proceedings against the Company and 5 against the Promoters, but promoter-personal tax matters are excluded, leaving 4 tax proceedings against the Company and none against subsidiaries. For the aggregate amount against the Company and subsidiaries, the stated Against the Company amount of ₹3,859.73 lakhs is used; the Against Subsidiaries amount is NIL, and promoter amount of ₹456.96 lakhs and all By rows are excluded, giving ₹3,859.73 lakhs = ₹385.973 crore at 1 crore = 100 lakhs. The contingent-liabilities disclosure states a consolidated total of ₹3,091.03 lakhs, as of March 31, 2025, excluding interest and penalties; the stated total is used rather than summing components, giving ₹309.103 crore. No company-wide top-customer concentration percentage or revenue denominator is disclosed; the source monetary tables use lakhs, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 385.973,
+  "contingent_liabilities_total_cr": 309.103,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

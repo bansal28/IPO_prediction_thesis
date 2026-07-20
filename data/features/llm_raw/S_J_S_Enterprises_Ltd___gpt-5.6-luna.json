@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "S.J.S. Enterprises Limited",
+  "extraction_reasoning": "The litigation table separates matters against and by each entity: I counted only the against rows—material civil litigation and tax matters against the Company, tax matters against the Subsidiary, material civil litigation against Promoters, and material civil litigation against Directors—and excluded all by rows. Criminal and statutory/regulatory enforcement categories are not separately disclosed; tax proceedings against the Company and Subsidiary total 6 + 12 = 18. The quantified aggregate against the Company and Subsidiary is ₹12.33 million + ₹20.75 million + ₹0.95 million = ₹34.03 million, excluding promoter/director matters and all by matters, equal to ₹3.403 crore. Contingent liabilities are disclosed as at June 30, 2021 in a stated ₹million table without a Total row; therefore the listed amounts were summed: ₹0.10 million + ₹8.28 million + ₹20.40 million = ₹28.78 million, or ₹2.878 crore. The company-wide customer concentration figures use revenue from operations for Fiscal 2021, with top five customers at 62.66% and top ten customers at 87.33%; the source unit is ₹million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 18,
+  "total_litigation_against_amount_cr": 3.403,
+  "contingent_liabilities_total_cr": 2.878,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 62.66,
+  "top10_customer_revenue_pct": 87.33
+}

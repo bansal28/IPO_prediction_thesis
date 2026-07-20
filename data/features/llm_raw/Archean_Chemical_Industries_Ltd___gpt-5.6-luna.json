@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Archean Chemical Industries Limited",
+  "extraction_reasoning": "The litigation table reports, against the Company, 0 criminal proceedings, 11 tax proceedings, 0 statutory/regulatory proceedings, and 1 civil litigation; all “By” rows for the Company, Directors, Promoters and Subsidiary are excluded, while the subsidiary has nil matters against it. The stated aggregate amount involved against the Company is ₹185.77 million, including the quantified tax matters; promoter/director personal matters and “By” matters are not included, so this converts to ₹18.577 crore (185.77 ÷ 10). Contingent liabilities use the explicitly stated consolidated Total of ₹217.69 million as of June 30, 2022, the latest date shown, converting to ₹21.769 crore (217.69 ÷ 10) without re-summing line items. The customer concentration disclosure is company-wide and uses revenue from operations: for the most recent full fiscal year, Fiscal 2022, top 10 customers contributed 61.99%; no company-wide top-five percentage is disclosed. The source tables use ₹ million, converted to crore at ₹10 million per crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 18.577,
+  "contingent_liabilities_total_cr": 21.769,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 61.99
+}

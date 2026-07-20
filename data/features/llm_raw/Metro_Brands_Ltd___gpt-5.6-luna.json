@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Metro Brands Limited",
+  "extraction_reasoning": "The litigation table separates matters By versus Against: I counted only Against rows—criminal proceedings of 6 against the Company and 2 against Directors (8 total), statutory/regulatory proceedings of 58 against the Company (58 total), and tax proceedings of 12 against the Company; the 1 tax matter against Directors was excluded as a personal matter, and all By rows and promoter/subsidiary nil rows were excluded. The quantified aggregate amount against the Company is ₹140.62 million; the ₹0.22 million against Directors was excluded from the company-and-subsidiaries aggregate, resulting in ₹140.62 million = ₹14.062 crore. The contingent-liabilities table is as of September 30, 2021 and states amounts in ₹ million; no stated total row is shown, so the contingent-liability components (0.89 + 1.06 + 72.49 + 0.79 + 0.30 + 2.05) sum to ₹77.58 million = ₹7.758 crore, excluding the separate ₹56.96 million commitments amount. The disclosed percentages concern third-party brands, online sales, vendors, and related-party transactions—not company-wide top-five or top-ten customers as a percentage of revenue from operations for a full fiscal year—so both customer concentration fields are null.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": 58,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 14.062,
+  "contingent_liabilities_total_cr": 7.758,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

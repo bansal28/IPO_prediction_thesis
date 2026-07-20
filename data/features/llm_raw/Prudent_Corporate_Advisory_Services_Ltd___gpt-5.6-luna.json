@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Prudent Corporate Advisory Services Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction: I counted only the “Against” rows, excluding all “By” rows. Criminal proceedings against the company, directors, promoters and subsidiaries are Nil, 1 and 1 respectively, for 2 total; statutory/regulatory proceedings against the company and subsidiaries are Nil and 1, for 1 total; tax proceedings against the company and subsidiaries are 3 and 5, for 8 total, excluding promoter/director personal tax matters. The quantified aggregate amount against the company and subsidiaries is the stated against-row total of Rs. 4.17 million plus Rs. 57.13 million = Rs. 61.30 million, or Rs. 6.13 crore; the contingent-liabilities figure is the stated consolidated Total of Rs. 252.85 million as at December 31, 2021, converted to Rs. 25.285 crore. The concentration disclosure is for Fiscal 2021, a full fiscal year, and states that the top five AMCs accounted for 50.77% of total revenue from operations; it is company-wide rather than limited to a business segment. The source tables use millions of rupees, converted to crore by dividing by 10 (Rs. 61.30 million ÷ 10 = Rs. 6.13 crore; Rs. 252.85 million ÷ 10 = Rs. 25.285 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 6.13,
+  "contingent_liabilities_total_cr": 25.285,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 50.77,
+  "top10_customer_revenue_pct": null
+}

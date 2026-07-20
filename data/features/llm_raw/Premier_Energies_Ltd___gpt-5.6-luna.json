@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Premier Energies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the Against our Company, Against our Directors, Against our Promoters and Against our Subsidiaries rows. Criminal proceedings against all listed entities are Nil (0), statutory/regulatory actions against all listed entities are Nil (0), and tax proceedings against the company and subsidiaries are 10 and 1 respectively, totaling 11; the By rows were excluded. The quantified aggregate amount against the company and subsidiaries is ₹105.34 million plus ₹2.06 million, or ₹107.40 million = ₹10.74 crore; promoter/director personal matters and all By matters were excluded. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹32,554.69 million as of June 30, 2024, converted to ₹3,255.469 crore without re-summing; the source tables use ₹ million. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2024, is based on revenue from operations: top five customers were 43.41% and top ten customers were 67.03%.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 10.74,
+  "contingent_liabilities_total_cr": 3255.469,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 43.41,
+  "top10_customer_revenue_pct": 67.03
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aastha Spintex Limited",
+  "extraction_reasoning": "The litigation table separates By and Against matters and separately reports criminal, tax, and regulatory proceedings. I counted only Against rows: criminal proceedings are Nil for the Company, Promoters, Directors other than Promoters, Group Companies, and KMPs/SMPs, while the one criminal matter By Promoters was excluded; regulatory actions Against are Nil; tax proceedings Against the Company are 10, while the nine tax matters Against Promoters were excluded. The quantified aggregate against the Company and its subsidiaries is the Company Against amount of ₹38.03 lakhs; no subsidiary amount is separately disclosed, and promoter amounts and all By amounts are excluded. The contingent-liabilities figure is the stated Total of ₹239.31 lakhs as at December 31, 2025, not a re-sum. The company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is 51.66% for the top five and 59.94% for the top ten, measured against revenue from sale of products/revenue from operations; the separate 7 Seas figures were not used as customer concentration totals. Litigation and contingent-liability tables use lakhs, converted to crore by dividing by 100: ₹38.03 lakhs = ₹0.3803 crore and ₹239.31 lakhs = ₹2.3931 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 0.3803,
+  "contingent_liabilities_total_cr": 2.3931,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 51.66,
+  "top10_customer_revenue_pct": 59.94
+}

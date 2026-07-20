@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jyoti CNC Automation Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded the Company’s 1 criminal and 2 material civil matters filed by the Company, the nil matters by the Promoter, Directors and Subsidiaries, and counted only the Against rows. Against the Company there is 1 criminal proceeding, 23 tax proceedings, nil statutory/regulatory proceedings and ₹416.37 million quantified; against the Promoter there are 12 tax proceedings, which are excluded from the company-and-subsidiaries aggregate; against Subsidiaries there are nil criminal, tax and regulatory proceedings and ₹44.00 million of material civil litigation. The contingent-liabilities figure is the stated consolidated Total of ₹2,591.06 million as at September 30, 2023, not a re-sum of line items. The company-wide customer concentration for the latest full fiscal year, Fiscal 2023, is 16.14% for the top five and 20.08% for the top ten, measured against consolidated revenue from operations. The source tables use ₹ million; ₹416.37 million + ₹44.00 million = ₹460.37 million = ₹46.037 crore, and ₹2,591.06 million = ₹259.106 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 46.037,
+  "contingent_liabilities_total_cr": 259.106,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 16.14,
+  "top10_customer_revenue_pct": 20.08
+}

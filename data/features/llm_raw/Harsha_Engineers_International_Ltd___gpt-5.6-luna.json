@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Harsha Engineers International Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the “Against the Company,” “Against the Directors,” “Against the Promoters,” and “Against the Subsidiaries” rows. Criminal proceedings against total 2 (both against subsidiaries); statutory/regulatory proceedings against total 4 (3 against the Company and 1 against subsidiaries); and tax proceedings against the Company and subsidiaries total 10 (10 against the Company and nil against subsidiaries), excluding the directors’ personal tax matter and all “By” rows. The quantified aggregate amount against the Company and subsidiaries is not stated as a group total, so I summed ₹427.87 million against the Company and ₹117.02 million against subsidiaries, totaling ₹544.89 million, converted to ₹54.489 crore. The contingent-liabilities table is as of March 31, 2022 and has no stated total row; summing only the contingent-liability items, excluding the ₹116.05 million capital commitment, gives ₹789.22 million, converted to ₹78.922 crore. The only customer concentration percentage disclosed is for the engineering business segment rather than company-wide revenue, so the top-five fields are null; the source tables use ₹ million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 54.489,
+  "contingent_liabilities_total_cr": 78.922,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Mamata Machinery Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against our Company” row, which has 0 criminal, 9 tax and 0 statutory/regulatory proceedings; the “By our Company” row has 2 criminal matters and was excluded, as were promoter matters and all other “By” rows. The quantified aggregate amount against the company is ₹33.10 million; the promoter amount of ₹0.15 million is excluded because the aggregate amount field covers the company and subsidiaries only, giving ₹3.31 crore after conversion from million (₹33.10 million ÷ 10). The contingent-liabilities table is as at June 30, 2024 and lists ₹3.00 million and ₹16.67 million, but has no stated Total row, so the required total is not disclosed rather than re-summed. Company-wide top-customer concentration for the full Fiscal 2024 is based on revenue from operations: top five customers were 21.39% and top ten customers were 31.69%; these are not segment-only figures. Monetary tables use ₹ million, converted to crore at 10 million = 1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 3.31,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 21.39,
+  "top10_customer_revenue_pct": 31.69
+}

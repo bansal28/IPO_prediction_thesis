@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Arisinfra Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. For criminal proceedings against the listed entities, I counted Nil for the Company, directors and promoters, Nil for subsidiaries, and 1 against KMP/Senior Management, excluding all “By” rows; statutory/regulatory proceedings against the Company, promoters and subsidiaries total 3, while tax proceedings against the Company and subsidiaries total 3 + 3 = 6, excluding promoter-personal tax matters and all “By” rows. The quantified aggregate amount against the Company and subsidiaries is stated in the table as ₹35.12 million and ₹0.35 million, respectively; their sum is ₹35.47 million, converted to ₹3.547 crore at ₹10 million per crore. No contingent-liabilities table or total is disclosed in the provided risk section. Company-wide customer concentration is 34.27% for the top five and 45.24% for the top ten in Fiscal 2024, based on revenue from operations; these are the latest full-fiscal figures, rather than the nine-month figures. Litigation amounts and financial tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 3.547,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 34.27,
+  "top10_customer_revenue_pct": 45.24
+}

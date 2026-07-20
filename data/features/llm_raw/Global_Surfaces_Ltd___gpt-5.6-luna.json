@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Global Surfaces Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: all “By” rows are nil and excluded; the “Against the Company” row has 23 tax proceedings and INR 52.40 million, the “Against the Directors” row has 4 tax proceedings and INR 0.24 million, the “Against the Promoter” row has 7 tax proceedings and INR 38.85 million, while subsidiaries are nil; the separate Promoter Group entry shows 1 criminal proceeding. Accordingly, criminal proceedings against all listed entities are counted as 1, regulatory proceedings are 0, and tax proceedings against the company and subsidiaries are 23; the quantified aggregate against the company and subsidiaries is only INR 52.40 million, excluding promoter/director matters and all “By” rows. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹50.49 million as at September 30, 2022, rather than a re-sum; both monetary tables use million, converted to crore by dividing by 10, giving 5.24 crore for litigation and 5.049 crore for contingent liabilities. The customer concentration disclosure is company-wide and states top-10 customers as a percentage of revenues for Fiscal 2020, 2021, Fiscal 2022 and the period ended September 30, 2022; the most recent full fiscal year is Fiscal 2022 at 82.77%, while no top-5 figure is disclosed. The auditor disclosure describes emphasis of matter only, not a modified opinion, and no material going-concern uncertainty is mentioned.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 5.24,
+  "contingent_liabilities_total_cr": 5.049,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 82.77
+}

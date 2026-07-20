@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "CMS Info Systems Limited",
+  "extraction_reasoning": "The litigation table reports proceedings against the Company, subsidiaries, directors and promoter, with criminal counts of Nil in every against row, two statutory/regulatory proceedings against the Company, and taxation proceedings of 7 against the Company plus 1 against subsidiaries; there are no “By” rows, and promoter/director matters are excluded from the aggregate amount. For the Company and subsidiaries, the quantified against amounts are civil matters of ₹16.04 million and ₹279.33 million and taxation matters of ₹49.59 million and ₹1.64 million, respectively, totaling ₹346.60 million, or ₹34.66 crore; statutory/regulatory amounts are unquantified. The contingent-liabilities figure uses the explicitly stated consolidated Total of ₹61.68 million as of March 31, 2017, converted to ₹6.168 crore, rather than summing line items. Customer concentration is company-wide for Fiscal Year 2017 and measured against total revenue from operations: top five customers contributed 43.07% and top ten contributed 66.96%. The source tables use ₹ millions; conversion is 1 crore = ₹10 million, so million amounts were divided by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 34.66,
+  "contingent_liabilities_total_cr": 6.168,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 43.07,
+  "top10_customer_revenue_pct": 66.96
+}

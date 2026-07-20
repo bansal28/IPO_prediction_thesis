@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "No litigation summary table is provided: the text explicitly states no criminal charges under IPC and securities law against the promoters, directors and Company, while civil and tax matters are mentioned without counts or quantified amounts; no 'By' proceedings are disclosed, so criminal, regulatory and tax counts and the aggregate litigation amount are null. Contingent liabilities are disclosed on a standalone basis as of June 30, 2007 in Rs. lacs, with line items of Rs. 2.25 lacs and Rs. 2,200.00 lacs; because no stated Total row is provided, these are summed to Rs. 2,202.25 lacs, or Rs. 22.0225 crore. The only customer concentration disclosed is company-wide top 10 dealers contributing about 45% of sales during FY 2006-07; the text does not expressly identify sales as revenue from operations or total income, but it is a full-year company-wide figure. The source monetary unit is lacs/lakh, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": 22.0225,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 45.0
+}

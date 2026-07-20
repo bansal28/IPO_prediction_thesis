@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Juniper Hotels Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the against rows: criminal proceedings are 2 against the Company, 3 against Directors, 1 against Promoters and 1 against Subsidiaries, totaling 7; statutory/regulatory actions are 4 against the Company and nil for the other against rows, totaling 4; tax proceedings against the Company and Subsidiaries are 44 and 6, totaling 50, while promoter tax matters and all By rows were excluded. The quantified aggregate amount against the Company and Subsidiaries is ₹530.55 million plus ₹40.77 million, or ₹571.32 million = ₹57.132 crore; promoter and director amounts and By amounts were excluded. The contingent-liabilities table is dated September 30, 2023 and has no stated Total row, so its disclosed line items were summed: ₹44.63m + ₹86.13m + ₹16.14m + ₹8.90m + ₹47.18m + ₹61.37m + ₹16.41m = ₹280.76m = ₹28.076 crore. The only concentration percentage is segment/property concentration, not customer concentration; it is 90.13% for Fiscal 2023 and 90.48% for the six months ended September 30, 2023, calculated on revenue from operations for three hotels, so top-five and top-ten customer percentages are not disclosed. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 50,
+  "total_litigation_against_amount_cr": 57.132,
+  "contingent_liabilities_total_cr": 28.076,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

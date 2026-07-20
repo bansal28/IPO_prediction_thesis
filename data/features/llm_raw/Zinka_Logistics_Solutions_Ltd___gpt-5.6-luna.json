@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Zinka Logistics Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I excluded all “By our Company,” “By our Directors,” “By our Promoter” and “By Subsidiaries” rows, including the 69 Section 138 cases filed by the Company, and counted the “Against” rows across the Company, Directors, Promoter and Subsidiaries. Criminal proceedings against total 2 (Company 1 plus Directors 1); statutory/regulatory proceedings against total 0; tax proceedings against the Company and Subsidiaries total 10 (Company 10 plus Subsidiaries Nil), excluding the Promoter’s personal tax proceeding. The quantified amount against the Company and Subsidiaries is ₹8.13 million for the Company plus Nil for Subsidiaries, totaling ₹8.13 million; promoter and “By” amounts were excluded, and no explicit aggregate total row was stated. No contingent-liabilities total or going-concern uncertainty is disclosed; the auditor disclosures concern CARO observations and emphasis-of-matter paragraphs, not an explicitly modified opinion. The concentration percentages disclosed relate to offerings, partners, and revenue categories rather than company-wide top-five or top-ten customers, so those fields are null; the source monetary tables use ₹ million, converted to crore by dividing by 10 (₹8.13 million = ₹0.813 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 0.813,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

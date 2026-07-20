@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "NTPC Green Energy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the “Against our Company” and “Against our Subsidiaries” rows, excluding all “By” rows and excluding the Corporate Promoter and Directors from the issuer-group aggregate. Criminal proceedings against the Company and Subsidiaries total 0, statutory/regulatory actions total 3 against the Company and 0 against Subsidiaries, and tax proceedings total 0; the quantified amount against the group is ₹480.00 million for the Company plus Nil for Subsidiaries, or ₹48.00 crore after conversion at ₹10 million per crore. No contingent-liabilities table or going-concern uncertainty is disclosed in the provided risk section. The company-wide top-five concentration is 87.79% of revenue from operations for Fiscal 2024; no company-wide top-ten percentage is disclosed (the 97.63% figure is for the top nine offtakers). Monetary litigation tables use ₹ million, converted to crore by dividing by 10; no separate source unit is stated for contingent liabilities because that figure is not disclosed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 48.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 87.79,
+  "top10_customer_revenue_pct": null
+}

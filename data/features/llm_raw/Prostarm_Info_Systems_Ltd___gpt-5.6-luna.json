@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Prostarm Info Systems Limited",
+  "extraction_reasoning": "The litigation table reports no criminal proceedings against the Company, Directors, Promoters, Subsidiary, or KMPs/SMPs, while it reports 9 criminal proceedings by the Company; the 9 By-company matters were excluded. Regulatory/statutory actions against the Company total 2, with no such actions against the other listed entities, and tax proceedings against the Company and Subsidiary total 21 + 1 = 22; promoter and KMP/SMP tax matters were excluded. The quantified aggregate against the Company and Subsidiary is the table's Company tax amount of ₹2,645.85 lakhs plus Subsidiary tax amount of ₹0.43 lakhs, totaling ₹2,646.28 lakhs, or ₹26.4628 crore; the separate promoter and KMP/SMP amounts and all By matters were excluded. Contingent liabilities use the explicitly stated consolidated total of ₹2,575.60 lakhs as of December 31, 2024, converted to ₹25.756 crore, rather than summing line items. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2024, is based on revenue from operations: top five customers were 38.43% and top ten customers were 51.88%; the source monetary tables use ₹ lakhs, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 22,
+  "total_litigation_against_amount_cr": 26.4628,
+  "contingent_liabilities_total_cr": 25.756,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 38.43,
+  "top10_customer_revenue_pct": 51.88
+}

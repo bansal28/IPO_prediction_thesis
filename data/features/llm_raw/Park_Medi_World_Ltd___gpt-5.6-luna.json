@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Park Medi World Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows, giving criminal proceedings of 1 against the Company, 1 against Subsidiaries, 2 against Directors, 2 against Promoters, 2 against Key Management Personnel and 0 against Senior Management; statutory/regulatory proceedings of 1, 2, 1, 1, 1 and 0 respectively; and tax proceedings of 1 against the Company plus 22 against Subsidiaries, excluding all By rows and promoter/director tax matters from the tax count. For the aggregate quantified amount against the Company and Subsidiaries, I summed the disclosed Against amounts of ₹44.03 million and ₹1,300.91 million, totaling ₹1,344.94 million, or ₹134.494 crore; the table states these amounts are only to the extent ascertainable and quantifiable. The contingent-liabilities figure is derived from the disclosed September 30, 2025 Ind AS 37 amounts, using the stated tax total of ₹104.61 million plus GST demands of ₹1,119.01 million and ₹121.38 million, totaling ₹1,345.00 million or ₹134.50 crore, excluding the separately disclosed corporate guarantees. The concentration disclosures are not top-five or top-ten customer figures; the company-wide percentages disclosed relate to states, payors, specialties and related parties, so customer concentration is not disclosed. Litigation and contingent-liability tables use ₹ million; conversion to crore is by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 134.494,
+  "contingent_liabilities_total_cr": 134.5,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

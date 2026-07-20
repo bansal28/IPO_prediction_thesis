@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Brigade Hotel Ventures Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I excluded all “By” rows and counted only “Against” rows. Criminal proceedings against the company, subsidiary, promoter, directors, KMP and SMP total 0 + 0 + 2 + 1 + 1 + 0 = 4; statutory/regulatory proceedings against those entities total 9, all against the promoter; tax proceedings against the company and subsidiary total 11 + 2 = 13. The quantified litigation amount against the company and subsidiary is ₹381.01 million + ₹3.10 million = ₹384.11 million, excluding promoter/director/KMP matters and all “By” matters; converted at ₹10 million per crore to ₹38.411 crore. Contingent liabilities are disclosed as separate line items as of March 31, 2025, but no stated Total row is provided, so the total field is not extracted rather than re-summed. Concentration percentages shown are hotel/operator, location, F&B, corporate-customer, booking-channel or other segment/category percentages, not company-wide top-five or top-ten customer revenue percentages; the source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 13,
+  "total_litigation_against_amount_cr": 38.411,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

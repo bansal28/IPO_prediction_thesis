@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "BLS E-Services Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the “Against our Company” and “Against our Subsidiaries” rows for the requested group metrics, excluding all “By” rows and excluding promoter, director and group-company personal matters from the aggregate amount. Criminal proceedings against the company and subsidiaries are Nil (0), statutory/regulatory proceedings against them are Nil (0), and tax proceedings against them total 1 + 11 = 12; quantified group amounts are ₹310.15 lakh for the Company plus ₹458.13 lakh for Subsidiaries, totaling ₹768.28 lakh, or ₹7.6828 crore, excluding stated interest. The contingent-liabilities figure is the stated consolidated “Total” of ₹2,273.79 lakh as of September 30, 2023, converted to ₹22.7379 crore; it was not re-summed from line items. The disclosure gives a company-wide largest-customer concentration of 59.47% of revenue from operations for Fiscal 2023, but does not disclose top-five or top-ten customer percentages; the other percentages for BC and E-Governance are business-segment figures and are not used. Litigation and contingent-liability tables use ₹ lakhs, converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 7.6828,
+  "contingent_liabilities_total_cr": 22.7379,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

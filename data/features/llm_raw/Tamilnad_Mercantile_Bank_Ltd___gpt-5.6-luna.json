@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tamilnad Mercantile Bank Limited",
+  "extraction_reasoning": "The litigation table has separate Against and By rows: I counted only Against our Bank and Against our Directors, excluding By our Bank and By our Directors. Criminal proceedings are 1 against the Bank plus 1 against directors = 2; statutory/regulatory proceedings are 12 against the Bank plus 2 against directors = 14; tax proceedings against the Bank are 20, with no subsidiary row disclosed, while the aggregate amount is limited to the Bank's Against amount of ₹40,662.37 million and excludes the directors' ₹5.00 million and all By matters. The contingent-liabilities figure is the stated Total of ₹87,976.96 million as at March 31, 2022, not a re-sum of line items. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the disclosed percentages concern regional deposits, advances, customers or fee income, not customer concentration. The source tables use ₹ million, converted to crore by dividing by 10: ₹40,662.37 million = ₹4,066.237 crore and ₹87,976.96 million = ₹8,797.696 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 14,
+  "tax_proceedings_against_count": 20,
+  "total_litigation_against_amount_cr": 4066.237,
+  "contingent_liabilities_total_cr": 8797.696,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sansera Engineering Limited",
+  "extraction_reasoning": "The litigation summary contains only “Against our Company” and “Against Fitwel” rows; there are no “By” rows. No criminal category/table is disclosed, so criminal proceedings are null; statutory/regulatory actions against the company are 6 and against Fitwel are nil, while tax proceedings against the company are 7 direct plus 19 indirect and against Fitwel are 1 direct plus 1 indirect. The quantified group amount is summed from the against-company and against-subsidiary rows: ₹26.06 million regulatory + ₹46.49 million direct tax + ₹152.11 million indirect tax + ₹5.59 million subsidiary direct tax + ₹1.31 million subsidiary indirect tax = ₹231.56 million, or ₹23.156 crore; contingent liabilities use the stated Total of ₹92.33 million as at March 31, 2021, converted to ₹9.233 crore. The top-five concentration is company-wide revenue from sale of products for Fiscal 2021, using revenue from operations/sale of products as the denominator, at 59.21%; no company-wide top-ten percentage is disclosed, and segment-only figures would not qualify. The source tables use ₹ in million; conversion is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 28,
+  "total_litigation_against_amount_cr": 23.156,
+  "contingent_liabilities_total_cr": 9.233,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 59.21,
+  "top10_customer_revenue_pct": null
+}

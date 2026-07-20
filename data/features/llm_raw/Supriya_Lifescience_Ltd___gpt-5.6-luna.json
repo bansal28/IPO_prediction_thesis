@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table contains only “Proceedings against our Company” rows: Criminal 2, Regulatory 2, and Tax 1; there are no “By” rows, and no subsidiary, promoter, director, KMP or SMP rows to add. The quantified amount against the company is ₹35.36 million for regulatory matters plus ₹6.55 million for tax matters, totaling ₹41.91 million, or ₹4.191 crore; criminal matters are unquantified. The contingent-liabilities table states a Total of ₹16.16 million as at September 30, 2021, which converts to ₹1.616 crore; the stated Total is used rather than summing independently. Company-wide customer concentration for Fiscal 2021 is disclosed as top 10 customers contributing 40.10% of revenue from operations; no company-wide top-five customer percentage is disclosed, while the top-five API-product figure is not a customer concentration measure. The source unit is ₹ million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 4.191,
+  "contingent_liabilities_total_cr": 1.616,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 40.1
+}

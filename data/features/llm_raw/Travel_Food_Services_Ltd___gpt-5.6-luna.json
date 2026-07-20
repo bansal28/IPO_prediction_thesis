@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Travel Food Services Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, excluding all “By” rows; criminal proceedings are Nil across all listed entities, statutory/regulatory actions are 2 against the Company, 2 against Subsidiaries, 1 against Directors, 1 against Promoters and 2 against KMP/Senior Management, while tax proceedings counted for the Company and Subsidiaries are 41 + 5, excluding promoter/director personal tax matters. The quantified litigation amount against the consolidated Company and Subsidiaries is ₹1,047.76 million against the Company plus ₹26.45 million against Subsidiaries = ₹1,074.21 million, or ₹107.421 crore; amounts for other parties and all “By” rows are excluded. The contingent-liabilities table is dated March 31, 2025 and does not state a total row, so the quantified disclosed items were summed: ₹1.78 million income tax + ₹77.23 million interest claims + ₹2,654.12 million airport-authority bank guarantees + ₹1.30 million sales-tax-authority bank guarantees = ₹2,734.43 million, or ₹273.443 crore. The concentration percentages disclosed for top five and top ten brands are not customer/client concentrations, so customer fields are null; the disclosed revenue percentages elsewhere are segment or airport concentrations, not top-customer figures. The source tables use ₹ in millions; conversion to crore is by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 46,
+  "total_litigation_against_amount_cr": 107.421,
+  "contingent_liabilities_total_cr": 273.443,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

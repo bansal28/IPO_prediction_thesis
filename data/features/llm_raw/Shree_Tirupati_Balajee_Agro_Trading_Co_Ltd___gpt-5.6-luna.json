@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shree Tirupati Balajee Agro Trading Company Limited",
+  "extraction_reasoning": "The litigation table separates proceedings filed by and against each entity. For matters against the group, I counted 2 criminal proceedings: 1 against the Promoter and 1 against the Directors; the Company and Subsidiaries each show Nil. The table has no statutory/regulatory enforcement column, so regulatory actions are not disclosed; tax proceedings against the Company and Subsidiaries are 5 and 4 respectively, totaling 9, while all By rows and promoter personal amounts are excluded. The quantified litigation amount against the Company and Subsidiaries is ₹49.61 lakhs plus ₹69.90 lakhs, totaling ₹119.51 lakhs, converted to ₹11.951 crore at 100 lakhs per crore. The contingent-liabilities figure uses the explicitly stated Total of ₹9,553.90 lakhs as at March 31, 2024, converted to ₹95.539 crore. Company-wide customer concentration for the most recent full fiscal year, FY 2024, is 32.23% for the top five and 46.20% for the top ten, calculated as a percentage of revenue from operations; the source tables use ₹ lakhs.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 11.951,
+  "contingent_liabilities_total_cr": 95.539,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 32.23,
+  "top10_customer_revenue_pct": 46.2
+}

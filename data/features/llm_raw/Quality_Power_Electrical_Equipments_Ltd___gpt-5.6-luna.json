@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Quality Power Electrical Equipments Limited",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows: all criminal, tax and statutory/regulatory proceedings are Nil in the Against Company, Against Directors, Against Promoters and Against Subsidiaries rows, while the By rows are excluded; the only quantified matter against the Company is one material civil litigation of ₹127.50 million, with no quantified amount against Subsidiaries, so the group aggregate is ₹127.50 million. The contingent-liabilities table states a Total of ₹1,100.38 million as of September 30, 2024; this stated Total is used rather than re-summing line items. Company-wide customer concentration is reported as a percentage of total revenue from operations: for the most recent full fiscal year, Fiscal 2024, top five customers contributed 39.62% and top ten customers contributed 58.17%. The source monetary tables use ₹ million; ₹127.50 million converts to ₹12.75 crore and ₹1,100.38 million converts to ₹110.038 crore by dividing by 100.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 12.75,
+  "contingent_liabilities_total_cr": 110.038,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 39.62,
+  "top10_customer_revenue_pct": 58.17
+}

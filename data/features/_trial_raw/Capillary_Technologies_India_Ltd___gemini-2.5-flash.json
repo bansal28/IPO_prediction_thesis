@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Capillary Technologies India Limited",
+  "extraction_reasoning": "Litigation data was extracted from Risk Factor 21. For criminal cases, only the 4 cases against directors were counted. For regulatory actions, the 2 cases against the company were counted. For tax proceedings, 6 cases against the company and 5 cases against subsidiaries were counted. The total aggregate amount for litigation against the company and subsidiaries, including tax proceedings, sums to ₹354.91 million (Company) + ₹11.33 million (Subsidiaries) = ₹366.24 million. Contingent liabilities were identified in Risk Factor 37 as 'Bank guarantees outstanding' of ₹3.91 million as of September 30, 2025. Customer concentration figures are for Fiscal 2025, presented as a percentage of 'Revenue from Operations' and are company-wide. The source currency unit is 'million' for monetary values, which were converted to 'crore' by dividing by 10. The auditor report status is 'caro_or_emphasis_of_matter_only' as the auditors included qualifications related to 'other legal and regulatory requirements' rather than a modified opinion on the financial statements themselves.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 36.624,
+  "contingent_liabilities_total_cr": 0.391,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 43.35,
+  "top10_customer_revenue_pct": 58.71
+}

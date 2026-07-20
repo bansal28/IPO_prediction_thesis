@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Exicom Tele-Systems Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against” rows, with criminal proceedings of 0 (company, subsidiaries, directors and promoters), statutory/regulatory actions of 1 against the Company only, and tax proceedings of 7 against the Company only; all “By” rows were excluded. The quantified aggregate against the Company and Subsidiaries is ₹26.48 million against the Company plus ₹174.60 million against Subsidiaries, totaling ₹201.08 million, converted at ₹10 million per crore to ₹20.108 crore; promoter/director matters and “By” matters were excluded. The contingent-liabilities table is dated September 30, 2023, but provides line items without a stated Total row, so no contingent-liabilities total is extracted under the stated-total rule. The only customer concentration disclosure is for the Critical Power Business segment, not company-wide, so top-five and top-ten company-wide percentages are null; the disclosed segment percentages use revenue from operations and the latest full fiscal year is Financial Year 2023. The source monetary unit is ₹ million; conversion to crore is by dividing million figures by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 20.108,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "group_or_subsidiary_only",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

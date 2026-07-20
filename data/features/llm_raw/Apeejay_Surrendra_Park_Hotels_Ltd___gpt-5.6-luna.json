@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Apeejay Surrendra Park Hotels Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each party: I counted only the against rows, namely criminal proceedings of 4 against the Company plus 1 against Directors, statutory/regulatory proceedings of 6 against the Company, and tax proceedings of 36 against the Company plus 1 against Subsidiaries; all By rows and promoter personal matters were excluded. The aggregate quantified amount against the Company and Subsidiaries is the stated table amount of ₹1,250.97 million plus ₹0.30 million, or ₹1,251.27 million = ₹125.127 crore; the source contingent-liabilities table is in ₹ million and its latest stated total as at September 30, 2023 is ₹902.20 million = ₹90.22 crore, using the disclosed line items because no Total row is shown. The concentration disclosures are for top five owned hotels, not top five customers, and therefore company-wide customer concentration percentages are not disclosed; the hotel concentration uses Fiscal 2023 total income and is not used for the customer fields. Monetary tables use ₹ million; conversion to crore is by dividing by 10 because ₹10 million equals ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 37,
+  "total_litigation_against_amount_cr": 125.127,
+  "contingent_liabilities_total_cr": 90.22,
+  "going_concern_status": "issuer_material_uncertainty",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

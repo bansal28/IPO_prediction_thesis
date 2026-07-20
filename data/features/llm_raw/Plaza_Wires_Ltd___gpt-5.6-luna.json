@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against the parties: I counted the one criminal proceeding against the Company, the one statutory/regulatory proceeding against the Directors, and no tax proceedings against the Company or Group Companies; all \"By\" rows were excluded, and the nil Group Company litigation-against row was not counted. The quantified amount against the Company is ₹1.16 million, which converts to ₹0.116 crore; the Group Companies' litigation-against amount is explicitly NIL, so the aggregate against the Company and subsidiaries is ₹0.116 crore. The contingent-liabilities table is dated March 31, 2023 and has no stated Total row; summing the quantified items, ₹2.67 million plus ₹19.64 million, gives ₹22.31 million, or ₹2.231 crore, excluding the NIL claim item. The only disclosed percentages concern geographic regions, raw materials, products, and suppliers, not company-wide top-five or top-ten customer revenue concentration; the source monetary tables use ₹ in millions, converted using 1 crore = 10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.116,
+  "contingent_liabilities_total_cr": 2.231,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

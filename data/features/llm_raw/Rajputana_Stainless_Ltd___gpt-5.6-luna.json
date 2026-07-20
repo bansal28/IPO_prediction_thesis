@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rajputana Stainless Limited",
+  "extraction_reasoning": "The litigation table reports criminal proceedings against the Company, Directors, Promoters, and KMPs/SMPs as Nil, while criminal proceedings by the Company are 1 and are excluded; statutory/regulatory actions against all listed entities are Nil, and no by-row is counted. Tax proceedings against the Company are 18 with ₹4,454.98 lakhs; the tax matters against a Director and KMP/SMP are personal matters and excluded, as are all by matters. The quantified aggregate against the Company and its subsidiaries is therefore ₹8,381.79 lakhs of material civil litigation against the Company plus ₹4,454.98 lakhs of tax proceedings against the Company, totalling ₹12,836.77 lakhs, or ₹128.3677 crore; the stated contingent-liabilities Total is ₹12,082.46 lakhs as of September 30, 2025, or ₹120.8246 crore, used without re-summing. The company-wide top-customer concentration for the most recent full fiscal year, Fiscal 2025, is 29.91% for the top five and 41.69% for the top ten, each measured against revenue from operations. Litigation and contingent-liability tables use ₹ lakhs, converted to crore by dividing by 100 (1 crore = 100 lakhs).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 18,
+  "total_litigation_against_amount_cr": 128.3677,
+  "contingent_liabilities_total_cr": 120.8246,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 29.91,
+  "top10_customer_revenue_pct": 41.69
+}

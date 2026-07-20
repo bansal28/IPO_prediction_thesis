@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Indian Renewable Energy Development Agency Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against the Company: I counted only the Against our Company row—35 criminal, Nil tax, 4 statutory/regulatory and 6 material civil matters—and the Against the Directors row, which is Nil throughout; all By our Company matters (395 criminal, 15 tax and 39 civil) were excluded. The quantified amount against the Company is explicitly ₹841.13 million, comprising ₹840.87 million of criminal proceedings and ₹0.26 million of statutory/regulatory proceedings; the six civil matters are unquantified, so the converted aggregate is ₹84.113 crore, with no quantified subsidiary matters disclosed. The contingent-liabilities table has no stated Total row, so I summed the quantified September 30, 2023 components—₹2,236.63 million income tax, ₹2,376.94 million service tax/GST, ₹39.93 million other claims, ₹2,246.53 million guarantees and ₹4,096.32 million letters of comfort/payment instruments—excluding the undeterminable property-tax item; this equals ₹10,996.35 million or ₹1,099.635 crore. The only concentration percentages relating to customers are loan-exposure percentages, not company-wide customer revenue percentages; the Project revenue percentages are segment-level, so both revenue concentration fields are null. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 35,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 84.113,
+  "contingent_liabilities_total_cr": 1099.635,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

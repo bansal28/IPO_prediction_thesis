@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Allied Blenders and Distillers Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I counted only the Against rows—criminal proceedings of 1 against the Company, 2 against Directors, 1 against Promoters and nil against Subsidiaries; statutory/regulatory proceedings of 42, 2, 1 and nil respectively; and tax proceedings of 70 against the Company plus 21 against Subsidiaries. For the group litigation amount, I used the stated aggregate amounts in the Against rows for the Company and Subsidiaries only: ₹1,297.31 million + ₹0.52 million = ₹1,297.83 million, excluding all By rows and personal promoter/director matters; this converts to ₹129.783 crore. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹1,555.44 million as at August 31, 2023, converted to ₹155.544 crore; the Provident Fund item marked Not ascertainable was not separately added. The concentration disclosures provide only top-two customer percentages, not top-five or top-ten company-wide percentages; the disclosed percentages use revenue from contracts with customer—sale of goods (IMFL), and the latest full fiscal period is Fiscal 2023. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 45,
+  "tax_proceedings_against_count": 91,
+  "total_litigation_against_amount_cr": 129.783,
+  "contingent_liabilities_total_cr": 155.544,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

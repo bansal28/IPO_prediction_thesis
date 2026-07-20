@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "SRM Contractors Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: against the company are 3 criminal cases, 0 statutory/regulatory actions, 9 direct and indirect tax proceedings, and 10 material civil cases of ₹1,675.89 lakhs; all “by” rows were excluded, as were promoter/director and joint-venture matters from the company-and-subsidiaries aggregate. Criminal proceedings against all listed entities total 3, regulatory actions against all listed entities are Nil (0), and tax proceedings against the company and subsidiaries total 9. The quantified aggregate against the company and subsidiaries is therefore ₹1,725.37 lakhs, comprising ₹1,675.89 lakhs of civil litigation against the company plus ₹49.48 lakhs of tax proceedings against the company; converted from lakhs to crore by dividing by 100, this is ₹17.2537 crore. The contingent-liabilities table uses ₹ lakhs and shows ₹6,594.91 lakhs of bank guarantees as of December 31, 2023, converted to ₹65.9491 crore; no separate stated total row is shown, so this disclosed contingent-liabilities amount is used. The company-wide customer concentration percentages use revenue from operations for the latest full fiscal year, FY 2022-23: top five customers 71.66% and top ten customers 92.00%.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 17.2537,
+  "contingent_liabilities_total_cr": 65.9491,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 71.66,
+  "top10_customer_revenue_pct": 92.0
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Global Health Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows, namely criminal proceedings against the Company (3), Directors (14), Promoter (1) and Subsidiaries (Nil), statutory/regulatory proceedings against the Company (15), Directors (1), Promoter (Nil) and Subsidiaries (4), and tax proceedings against the Company (5) and Subsidiaries (Nil); “By” rows and promoter/director personal tax matters were excluded from the tax count. For the aggregate quantified amount against the Company and Subsidiaries, I used the Company’s “Against the Company” amount of ₹1,461.47 million plus nil for subsidiaries, excluding all “By” rows and personal promoter/director matters, converting this to ₹146.147 crore. The contingent-liabilities table is stated as of June 30, 2022 and has no explicit Total row, so I summed income-tax matters of ₹217.75 million and other cases of ₹20.73 million to ₹238.48 million, or ₹23.848 crore. The only percentages resembling concentration disclosures relate to international patients and inpatient revenue, not company-wide top-five or top-ten customers; therefore those fields are not disclosed. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 18,
+  "regulatory_actions_against_count": 20,
+  "tax_proceedings_against_count": 5,
+  "total_litigation_against_amount_cr": 146.147,
+  "contingent_liabilities_total_cr": 23.848,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

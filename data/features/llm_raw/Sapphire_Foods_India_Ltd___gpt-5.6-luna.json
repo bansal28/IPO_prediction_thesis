@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sapphire Foods India Limited",
+  "extraction_reasoning": "The litigation table separates matters against the Company, by the Company, involving subsidiaries, directors and promoters. I counted the against rows only: criminal proceedings are 7 against the Company plus 2 involving Directors, while regulatory/statutory actions are 24 against the Company plus 2 involving Directors; tax proceedings are 75 against the Company plus 4 involving subsidiaries, excluding all 'by our Company' rows and excluding director tax matters. For the aggregate quantified amount against the Company and subsidiaries, I used the stated Total rows of ₹342.44 million for the Company and ₹108.56 million for subsidiaries, for ₹451.00 million in total; the director amount of ₹75 million was excluded. Contingent liabilities use the stated consolidated Total of ₹243.22 million as of June 30, 2021, rather than re-summing the line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the stated percentages elsewhere relate to other expense or delivery-aggregator metrics, not customer concentration. The source tables use ₹ million, converted to crore by dividing by 10: ₹451.00 million = ₹45.10 crore and ₹243.22 million = ₹24.322 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 9,
+  "regulatory_actions_against_count": 26,
+  "tax_proceedings_against_count": 79,
+  "total_litigation_against_amount_cr": 45.1,
+  "contingent_liabilities_total_cr": 24.322,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

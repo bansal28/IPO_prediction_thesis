@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Electronics Mart India Limited",
+  "extraction_reasoning": "The litigation table separates cases against the Company, by the Company, against subsidiaries, by subsidiaries, against Promoters and against Directors. I counted only the against rows: criminal proceedings are NIL for all listed entities (0); statutory/regulatory actions are 2 against the Company, NIL against subsidiaries, 1 against Promoters and 1 against Directors (4 total); tax proceedings are 4 against the Company and NIL against subsidiaries (4 total), excluding all by rows and promoter/director personal tax matters. The quantified aggregate against the Company and subsidiaries is the stated Company total of ₹967.85 million, comprising ₹842.14 million of regulatory actions, ₹123.71 million of direct and indirect tax claims and ₹2.00 million of other pending material litigation; converted at ₹10 million per crore, this is ₹96.785 crore. Contingent liabilities use the stated total/current table amount of ₹13.24 million as at June 30, 2022, converted to ₹1.324 crore. The only customer-related concentration figures are not disclosed: the 61.52% Fiscal 2022 figure concerns the top five product brands, not customers, while the top-ten supplier percentages concern purchases; therefore no company-wide customer revenue concentration is extracted. All monetary tables use ₹ in million, and the conversion applied is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 96.785,
+  "contingent_liabilities_total_cr": 1.324,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

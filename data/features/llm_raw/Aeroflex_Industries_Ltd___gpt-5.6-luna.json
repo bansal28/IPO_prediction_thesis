@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aeroflex Industries Limited",
+  "extraction_reasoning": "The only litigation table shown is titled “Litigations against our Promoter” and reports promoter matters only: criminal Nil, direct tax Nil, indirect tax 1 matter of ₹22.63 million, regulatory actions Nil, and material civil litigations Nil; the promoter tax matter is excluded from company/subsidiary counts and amounts, and no company/subsidiary litigation summary table is provided. The separate SEBI adjudication proceeding against the Company is described narratively as disposed, but no litigation-summary table count is provided for it, so the table-based litigation fields are not populated. No contingent-liabilities table or stated total, date, going-concern uncertainty, or statutory auditor report status appears in the supplied risk section. The top-five customer concentration is company-wide and is 24.10% of revenue from operations for the full fiscal year ended March 31, 2023; no top-ten customer percentage is disclosed. Monetary litigation tables use ₹ million; no litigation amount is included for the issuer/group, so no conversion to crore is applied (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 24.1,
+  "top10_customer_revenue_pct": null
+}

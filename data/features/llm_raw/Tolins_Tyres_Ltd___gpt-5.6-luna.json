@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tolins Tyres Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: I counted only the “Against the Company” and “Against Subsidiaries” rows for criminal, tax and statutory/regulatory proceedings, all of which are Nil; the “By the Company” row and promoter matters, including the promoter tax matter and ₹1.20 million civil litigation, were excluded. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹148.69 million as of March 31, 2024, rather than a re-sum; ₹148.69 million ÷ 10 = ₹14.869 crore. The section provides no company-wide top-five or top-ten customer concentration percentage; the disclosed percentages relate to suppliers, purchases, products, geographies or other segments and therefore were not used. Litigation and contingent-liability tables use ₹ in million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": 14.869,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

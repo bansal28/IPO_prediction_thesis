@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ecos (India) Mobility & Hospitality Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each party: I counted only the Against Company, Against Directors, Against Promoters and Against the Subsidiaries rows. Criminal proceedings against are 4 against the Company, nil against Directors, 1 against Promoters and nil against Subsidiaries; statutory/regulatory proceedings against are nil in all those rows; tax proceedings against the Company and Subsidiaries are 15 and 2 respectively, excluding the 9 tax proceedings against Promoters and all By rows. The aggregate quantified amount against the Company and Subsidiaries is ₹77.86 million plus ₹5.65 million = ₹83.51 million, or ₹8.351 crore; the table is stated as of the date of the Red Herring Prospectus, and no contingent-liabilities total is disclosed. The top-five and top-ten customer concentrations are company-wide Fiscal 2024 figures measured as percentages of total revenue from operations: 22.55% and 32.84%, respectively. The litigation table and related financial tables use ₹ million; conversion to crore is by dividing by 10 (₹83.51 million ÷ 10 = ₹8.351 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 17,
+  "total_litigation_against_amount_cr": 8.351,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 22.55,
+  "top10_customer_revenue_pct": 32.84
+}

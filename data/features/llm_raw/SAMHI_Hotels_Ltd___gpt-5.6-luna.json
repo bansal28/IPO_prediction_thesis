@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "SAMHI Hotels Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: against the Company are 0 criminal, 4 tax and 1 statutory/regulatory proceedings; against Subsidiaries are 2 criminal, 43 tax and 6 statutory/regulatory proceedings. I counted only these against rows, excluding the Company’s 1 material civil matter filed by the Company and the Subsidiaries’ 1 criminal and 1 material civil matters filed by them; accordingly, against-group quantified amounts are ₹5.56 million for the Company plus ₹911.48 million for Subsidiaries, totaling ₹917.04 million, or ₹91.704 crore. The contingent-liabilities table is dated March 31, 2023 and has no stated Total row, so the disclosed line items of ₹113.52 million, ₹90.72 million, ₹26.50 million and ₹45.00 million were summed to ₹275.74 million, or ₹27.574 crore. The only customer-related concentration percentage is not disclosed; the percentages shown are hotel/operator, hotel, city and acquired-hotel concentrations, not company-wide top-five or top-ten customer revenue, and the stated revenue denominators are revenue from operations or Total Income for FY2023. Monetary tables use ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 7,
+  "tax_proceedings_against_count": 47,
+  "total_litigation_against_amount_cr": 91.704,
+  "contingent_liabilities_total_cr": 27.574,
+  "going_concern_status": "issuer_material_uncertainty",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

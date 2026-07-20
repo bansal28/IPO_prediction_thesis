@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Mrs. Bectors Food Specialities Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. I counted only the Against rows: criminal proceedings are 2 against the Company, 1 against the Directors, 1 against the Promoter and nil against subsidiaries, while statutory/regulatory proceedings are 7 against the Company and nil against the other listed entities; tax proceedings against the Company and subsidiaries are 20 and nil respectively, excluding promoter/director personal tax matters and all By rows. The aggregate quantified amount against the Company and subsidiaries is ₹73.26 million for the Company plus nil for subsidiaries, or ₹7.326 crore; promoter/director amounts and By amounts are excluded. Contingent liabilities are disclosed as of September 30, 2020 in ₹ million without a stated Total row, so the listed amounts of 31.03, 3.89, 9.10, 0.41, 10.48 and 71.78 million were summed to ₹126.69 million, or ₹12.669 crore. The only concentration percentages disclosed concern business segments or products, not company-wide top-five/top-ten customers; the 24.51% foreign-currency-linked revenue figure is not customer concentration. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 7,
+  "tax_proceedings_against_count": 20,
+  "total_litigation_against_amount_cr": 7.326,
+  "contingent_liabilities_total_cr": 12.669,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

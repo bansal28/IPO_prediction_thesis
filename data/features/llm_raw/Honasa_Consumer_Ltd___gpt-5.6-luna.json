@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Honasa Consumer Limited",
+  "extraction_reasoning": "The litigation table separates matters initiated by versus against each entity: I counted only the “Against” rows, with criminal proceedings nil for the Company, Directors, Promoters and Subsidiaries; statutory/regulatory proceedings nil across those rows; and tax proceedings of 2 against the Company plus 2 against the Subsidiaries, excluding all “By” rows and promoter personal matters. For the aggregate amount against the consolidated group, I used the Company amount of ₹1,007.38 million plus the Subsidiaries amount of ₹1,010.08 million, totaling ₹2,017.46 million, or ₹201.746 crore; the source table is in ₹ million and the conversion is million ÷ 10. The contingent-liabilities table is dated June 30, 2023 and lists ₹201.99 million of bank guarantees and ₹8.83 million of disputed statutory demands but provides no stated Total row, so the total field is not extracted under the stated rule. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the percentages shown concern top products or business channels, not customers. The auditor disclosures mention an internal-financial-controls disclaimer and an emphasis-of-matter/CARO qualification, but no modified opinion on the financial statements themselves; going concern is not mentioned.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 201.746,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "WeWork India Management Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the Against rows, giving criminal counts of 1 against the Company, 6 against Directors, 0 against Subsidiaries, 7 against Promoters, and 0 against KMPs and Senior Management; the By rows were excluded. Regulatory actions against the group were 1 against the Company and nil for the other listed entities, while tax proceedings against the Company and Subsidiaries were 23 and nil, respectively; promoter tax matters were excluded from the tax count. The quantified aggregate amount against the Company was ₹1,748.88 million, with nil against Subsidiaries, totaling ₹1,748.88 million, or ₹174.888 crore; promoter and director amounts and all By amounts were excluded. No contingent-liabilities total is stated in the provided risk section, only references to other sections. The customer concentration disclosed is company-wide Net Membership Fees, not revenue from operations: top 10 clients contributed 24.01% in Fiscal 2025, while no top-five percentage is provided; the litigation source unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 14,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 174.888,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 24.01
+}

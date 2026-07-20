@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sona BLW Precision Forgings Limited",
+  "extraction_reasoning": "The litigation table reports only direct and indirect tax proceedings against the Company (4 and 2), against Comstar Automotive (9 and 1), and involving Comstar Automotive Technology Services Private Limited (1), for 17 tax proceedings in total; there are no criminal or statutory/regulatory enforcement rows, and the 2 material civil proceedings by the Company are excluded as “By” matters, as are the 2 personal direct-tax proceedings against a Director. The quantified aggregate against the Company and subsidiaries is ₹88.28 million + ₹15.32 million + ₹178.56 million + ₹281.97 million + ₹0.15 million = ₹564.28 million, or ₹56.428 crore; the Director amount and the Company’s ₹39.5 million proceedings by the Company are excluded. Contingent liabilities use the explicitly stated total of ₹101.35 million as of March 31, 2021, converted to ₹10.135 crore, rather than summing line items. The company-wide customer concentration is 79.6% of total income from sale of goods for Fiscal 2021 for the top ten customers; no company-wide top-five percentage is disclosed, while other concentration figures relate to geographic markets or segments. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 17,
+  "total_litigation_against_amount_cr": 56.428,
+  "contingent_liabilities_total_cr": 10.135,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 79.6
+}

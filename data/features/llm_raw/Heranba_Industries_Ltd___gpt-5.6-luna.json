@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Heranba Industries Limited",
+  "extraction_reasoning": "The litigation tables disclose matters against the Company, promoters/directors and Group Companies, with no “By” rows. I counted the 8 criminal cases against Shakti Bio Science Limited; the Company’s 1 direct-tax and 6 indirect-tax cases are tax proceedings, while the 1 direct-tax matter against a promoter/director is excluded from the company/subsidiary tax count; no separate statutory/regulatory enforcement category is disclosed. The aggregate quantified amount against the Company is 9.66 + 190.49 + 1,851.22 lakhs = 2,051.37 lakhs, or 20.5137 crore; promoter/director and Group Company amounts are excluded. Contingent liabilities are disclosed as at March 31, 2018 in lakhs, with no stated Total row, so the listed components were summed: 427.84 + 1,851.22 + 190.49 + 0.00 + 1,473.02 + 789.22 = 4,731.79 lakhs = 47.3179 crore. No company-wide top-five or top-ten customer concentration percentage, going-concern statement, or statutory auditor opinion status is disclosed; all lakh amounts were converted to crore by dividing by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 8,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 20.5137,
+  "contingent_liabilities_total_cr": 47.3179,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

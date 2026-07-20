@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Inox Green Energy Services Limited",
+  "extraction_reasoning": "The litigation table separates matters against and by: I counted criminal proceedings against the Company (16), Promoter (26), and listed Directors (7+7+13+15+16+9), excluding all “By” rows; statutory/regulatory actions against the Company (17), Promoter (2), and Director (2) total 21, while tax proceedings counted only for the Company and subsidiaries are 12, excluding the Promoter’s 32 tax matters. For the Company and subsidiaries, the quantified against amounts are ₹2,854.31 million civil, ₹277.94 million tax, ₹32.50 million criminal, and ₹2.18 million statutory/regulatory, totaling ₹3,166.93 million, or ₹316.693 crore; the ₹2,368.48 million figure is separately stated as contingent liabilities relating to outstanding litigation. The contingent-liabilities amount uses the stated Total row of ₹2,368.48 million as of June 30, 2022, equivalent to ₹236.848 crore, without re-summing line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the only percentage concentration shown is for top five suppliers and relates to O&M/common-infrastructure maintenance expenses, not customer revenue. The source tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 115,
+  "regulatory_actions_against_count": 21,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 316.693,
+  "contingent_liabilities_total_cr": 236.848,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Emcure Pharmaceuticals Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the against rows—criminal proceedings of 1 against the Company, 7 against Directors, 3 against Promoters and 2 against Subsidiaries; statutory/regulatory actions of 5, 5, 5 and 1 respectively; and tax matters of 36 against the Company plus 42 against Subsidiaries. For the aggregate amount against the Company and Subsidiaries, I used the stated against-row totals of ₹2,146.87 million and ₹1,368.29 million, respectively, excluding all By rows and personal Director/Promoter amounts; this totals ₹3,515.16 million, or ₹351.516 crore. The contingent-liabilities figure is the stated consolidated Total of ₹2,855.05 million as at March 31, 2024, not a re-sum of line items, equal to ₹285.505 crore. No company-wide top-five or top-ten customer concentration percentage is disclosed; the disclosed percentages concern distributors, suppliers, therapeutic areas or other segments, not customers company-wide. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 13,
+  "regulatory_actions_against_count": 16,
+  "tax_proceedings_against_count": 78,
+  "total_litigation_against_amount_cr": 351.516,
+  "contingent_liabilities_total_cr": 285.505,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Jaro Institute of Technology Management and Research Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: all criminal cells in the Against rows are Nil, statutory/regulatory cells in the Against rows are Nil, and the Company has 2 tax proceedings against it; the Promoters have 4 tax proceedings, but promoter-personal tax matters are excluded from the company/group tax count and aggregate. The quantified amount against the Company is ₹97.25 million, comprising the Company’s 2 tax proceedings and 1 material civil proceeding; no subsidiary row is disclosed, and all By rows are excluded. The contingent-liabilities disclosure is as at March 31, 2025 and has no stated Total row, so the quantified components were summed: GST ₹9.04 million + Service Tax ₹16.46 million + the Bennet, Coleman civil claim ₹71.75 million = ₹97.25 million, converted from million to crore by dividing by 10. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2025, is 62.40% for the top 5 and 81.38% for the top 10, measured as a percentage of revenue from operations. The source monetary tables use ₹ million; ₹1 million equals ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 9.725,
+  "contingent_liabilities_total_cr": 9.725,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 62.4,
+  "top10_customer_revenue_pct": 81.38
+}

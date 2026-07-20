@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "ACME Solar Holdings Limited",
+  "extraction_reasoning": "The litigation table separates “By” and “Against” rows: I excluded all “By” rows and counted the “Against” rows for the Company, Directors, Promoters and Subsidiaries for criminal and statutory/regulatory actions, while tax proceedings were counted only for the Company and Subsidiaries. The resulting counts are criminal: 1 against Directors, 1 against Promoters and 2 against Subsidiaries; regulatory: 1 against the Company, 5 against Promoters and 14 against Subsidiaries; tax: 6 against the Company and 18 against Subsidiaries. For the aggregate amount against the Company and Subsidiaries, I used the stated quantified amounts of ₹6.95 million and ₹1,348.15 million, respectively, totaling ₹1,355.10 million, converted to ₹135.51 crore; promoter/director amounts and all “By” rows were excluded. The contingent-liabilities figure is the stated Total of ₹6,119.84 million as at June 30, 2024, converted to ₹611.984 crore, rather than a re-sum. The company-wide top-five and top-ten off-taker concentrations for the latest full fiscal year, Fiscal 2024, are 74.98% and 89.97%, respectively, calculated as percentages of revenue from operations; all source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 20,
+  "tax_proceedings_against_count": 24,
+  "total_litigation_against_amount_cr": 135.51,
+  "contingent_liabilities_total_cr": 611.984,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 74.98,
+  "top10_customer_revenue_pct": 89.97
+}

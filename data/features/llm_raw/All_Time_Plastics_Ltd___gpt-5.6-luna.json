@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "All Time Plastics Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I excluded all “By our Company,” “By our Directors,” “By our Promoters,” “By our Subsidiaries,” “By our KMPs” and “By our SMPs” rows. Among the “Against” rows, the company has 1 criminal and 4 tax proceedings, with nil statutory/regulatory proceedings; directors, promoters, subsidiaries, KMPs and SMPs have nil against them, so regulatory is 0 and tax is 4 for the company and subsidiaries. The quantified aggregate amount against the company is ₹36.55 million, while the subsidiaries’ amount is nil; therefore the group litigation amount is ₹36.55 million, converted to ₹3.655 crore, and the contingent-liabilities figure is the stated total of ₹6.00 million as at March 31, 2025, converted to ₹0.60 crore. The customer concentration figures are company-wide and use revenue from operations for full Fiscal 2025: top five is the stated top-four 78.42% plus the fifth customer’s 2.85% = 81.27%, and top ten is the sum of the stated top-four total and the remaining six percentages = 89.55%. The source tables use ₹ million; conversion to crore is by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 3.655,
+  "contingent_liabilities_total_cr": 0.6,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 81.27,
+  "top10_customer_revenue_pct": 89.55
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aadhar Housing Finance Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each category: I counted only the Against Company, Against Directors, Against Promoter and Against Subsidiary rows. Criminal proceedings against total 33 (32 against the Company plus 1 against Directors), statutory/regulatory proceedings against total 2 (1 against the Company plus 1 against Directors), and tax proceedings against the Company and Subsidiary total 16 (16 against the Company and nil against the Subsidiary); all By rows were excluded. The quantified aggregate amount against the Company is explicitly stated as ₹2,697.5 million; Directors and Subsidiary show no quantified amount, so this converts to ₹269.75 crore at 1 crore = ₹10 million. The contingent-liabilities figure is the stated consolidated-style Total of ₹143.6 million as of December 31, 2023, converted to ₹14.36 crore, rather than a re-sum. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the only quantified concentrations relate to other measures such as state AUM and segment/customer information, not customers’ share of revenue from operations or total income. The source unit for the litigation and contingent-liability tables is ₹ million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 33,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 16,
+  "total_litigation_against_amount_cr": 269.75,
+  "contingent_liabilities_total_cr": 14.36,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

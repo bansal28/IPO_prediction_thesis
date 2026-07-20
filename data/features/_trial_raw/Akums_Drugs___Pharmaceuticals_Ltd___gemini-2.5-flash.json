@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Akums Pharmaceuticals Private Limited",
+  "extraction_reasoning": "Litigation data from Section 37 details proceedings 'By' and 'Against' various entities. For counts, only 'Against' rows were considered for the Company, Subsidiaries, Promoters, and Directors. Criminal cases against the Company, Directors, and Promoters were nil, with 2 against Subsidiaries, totaling 2. Regulatory actions (excluding tax) summed to 113 (39 against Company, 6 against Directors, 6 against Promoters, 62 against Subsidiaries). Tax proceedings against the Company and Subsidiaries totaled 47 (16 against Company, 31 against Subsidiaries), plus 2 against Directors, for a total of 49. The total quantified litigation amount against the Company and its Subsidiaries (including tax) is 169.56 million + 855.37 million. Contingent liabilities are explicitly stated as a 'Total' of 886.22 million as of March 31, 2024, in Section 50. Customer concentration figures in Section 16 are explicitly for the 'CDMO business' segment, not company-wide, hence recorded as null. All monetary figures are provided in '₹ in millions' in the source text and converted to crore by dividing by 10 (1 million = 0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 113,
+  "tax_proceedings_against_count": 49,
+  "total_litigation_against_amount_cr": 102.493,
+  "contingent_liabilities_total_cr": 88.622,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

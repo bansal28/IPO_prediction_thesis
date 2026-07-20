@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "BMW Ventures Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against the entities: I counted only the “Against our Company,” “Against our Directors,” “Against our Promoters,” “Against our KMPs,” and “Against our SMPs” rows, while excluding all “By” rows. The criminal column has no against proceedings (0), the statutory/regulatory column has no against proceedings (0), and the tax column has 4 proceedings against the company; the 1 tax proceeding against directors was excluded because the tax count is limited to the company and subsidiaries. The quantified aggregate against-company amount is ₹8.72 lakh; no subsidiary amount is disclosed, so this converts to ₹0.0872 crore (8.72 lakh ÷ 100). The contingent-liabilities figure is the stated Total of ₹5,745.00 lakh as of March 31, 2025, converted to ₹57.45 crore (5,745 lakh ÷ 100), rather than a sum of line items. The section gives company-wide geographic concentration of revenue from operations in Bihar (98.49% in Fiscal 2025), but does not disclose company-wide top-five or top-ten customer revenue concentration; the source monetary tables use lakh units.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 0.0872,
+  "contingent_liabilities_total_cr": 57.45,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

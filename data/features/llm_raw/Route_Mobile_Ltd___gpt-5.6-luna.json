@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Route Mobile Limited",
+  "extraction_reasoning": "The litigation table separates proceedings against the Company, by the Company, against/by Directors, against/by Promoters, and against/by Subsidiaries. I counted only against rows: criminal matters are Nil against the Company and Directors/Promoters and 2 against Subsidiaries; no statutory/regulatory enforcement row has a non-zero count, and the SEBI matter described separately resulted in no adverse remark against the Company; tax proceedings are 11 against the Company plus 12 against Subsidiaries, excluding all by rows. The quantified aggregate against the Company and Subsidiaries is the sum of tax amounts of ₹202.08 million and ₹257.95 million, or ₹460.03 million = ₹46.003 crore; criminal and other litigation amounts are unquantified/Nil. The contingent-liabilities figure is the stated consolidated Total of ₹593.83 million as of June 30, 2020, converted to ₹59.383 crore without re-summing. The only company-wide customer concentration disclosed for the most recent full fiscal year is the ten-largest-clients figure of 52.50% of revenue from operations in Fiscal 2020; no company-wide top-five percentage is stated. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 46.003,
+  "contingent_liabilities_total_cr": 59.383,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 52.5
+}

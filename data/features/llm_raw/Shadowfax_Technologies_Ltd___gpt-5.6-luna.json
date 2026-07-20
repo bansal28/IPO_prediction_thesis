@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shadowfax Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the against rows. Criminal proceedings against all listed entities total 2 against the Company + 7 against Directors + 5 against Promoters + 0 against the Subsidiary + 3 against KMP + 0 against SMP = 17, excluding all By rows, including the 86 matters filed by the Company and the 11 Section 138 complaints. Statutory/regulatory proceedings against the listed entities total 1 + 1 + 1 + 0 + 1 + 0 = 4, while tax proceedings against the Company and Subsidiary total 18 + 12 = 30; tax was kept separate from regulatory actions. The aggregate amount against the Company and Subsidiary is taken from their against-row amounts, ₹42.97 million + ₹2.55 million = ₹45.52 million, converted to ₹4.552 crore; promoter/director amounts and all By-row amounts are excluded. No contingent-liabilities total, going-concern statement, or statutory auditor report status is disclosed in the provided risk section. The company-wide customer concentration uses the most recent full fiscal year, FY2025, and is stated as a percentage of revenue from operations: top five clients 74.59% and top ten clients 86.14%. The litigation source tables use ₹ million; conversion is ₹45.52 million ÷ 10 = ₹4.552 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 17,
+  "regulatory_actions_against_count": 4,
+  "tax_proceedings_against_count": 30,
+  "total_litigation_against_amount_cr": 4.552,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 74.59,
+  "top10_customer_revenue_pct": 86.14
+}

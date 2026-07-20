@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Tenneco Clean Air India Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows—criminal proceedings of 0 against the Company, 0 against Subsidiaries and 1 against Directors; statutory/regulatory actions of 1 against the Company and 1 against Subsidiaries; and tax claims of 11 against the Company plus 58 against Subsidiaries. I excluded all “By our Company,” “By our Subsidiaries,” and other by-party rows; the quantified aggregate amount against the Company and Subsidiaries is the stated ₹387.95 million plus ₹759.43 million, or ₹1,147.38 million, converted to ₹114.738 crore. The contingent-liabilities figure is the stated consolidated Total of ₹1,164.68 million as of March 31, 2025, not a re-sum of the line items, converted to ₹116.468 crore. The company-wide customer concentration figures are for full Fiscal 2025 and use revenue from operations as the denominator: top five customers 62.27% and top ten customers 81.54%. The source tables use ₹ millions; conversion is ₹1 million = ₹0.1 crore, so each crore field is the source amount multiplied by 0.1.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 69,
+  "total_litigation_against_amount_cr": 114.738,
+  "contingent_liabilities_total_cr": 116.468,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 62.27,
+  "top10_customer_revenue_pct": 81.54
+}

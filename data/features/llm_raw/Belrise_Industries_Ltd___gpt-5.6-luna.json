@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Belrise Industries Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: for matters against the Company, I counted 5 criminal, 31 tax and 17 statutory/regulatory proceedings; the 12 criminal and 23 tax proceedings by the Company were excluded, as were all promoter rows for the aggregate amount. For regulatory counting across listed entities, I added the 1 statutory/regulatory proceeding against the Promoters to the 17 against the Company, giving 18; tax counting is limited to the Company and subsidiaries, so the Promoters' 3 tax proceedings were excluded. The quantified aggregate amount against the Company is ₹235.57 million, with no separate subsidiaries row disclosed, converted to ₹23.557 crore (₹235.57 million ÷ 10); promoter amount was excluded. Contingent liabilities use the explicitly stated consolidated Total of ₹203.02 million as of December 31, 2024, converted to ₹20.302 crore (₹203.02 million ÷ 10), rather than summing line items. For the most recent full fiscal year, FY2024, the company-wide top-ten customer concentration is 50.77% of revenue from operations; the top-five percentage is summed from the five largest disclosed customer percentages (18.30% + 9.10% + 5.72% + 4.55% + 2.70% = 40.37%). The source tables use ₹ million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 18,
+  "tax_proceedings_against_count": 31,
+  "total_litigation_against_amount_cr": 23.557,
+  "contingent_liabilities_total_cr": 20.302,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 40.37,
+  "top10_customer_revenue_pct": 50.77
+}

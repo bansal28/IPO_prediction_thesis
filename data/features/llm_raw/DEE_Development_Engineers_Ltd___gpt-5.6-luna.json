@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "DEE Development Engineers Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against the Company” row for 1 criminal, 10 tax and 6 statutory/regulatory proceedings, plus the “Against the Subsidiaries” row for 1 tax proceeding; all “By” rows and promoter/director personal matters were excluded. The quantified aggregate amount against the company and subsidiaries is ₹197.98 million plus ₹1.07 million, or ₹199.05 million = ₹19.905 crore, excluding directors’ and promoter matters. The contingent-liabilities table is as of December 31, 2023 and has no stated Total row, so its disclosed components were summed: ₹27.27m + ₹34.52m + ₹72.27m + ₹832.26m = ₹966.32m = ₹96.632 crore; the supplier claim is shown as nil. The only company-wide concentration figure applicable to the requested fields is top 10 customers at 70.96% of revenue from operations for full Fiscal 2023; no company-wide top-five percentage is disclosed. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 19.905,
+  "contingent_liabilities_total_cr": 96.632,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 70.96
+}

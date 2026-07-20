@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Gala Precision Engineering Limited",
+  "extraction_reasoning": "The litigation table distinguishes “By” from “Against” rows: the company has 1 criminal proceeding by it, which is excluded, and 0 criminal proceedings against it; tax proceedings against the company are 7, while statutory/regulatory proceedings against the company are shown as “-” (counted as 0). The subsidiaries, promoter, directors and group-company “Against” rows are all nil, so the quantified group amount is the company’s stated aggregate amount involved of ₹48.12 million, excluding all “By” matters; this converts to ₹4.812 crore at ₹10 million per crore. Contingent liabilities are taken from the explicitly stated consolidated “Total” of ₹98.38 million as of March 31, 2024, not re-summed, converting to ₹9.838 crore. The concentration figures are company-wide consolidated revenue from operations for the most recent full fiscal year, Fiscal 2024: top five customers 32.46% and top ten customers 47.48%. The source currency unit for the litigation and contingent-liabilities tables is ₹ million; all crore fields are converted by dividing the stated million amounts by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 4.812,
+  "contingent_liabilities_total_cr": 9.838,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 32.46,
+  "top10_customer_revenue_pct": 47.48
+}

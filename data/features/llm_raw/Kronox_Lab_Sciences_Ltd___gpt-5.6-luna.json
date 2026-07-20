@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Kronox Lab Sciences Limited",
+  "extraction_reasoning": "The provided risk section contains no litigation summary table separating Against and By matters, so no criminal, regulatory, or tax rows can be counted and no quantified litigation aggregate can be extracted. No contingent-liabilities table or stated total is disclosed, and therefore no date-specific contingent-liabilities figure is available. Customer concentration is disclosed company-wide for Fiscal 2023, using revenue from operations as the denominator: top 10 customers contributed 50.68%; no top-five customer percentage is disclosed. The financial tables use ₹ million, but no litigation or contingent-liability monetary table is provided; accordingly, no currency conversion to crore is applicable.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 50.68
+}

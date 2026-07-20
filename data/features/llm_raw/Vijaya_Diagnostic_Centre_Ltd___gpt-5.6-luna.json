@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vijaya Diagnostic Centre",
+  "extraction_reasoning": "The litigation table separates matters Against and By: I counted only Against our Company and Against our Subsidiaries rows, giving criminal cases of 2 + 11 = 13, statutory/regulatory actions of 0 + 1 = 1, and tax proceedings of 4 + 0 = 4; all By rows and director/promoter personal matters were excluded. No explicit aggregate litigation total is stated, so the quantified company/subsidiary components were summed: ₹9.90 million civil matters against the Company + ₹26.72 million civil matters against Subsidiaries + ₹4.03 million taxation cases against the Company = ₹40.65 million, or ₹4.065 crore; criminal and regulatory amounts marked Not quantifiable were excluded. The contingent-liabilities figure is the stated Total of ₹0.56 million as of June 30, 2021, converted to ₹0.056 crore, rather than re-summed. The disclosed percentages relate to individual consumer business, regional revenues, centres, CGHS and other segments, not company-wide top-five or top-ten customer concentration for a full fiscal year; no qualifying concentration percentage is disclosed. Monetary tables use ₹ million, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 13,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 4.065,
+  "contingent_liabilities_total_cr": 0.056,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

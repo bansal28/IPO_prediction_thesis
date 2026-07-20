@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Company from matters by the Company: I counted only the Company’s 6 criminal cases, 2 statutory/regulatory actions, 81 tax proceedings and 4 civil proceedings; I excluded the Company’s 3 criminal and 2 civil matters filed by it, and excluded Group Company and Director matters because the requested aggregate and tax counts are limited to the Company and its subsidiaries, with no subsidiary identified in the text. The quantified amount against the Company is ₹14,226.18 million for tax proceedings plus ₹344.75 million for civil proceedings, totalling ₹14,570.93 million, or ₹1,457.093 crore; regulatory matters are not quantifiable. The contingent-liabilities table is stated on a consolidated basis as at September 30, 2017, but has no stated Total row, so no total is extracted under the instruction not to re-sum line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the source uses ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 81,
+  "total_litigation_against_amount_cr": 1457.093,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

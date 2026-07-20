@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Affle (India) Limited",
+  "extraction_reasoning": "The litigation tables contain only “against” tables for the Company, corporate Promoter, individual Promoter and certain Directors; there are no “By” rows. I counted criminal matters against the individual Promoter (2) and Directors (5), statutory/regulatory actions against the Company (1), and tax matters against the Company only (3 direct tax + 1 indirect tax); the Directors’ tax matters and the corporate Promoter’s counter-claim were excluded from the company/subsidiary aggregate, with the counter-claim noted as arising from a proceeding initiated by the Promoter. The quantified outstanding amount against the Company is ₹6.5 million + ₹2.6 million + ₹17.50 million = ₹26.6 million, converted to ₹2.66 crore; no contingent-liabilities table or total is disclosed. The customer concentration disclosure is company-wide for Fiscal 2019 on a consolidated basis, with top 10 customers contributing 64.5% of revenue from contracts with customers; no top-five percentage is given. The source tables use ₹ million, and the conversion applied is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 2.66,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 64.5
+}

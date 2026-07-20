@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Om Freight Forwarders Limited",
+  "extraction_reasoning": "The litigation tables distinguish matters against the Company, by the Company, against directors/promoters, by directors/promoters, and against group companies/subsidiaries. I counted only the against rows for the Company and its group companies/subsidiaries: criminal 1 against the Company plus nil against subsidiaries; statutory/regulatory 8 against the Company plus nil against subsidiaries; and tax 13 against the Company plus 13 against subsidiaries. The quantified aggregate against the Company and subsidiaries is ₹41.38 million, comprising ₹24.36 million of Company taxation matters, ₹8.00 million of other litigation against the Company, and ₹9.02 million of subsidiary taxation matters; the ₹11.28 million matter by the Company and promoter/director matters were excluded. The stated Total Contingent Liabilities as at March 31, 2025 is ₹115.43 million, not a re-sum; both figures are converted from millions to crore by dividing by 10, giving ₹4.138 crore and ₹11.543 crore respectively. Company-wide customer concentration for the full fiscal year ended March 31, 2025 is based on revenue from operations: top five customers 26.71% and top ten customers 40.39%.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 26,
+  "total_litigation_against_amount_cr": 4.138,
+  "contingent_liabilities_total_cr": 11.543,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 26.71,
+  "top10_customer_revenue_pct": 40.39
+}

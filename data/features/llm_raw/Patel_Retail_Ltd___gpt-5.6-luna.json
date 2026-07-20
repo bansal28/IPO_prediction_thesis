@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Patel Retail Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the Against rows—criminal proceedings of 5 against the Company, 2 against other Directors, 10 against Promoters, and nil against KMPs/SMPs or Group Companies, totaling 17; statutory/regulatory proceedings are Nil in all Against rows, while the tax count is 14 against the Company, excluding By rows and the 2 tax matters against Group Companies because no subsidiary is identified. The quantified aggregate against the Company and its subsidiaries is the Company Against amount of ₹1,463.55 lakhs; no separate subsidiary row is disclosed, so this converts to ₹14.6355 crore at 1 crore = 100 lakhs. The contingent-liabilities figure is the stated outstanding bank guarantee of ₹67.80 lakhs as of Fiscal 2025, converted to ₹0.678 crore, and is used rather than recomputed. Customer concentration percentages are disclosed only for the Non-Retail Business segment—top five 10.30% and top ten 15.67% of revenue from operations for Fiscal 2025—so they are not company-wide and are excluded. Litigation and contingent-liability tables use lakhs as the source unit; all crore fields are converted by dividing lakh amounts by 100.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 17,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 14.6355,
+  "contingent_liabilities_total_cr": 0.678,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

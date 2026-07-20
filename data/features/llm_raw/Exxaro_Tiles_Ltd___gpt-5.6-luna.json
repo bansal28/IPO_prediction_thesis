@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Exxaro Tiles Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the Company from matters filed against it: the 'filed by' rows comprise 4 Income Tax cases, 2 Value Added Tax cases and 64 criminal proceedings under Section 138, all excluded; the only 'filed against' row is 1 proceeding for outstanding dues to a micro and small enterprise, which is civil and not criminal, regulatory enforcement or tax. Accordingly, criminal, regulatory and tax proceedings against the Company/subsidiaries are each counted as zero, and the quantified aggregate against the Company/subsidiaries is the ₹1.04 million against-row amount only, equal to ₹0.104 crore; the ₹37.35 million criminal amount and tax amounts filed by the Company are excluded. The contingent-liabilities figure is the stated consolidated-looking Total of ₹349.94 million as at March 31, 2021, not a re-sum, equal to ₹34.994 crore. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the only top-ten percentage concerns suppliers, not customers. Litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10 (1 crore = ₹10 million).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.104,
+  "contingent_liabilities_total_cr": 34.994,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

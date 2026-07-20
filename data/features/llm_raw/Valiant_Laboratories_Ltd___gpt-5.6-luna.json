@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Valiant Laboratories Limited",
+  "extraction_reasoning": "The litigation table shows “Against the Company” and “Against the Subsidiary” as nil across criminal, tax, statutory/regulatory, disciplinary and civil columns; the “By” rows are also nil and were excluded. Tax proceedings against directors (10) and promoters (3), with amounts of ₹6.26 million and ₹0.93 million, were excluded because they are personal matters and not proceedings against the company or subsidiary; therefore group litigation amount is not quantified. No contingent-liabilities table or going-concern uncertainty statement is disclosed in the provided risk section, and no statutory auditor report status is stated. The top-five and top-ten customer concentrations are company-wide percentages of revenue from operations for Fiscal 2023, at 29.64% and 42.61%, respectively. The litigation monetary table uses INR million; no litigation amount against the company or subsidiary was disclosed, so no conversion to crore was required (₹1 million = ₹0.1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 29.64,
+  "top10_customer_revenue_pct": 42.61
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Amir Chand Jagdish Kumar (Exports) Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted the Against our Company row (criminal 1, tax 23, statutory/regulatory 0), the Against our Subsidiary row (all 0), and the Against our Promoters row for the criminal count (1); I excluded every By row and excluded promoter matters from the tax and aggregate-amount fields. The quantified aggregate amount against the company and subsidiary is the stated ₹522.06 million for the company plus nil for the subsidiary, converting ₹522.06 million ÷ 10 to ₹52.206 crore; the promoter amount of ₹98.14 million is excluded. The contingent-liabilities table has no stated Total row, so I summed the contingent-liability items as of December 31, 2024—₹1,587.69 million, ₹144.72 million and ₹0.37 million—while excluding the ₹0.87 million capital commitment; ₹1,732.78 million ÷ 10 equals ₹173.278 crore. The company-wide customer concentration for the latest full fiscal year, Fiscal 2024, is 26.96% for the top five and 43.08% for the top ten, both stated as percentages of revenue from operations. The litigation and contingent-liability tables use ₹ million, converted to crore at 1 crore = ₹10 million; no going-concern or statutory-auditor opinion status is mentioned in the provided risk section.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 23,
+  "total_litigation_against_amount_cr": 52.206,
+  "contingent_liabilities_total_cr": 173.278,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 26.96,
+  "top10_customer_revenue_pct": 43.08
+}

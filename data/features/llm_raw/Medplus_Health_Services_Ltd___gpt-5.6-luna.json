@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "MedPlus Health Services Limited",
+  "extraction_reasoning": "The litigation summary is organized by matters involving the Company, Promoters, Subsidiaries and Directors; it contains no “By” rows, so only the “involving” rows were counted. Criminal proceedings against all listed entities total 0; statutory/regulatory actions against the Company, Promoters, Subsidiaries and Directors total 1 + 3 + 14 + 3 = 21; tax proceedings against the Company and Subsidiaries total 0 + 12 = 12, excluding promoter/director matters and non-quantifiable regulatory amounts. The quantified aggregate against the Company and Subsidiaries is the Subsidiaries’ stated total of ₹353.86 million, comprising ₹39.53 million of material civil litigation and ₹314.33 million of tax proceedings; the Company amount is not quantifiable, so the aggregate is ₹35.386 crore after conversion from millions at ₹10 million per crore. Contingent liabilities use the explicitly stated consolidated Total of ₹120.04 million as of September 30, 2021, converted to ₹12.004 crore; the separate ₹1,850 million corporate guarantee is disclosed but is not included in that stated Total. The section gives geographic/top-state revenue percentages, not company-wide top-customer concentration percentages, and does not disclose the statutory auditor’s opinion status or a going-concern uncertainty.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 21,
+  "tax_proceedings_against_count": 12,
+  "total_litigation_against_amount_cr": 35.386,
+  "contingent_liabilities_total_cr": 12.004,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

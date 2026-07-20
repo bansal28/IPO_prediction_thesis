@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not stated in provided section",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted only the “Against our Company,” “Against our Promoter,” and “Against our Directors” rows, with criminal counts of Nil, statutory/regulatory counts of Nil, and tax counts of 6, 1, and 4 respectively; the tax field is restricted to the company and subsidiaries, so only the company’s 6 tax proceedings are counted, while promoter/director tax matters are excluded. For the aggregate amount against the company/group, I used the company row’s quantified amount of ₹132.41 million and excluded promoter and director amounts; this converts to ₹13.241 crore (132.41 ÷ 10), with no subsidiary row disclosed. The contingent-liabilities figure is the explicitly stated Total of ₹205.92 million as at March 31, 2024, converted to ₹20.592 crore (205.92 ÷ 10), rather than a re-sum of line items. The company-wide customer concentration table reports Fiscal 2024 percentages as a percentage of total revenue from operations: top 5 customers account for 28.82% and top 10 customers account for 38.11%. The source currency unit for the litigation and contingent-liability tables is ₹ million; all crore fields are converted using 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 13.241,
+  "contingent_liabilities_total_cr": 20.592,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 28.82,
+  "top10_customer_revenue_pct": 38.11
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Unimech Aerospace and Manufacturing Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category. I counted only the “Against” rows: criminal proceedings are Nil against the Company, Subsidiaries, Promoters and Directors, giving 0; statutory/regulatory proceedings are Nil in all Against rows, giving 0; tax proceedings are 1 against the Company and 1 against the Subsidiaries, giving 2. I excluded all “By” rows, including 2 criminal proceedings by Promoters and 1 by Directors. The quantified aggregate amount against the Company and Subsidiaries is ₹0.92 million plus ₹28.62 million, or ₹29.54 million = ₹2.954 crore; promoter and director amounts were excluded. Contingent liabilities are explicitly stated as not disclosed as of September 30, 2024, so the stated nil figure is used as ₹0.0 crore. Customer concentration is company-wide and based on revenue from operations for the most recent full fiscal year, Fiscal 2024: top five customers contributed 96.80% and top ten customers 99.45%. Litigation and contingent-liability tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 2.954,
+  "contingent_liabilities_total_cr": 0.0,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 96.8,
+  "top10_customer_revenue_pct": 99.45
+}

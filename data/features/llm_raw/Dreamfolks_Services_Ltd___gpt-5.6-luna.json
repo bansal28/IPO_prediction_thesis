@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The risk section contains no litigation summary table; Risk Factor 40 states that there are currently no outstanding legal proceedings involving the Company, Promoters, Directors, Subsidiary and Group Companies, but this is not a category-count table and provides no quantified amount. Accordingly, no criminal, statutory/regulatory, or tax rows were counted, and no aggregate litigation amount was disclosed; contingent liabilities and a stated contingent-liabilities total, including a date, are also absent. The concentration disclosure is company-wide and uses revenue from operations: for the most recent full fiscal year, Fiscal 2021, top 10 Clients contributed 99.11% and top 5 customers contributed 85.98%; the six-month September 30, 2021 figures were not preferred because a full fiscal year is available. Monetary financial tables in the supplied section use ₹ million; no litigation or contingent-liability table unit is stated, so no conversion to crore was applicable.",
+  "source_currency_unit": "not_stated",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": null,
+  "total_litigation_against_amount_cr": null,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 85.98,
+  "top10_customer_revenue_pct": 99.11
+}

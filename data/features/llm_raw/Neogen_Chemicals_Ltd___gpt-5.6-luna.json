@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Neogen Chemicals Limited",
+  "extraction_reasoning": "The litigation disclosures show 7 tax proceedings against the Company (3 direct-tax and 4 indirect-tax cases, total ₹7.16 million), 3 criminal proceedings against the Directors, and 1 direct-tax proceeding against the Promoters; there are no disclosed statutory/regulatory enforcement proceedings and no “By” rows to count. For the aggregate amount against the Company and its subsidiaries, I counted the Company’s quantified tax amount of ₹7.16 million and excluded the Promoters’ ₹0.1 million matter because it is a personal promoter matter; ₹7.16 million converts to ₹0.716 crore. The contingent-liabilities figure is the stated consolidated Total of ₹66.42 million as at December 31, 2018, converted to ₹6.642 crore, rather than a re-sum of line items. The disclosed customer concentration is company-wide and based on consolidated revenue from operations: top 10 customers contributed 44.45% in Fiscal 2018, the most recent full fiscal year shown; no company-wide top-five figure is disclosed. The source currency unit is ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 7,
+  "total_litigation_against_amount_cr": 0.716,
+  "contingent_liabilities_total_cr": 6.642,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 44.45
+}

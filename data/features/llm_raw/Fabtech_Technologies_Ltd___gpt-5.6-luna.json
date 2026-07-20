@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Fabtech Technologies Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the Against rows—criminal proceedings of 0 against the Company, 1 against Directors, 1 against Promoters, 0 against Subsidiaries and 3 against Group Companies, while excluding all By rows; statutory/regulatory proceedings are nil in all rows, and tax proceedings against the Company and Subsidiaries are 3 and 1 respectively, excluding promoter/director tax matters. For the aggregate amount against the Company and Subsidiaries, I used the quantified Against Company amount of ₹1,000.53 lakhs plus Against Subsidiaries amount of ₹0.002 lakhs; the table has no stated group total, and unquantified By matters were excluded. The contingent-liabilities figure is the stated Total of ₹3,256.20 lakhs as at March 31, 2025, rather than a re-sum. Concentration percentages disclosed are for top projects, not top customers, so no company-wide top-five or top-ten customer percentage is extracted; the project percentages use total revenue for Fiscal 2025. The source tables use ₹ in lakhs; amounts were converted to crore by dividing by 100 (₹1,000.532 lakhs = ₹10.00532 crore and ₹3,256.20 lakhs = ₹32.562 crore).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 10.00532,
+  "contingent_liabilities_total_cr": 32.562,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

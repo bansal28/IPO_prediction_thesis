@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "IRM Energy Limited",
+  "extraction_reasoning": "The litigation table separates “By” and “Against” rows: all “By” rows are excluded; for “Against” rows, criminal proceedings are 0 against the Company, 2 against Directors and 2 against Promoters (4 total), statutory/regulatory proceedings are 0 against the Company, 11 against Directors and 29 against Promoters (40 total), and tax proceedings are 10 against the Company and 0 against the Subsidiary; promoter/director tax matters are excluded from the tax count. The quantified aggregate amount against the Company and Subsidiary is the Company row’s ₹2.99 million, with the Subsidiary row Nil; converted at ₹10 million per crore, this is ₹0.299 crore, excluding all “By” rows and promoter/director amounts. The contingent-liabilities figure is the explicitly stated Total of ₹2,396.85 million as at June 30, 2023, converted to ₹239.685 crore; the stated Total is used rather than re-summing. No company-wide top-five or top-ten customer revenue concentration percentage is disclosed; the percentages shown concern suppliers or business/geographical segments and are not used.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 40,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 0.299,
+  "contingent_liabilities_total_cr": 239.685,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

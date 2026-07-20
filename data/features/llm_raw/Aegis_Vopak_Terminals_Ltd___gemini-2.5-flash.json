@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aegis Vopak Terminals Limited",
+  "extraction_reasoning": "The litigation data is extracted from Risk Factor 8. Criminal cases against the Directors (4) and Key Managerial Personnel (2) are counted, totaling 6. Regulatory actions against any entity are Nil (0). Tax proceedings against the Company and Subsidiaries total 16 (0 for Company, 16 for Subsidiaries). The aggregate quantified litigation amount against the Company and Subsidiaries is 598.37 million, representing 59.837 crore. Contingent liabilities are extracted from Risk Factor 10, totaling 559.98 million (55.998 crore) as of December 31, 2024, by summing the four explicit contingent liability items and excluding capital commitments. Customer concentration percentages (top 5 at 30.72% and top 10 at 44.56%) are from Risk Factor 2 for Fiscal 2024, based on revenue from operations, and are company-wide. All source monetary values are in \"₹ million\" and are converted to \"crore\" by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 16,
+  "total_litigation_against_amount_cr": 59.837,
+  "contingent_liabilities_total_cr": 55.998,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 30.72,
+  "top10_customer_revenue_pct": 44.56
+}

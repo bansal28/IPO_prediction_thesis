@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Gopal Snacks Limited",
+  "extraction_reasoning": "The litigation summary shows “By the Company” as nil, while “Against the Company” lists 3 criminal proceedings, 9 tax proceedings and 8 statutory/regulatory proceedings; the director and promoter rows are excluded from the requested aggregate because they are personal matters, and all “By” rows are excluded. The quantified amount against the Company is ₹454.12 million, including one tax proceeding; no subsidiary row or separate quantified subsidiary amount is disclosed, so this is the company-only group amount used. Contingent liabilities use the explicitly stated consolidated Total of ₹454.32 million as of September 30, 2023, rather than summing line items. No company-wide top-5 or top-10 customer concentration percentage is disclosed; the percentages shown relate to products, SKUs, geography, channels or distributors, not customers. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10: ₹454.12 million = ₹45.412 crore and ₹454.32 million = ₹45.432 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 45.412,
+  "contingent_liabilities_total_cr": 45.432,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

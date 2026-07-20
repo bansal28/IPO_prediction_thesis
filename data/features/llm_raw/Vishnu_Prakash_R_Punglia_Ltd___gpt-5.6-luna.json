@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Vishnu Prakash R Punglia Construction Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against the relevant parties. For criminal proceedings, I counted the 4 matters against our Company and the 1 matter against our Directors and Promoters, while excluding the 3 matters by our Company and the 0 matters by Directors and Promoters. Regulatory proceedings against the Company and Directors/Promoters are both 0, and tax proceedings against the Company are 0; no subsidiaries are listed. The aggregate amount against the Company is the stated table amount of ₹28.77 million, excluding the ₹1.26 million against Directors and Promoters and all amounts in the 'By' rows; ₹28.77 million converts to ₹2.877 crore. Contingent liabilities use the stated figure of ₹2,776.58 million as at March 31, 2023, converted to ₹277.658 crore, without re-summing. The top-five and top-ten customer concentrations are company-wide for the full fiscal year ended March 31, 2023, stated as percentages of revenue (the table's revenue figures correspond to revenue from operations): 80.92% and 93.46%, respectively. Litigation and contingent-liability tables use ₹ million; conversion is million ÷ 10 to crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 5,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 2.877,
+  "contingent_liabilities_total_cr": 277.658,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 80.92,
+  "top10_customer_revenue_pct": 93.46
+}

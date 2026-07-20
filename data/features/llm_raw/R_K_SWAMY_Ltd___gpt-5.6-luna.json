@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "R K Swamy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I counted the single criminal proceeding against the Promoters, excluded all “By” rows, counted zero statutory/regulatory actions because every such cell is Nil, and counted tax proceedings against the Company (9) plus Subsidiaries (5), excluding the Promoters’ personal matters. For the aggregate amount against the Company and Subsidiaries, I used the quantified against rows of ₹52.13 million and ₹39.56 million, respectively, totaling ₹91.69 million; the Promoters’ ₹0.44 million was excluded. The contingent-liabilities figure is the explicitly stated Total of ₹23.42 million as at September 30, 2023, not a re-sum. The company-wide customer concentration disclosure is for Fiscal 2023 and uses revenue from operations: top 10 clients contributed 41.89%; no company-wide top-five percentage is disclosed. The source tables use ₹ million, converted to crore by dividing by 10: ₹91.69 million = ₹9.169 crore and ₹23.42 million = ₹2.342 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 14,
+  "total_litigation_against_amount_cr": 9.169,
+  "contingent_liabilities_total_cr": 2.342,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 41.89
+}

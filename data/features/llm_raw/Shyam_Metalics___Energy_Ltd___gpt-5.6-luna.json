@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Shyam Metalics and Energy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I excluded all “By the Company,” “By the Directors,” “By the Promoters,” and “By the Subsidiaries” rows, and counted the criminal, statutory/regulatory, and tax columns separately from the “Against the Company,” “Against the Directors,” “Against the Promoters,” and “Against the Subsidiaries” rows. Criminal proceedings against all listed entities are 0 + 17 + 1 + 1 = 19; regulatory proceedings against the company and subsidiaries are 7 + 1 = 8; tax proceedings against the company and subsidiaries are 27 + 50 = 77. For the aggregate amount against the company and subsidiaries only, I used the quantified amounts in the corresponding against rows: ₹963.27 million + ₹3,040.07 million = ₹4,003.34 million, or ₹400.334 crore; promoter/director personal matters and all “By” matters were excluded. The contingent-liabilities figure is the stated Total of ₹3,042.58 million as of December 31, 2020, converted to ₹304.258 crore without re-summing line items. The only company-wide customer concentration disclosed is top 10 customers’ 22.36% of total revenues from operations in Fiscal 2020; no company-wide top-five percentage is given, and other concentration figures such as eastern-region revenue are not customer concentration. The source tables use ₹ million, converted to crore at 1 crore = ₹10 million, so ₹ million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 19,
+  "regulatory_actions_against_count": 8,
+  "tax_proceedings_against_count": 77,
+  "total_litigation_against_amount_cr": 400.334,
+  "contingent_liabilities_total_cr": 304.258,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 22.36
+}

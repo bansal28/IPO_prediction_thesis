@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed in the provided risk section",
+  "extraction_reasoning": "The litigation table contains only “Cases involving our Company”: criminal proceedings are Nil, statutory/regulatory actions are Nil, and six direct/indirect tax claims amounting to ₹28.52 million; there are no “By ...” rows, and only the company row is disclosed, so the counted against figures are criminal 0, regulatory 0, and tax 6. The aggregate quantified litigation amount against the company is the table’s stated Total (A) of ₹28.52 million, including the tax claims, rather than a separately summed amount; this converts to ₹2.852 crore using ₹10 million = ₹1 crore. No contingent-liabilities table or total is disclosed in the provided section. The company-wide top-five customer concentration is 85.74% of total revenue for Fiscal 2020, the most recent full fiscal year shown; the table uses contribution to total revenue, not revenue from operations, and no company-wide top-ten percentage is disclosed. Monetary litigation tables use ₹ million; the conversion applied is million ÷ 10 = crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 2.852,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 85.74,
+  "top10_customer_revenue_pct": null
+}

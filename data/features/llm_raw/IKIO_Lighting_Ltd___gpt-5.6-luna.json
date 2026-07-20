@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "IKIO Lighting Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By the Company” (5 tax, ₹2.32 million), “By the Subsidiaries” (1 tax, ₹1.11 million), and all other “By” rows. Against the group, the Company has nil criminal, 1 tax and nil statutory/regulatory proceeding with ₹2,510 million quantified; subsidiaries have nil criminal, tax, statutory/regulatory, disciplinary and civil proceedings, so criminal and regulatory counts are 0, tax count is 1, and the quantified group amount is ₹2,510 million. The contingent-liabilities table states a consolidated/proforma Total of ₹25.10 million as at December 31, 2022; I used the stated Total rather than summing line items. Company-wide concentration is disclosed for Fiscal 2022 using revenue from operations: on the restated basis top five/top ten customers were 95.79%/98.80% (the proforma consolidated figures were 73.12%/80.13%); I selected the restated figures because they are the actual restated financial information rather than hypothetical proforma information. Litigation and contingent-liability tables use ₹ in million, converted to crore by dividing by 10: ₹2,510 million = ₹251.0 crore and ₹25.10 million = ₹2.51 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 251.0,
+  "contingent_liabilities_total_cr": 2.51,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 95.79,
+  "top10_customer_revenue_pct": 98.8
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "SignatureGlobal India Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity. I counted only the Against rows: criminal proceedings are Nil for the Company, Directors, Subsidiaries, Promoters/promoter company and Group Companies (0); statutory/regulatory proceedings against the Company, Directors, Subsidiaries, Promoters/promoter company and Group Companies are 36 + 1 + 195 + 13 + 0 = 245; and tax proceedings against the Company and Subsidiaries are 6 + 30 = 36, excluding all By rows and promoter/director tax matters. The quantified litigation amount against the Company and Subsidiaries is taken from their stated row amounts of ₹199.92 million and ₹114.07 million, respectively, totaling ₹313.99 million, or ₹31.399 crore; promoter, director and Group Company amounts are excluded. The contingent-liabilities figure is the stated Total of ₹202.28 million as of March 31, 2023, converted to ₹20.228 crore, not a re-sum of line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages shown relate to project locations, policies, subsidiaries or other segments/metrics, not customers. The source monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 245,
+  "tax_proceedings_against_count": 36,
+  "total_litigation_against_amount_cr": 31.399,
+  "contingent_liabilities_total_cr": 20.228,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

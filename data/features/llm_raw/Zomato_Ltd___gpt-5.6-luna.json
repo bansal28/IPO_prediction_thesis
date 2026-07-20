@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Zomato",
+  "extraction_reasoning": "The litigation table separates matters involving the Company, subsidiaries, Directors, and matters by Directors. For proceedings against the relevant parties, I counted criminal cases as 2 against the Company plus 0 against subsidiaries plus 1 against Directors = 3; statutory/regulatory actions as 6 against the Company plus 3 against subsidiaries plus Nil against Directors = 9; and tax proceedings as 4 involving the Company plus 5 involving subsidiaries = 9. I excluded all “By our Directors” rows and excluded Directors’ civil and personal tax amounts from the aggregate group amount; the quantified Company/subsidiary components are ₹72.79 million criminal, ₹1,057.04 million Company tax, and ₹32.84 million subsidiary tax, totaling ₹1,162.67 million, or ₹116.267 crore, while regulatory and other civil amounts are not quantifiable. The contingent-liabilities figure is the explicitly stated ₹957.40 million as of March 31, 2021, converted to ₹95.74 crore; no company-wide top-five or top-ten customer concentration percentage is disclosed, and the segment/denominator issue therefore does not arise.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 9,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 116.267,
+  "contingent_liabilities_total_cr": 95.74,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

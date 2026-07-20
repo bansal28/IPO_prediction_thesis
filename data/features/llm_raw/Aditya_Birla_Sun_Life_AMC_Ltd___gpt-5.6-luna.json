@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Birla Sun Life Asset Management Company Limited",
+  "extraction_reasoning": "The litigation table separates criminal, tax, statutory/regulatory and other matters: the criminal rows are 2 matters involving ABREF, which is a scheme managed by the Company and not the Company, a subsidiary, promoter, director, KMP or SMP, and 9 criminal proceedings against the Directors; the tax row is 11 direct tax proceedings against the Company. No statutory/regulatory enforcement row against the Company, subsidiaries, promoters or directors is disclosed, and all rows involving ABREF or ABCL, including the ABCL tax matter, were excluded from the Company/group aggregate; no 'By' rows are present. The contingent-liabilities table is as of June 30, 2021 and gives Income tax matters of ₹328.43 million and Other matters of ₹8.42 million, but no stated Total row, so the total field is not extracted under the stated-total rule. No company-wide top-five or top-ten customer concentration percentage is disclosed; the 8.40% and 12.02% figures relate to distributors and are not customer revenue concentration. The source monetary unit is ₹ million; the quantified litigation amount of ₹72.77 million converts to ₹7.277 crore (72.77 ÷ 10), while the contingent-liability line items are not summed.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 9,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 7.277,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

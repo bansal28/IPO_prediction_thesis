@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Ceigall India Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by the parties from matters against them: I counted only the Against our Company, Against our Directors, Against our Promoters and Against our Subsidiaries rows, excluding all By rows. Against the company there are Nil criminal, 9 tax and 21 statutory/regulatory matters; against subsidiaries there are Nil criminal, Nil tax and 1 statutory/regulatory matter, while director and promoter rows are Nil, producing 0 criminal, 22 regulatory and 9 tax proceedings. The quantified aggregate amount against the company and subsidiaries is the company Against amount of ₹31.83 million; the ₹1,193.54 million By our Company amount is excluded, so the converted total is ₹3.183 crore. The contingent-liabilities figure uses the explicitly stated consolidated Total of ₹9,390.80 million as of Financial Year 2024, converted to ₹939.08 crore, rather than summing line items. The disclosed concentration percentages relate to NHAI and other government contracts/order book and are not top-customer percentages; no company-wide top-five or top-ten customer percentage based on revenue from operations or total income is provided. Litigation and contingent-liability tables use ₹ million; conversion is ₹1 million = ₹0.1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 22,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 3.183,
+  "contingent_liabilities_total_cr": 939.08,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Laxmi Organic Industries Limited",
+  "extraction_reasoning": "The litigation table separates cases against the Company from cases by the Company, and separately lists cases against Directors and Promoters. I counted criminal proceedings only from the against rows: 2 against the Company, 3 against Directors and 1 against Promoters, excluding the Company's 3 civil cases by it; regulatory/statutory enforcement proceedings are not separately disclosed, while tax proceedings against the Company total 10. The quantified aggregate against the Company is the stated Total of ₹273.80 million, comprising ₹120.18 million civil proceedings and ₹153.62 million tax proceedings; converted from million to crore at 1 crore = 10 million, this is ₹27.38 crore. The contingent-liability table is dated September 30, 2020 and reports line items in ₹ million but provides no stated total row for contingent liabilities; therefore no contingent-liabilities total is extracted rather than summing the components. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages elsewhere concern industries, exports, products or suppliers and are not customer concentration.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 6,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 10,
+  "total_litigation_against_amount_cr": 27.38,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "qualified_adverse_or_disclaimer",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

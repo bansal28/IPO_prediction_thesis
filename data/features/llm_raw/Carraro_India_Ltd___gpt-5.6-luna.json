@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Carraro India Limited",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows; all “By” rows were excluded. Against rows counted were: criminal—nil for the Company, Subsidiary, Directors and Promoters, giving 0; statutory/regulatory—1 against the Company and nil against the other listed entities, giving 1; tax—36 against the Company and 1 against the Subsidiary, giving 37, while the Promoters’ 12 tax matters were excluded from the company-group tax count. The quantified aggregate against the Company and Subsidiary is the stated ₹3,068.16 million plus ₹0.27 million, or ₹3,068.43 million = ₹306.843 crore; the Promoters’ ₹137.41 million was excluded. Contingent liabilities are disclosed as ₹1,926.07 million of income-tax matters plus ₹9.20 million of indirect-tax matters as at September 30, 2024; no numeric total row is shown, so these line items sum to ₹1,935.27 million = ₹193.527 crore. Company-wide customer concentration for the latest full fiscal period, Fiscal 2024, is 69.37% for the top five and 85.39% for the top ten, calculated as a percentage of revenue from operations; all litigation and contingent-liability tables use ₹ millions, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 37,
+  "total_litigation_against_amount_cr": 306.843,
+  "contingent_liabilities_total_cr": 193.527,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 69.37,
+  "top10_customer_revenue_pct": 85.39
+}

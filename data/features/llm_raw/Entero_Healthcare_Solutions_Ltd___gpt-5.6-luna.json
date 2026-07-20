@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Entero Healthcare Solutions Limited",
+  "extraction_reasoning": "The litigation table separates matters by direction and category: I counted only the “Against” rows for the Company, Directors, Promoters and Subsidiaries, while excluding all “By” rows. Criminal proceedings against total 4 (1 Company, 1 Director, 1 Promoter and 1 Subsidiary); statutory/regulatory proceedings against total 5 (3 Company and 2 Subsidiaries); tax proceedings against the Company and Subsidiaries total 8 (1 Company and 7 Subsidiaries), excluding the 2 tax proceedings against Directors and 2 against Promoters as personal matters. The aggregate quantified amount against the Company and Subsidiaries is the stated ₹0.67 million plus ₹16.34 million, or ₹17.01 million = ₹1.701 crore; promoter/director amounts and all “By” amounts are excluded. Contingent liabilities use the stated Total of ₹2.96 million as at September 30, 2023, converted to ₹0.296 crore; no company-wide top-five or top-ten customer concentration percentage and no auditor or going-concern status are disclosed in the provided text. The source tables use ₹ in millions, converted to crore at 1 crore = ₹10 million.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 5,
+  "tax_proceedings_against_count": 8,
+  "total_litigation_against_amount_cr": 1.701,
+  "contingent_liabilities_total_cr": 0.296,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

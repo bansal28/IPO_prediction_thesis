@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Sai Parenterals Limited",
+  "extraction_reasoning": "The litigation summary separates matters filed by (“By”) from matters against the entities: I counted only the “Against” rows. In the table, criminal proceedings against the company, directors, promoters, KMPs, SMPs and subsidiaries are all Nil (0); statutory/regulatory proceedings against the company (5), promoters (1) and subsidiaries (10) total 16, while tax proceedings against the company (4) and subsidiaries (Nil) total 4; the “By” rows were excluded, and the detailed product-quality proceedings were not added to the summary-table counts. The quantified aggregate amount against the company and subsidiaries is 20.78 million plus 33.55 million = 54.33 million, excluding all “By” amounts, which converts to ₹5.433 crore; the source tables use ₹ million. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹19.02 million as of September 30, 2025, converted to ₹1.902 crore rather than re-summing it. The customer concentration figures are disclosed only by business segment (Branded Generic Formulations and CDMO), not company-wide; therefore top-five and top-ten company-wide revenue percentages are not reported, although the segment tables use fiscal-year revenue from operations as their denominator.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 16,
+  "tax_proceedings_against_count": 4,
+  "total_litigation_against_amount_cr": 5.433,
+  "contingent_liabilities_total_cr": 1.902,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

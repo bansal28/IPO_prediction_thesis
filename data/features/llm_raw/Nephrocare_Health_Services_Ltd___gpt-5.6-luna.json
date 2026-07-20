@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nephrocare Health Services Limited",
+  "extraction_reasoning": "The litigation table separates “By” from “Against” rows: I excluded all By rows and counted Against rows across the company, subsidiaries, promoters, directors, KMP and senior management. Criminal proceedings against these entities total 2, from the Against our Directors row; statutory/regulatory actions total 1, from the Against our Subsidiaries row; tax proceedings against the company and subsidiaries total 1 + 8 = 9, excluding the director’s personal tax matter. The quantified aggregate amount against the company and subsidiaries is ₹24.84 million + ₹46.54 million = ₹71.38 million, or ₹7.138 crore; no contingent-liabilities total is disclosed in the provided risk section. The company-wide top-five hospital-partner concentration is 8.15% of revenue from operations for Fiscal 2025; no company-wide top-ten customer percentage is disclosed. Monetary tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 9,
+  "total_litigation_against_amount_cr": 7.138,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 8.15,
+  "top10_customer_revenue_pct": null
+}

@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "IGI",
+  "extraction_reasoning": "The litigation table has separate “By” and “Against” rows: all “By the Company,” “By the Subsidiary,” “By the Directors,” “By the IGI Belgium Group” and “By the IGI Netherlands Group” rows were excluded. Among the “Against” rows, criminal proceedings are Nil for all listed entities; statutory/regulatory proceedings are 2 against the Company and 1 against the Directors, while tax proceedings are 6 against the Company and Nil against the Subsidiary; tax matters of directors were not disclosed or counted. The quantified aggregate amount against the Company and Subsidiary only is ₹51.66 million against the Company plus Nil against the Subsidiary, equal to ₹5.166 crore; the ₹1.78 million against Directors and other group-entity amounts were excluded. The contingent-liability table is stated in ₹ million as at September 30, 2024, but contains no stated Total row, so no contingent-liabilities total is extracted. The top-10 concentration is 40.69% for CY2023, a full fiscal year, and is company-wide, with the table presenting revenue from top customers as a percentage of revenue; the source unit is ₹ million and conversion to crore is by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 3,
+  "tax_proceedings_against_count": 6,
+  "total_litigation_against_amount_cr": 5.166,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "no_uncertainty_stated",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 40.69
+}

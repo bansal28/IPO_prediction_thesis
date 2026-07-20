@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Canara Robeco Asset Management Company Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by versus against each entity: I excluded all “By” rows and counted the “Against” rows across the Company, CRMF, Directors and Promoters. The criminal count is 3 against Directors plus 4 against Promoters, while the Company and CRMF have nil criminal proceedings; statutory/regulatory proceedings are nil in all against rows, and tax proceedings against the Company and CRMF are 1 each, excluding promoter and director tax matters. The aggregate quantified amount against the Company and CRMF is ₹33.44 million plus ₹2.90 million, or ₹36.34 million = ₹3.634 crore; the contingent-liabilities figure is the explicitly stated Total of ₹33.44 million as at June 30, 2025, or ₹3.344 crore, not a re-summed litigation amount. The only concentration percentages disclosed concern business segments or other measures such as equity-oriented schemes, distributors, states and advisory fees; no company-wide top-five or top-ten customer revenue percentage is disclosed for a full fiscal year. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 7,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 2,
+  "total_litigation_against_amount_cr": 3.634,
+  "contingent_liabilities_total_cr": 3.344,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

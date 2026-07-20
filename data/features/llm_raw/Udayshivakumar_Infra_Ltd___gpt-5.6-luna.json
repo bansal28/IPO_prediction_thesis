@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Udayshivakumar Infra Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity: I excluded all “By” rows, counted the “Against our Company” and “Against our Directors”/“Against the Promoter” rows, and kept criminal, statutory/regulatory and tax columns separate. Criminal proceedings against the listed entities total 4 (2 against directors and 2 against the promoter); statutory/regulatory actions against are Nil; tax proceedings against the company/group are 1 against the company, while promoter/director personal tax matters were excluded. The quantified aggregate amount against the company/group is ₹620.77 lakhs from the “Against our Company” row, converted to ₹6.2077 crore; the director/promoter amount of ₹394.70 lakhs was excluded as personal. The contingent-liabilities figure is the stated Total of ₹6,477.11 lakhs as at September 30, 2022, converted to ₹64.7711 crore, rather than a re-sum. Customer concentration is company-wide for the full Fiscal 2022: top five customers were 62.78% and top ten 81.51% of revenue earned; the table does not expressly label this denominator as revenue from operations or total income. Litigation and contingent-liability tables use ₹ lakhs, so conversion is by dividing by 100 (₹100 lakhs = ₹1 crore).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 4,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 6.2077,
+  "contingent_liabilities_total_cr": 64.7711,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 62.78,
+  "top10_customer_revenue_pct": 81.51
+}

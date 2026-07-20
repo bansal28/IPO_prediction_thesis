@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Krystal Integrated Services Limited",
+  "extraction_reasoning": "The litigation summary separates matters filed by and against each entity: I excluded the Company’s 1 criminal proceeding filed by it and counted the Against Company row as 0 criminal, 2 statutory/regulatory actions and 14 tax proceedings; I counted the Against Subsidiaries row as 0 criminal, 0 regulatory and 1 tax proceeding, while excluding all promoter/director personal matters and all By rows. For the aggregate quantified amount against the Company and subsidiaries, I used the litigation-table amounts of ₹294.84 million and ₹6.37 million, respectively, totaling ₹301.21 million, or ₹30.121 crore; the separate later statement of 21 Company tax proceedings and ₹338.15 million was not used to replace the summary-table aggregate. The latest contingent-liabilities table is as of September 30, 2023 and lists ₹203.14 million income-tax demands, ₹142.37 million provident-fund dues, ₹70.80 million GST/service-tax interest liability and ₹6.37 million service-tax demands; because no Total row is stated, these sum to ₹422.68 million, or ₹42.268 crore. Company-wide customer concentration for the most recent full fiscal year, Fiscal 2023, is 59.19% for the top five and 72.58% for the top ten, measured against revenue from operations, not total income; the figures are company-wide rather than segment-only. The litigation and contingent-liability tables use ₹ million, converted to crore by dividing by 10; other detailed litigation disclosures also use lakhs/crores, so the source unit is mixed.",
+  "source_currency_unit": "mixed",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 15,
+  "total_litigation_against_amount_cr": 30.121,
+  "contingent_liabilities_total_cr": 42.268,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": 59.19,
+  "top10_customer_revenue_pct": 72.58
+}

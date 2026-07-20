@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "DCX India",
+  "extraction_reasoning": "The only litigation summary shown contains a “Cases against our Company” direct-tax row with 1 case and ₹1.41 million; there are no criminal or statutory/regulatory enforcement rows, and no “By ...” rows to count. The quantified group matter against the company is therefore ₹1.41 million, or ₹0.141 crore, with no subsidiary matter disclosed. Contingent liabilities use the stated consolidated Total of ₹4,849.21 million as of June 30, 2022, equal to ₹484.921 crore; the source unit is million. The company-wide concentration figures are for Fiscal 2022, a full fiscal year, using revenue from operations: top 5 customers are not disclosed, while top 10 customers account for 99.71%; the auditor matter is expressly an emphasis of matter, not a modified opinion.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": null,
+  "regulatory_actions_against_count": null,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.141,
+  "contingent_liabilities_total_cr": 484.921,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": 99.71
+}

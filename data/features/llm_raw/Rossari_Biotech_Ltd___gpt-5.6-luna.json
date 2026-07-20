@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Rossari Biotech Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each entity. For criminal proceedings, all Against rows are Nil, while the Company has one By matter; therefore I counted zero criminal proceedings against. For statutory/regulatory proceedings, all Against and By rows are Nil, so I counted zero regulatory actions against. For tax proceedings, the Company has one Against matter and the subsidiary has Nil, while the Company has one By tax matter; therefore I counted one tax proceeding against and excluded the By matter. For the aggregate amount against the Company and subsidiary, I summed the quantified Against amounts of ₹27.44 million for the Company and ₹20.00 million for the subsidiary, excluding the Company’s ₹1.07 million By amount, resulting in ₹47.44 million; the table’s ₹28.51 million Total includes By matters and therefore was not used for the directional aggregate. The contingent-liabilities figure is not disclosed in this risk section. Customer concentration is company-wide for Fiscal 2020 and is measured as a percentage of revenue from operations: top five customers 43.95% and top ten customers 53.72%. Litigation amounts are sourced in ₹ million and converted to crore by dividing by 10: ₹47.44 million ÷ 10 = ₹4.744 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 4.744,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 43.95,
+  "top10_customer_revenue_pct": 53.72
+}

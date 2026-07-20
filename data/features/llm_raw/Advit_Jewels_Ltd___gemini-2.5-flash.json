@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Advit Jewels Limited",
+  "extraction_reasoning": "The litigation table in Risk Factor 29 was analyzed. For criminal cases, two matters against Promoters and one against Directors were summed for a total of 3, as per schema rule 4 to sum across all entities. For regulatory actions, all 'Against' rows were Nil, resulting in 0. For tax proceedings, only matters against the Company and Subsidiaries were considered as per schema rule 5, which were both Nil, leading to a count of 0. For the total litigation against amount, only quantified amounts 'Against the Company' and 'Against Subsidiaries' were considered as per schema rule 5, both being Nil, leading to 0.0 Lakhs. The text does not disclose any contingent liabilities figure or related table. Customer concentration percentages are provided in Risk Factor 11 for the fiscal year ended March 31, 2025, which is the most recent full fiscal year. The denominator used is 'revenue from operations', and the figures are company-wide. The source tables consistently present monetary figures in '₹ in Lakhs'. All monetary fields are converted to Crore by dividing by 100 (1 Lakh = 0.01 Crore).",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 0,
+  "total_litigation_against_amount_cr": 0.0,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 37.14,
+  "top10_customer_revenue_pct": 54.17
+}

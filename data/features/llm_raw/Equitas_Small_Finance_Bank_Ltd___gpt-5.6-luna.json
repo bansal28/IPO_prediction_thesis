@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Equitas Small Finance Bank Limited",
+  "extraction_reasoning": "The litigation table separates proceedings against the Bank from proceedings by the Bank and matters involving the Promoter and Directors. I counted only the against rows: criminal proceedings are 1 against the Bank plus 1 against Directors (2 total); regulatory proceedings are 1 against the Bank; and tax matters are 3 against the Bank, while all proceedings by the Bank and Promoter/Director personal matters were excluded. The quantified litigation amount against the Bank is ₹18.75 million regulatory plus ₹20.13 million tax, totaling ₹38.88 million, or ₹3.888 crore; the table-wide Total of ₹1,547.66 million was not used because it includes by and other-entity matters. The contingent-liabilities figure is the explicitly stated Total of ₹265.58 million as of September 30, 2019, converted to ₹26.558 crore. The only customer concentration percentages disclosed relate to deposits, not company-wide revenue from operations or total income, so the top-five and top-ten revenue fields are not applicable.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 1,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 3.888,
+  "contingent_liabilities_total_cr": 26.558,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

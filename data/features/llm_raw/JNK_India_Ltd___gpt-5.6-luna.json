@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "JNK India Limited",
+  "extraction_reasoning": "The litigation table reports 2 criminal proceedings by the Company, all of which are excluded, and Nil criminal proceedings against the Company, Directors, Promoters and Subsidiaries, giving 0 criminal cases against. It reports Nil statutory/regulatory actions in every against or by row, giving 0 regulatory actions; tax proceedings against the Company are 3, while the 8 tax proceedings against Directors and 8 against Promoters are personal matters and excluded, giving 3 tax proceedings against. For the aggregate amount against the Company and its Subsidiaries, I counted the Company-against amount of ₹2.56 million and the Nil Subsidiaries-against amount, excluding all by-party and promoter/director amounts, for ₹2.56 million = ₹0.256 crore. Contingent liabilities use the stated Total of ₹2.28 million as of December 31, 2023, equal to ₹0.228 crore; the source tables use ₹ million. The disclosed percentages concern Contracting Customers, JNK Global, products and geographic markets rather than company-wide top-five or top-ten customers as a percentage of revenue from operations for a full fiscal year, so both concentration fields are null.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 0.256,
+  "contingent_liabilities_total_cr": 0.228,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

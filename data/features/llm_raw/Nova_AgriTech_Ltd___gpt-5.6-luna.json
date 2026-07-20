@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Nova Agritech Limited",
+  "extraction_reasoning": "The litigation table separates proceedings by direction and category: against the Company are 1 criminal case, Nil statutory/regulatory actions, 1 direct/indirect tax claim and 1 other material litigation matter; against subsidiaries all categories are Nil. I counted only the against rows, excluding all cases by the Company and its subsidiaries; therefore criminal count is 1, regulatory count is 0, tax count is 1, and the explicitly stated against-Company total of ₹61.88 lakhs comprises ₹42.25 lakhs of tax claims and ₹19.63 lakhs of other material litigation. The contingent-liabilities table states a Total of ₹1,070.89 lakhs as at September 30, 2023, which is used without re-summing the line items. No company-wide top-five or top-ten customer concentration percentage is disclosed; the percentages shown elsewhere are state, subsidiary, related-party or other non-customer concentrations, so they are not used. The litigation and contingent-liability tables use lakhs; ₹61.88 lakhs ÷ 100 = ₹0.6188 crore and ₹1,070.89 lakhs ÷ 100 = ₹10.7089 crore.",
+  "source_currency_unit": "lakh",
+  "criminal_cases_against_count": 1,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 1,
+  "total_litigation_against_amount_cr": 0.6188,
+  "contingent_liabilities_total_cr": 10.7089,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

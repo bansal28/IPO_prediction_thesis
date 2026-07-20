@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Zaggle Prepaid Ocean Services Limited",
+  "extraction_reasoning": "The litigation table has a directional split: the Company has 1 criminal proceeding By our Company, which is excluded, and no criminal proceedings Against the Company, Directors or Promoters; the statutory/regulatory-action column is nil for all Against and By rows, so regulatory actions against count is 0. The tax column shows 3 proceedings Against our Company, while the 3 proceedings Against Directors and 2 Against Promoters are excluded from the company-and-subsidiaries tax count; the quantified amount against the Company is ₹46.16 million, while the ₹0.10 million amounts for Directors and Promoters are excluded, giving ₹46.16 million = ₹4.616 crore. Contingent liabilities use the stated line item of ₹24.73 million as of March 31, 2023; no Total row is shown, and this converts to ₹2.473 crore. The company-wide Fiscal 2023 concentration is 8.17% for the top five Customers and 11.41% for the top 10 Customers, measured against revenue from operations, not total income. The source tables use ₹ million; conversion to crore is by dividing by 10 (₹10 million = ₹1 crore).",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 4.616,
+  "contingent_liabilities_total_cr": 2.473,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 8.17,
+  "top10_customer_revenue_pct": 11.41
+}

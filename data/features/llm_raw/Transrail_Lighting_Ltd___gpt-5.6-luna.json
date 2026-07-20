@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table separates proceedings filed by and against each entity. I counted only the Company’s “Against our Company” row: 2 criminal, 61 tax and 2 statutory/regulatory proceedings; the Directors, Promoters, Subsidiaries and Group Companies have nil proceedings against them, and all “By” rows were excluded. The quantified amount against the Company is ₹2,359.20 million, with no quantified amount against subsidiaries, so the aggregate group amount is ₹2,359.20 million, converted to ₹235.92 crore; the table notes that the amount excludes claims filed by the Company, including BDT 14.94 million. The contingent-liabilities figure is the stated Total (a) of ₹2,531.06 million as at June 30, 2024, converted to ₹253.106 crore; commitments were excluded. Company-wide top-customer concentration is disclosed for the full financial year ended March 31, 2024 as 63.52% for the top five and 77.89% for the top ten, measured against revenue from operations. The litigation and contingent-liability tables use ₹ million; conversion is by dividing million by 10 because ₹10 million equals ₹1 crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 2,
+  "regulatory_actions_against_count": 2,
+  "tax_proceedings_against_count": 61,
+  "total_litigation_against_amount_cr": 235.92,
+  "contingent_liabilities_total_cr": 253.106,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": 63.52,
+  "top10_customer_revenue_pct": 77.89
+}

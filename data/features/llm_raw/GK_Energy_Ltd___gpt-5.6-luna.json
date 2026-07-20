@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "GK Energy Limited",
+  "extraction_reasoning": "The litigation table separates matters filed by and against each category: I counted only the “Against our Company,” “Against our Subsidiary,” “Against our Directors,” “Against our Promoters,” KMP and Senior Management rows, excluding all “By” rows. Criminal proceedings against all listed entities total Nil (0), statutory/regulatory proceedings against all listed entities total Nil (0), and tax proceedings against the company and subsidiary total 3 (all 3 against the Company; none against the Subsidiary); the quantified group amount is ₹3.46 million against the Company plus nil against the Subsidiary, or ₹0.346 crore. The contingent-liabilities figure is the explicitly stated consolidated Total of ₹559.92 million as at March 31, 2025, converted to ₹55.992 crore; it was not re-summed from the line items. The only customer concentration disclosure is top-three and top-customer data, not company-wide top-five or top-ten percentages; the disclosed percentages use revenue from operations for full Fiscal 2025, but no qualifying top-five/top-ten figures are provided. Litigation and contingent-liability tables use ₹ in million; conversion is million ÷ 10 to crore.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 0,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 3,
+  "total_litigation_against_amount_cr": 0.346,
+  "contingent_liabilities_total_cr": 55.992,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

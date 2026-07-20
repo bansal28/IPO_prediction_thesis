@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "Aditya Birla Sun Life Asset Management Company Limited",
+  "extraction_reasoning": "The litigation table in Section 21 provides details on proceedings. For criminal cases, 2 cases are against Aditya Birla Real Estate Fund (a scheme managed by the Company) and 9 cases are against the Directors, totaling 11. No explicit regulatory actions are disclosed in the table. Tax proceedings against the Company are 11. The total quantified amount for litigation against the company and its subsidiaries is derived from ABREF criminal cases (\b₹2,500.00 million), ABREF civil litigation (\b₹219.83 million), and Company direct tax matters (\b₹72.77 million). Contingent liabilities are stated as \b₹336.85 million as of June 30, 2021, derived from the sum of income tax and other matters. All monetary values in the source text are in \"\b₹ in millions\" and have been converted to Crore by dividing by 10. Company-wide customer concentration percentages are not provided; only distributor concentration figures for QAAUM as of June 30, 2021 are given.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 11,
+  "regulatory_actions_against_count": 0,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 279.26,
+  "contingent_liabilities_total_cr": 33.685,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "not_mentioned",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}

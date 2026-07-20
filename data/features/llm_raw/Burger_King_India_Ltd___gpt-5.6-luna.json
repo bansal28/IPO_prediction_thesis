@@ -1,0 +1,14 @@
+{
+  "issuer_name_as_stated": "not disclosed",
+  "extraction_reasoning": "The litigation table has an Against the Company row with 3 criminal, 11 tax, 5 statutory/regulatory and ₹60.51 million aggregate amount, plus an Against the Directors row with no criminal or tax matters and 1 statutory/regulatory matter; no By rows are disclosed, so the counted categories are criminal 3, regulatory 5+1=6, and tax 11 for the company only. The quantified aggregate amount against the company/group is the table's stated ₹60.51 million total; no subsidiary amount is separately shown, and this converts to ₹6.051 crore (₹60.51 million ÷ ₹10 million per crore). No contingent-liabilities total or date is disclosed in the provided risk section. No company-wide top-five or top-ten customer concentration percentage is disclosed; the only percentages relate to advertising and other operating metrics, not customer revenue concentration. The litigation table uses ₹ million as its source unit, converted to crore for the aggregate amount field.",
+  "source_currency_unit": "million",
+  "criminal_cases_against_count": 3,
+  "regulatory_actions_against_count": 6,
+  "tax_proceedings_against_count": 11,
+  "total_litigation_against_amount_cr": 6.051,
+  "contingent_liabilities_total_cr": null,
+  "going_concern_status": "not_mentioned",
+  "auditor_report_status": "caro_or_emphasis_of_matter_only",
+  "top5_customer_revenue_pct": null,
+  "top10_customer_revenue_pct": null
+}
